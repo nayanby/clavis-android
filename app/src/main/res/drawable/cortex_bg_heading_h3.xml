@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- The note's BoldSide / Heading 3: a navy wash with a deeper navy side bar,
+     the way H1 uses plum. Search and the top bar share this. -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="@color/cortex_callout_background" />
+        </shape>
+    </item>
+    <item android:width="4dp">
+        <shape android:shape="rectangle">
+            <solid android:color="@color/cortex_note_navy" />
+        </shape>
+    </item>
+</layer-list>

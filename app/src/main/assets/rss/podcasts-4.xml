@@ -1,0 +1,3471 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:ns2="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <ns0:link href="https://feeds.megaphone.fm/hubermanlab" rel="self" type="application/rss+xml" />
+    <title>Huberman Lab</title>
+    <link>https://www.hubermanlab.com</link>
+    <language>en</language>
+    <copyright>Copyright © 2021-2025 Scicomm Media LLC</copyright>
+    <description>The Huberman Lab podcast is hosted by Andrew Huberman, Ph.D., a neuroscientist and tenured professor in the department of neurobiology, and by courtesy, psychiatry and behavioral sciences at Stanford School of Medicine. The podcast discusses neuroscience and science-based tools, including how our brain and its connections with the organs of our body control our perceptions, our behaviors, and our health, as well as existing and emerging tools for measuring and changing how our nervous system works.
+Huberman has made numerous significant contributions to the fields of brain development, brain function, and neural plasticity, which is the ability of our nervous system to rewire and learn new behaviors, skills, and cognitive functioning. He is a McKnight Foundation and Pew Foundation Fellow and was awarded the Cogan Award, given to the scientist making the most significant discoveries in the study of vision, in 2017.&amp;nbsp;
+Work from the Huberman Laboratory at Stanford School of Medicine has been published in top journals, including Nature, Science, and Cell, and has been featured in TIME, BBC, Scientific American, Discover, and other top media outlets.
+In 2021, Dr. Huberman launched the Huberman Lab podcast. The podcast is frequently ranked in the top 10 of all podcasts globally and is often ranked #1 in the categories of Science, Education, and Health &amp; Fitness.</description>
+    <image>
+      <url>https://megaphone.imgix.net/podcasts/042e6144-725e-11ec-a75d-c38f702aecad/image/ee4f0b7b466ca35620792970d9bce2d2.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress</url>
+      <title>Huberman Lab</title>
+      <link>https://www.hubermanlab.com</link>
+    </image>
+    <ns1:explicit>no</ns1:explicit>
+    <ns1:type>episodic</ns1:type>
+    <ns1:subtitle>Andrew Huberman, Ph.D.</ns1:subtitle>
+    <ns1:author>Scicomm Media</ns1:author>
+    <ns1:summary>The Huberman Lab podcast is hosted by Andrew Huberman, Ph.D., a neuroscientist and tenured professor in the department of neurobiology, and by courtesy, psychiatry and behavioral sciences at Stanford School of Medicine. The podcast discusses neuroscience and science-based tools, including how our brain and its connections with the organs of our body control our perceptions, our behaviors, and our health, as well as existing and emerging tools for measuring and changing how our nervous system works.
+Huberman has made numerous significant contributions to the fields of brain development, brain function, and neural plasticity, which is the ability of our nervous system to rewire and learn new behaviors, skills, and cognitive functioning. He is a McKnight Foundation and Pew Foundation Fellow and was awarded the Cogan Award, given to the scientist making the most significant discoveries in the study of vision, in 2017.&amp;nbsp;
+Work from the Huberman Laboratory at Stanford School of Medicine has been published in top journals, including Nature, Science, and Cell, and has been featured in TIME, BBC, Scientific American, Discover, and other top media outlets.
+In 2021, Dr. Huberman launched the Huberman Lab podcast. The podcast is frequently ranked in the top 10 of all podcasts globally and is often ranked #1 in the categories of Science, Education, and Health &amp; Fitness.</ns1:summary>
+    <ns2:encoded>
+      &lt;p&gt;The Huberman Lab podcast is hosted by Andrew Huberman, Ph.D., a neuroscientist and tenured professor in the department of neurobiology, and by courtesy, psychiatry and behavioral sciences at Stanford School of Medicine. The podcast discusses neuroscience and science-based tools, including how our brain and its connections with the organs of our body control our perceptions, our behaviors, and our health, as well as existing and emerging tools for measuring and changing how our nervous system works.&lt;/p&gt;&lt;p&gt;Huberman has made numerous significant contributions to the fields of brain development, brain function, and neural plasticity, which is the ability of our nervous system to rewire and learn new behaviors, skills, and cognitive functioning. He is a McKnight Foundation and Pew Foundation Fellow and was awarded the Cogan Award, given to the scientist making the most significant discoveries in the study of vision, in 2017.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Work from the Huberman Laboratory at Stanford School of Medicine has been published in top journals, including Nature, Science, and Cell, and has been featured in TIME, BBC, Scientific American, Discover, and other top media outlets.&lt;/p&gt;&lt;p&gt;In 2021, Dr. Huberman launched the Huberman Lab podcast. The podcast is frequently ranked in the top 10 of all podcasts globally and is often ranked #1 in the categories of Science, Education, and Health &amp;amp; Fitness.&lt;/p&gt;
+    </ns2:encoded>
+    <ns1:owner>
+      <ns1:name>Scicomm Media</ns1:name>
+      <ns1:email>podcast-verification@scicommedia.com</ns1:email>
+    </ns1:owner>
+    <ns1:image href="https://megaphone.imgix.net/podcasts/042e6144-725e-11ec-a75d-c38f702aecad/image/ee4f0b7b466ca35620792970d9bce2d2.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress" />
+    <ns1:category text="Health &amp; Fitness">
+    </ns1:category>
+    <ns1:category text="Science">
+      <ns1:category text="Life Sciences" />
+    </ns1:category>
+    <item>
+      <title>Essentials: Neuralink &amp; Technologies to Enhance Human Brains | Dr. Matt MacDougall</title>
+      <link>https://www.hubermanlab.com/episode/essentials-neuralink-and-technologies-to-enhance-human-brains-matthew-macdougall</link>
+      <description>In this Huberman Lab Essentials episode, my guest is Dr. Matthew MacDougall, a neurosurgeon at Neuralink. We discuss how brain-machine interfaces could help people with paralysis control computers using their intended movements, and how robotic surgery enables the placement of tiny electrodes in the brain. We also explore advances in brain tumor surgery, implant safety, how the brain and software learn to work together, and the role of animal research. Dr. MacDougall shares his vision for future applications, including restoring movement, addressing mental health conditions and expanding human cognition and communication.
+
+Read the episode show notes at hubermanlab.com.
+
+Thank you to our sponsors
+
+AG1: https://drinkag1.com/huberman
+
+BetterHelp: https://betterhelp.com/huberman
+
+Rorra: https://rorra.com/huberman
+
+Timestamps
+
+(00:00:00) Matt MacDougall
+
+(00:00:23) Brain Function, Frontal Lobes &amp; Impulse Control
+
+(00:02:57) Brain Tumors, Laser Surgery &amp; MRI
+
+(00:04:38) Neuralink, Brain Implants &amp; Paralysis
+
+(00:07:04) Robotic Surgery &amp; Electrode Placement
+
+(00:08:02) Sponsor: BetterHelp
+
+(00:10:25) Motor Cortex, Controlling Computers With the Brain
+
+(00:12:20) Implant Safety &amp; Brain Augmentation
+
+(00:14:07) RFID Hand Implant &amp; Everyday Uses
+
+(00:16:25) Sponsor: AG1
+
+(00:18:03) Spinal Cord Stimulation, Reconnecting Brain &amp; Body
+
+(00:19:00) Brain-to-Brain Communication &amp; AI
+
+(00:21:13) Brain-Machine Interfaces, Learning &amp; Adaptation
+
+(00:23:43) Animal Research &amp; Welfare
+
+(00:26:47) Pigs &amp; Monkeys, Device Safety &amp; Function
+
+(00:28:04) Sponsor: Rorra
+
+(00:30:32) Future Applications, Mental Health &amp; Human Cognition
+
+(00:33:03) Acknowledgements
+
+Disclaimer &amp; Disclosures
+Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
+      <pubDate>Thu, 15 Oct 2026 08:00:00 -0000</pubDate>
+      <ns1:episodeType>full</ns1:episodeType>
+      <ns1:author>Scicomm Media</ns1:author>
+      <ns1:image href="https://megaphone.imgix.net/podcasts/7f829250-c850-11f1-b9bb-1feaa173d4c1/image/c939ff80ce31857dd7c3855498b342f4.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress" />
+      <ns1:subtitle />
+      <ns1:summary>In this Huberman Lab Essentials episode, my guest is Dr. Matthew MacDougall, a neurosurgeon at Neuralink. We discuss how brain-machine interfaces could help people with paralysis control computers using their intended movements, and how robotic surgery enables the placement of tiny electrodes in the brain. We also explore advances in brain tumor surgery, implant safety, how the brain and software learn to work together, and the role of animal research. Dr. MacDougall shares his vision for future applications, including restoring movement, addressing mental health conditions and expanding human cognition and communication.
+
+Read the episode show notes at hubermanlab.com.
+
+Thank you to our sponsors
+
+AG1: https://drinkag1.com/huberman
+
+BetterHelp: https://betterhelp.com/huberman
+
+Rorra: https://rorra.com/huberman
+
+Timestamps
+
+(00:00:00) Matt MacDougall
+
+(00:00:23) Brain Function, Frontal Lobes &amp; Impulse Control
+
+(00:02:57) Brain Tumors, Laser Surgery &amp; MRI
+
+(00:04:38) Neuralink, Brain Implants &amp; Paralysis
+
+(00:07:04) Robotic Surgery &amp; Electrode Placement
+
+(00:08:02) Sponsor: BetterHelp
+
+(00:10:25) Motor Cortex, Controlling Computers With the Brain
+
+(00:12:20) Implant Safety &amp; Brain Augmentation
+
+(00:14:07) RFID Hand Implant &amp; Everyday Uses
+
+(00:16:25) Sponsor: AG1
+
+(00:18:03) Spinal Cord Stimulation, Reconnecting Brain &amp; Body
+
+(00:19:00) Brain-to-Brain Communication &amp; AI
+
+(00:21:13) Brain-Machine Interfaces, Learning &amp; Adaptation
+
+(00:23:43) Animal Research &amp; Welfare
+
+(00:26:47) Pigs &amp; Monkeys, Device Safety &amp; Function
+
+(00:28:04) Sponsor: Rorra
+
+(00:30:32) Future Applications, Mental Health &amp; Human Cognition
+
+(00:33:03) Acknowledgements
+
+Disclaimer &amp; Disclosures
+Learn more about your ad choices. Visit megaphone.fm/adchoices</ns1:summary>
+      <ns2:encoded>
+        &lt;p&gt;In this &lt;a href="https://www.hubermanlab.com/essentials"&gt;Huberman Lab Essentials&lt;/a&gt; episode, my guest is Dr. Matthew MacDougall, a neurosurgeon at &lt;a href="https://neuralink.com/"&gt;Neuralink&lt;/a&gt;. We discuss how brain-machine interfaces could help people with paralysis control computers using their intended movements, and how robotic surgery enables the placement of tiny electrodes in the brain. We also explore advances in brain tumor surgery, implant safety, how the brain and software learn to work together, and the role of animal research. Dr. MacDougall shares his vision for future applications, including restoring movement, addressing mental health conditions and expanding human cognition and communication.&lt;/p&gt;
+&lt;p&gt;Read the episode show notes at &lt;a href="https://www.hubermanlab.com/episode/essentials-neuralink-and-technologies-to-enhance-human-brains-matthew-macdougall"&gt;hubermanlab.com&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Thank you to our sponsors&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AG1: &lt;a href="https://drinkag1.com/huberman"&gt;https://drinkag1.com/huberman&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;BetterHelp: &lt;a href="https://betterhelp.com/huberman"&gt;https://betterhelp.com/huberman&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Rorra: &lt;a href="https://rorra.com/huberman"&gt;https://rorra.com/huberman&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Timestamps&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;(00:00:00) Matt MacDougall&lt;/p&gt;
+&lt;p&gt;(00:00:23) Brain Function, Frontal Lobes &amp;amp; Impulse Control&lt;/p&gt;
+&lt;p&gt;(00:02:57) Brain Tumors, Laser Surgery &amp;amp; MRI&lt;/p&gt;
+&lt;p&gt;(00:04:38) Neuralink, Brain Implants &amp;amp; Paralysis&lt;/p&gt;
+&lt;p&gt;(00:07:04) Robotic Surgery &amp;amp; Electrode Placement&lt;/p&gt;
+&lt;p&gt;(00:08:02) Sponsor: BetterHelp&lt;/p&gt;
+&lt;p&gt;(00:10:25) Motor Cortex, Controlling Computers With the Brain&lt;/p&gt;
+&lt;p&gt;(00:12:20) Implant Safety &amp;amp; Brain Augmentation&lt;/p&gt;
+&lt;p&gt;(00:14:07) RFID Hand Implant &amp;amp; Everyday Uses&lt;/p&gt;
+&lt;p&gt;(00:16:25) Sponsor: AG1&lt;/p&gt;
+&lt;p&gt;(00:18:03) Spinal Cord Stimulation, Reconnecting Brain &amp;amp; Body&lt;/p&gt;
+&lt;p&gt;(00:19:00) Brain-to-Brain Communication &amp;amp; AI&lt;/p&gt;
+&lt;p&gt;(00:21:13) Brain-Machine Interfaces, Learning &amp;amp; Adaptation&lt;/p&gt;
+&lt;p&gt;(00:23:43) Animal Research &amp;amp; Welfare&lt;/p&gt;
+&lt;p&gt;(00:26:47) Pigs &amp;amp; Monkeys, Device Safety &amp;amp; Function&lt;/p&gt;
+&lt;p&gt;(00:28:04) Sponsor: Rorra&lt;/p&gt;
+&lt;p&gt;(00:30:32) Future Applications, Mental Health &amp;amp; Human Cognition&lt;/p&gt;
+&lt;p&gt;(00:33:03) Acknowledgements&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.hubermanlab.com/disclaimer"&gt;Disclaimer &amp;amp; Disclosures&lt;/a&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;Learn more about your ad choices. Visit &lt;a href="https://megaphone.fm/adchoices"&gt;megaphone.fm/adchoices&lt;/a&gt;&lt;/p&gt;
+      </ns2:encoded>
+      <ns1:duration>2045</ns1:duration>
+      <ns1:explicit>no</ns1:explicit>
+      <guid isPermaLink="false">7f829250-c850-11f1-b9bb-1feaa173d4c1</guid>
+      <enclosure url="https://traffic.megaphone.fm/SCIM2817913031.mp3" length="0" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>How Food Choices Shape Memory, Cognition &amp; Cravings | Dr. Scott Kanoski</title>
+      <link>https://www.hubermanlab.com/episode/how-food-choices-shape-memory-cognition-and-cravings-scott-kanoski</link>
+      <description>Dr. Scott Kanoski, PhD, is a Professor of Human and Evolutionary Biology and Neurobiology at the University of Southern California. We discuss how different foods impact memory and cognitive function as well as cravings. We also discuss how GLP-1 drugs work to control hunger in the brain and body, the role of the gut microbiome, and the effects of artificial and low calorie sweeteners on hunger and satiety. This episode highlights how nutrition impacts much brain health and learning capacity and how our memory impacts food choices too.
+
+Read the full episode show notes at hubermanlab.com.
+
+Thank you to our sponsors
+
+AG1: https://drinkag1.com/huberman
+
+Function: https://functionhealth.com/huberman
+
+Helix Sleep: https://helixsleep.com/huberman
+
+LMNT: https://drinklmnt.com/huberman
+
+Our Place: https://fromourplace.com/huberman
+
+Timestamps
+
+(00:00:00) Scott Kanoski
+
+(00:02:33) GLP-1, Natural GLP-1 Production; GLP-1 Drugs, Microdosing
+
+(00:07:06) GLP-1 Drugs &amp; Benefits
+
+(00:10:36) Sponsor: Our Place &amp; Helix Sleep
+
+(00:13:24) GLP-1 &amp; Hunger Suppression, Vagus Nerve; Food Noise
+
+(00:18:39) Artificial Sweeteners &amp; Appetite, Preclinical Studies
+
+(00:26:50) Memory &amp; Meals; Stress; Eating &amp; Individualization, Fasting
+
+(00:33:42) Memory Impairments, Western Diet, High Sugar, Processed Food
+
+(00:42:33) Sponsor: AG1
+
+(00:43:46) Dementia, Alzheimer’s Disease &amp; Western Diet; Exercise
+
+(00:49:40) Vagus Nerve, Hippocampus &amp; Memory, Hormones
+
+(00:57:10) Sugar &amp; Fat Consumption, Memory; Engineering Food for Quality
+
+(01:04:32) GLP-1s, Nutrient Deficiency, Weight Loss &amp; Other Effects
+
+(01:11:33) Sponsor: LMNT
+
+(01:12:54) Vagus Nerve &amp; Hippocampus, Eating &amp; Acetylcholine
+
+(01:21:05) Hippocampus, Memory &amp; Food; Interoceptive Awareness &amp; Western Diet
+
+(01:27:21) Omega-3s; Microbiome &amp; Processed Foods
+
+(01:34:00) Microbiome, Antibiotics, C. diff Infection
+
+(01:37:23) Sponsor: Function
+
+(01:39:01) Foods to Enhance Microbiome; Rising Obesity &amp; Highly Processed Food
+
+(01:43:39) Dopamine &amp; Food Choice, Change Food Cravings
+
+(01:49:50) Food Addiction, Highly Processed Foods; Political Lobbying
+
+(01:56:43) Oxytocin, Reduced Food Consumption, Social Eating
+
+(02:00:11) Zero-Cost Support, YouTube, Spotify &amp; Apple Follow, Reviews &amp; Feedback, Sponsors, Social Media, Neural Network Newsletter
+Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
+      <pubDate>Mon, 12 Oct 2026 08:00:00 -0000</pubDate>
+      <ns1:episodeType>full</ns1:episodeType>
+      <ns1:episode>302</ns1:episode>
+      <ns1:author>Scicomm Media</ns1:author>
+      <ns1:subtitle />
+      <ns1:summary>Dr. Scott Kanoski, PhD, is a Professor of Human and Evolutionary Biology and Neurobiology at the University of Southern California. We discuss how different foods impact memory and cognitive function as well as cravings. We also discuss how GLP-1 drugs work to control hunger in the brain and body, the role of the gut microbiome, and the effects of artificial and low calorie sweeteners on hunger and satiety. This episode highlights how nutrition impacts much brain health and learning capacity and how our memory impacts food choices too.
+
+Read the full episode show notes at hubermanlab.com.
+
+Thank you to our sponsors
+
+AG1: https://drinkag1.com/huberman
+
+Function: https://functionhealth.com/huberman
+
+Helix Sleep: https://helixsleep.com/huberman
+
+LMNT: https://drinklmnt.com/huberman
+
+Our Place: https://fromourplace.com/huberman
+
+Timestamps
+
+(00:00:00) Scott Kanoski
+
+(00:02:33) GLP-1, Natural GLP-1 Production; GLP-1 Drugs, Microdosing
+
+(00:07:06) GLP-1 Drugs &amp; Benefits
+
+(00:10:36) Sponsor: Our Place &amp; Helix Sleep
+
+(00:13:24) GLP-1 &amp; Hunger Suppression, Vagus Nerve; Food Noise
+
+(00:18:39) Artificial Sweeteners &amp; Appetite, Preclinical Studies
+
+(00:26:50) Memory &amp; Meals; Stress; Eating &amp; Individualization, Fasting
+
+(00:33:42) Memory Impairments, Western Diet, High Sugar, Processed Food
+
+(00:42:33) Sponsor: AG1
+
+(00:43:46) Dementia, Alzheimer’s Disease &amp; Western Diet; Exercise
+
+(00:49:40) Vagus Nerve, Hippocampus &amp; Memory, Hormones
+
+(00:57:10) Sugar &amp; Fat Consumption, Memory; Engineering Food for Quality
+
+(01:04:32) GLP-1s, Nutrient Deficiency, Weight Loss &amp; Other Effects
+
+(01:11:33) Sponsor: LMNT
+
+(01:12:54) Vagus Nerve &amp; Hippocampus, Eating &amp; Acetylcholine
+
+(01:21:05) Hippocampus, Memory &amp; Food; Interoceptive Awareness &amp; Western Diet
+
+(01:27:21) Omega-3s; Microbiome &amp; Processed Foods
+
+(01:34:00) Microbiome, Antibiotics, C. diff Infection
+
+(01:37:23) Sponsor: Function
+
+(01:39:01) Foods to Enhance Microbiome; Rising Obesity &amp; Highly Processed Food
+
+(01:43:39) Dopamine &amp; Food Choice, Change Food Cravings
+
+(01:49:50) Food Addiction, Highly Processed Foods; Political Lobbying
+
+(01:56:43) Oxytocin, Reduced Food Consumption, Social Eating
+
+(02:00:11) Zero-Cost Support, YouTube, Spotify &amp; Apple Follow, Reviews &amp; Feedback, Sponsors, Social Media, Neural Network Newsletter
+Learn more about your ad choices. Visit megaphone.fm/adchoices</ns1:summary>
+      <ns2:encoded>
+        &lt;p&gt;Dr. Scott Kanoski, PhD, is a Professor of Human and Evolutionary Biology and Neurobiology at the University of Southern California. We discuss how different foods impact memory and cognitive function as well as cravings. We also discuss how GLP-1 drugs work to control hunger in the brain and body, the role of the gut microbiome, and the effects of artificial and low calorie sweeteners on hunger and satiety. This episode highlights how nutrition impacts much brain health and learning capacity and how our memory impacts food choices too.&lt;/p&gt;
+&lt;p&gt;Read the full episode show notes at &lt;a href="https://www.hubermanlab.com/episode/how-food-choices-shape-memory-cognition-and-cravings-scott-kanoski"&gt;hubermanlab.com&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Thank you to our sponsors&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AG1: &lt;a href="https://drinkag1.com/huberman"&gt;https://drinkag1.com/huberman&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Function: &lt;a href="https://functionhealth.com/huberman"&gt;https://functionhealth.com/huberman&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Helix Sleep: &lt;a href="https://helixsleep.com/huberman"&gt;https://helixsleep.com/huberman&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;LMNT: &lt;a href="https://drinklmnt.com/huberman"&gt;https://drinklmnt.com/huberman&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Our Place: &lt;a href="https://fromourplace.com/huberman"&gt;https://fromourplace.com/huberman&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Timestamps&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;(00:00:00) Scott Kanoski&lt;/p&gt;
+&lt;p&gt;(00:02:33) GLP-1, Natural GLP-1 Production; GLP-1 Drugs, Microdosing&lt;/p&gt;
+&lt;p&gt;(00:07:06) GLP-1 Drugs &amp;amp; Benefits&lt;/p&gt;
+&lt;p&gt;(00:10:36) Sponsor: Our Place &amp;amp; Helix Sleep&lt;/p&gt;
+&lt;p&gt;(00:13:24) GLP-1 &amp;amp; Hunger Suppression, Vagus Nerve; Food Noise&lt;/p&gt;
+&lt;p&gt;(00:18:39) Artificial Sweeteners &amp;amp; Appetite, Preclinical Studies&lt;/p&gt;
+&lt;p&gt;(00:26:50) Memory &amp;amp; Meals; Stress; Eating &amp;amp; Individualization, Fasting&lt;/p&gt;
+&lt;p&gt;(00:33:42) Memory Impairments, Western Diet, High Sugar, Processed Food&lt;/p&gt;
+&lt;p&gt;(00:42:33) Sponsor: AG1&lt;/p&gt;
+&lt;p&gt;(00:43:46) Dementia, Alzheimer’s Disease &amp;amp; Western Diet; Exercise&lt;/p&gt;
+&lt;p&gt;(00:49:40) Vagus Nerve, Hippocampus &amp;amp; Memory, Hormones&lt;/p&gt;
+&lt;p&gt;(00:57:10) Sugar &amp;amp; Fat Consumption, Memory; Engineering Food for Quality&lt;/p&gt;
+&lt;p&gt;(01:04:32) GLP-1s, Nutrient Deficiency, Weight Loss &amp;amp; Other Effects&lt;/p&gt;
+&lt;p&gt;(01:11:33) Sponsor: LMNT&lt;/p&gt;
+&lt;p&gt;(01:12:54) Vagus Nerve &amp;amp; Hippocampus, Eating &amp;amp; Acetylcholine&lt;/p&gt;
+&lt;p&gt;(01:21:05) Hippocampus, Memory &amp;amp; Food; Interoceptive Awareness &amp;amp; Western Diet&lt;/p&gt;
+&lt;p&gt;(01:27:21) Omega-3s; Microbiome &amp;amp; Processed Foods&lt;/p&gt;
+&lt;p&gt;(01:34:00) Microbiome, Antibiotics, C. diff Infection&lt;/p&gt;
+&lt;p&gt;(01:37:23) Sponsor: Function&lt;/p&gt;
+&lt;p&gt;(01:39:01) Foods to Enhance Microbiome; Rising Obesity &amp;amp; Highly Processed Food&lt;/p&gt;
+&lt;p&gt;(01:43:39) Dopamine &amp;amp; Food Choice, Change Food Cravings&lt;/p&gt;
+&lt;p&gt;(01:49:50) Food Addiction, Highly Processed Foods; Political Lobbying&lt;/p&gt;
+&lt;p&gt;(01:56:43) Oxytocin, Reduced Food Consumption, Social Eating&lt;/p&gt;
+&lt;p&gt;(02:00:11) Zero-Cost Support, YouTube, Spotify &amp;amp; Apple Follow, Reviews &amp;amp; Feedback, Sponsors, Social Media, Neural Network Newsletter&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;Learn more about your ad choices. Visit &lt;a href="https://megaphone.fm/adchoices"&gt;megaphone.fm/adchoices&lt;/a&gt;&lt;/p&gt;
+      </ns2:encoded>
+      <ns1:duration>7326</ns1:duration>
+      <ns1:explicit>no</ns1:explicit>
+      <guid isPermaLink="false">e2100bd6-c5ef-11f1-9b46-1fe04649ad67</guid>
+      <enclosure url="https://traffic.megaphone.fm/SCIM9087005398.mp3" length="0" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Essentials: Manage Stress &amp; Build Resilience | Dr. Elissa Epel</title>
+      <link>https://www.hubermanlab.com/episode/essentials-manage-stress-and-build-resilience-elissa-epel</link>
+      <description>In this Huberman Lab Essentials episode, my guest is Dr. Elissa Epel, PhD, a Professor of Psychiatry and Behavioral Sciences at the University of California, San Francisco (UCSF). We discuss how acute and chronic stress affect the body and brain, including their links to cellular aging and mitochondrial health. We also explain tools to reduce rumination, reframe stress as a challenge and build resilience, as well as how radical acceptance and a sense of purpose can help us navigate stressors we cannot change.
+
+Read the full episode show notes at hubermanlab.com.
+
+Thank you to our sponsors
+
+AG1: https://drinkag1.com/huberman
+
+Eight Sleep: https://eightsleep.com/huberman
+
+ROKA: https://roka.com/huberman
+
+Timestamps
+
+(00:00:00) Elissa Epel
+
+(00:00:22) Good &amp; Bad Stress, Stress Responses
+
+(00:01:55) Rumination, Body Awareness
+
+(00:03:23) Tools: Mindset, Body &amp; Environment
+
+(00:04:51) Acute &amp; Chronic Stress, Energy &amp; Recovery
+
+(00:07:44) Sponsor: Eight Sleep
+
+(00:09:27) Healthy Aging, Purpose &amp; Brain Health
+
+(00:10:54) Stress Resilience, Threat vs. Challenge
+
+(00:14:40) Tool: Reframe Stress, “Stress Shields”
+
+(00:16:54) Sponsor: AG1
+
+(00:18:30) Mitochondrial Health, Caregiving &amp; Daily Mood
+
+(00:21:24) Chronic Stress, Tool: Radical Acceptance
+
+(00:25:19) Tool: “Drop the Rope”, Uncontrollable Stressors
+
+(00:26:48) Uncertainty, Tool: Posture &amp; Slow Breathing
+
+(00:29:10) Sponsor: ROKA
+
+(00:30:34) Taking Action vs. Letting Go
+
+(00:32:55) Journaling, Narrative &amp; Purpose
+
+(00:34:15) Acknowledgements
+
+Disclaimer &amp; Disclosures
+Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
+      <pubDate>Thu, 08 Oct 2026 08:00:00 -0000</pubDate>
+      <ns1:episodeType>full</ns1:episodeType>
+      <ns1:author>Scicomm Media</ns1:author>
+      <ns1:image href="https://megaphone.imgix.net/podcasts/aaccd642-c2b9-11f1-a1ef-2385c10f4819/image/c939ff80ce31857dd7c3855498b342f4.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress" />
+      <ns1:subtitle>In this ⁠Huberman Lab Essentials⁠ episode, my guest is Dr. Elissa Epel, PhD, a Professor of Psychiatry and Behavioral Sciences at the University of California, San Francisco (UCSF).</ns1:subtitle>
+      <ns1:summary>In this Huberman Lab Essentials episode, my guest is Dr. Elissa Epel, PhD, a Professor of Psychiatry and Behavioral Sciences at the University of California, San Francisco (UCSF). We discuss how acute and chronic stress affect the body and brain, including their links to cellular aging and mitochondrial health. We also explain tools to reduce rumination, reframe stress as a challenge and build resilience, as well as how radical acceptance and a sense of purpose can help us navigate stressors we cannot change.
+
+Read the full episode show notes at hubermanlab.com.
+
+Thank you to our sponsors
+
+AG1: https://drinkag1.com/huberman
+
+Eight Sleep: https://eightsleep.com/huberman
+
+ROKA: https://roka.com/huberman
+
+Timestamps
+
+(00:00:00) Elissa Epel
+
+(00:00:22) Good &amp; Bad Stress, Stress Responses
+
+(00:01:55) Rumination, Body Awareness
+
+(00:03:23) Tools: Mindset, Body &amp; Environment
+
+(00:04:51) Acute &amp; Chronic Stress, Energy &amp; Recovery
+
+(00:07:44) Sponsor: Eight Sleep
+
+(00:09:27) Healthy Aging, Purpose &amp; Brain Health
+
+(00:10:54) Stress Resilience, Threat vs. Challenge
+
+(00:14:40) Tool: Reframe Stress, “Stress Shields”
+
+(00:16:54) Sponsor: AG1
+
+(00:18:30) Mitochondrial Health, Caregiving &amp; Daily Mood
+
+(00:21:24) Chronic Stress, Tool: Radical Acceptance
+
+(00:25:19) Tool: “Drop the Rope”, Uncontrollable Stressors
+
+(00:26:48) Uncertainty, Tool: Posture &amp; Slow Breathing
+
+(00:29:10) Sponsor: ROKA
+
+(00:30:34) Taking Action vs. Letting Go
+
+(00:32:55) Journaling, Narrative &amp; Purpose
+
+(00:34:15) Acknowledgements
+
+Disclaimer &amp; Disclosures
+Learn more about your ad choices. Visit megaphone.fm/adchoices</ns1:summary>
+      <ns2:encoded>
+        &lt;p&gt;In this &lt;a href="https://www.hubermanlab.com/essentials"&gt;Huberman Lab Essentials&lt;/a&gt; episode, my guest is Dr. Elissa Epel, PhD, a Professor of Psychiatry and Behavioral Sciences at the University of California, San Francisco (UCSF). We discuss how acute and chronic stress affect the body and brain, including their links to cellular aging and mitochondrial health. We also explain tools to reduce rumination, reframe stress as a challenge and build resilience, as well as how radical acceptance and a sense of purpose can help us navigate stressors we cannot change.&lt;/p&gt;
+&lt;p&gt;Read the full episode show notes at &lt;a href="https://www.hubermanlab.com/episode/essentials-manage-stress-and-build-resilience-elissa-epel"&gt;hubermanlab.com&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Thank you to our sponsors&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AG1: &lt;a href="https://drinkag1.com/huberman"&gt;https://drinkag1.com/huberman&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Eight Sleep: &lt;a href="https://eightsleep.com/huberman"&gt;https://eightsleep.com/huberman&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ROKA: &lt;a href="https://roka.com/huberman"&gt;https://roka.com/huberman&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Timestamps&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;(00:00:00) Elissa Epel&lt;/p&gt;
+&lt;p&gt;(00:00:22) Good &amp;amp; Bad Stress, Stress Responses&lt;/p&gt;
+&lt;p&gt;(00:01:55) Rumination, Body Awareness&lt;/p&gt;
+&lt;p&gt;(00:03:23) Tools: Mindset, Body &amp;amp; Environment&lt;/p&gt;
+&lt;p&gt;(00:04:51) Acute &amp;amp; Chronic Stress, Energy &amp;amp; Recovery&lt;/p&gt;
+&lt;p&gt;(00:07:44) Sponsor: Eight Sleep&lt;/p&gt;
+&lt;p&gt;(00:09:27) Healthy Aging, Purpose &amp;amp; Brain Health&lt;/p&gt;
+&lt;p&gt;(00:10:54) Stress Resilience, Threat vs. Challenge&lt;/p&gt;
+&lt;p&gt;(00:14:40) Tool: Reframe Stress, “Stress Shields”&lt;/p&gt;
+&lt;p&gt;(00:16:54) Sponsor: AG1&lt;/p&gt;
+&lt;p&gt;(00:18:30) Mitochondrial Health, Caregiving &amp;amp; Daily Mood&lt;/p&gt;
+&lt;p&gt;(00:21:24) Chronic Stress, Tool: Radical Acceptance&lt;/p&gt;
+&lt;p&gt;(00:25:19) Tool: “Drop the Rope”, Uncontrollable Stressors&lt;/p&gt;
+&lt;p&gt;(00:26:48) Uncertainty, Tool: Posture &amp;amp; Slow Breathing&lt;/p&gt;
+&lt;p&gt;(00:29:10) Sponsor: ROKA&lt;/p&gt;
+&lt;p&gt;(00:30:34) Taking Action vs. Letting Go&lt;/p&gt;
+&lt;p&gt;(00:32:55) Journaling, Narrative &amp;amp; Purpose&lt;/p&gt;
+&lt;p&gt;(00:34:15) Acknowledgements&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.hubermanlab.com/disclaimer"&gt;Disclaimer &amp;amp; Disclosures&lt;/a&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;Learn more about your ad choices. Visit &lt;a href="https://megaphone.fm/adchoices"&gt;megaphone.fm/adchoices&lt;/a&gt;&lt;/p&gt;
+      </ns2:encoded>
+      <ns1:duration>2082</ns1:duration>
+      <ns1:explicit>no</ns1:explicit>
+      <guid isPermaLink="false">aaccd642-c2b9-11f1-a1ef-2385c10f4819</guid>
+      <enclosure url="https://traffic.megaphone.fm/SCIM5466682268.mp3" length="0" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Bringing Extinct Species Back to Life | Dr. Beth Shapiro</title>
+      <link>https://www.hubermanlab.com/episode/bringing-extinct-species-back-to-life-dr-beth-shapiro</link>
+      <description>Dr. Beth Shapiro, PhD, is an evolutionary biologist and Chief Science Officer at Colossal Biosciences. Her work focuses on de-extinction and wildlife conservation efforts. We discuss genetic differences among humans, and how ancient DNA and modern embryology are being used to de-extinct and protect woolly mammoths, dodo birds, and dire wolves, as well as to help conserve endangered species. We also explore the ethical implications of de-extinction and how synthetic biology can help build a more bio diverse and resilient world.
+
+Read the full episode show notes at hubermanlab.com.
+
+Thank you to our sponsors
+
+AG1: https://drinkag1.com/huberman
+
+Joovv: https://joovv.com/huberman
+
+Eight Sleep: https://eightsleep.com/huberman
+
+Function: https://functionhealth.com/huberman
+
+Timestamps
+
+(00:00:00) Beth Shapiro
+
+(00:02:35) What is a Species?, Taxonomy, Bison
+
+(00:09:13) Neanderthals, Denisovans, Homo Sapiens
+
+(00:12:38) Sponsors: Joovv &amp; Eight Sleep
+
+(00:15:27) Hybrid Ancestry, “Grolar” Bears
+
+(00:20:30) Homo Sapiens &amp; Neanderthal Interbreeding, Genes; Denisovans
+
+(00:25:53) Neanderthal Genes, Immunity, Red Hair; Eye Color
+
+(00:30:17) De-Extinction, Species Selection, Woolly Mammoths
+
+(00:38:08) Sponsor: AG1
+
+(00:39:21) Bird De-Extinction, Dodo; Reproduction &amp; Genes
+
+(00:47:40) Development Biology, Woolly Mammoth, Elephants
+
+(00:54:49) Dire Wolf, Synthetic Biology, Ethics
+
+(01:03:26) De-Extinction, Ecology, Conservation, Ethics
+
+(01:09:22) Ecosystem Resilience, Thylacine; Preventing Extinction, Quolls
+
+(01:15:45) Sponsor: Function
+
+(01:17:23) Modeling Ecological Impact, Mosquitoes, Gene Drives; Panthers
+
+(01:25:50) Advisory Panels, Synthetic Biology Education
+
+(01:29:13) Genetic Selection in Humans, Human-Shaped World
+
+(01:38:25) Black-Footed Ferrets, Genetic Rescue
+
+(01:47:05) Dire Wolf; Ecological Modeling, New Technology &amp; Public Fear
+
+(01:55:09) Artificial Wombs; Current Issues, Conservation &amp; Red Wolf
+
+(02:01:26) Science Pioneers; Colossal Public Education
+
+(02:04:31) Beth’s Science Origin Story; Dinosaurs
+
+(02:13:42) Zero-Cost Support, YouTube, Spotify &amp; Apple Follow, Reviews &amp; Feedback, Sponsors, Social Media, Neural Network Newsletter
+
+Disclaimer &amp; Disclosures
+Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
+      <pubDate>Mon, 05 Oct 2026 08:00:00 -0000</pubDate>
+      <ns1:episodeType>full</ns1:episodeType>
+      <ns1:episode>301</ns1:episode>
+      <ns1:author>Scicomm Media</ns1:author>
+      <ns1:subtitle />
+      <ns1:summary>Dr. Beth Shapiro, PhD, is an evolutionary biologist and Chief Science Officer at Colossal Biosciences. Her work focuses on de-extinction and wildlife conservation efforts. We discuss genetic differences among humans, and how ancient DNA and modern embryology are being used to de-extinct and protect woolly mammoths, dodo birds, and dire wolves, as well as to help conserve endangered species. We also explore the ethical implications of de-extinction and how synthetic biology can help build a more bio diverse and resilient world.
+
+Read the full episode show notes at hubermanlab.com.
+
+Thank you to our sponsors
+
+AG1: https://drinkag1.com/huberman
+
+Joovv: https://joovv.com/huberman
+
+Eight Sleep: https://eightsleep.com/huberman
+
+Function: https://functionhealth.com/huberman
+
+Timestamps
+
+(00:00:00) Beth Shapiro
+
+(00:02:35) What is a Species?, Taxonomy, Bison
+
+(00:09:13) Neanderthals, Denisovans, Homo Sapiens
+
+(00:12:38) Sponsors: Joovv &amp; Eight Sleep
+
+(00:15:27) Hybrid Ancestry, “Grolar” Bears
+
+(00:20:30) Homo Sapiens &amp; Neanderthal Interbreeding, Genes; Denisovans
+
+(00:25:53) Neanderthal Genes, Immunity, Red Hair; Eye Color
+
+(00:30:17) De-Extinction, Species Selection, Woolly Mammoths
+
+(00:38:08) Sponsor: AG1
+
+(00:39:21) Bird De-Extinction, Dodo; Reproduction &amp; Genes
+
+(00:47:40) Development Biology, Woolly Mammoth, Elephants
+
+(00:54:49) Dire Wolf, Synthetic Biology, Ethics
+
+(01:03:26) De-Extinction, Ecology, Conservation, Ethics
+
+(01:09:22) Ecosystem Resilience, Thylacine; Preventing Extinction, Quolls
+
+(01:15:45) Sponsor: Function
+
+(01:17:23) Modeling Ecological Impact, Mosquitoes, Gene Drives; Panthers
+
+(01:25:50) Advisory Panels, Synthetic Biology Education
+
+(01:29:13) Genetic Selection in Humans, Human-Shaped World
+
+(01:38:25) Black-Footed Ferrets, Genetic Rescue
+
+(01:47:05) Dire Wolf; Ecological Modeling, New Technology &amp; Public Fear
+
+(01:55:09) Artificial Wombs; Current Issues, Conservation &amp; Red Wolf
+
+(02:01:26) Science Pioneers; Colossal Public Education
+
+(02:04:31) Beth’s Science Origin Story; Dinosaurs
+
+(02:13:42) Zero-Cost Support, YouTube, Spotify &amp; Apple Follow, Reviews &amp; Feedback, Sponsors, Social Media, Neural Network Newsletter
+
+Disclaimer &amp; Disclosures
+Learn more about your ad choices. Visit megaphone.fm/adchoices</ns1:summary>
+      <ns2:encoded>
+        &lt;p&gt;Dr. Beth Shapiro, PhD, is an evolutionary biologist and Chief Science Officer at Colossal Biosciences. Her work focuses on de-extinction and wildlife conservation efforts. We discuss genetic differences among humans, and how ancient DNA and modern embryology are being used to de-extinct and protect woolly mammoths, dodo birds, and dire wolves, as well as to help conserve endangered species. We also explore the ethical implications of de-extinction and how synthetic biology can help build a more bio diverse and resilient world.&lt;/p&gt;
+&lt;p&gt;Read the full episode show notes at &lt;a href="https://www.hubermanlab.com/episode/bringing-extinct-species-back-to-life-dr-beth-shapiro"&gt;hubermanlab.com&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Thank you to our sponsors&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AG1: &lt;a href="https://drinkag1.com/huberman"&gt;https://drinkag1.com/huberman&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Joovv: &lt;a href="https://joovv.com/huberman"&gt;https://joovv.com/huberman&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Eight Sleep: &lt;a href="https://eightsleep.com/huberman"&gt;https://eightsleep.com/huberman&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Function: &lt;a href="https://functionhealth.com/huberman"&gt;https://functionhealth.com/huberman&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Timestamps&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;(00:00:00) Beth Shapiro&lt;/p&gt;
+&lt;p&gt;(00:02:35) What is a Species?, Taxonomy, Bison&lt;/p&gt;
+&lt;p&gt;(00:09:13) Neanderthals, Denisovans, Homo Sapiens&lt;/p&gt;
+&lt;p&gt;(00:12:38) Sponsors: Joovv &amp;amp; Eight Sleep&lt;/p&gt;
+&lt;p&gt;(00:15:27) Hybrid Ancestry, “Grolar” Bears&lt;/p&gt;
+&lt;p&gt;(00:20:30) Homo Sapiens &amp;amp; Neanderthal Interbreeding, Genes; Denisovans&lt;/p&gt;
+&lt;p&gt;(00:25:53) Neanderthal Genes, Immunity, Red Hair; Eye Color&lt;/p&gt;
+&lt;p&gt;(00:30:17) De-Extinction, Species Selection, Woolly Mammoths&lt;/p&gt;
+&lt;p&gt;(00:38:08) Sponsor: AG1&lt;/p&gt;
+&lt;p&gt;(00:39:21) Bird De-Extinction, Dodo; Reproduction &amp;amp; Genes&lt;/p&gt;
+&lt;p&gt;(00:47:40) Development Biology, Woolly Mammoth, Elephants&lt;/p&gt;
+&lt;p&gt;(00:54:49) Dire Wolf, Synthetic Biology, Ethics&lt;/p&gt;
+&lt;p&gt;(01:03:26) De-Extinction, Ecology, Conservation, Ethics&lt;/p&gt;
+&lt;p&gt;(01:09:22) Ecosystem Resilience, Thylacine; Preventing Extinction, Quolls&lt;/p&gt;
+&lt;p&gt;(01:15:45) Sponsor: Function&lt;/p&gt;
+&lt;p&gt;(01:17:23) Modeling Ecological Impact, Mosquitoes, Gene Drives; Panthers&lt;/p&gt;
+&lt;p&gt;(01:25:50) Advisory Panels, Synthetic Biology Education&lt;/p&gt;
+&lt;p&gt;(01:29:13) Genetic Selection in Humans, Human-Shaped World&lt;/p&gt;
+&lt;p&gt;(01:38:25) Black-Footed Ferrets, Genetic Rescue&lt;/p&gt;
+&lt;p&gt;(01:47:05) Dire Wolf; Ecological Modeling, New Technology &amp;amp; Public Fear&lt;/p&gt;
+&lt;p&gt;(01:55:09) Artificial Wombs; Current Issues, Conservation &amp;amp; Red Wolf&lt;/p&gt;
+&lt;p&gt;(02:01:26) Science Pioneers; Colossal Public Education&lt;/p&gt;
+&lt;p&gt;(02:04:31) Beth’s Science Origin Story; Dinosaurs&lt;/p&gt;
+&lt;p&gt;(02:13:42) Zero-Cost Support, YouTube, Spotify &amp;amp; Apple Follow, Reviews &amp;amp; Feedback, Sponsors, Social Media, Neural Network Newsletter&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.hubermanlab.com/disclaimer"&gt;Disclaimer &amp;amp; Disclosures&lt;/a&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;Learn more about your ad choices. Visit &lt;a href="https://megaphone.fm/adchoices"&gt;megaphone.fm/adchoices&lt;/a&gt;&lt;/p&gt;
+      </ns2:encoded>
+      <ns1:duration>8151</ns1:duration>
+      <ns1:explicit>no</ns1:explicit>
+      <guid isPermaLink="false">d1b20f5e-c064-11f1-b13f-df298254fbfd</guid>
+      <enclosure url="https://traffic.megaphone.fm/SCIM2211492808.mp3" length="0" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Essentials: Tools to Improve Your Focus &amp; Concentration</title>
+      <link>https://www.hubermanlab.com/episode/essentials-tools-to-improve-your-focus-and-concentration</link>
+      <description>In this Huberman Lab Essentials episode, I explain how the neurochemicals epinephrine, acetylcholine and dopamine contribute to focus and concentration. I discuss tools for improving attention, including sleep, sound, structured work sessions, nutrition, caffeine and deliberate cold exposure. I also describe a brief daily meditation and visual focus exercises that train your ability to refocus when attention drifts. Additionally, I discuss the potential benefits and limitations of supplements, prescription treatments for ADHD, and why taking time to deliberately defocus supports concentrated work.
+
+Read the full episode show notes at hubermanlab.com.
+
+Thank you to our sponsors
+
+AG1: https://drinkag1.com/huberman
+
+David: https://davidprotein.com/huberman
+
+LMNT: https://drinklmnt.com/huberman
+
+Timestamps
+
+(00:00:00) Focus &amp; Concentration
+
+(00:02:00) Epinephrine, Acetylcholine &amp; Dopamine
+
+(00:04:20) Sleep, White Noise &amp; Pink Noise
+
+(00:07:35) Sponsor: LMNT
+
+(00:09:05) Ultradian Cycles, 90-Minute Work Sessions
+
+(00:10:45) Blood Glucose, Fasting &amp; Meal Size
+
+(00:13:40) Caffeine, Focus &amp; Sleep
+
+(00:15:00) Acute Stress &amp; Concentration
+
+(00:16:55) Tool: Deliberate Cold Exposure
+
+(00:19:45) Sponsor: AG1
+
+(00:21:00) Tool: 13-Minute Daily Meditation
+
+(00:25:10) Tool: Visual Focus Exercises
+
+(00:29:45) Sponsor: David
+
+(00:31:10) Omega-3 Fatty Acids &amp; Creatine
+
+(00:33:00) Alpha-GPC, Acetylcholine &amp; Safety Considerations
+
+(00:35:10) L-Tyrosine, Dopamine &amp; Combining Tools
+
+(00:37:00) ADHD, Prescription Medications &amp; Neuroplasticity
+
+(00:39:55) Deliberate Defocusing &amp; Recovery
+
+(00:41:10) Acknowledgements
+
+Disclaimer &amp; Disclosures
+Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
+      <pubDate>Thu, 01 Oct 2026 08:00:00 -0000</pubDate>
+      <ns1:episodeType>full</ns1:episodeType>
+      <ns1:author>Scicomm Media</ns1:author>
+      <ns1:image href="https://megaphone.imgix.net/podcasts/6e6186c8-bd49-11f1-9d60-eb7961313029/image/c939ff80ce31857dd7c3855498b342f4.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress" />
+      <ns1:subtitle />
+      <ns1:summary>In this Huberman Lab Essentials episode, I explain how the neurochemicals epinephrine, acetylcholine and dopamine contribute to focus and concentration. I discuss tools for improving attention, including sleep, sound, structured work sessions, nutrition, caffeine and deliberate cold exposure. I also describe a brief daily meditation and visual focus exercises that train your ability to refocus when attention drifts. Additionally, I discuss the potential benefits and limitations of supplements, prescription treatments for ADHD, and why taking time to deliberately defocus supports concentrated work.
+
+Read the full episode show notes at hubermanlab.com.
+
+Thank you to our sponsors
+
+AG1: https://drinkag1.com/huberman
+
+David: https://davidprotein.com/huberman
+
+LMNT: https://drinklmnt.com/huberman
+
+Timestamps
+
+(00:00:00) Focus &amp; Concentration
+
+(00:02:00) Epinephrine, Acetylcholine &amp; Dopamine
+
+(00:04:20) Sleep, White Noise &amp; Pink Noise
+
+(00:07:35) Sponsor: LMNT
+
+(00:09:05) Ultradian Cycles, 90-Minute Work Sessions
+
+(00:10:45) Blood Glucose, Fasting &amp; Meal Size
+
+(00:13:40) Caffeine, Focus &amp; Sleep
+
+(00:15:00) Acute Stress &amp; Concentration
+
+(00:16:55) Tool: Deliberate Cold Exposure
+
+(00:19:45) Sponsor: AG1
+
+(00:21:00) Tool: 13-Minute Daily Meditation
+
+(00:25:10) Tool: Visual Focus Exercises
+
+(00:29:45) Sponsor: David
+
+(00:31:10) Omega-3 Fatty Acids &amp; Creatine
+
+(00:33:00) Alpha-GPC, Acetylcholine &amp; Safety Considerations
+
+(00:35:10) L-Tyrosine, Dopamine &amp; Combining Tools
+
+(00:37:00) ADHD, Prescription Medications &amp; Neuroplasticity
+
+(00:39:55) Deliberate Defocusing &amp; Recovery
+
+(00:41:10) Acknowledgements
+
+Disclaimer &amp; Disclosures
+Learn more about your ad choices. Visit megaphone.fm/adchoices</ns1:summary>
+      <ns2:encoded>
+        &lt;p&gt;In this &lt;a href="https://www.hubermanlab.com/essentials"&gt;Huberman Lab Essentials&lt;/a&gt; episode, I explain how the neurochemicals epinephrine, acetylcholine and dopamine contribute to focus and concentration. I discuss tools for improving attention, including sleep, sound, structured work sessions, nutrition, caffeine and deliberate cold exposure. I also describe a brief daily meditation and visual focus exercises that train your ability to refocus when attention drifts. Additionally, I discuss the potential benefits and limitations of supplements, prescription treatments for ADHD, and why taking time to deliberately defocus supports concentrated work.&lt;/p&gt;
+&lt;p&gt;Read the full episode show notes at &lt;a href="https://www.hubermanlab.com/episode/essentials-tools-to-improve-your-focus-and-concentration"&gt;hubermanlab.com&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Thank you to our sponsors&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AG1: &lt;a href="https://drinkag1.com/huberman"&gt;https://drinkag1.com/huberman&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;David: &lt;a href="https://davidprotein.com/huberman"&gt;https://davidprotein.com/huberman&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;LMNT: &lt;a href="https://drinklmnt.com/huberman"&gt;https://drinklmnt.com/huberman&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Timestamps&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;(00:00:00) Focus &amp;amp; Concentration&lt;/p&gt;
+&lt;p&gt;(00:02:00) Epinephrine, Acetylcholine &amp;amp; Dopamine&lt;/p&gt;
+&lt;p&gt;(00:04:20) Sleep, White Noise &amp;amp; Pink Noise&lt;/p&gt;
+&lt;p&gt;(00:07:35) Sponsor: LMNT&lt;/p&gt;
+&lt;p&gt;(00:09:05) Ultradian Cycles, 90-Minute Work Sessions&lt;/p&gt;
+&lt;p&gt;(00:10:45) Blood Glucose, Fasting &amp;amp; Meal Size&lt;/p&gt;
+&lt;p&gt;(00:13:40) Caffeine, Focus &amp;amp; Sleep&lt;/p&gt;
+&lt;p&gt;(00:15:00) Acute Stress &amp;amp; Concentration&lt;/p&gt;
+&lt;p&gt;(00:16:55) Tool: Deliberate Cold Exposure&lt;/p&gt;
+&lt;p&gt;(00:19:45) Sponsor: AG1&lt;/p&gt;
+&lt;p&gt;(00:21:00) Tool: 13-Minute Daily Meditation&lt;/p&gt;
+&lt;p&gt;(00:25:10) Tool: Visual Focus Exercises&lt;/p&gt;
+&lt;p&gt;(00:29:45) Sponsor: David&lt;/p&gt;
+&lt;p&gt;(00:31:10) Omega-3 Fatty Acids &amp;amp; Creatine&lt;/p&gt;
+&lt;p&gt;(00:33:00) Alpha-GPC, Acetylcholine &amp;amp; Safety Considerations&lt;/p&gt;
+&lt;p&gt;(00:35:10) L-Tyrosine, Dopamine &amp;amp; Combining Tools&lt;/p&gt;
+&lt;p&gt;(00:37:00) ADHD, Prescription Medications &amp;amp; Neuroplasticity&lt;/p&gt;
+&lt;p&gt;(00:39:55) Deliberate Defocusing &amp;amp; Recovery&lt;/p&gt;
+&lt;p&gt;(00:41:10) Acknowledgements&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.hubermanlab.com/disclaimer"&gt;Disclaimer &amp;amp; Disclosures&lt;/a&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;Learn more about your ad choices. Visit &lt;a href="https://megaphone.fm/adchoices"&gt;megaphone.fm/adchoices&lt;/a&gt;&lt;/p&gt;
+      </ns2:encoded>
+      <ns1:duration>2502</ns1:duration>
+      <ns1:explicit>no</ns1:explicit>
+      <guid isPermaLink="false">6e6186c8-bd49-11f1-9d60-eb7961313029</guid>
+      <enclosure url="https://traffic.megaphone.fm/SCIM2328129388.mp3" length="0" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>What Humans, Animals and Plants Tell Us About Consciousness | Michael Pollan</title>
+      <link>https://www.hubermanlab.com/episode/what-humans-animals-and-plants-tell-us-about-consciousness-michael-pollan</link>
+      <description>Michael Pollan is a renowned author, journalist and professor at UC Berkeley. He is best known for his influential works on how humans and plants have shaped each other at the level of food, medicine, health, and culture. In this episode we discuss consciousness—what it is and how the recognition between our self vs others contributes to-- but also can impair, certain aspects of conscious experience. We discuss psychedelics, the microbiome, caffeine, and how the unconscious dialogue between our body and brain impacts our thoughts and feelings. Pollan offers a hopeful perspective on how our relationship with plants and animals – including other humans, can lead us to a healthier, and far richer experience of life.
+
+Read the full episode show notes at hubermanlab.com.
+
+Thank you to our sponsors
+
+AG1: https://drinkag1.com/huberman
+
+Eight Sleep: https://eightsleep.com/huberman
+
+Function: https://functionhealth.com/huberman
+
+Mateina: https://drinkmateina.com
+
+Rorra: https://rorra.com/huberman
+
+Timestamps
+
+(00:00:00) Michael Pollan
+
+(00:02:50) Wendell Berry, Nature
+
+(00:06:30) Consciousness; Sentience
+
+(00:10:04) Environmental Response, Plant Intelligence; Self-Recognition
+
+(00:13:52) Sponsors: Eight Sleep &amp; Rorra
+
+(00:20:49) Plants, Communication, Sentience, Symbiosis
+
+(00:27:37) Self-Awareness, Time; Xenobots, Instinct
+
+(00:34:32) Microbiome, Influence &amp; Symbiosis
+
+(00:40:28) Meaning; Cortex vs Brain Stem, Homeostatic Feelings
+
+(00:47:17) Sponsor: AG1
+
+(00:48:36) Body &amp; Brain Communication, Vagus Nerve
+
+(00:57:21) Collective Consciousness, Psychedelics, Ego, Awe
+
+(01:08:14) Filter Theories of Consciousness
+
+(01:13:28) Sponsor: Function
+
+(01:15:06) AI, Consciousness, Feelings; Memory; Quantum Effects
+
+(01:21:27) Childhood, Gardening, Interacting with Nature
+
+(01:27:08) Hope, Nature &amp; Agency, Food Industry
+
+(01:32:21) Advocacy, Psychedelics, Food Industry
+
+(01:39:50) Sponsor: Mateina
+
+(01:44:52) Psychedelics, Ibogaine, Veterans, Politics; MDMA, Psilocybin; Risk
+
+(01:52:18) Caffeine, Caffeine Fast, Health Benefits
+
+(02:00:21) Zero-Cost Support, YouTube, Spotify &amp; Apple Follow, Reviews &amp; Feedback, Sponsors, Protocols Book, Social Media, Neural Network Newsletter
+
+Disclaimer &amp; Disclosures
+Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
+      <pubDate>Mon, 28 Sep 2026 08:00:00 -0000</pubDate>
+      <ns1:episodeType>full</ns1:episodeType>
+      <ns1:episode>300</ns1:episode>
+      <ns1:author>Scicomm Media</ns1:author>
+      <ns1:subtitle>Michael Pollan is a renowned author, journalist and professor at UC Berkeley.</ns1:subtitle>
+      <ns1:summary>Michael Pollan is a renowned author, journalist and professor at UC Berkeley. He is best known for his influential works on how humans and plants have shaped each other at the level of food, medicine, health, and culture. In this episode we discuss consciousness—what it is and how the recognition between our self vs others contributes to-- but also can impair, certain aspects of conscious experience. We discuss psychedelics, the microbiome, caffeine, and how the unconscious dialogue between our body and brain impacts our thoughts and feelings. Pollan offers a hopeful perspective on how our relationship with plants and animals – including other humans, can lead us to a healthier, and far richer experience of life.
+
+Read the full episode show notes at hubermanlab.com.
+
+Thank you to our sponsors
+
+AG1: https://drinkag1.com/huberman
+
+Eight Sleep: https://eightsleep.com/huberman
+
+Function: https://functionhealth.com/huberman
+
+Mateina: https://drinkmateina.com
+
+Rorra: https://rorra.com/huberman
+
+Timestamps
+
+(00:00:00) Michael Pollan
+
+(00:02:50) Wendell Berry, Nature
+
+(00:06:30) Consciousness; Sentience
+
+(00:10:04) Environmental Response, Plant Intelligence; Self-Recognition
+
+(00:13:52) Sponsors: Eight Sleep &amp; Rorra
+
+(00:20:49) Plants, Communication, Sentience, Symbiosis
+
+(00:27:37) Self-Awareness, Time; Xenobots, Instinct
+
+(00:34:32) Microbiome, Influence &amp; Symbiosis
+
+(00:40:28) Meaning; Cortex vs Brain Stem, Homeostatic Feelings
+
+(00:47:17) Sponsor: AG1
+
+(00:48:36) Body &amp; Brain Communication, Vagus Nerve
+
+(00:57:21) Collective Consciousness, Psychedelics, Ego, Awe
+
+(01:08:14) Filter Theories of Consciousness
+
+(01:13:28) Sponsor: Function
+
+(01:15:06) AI, Consciousness, Feelings; Memory; Quantum Effects
+
+(01:21:27) Childhood, Gardening, Interacting with Nature
+
+(01:27:08) Hope, Nature &amp; Agency, Food Industry
+
+(01:32:21) Advocacy, Psychedelics, Food Industry
+
+(01:39:50) Sponsor: Mateina
+
+(01:44:52) Psychedelics, Ibogaine, Veterans, Politics; MDMA, Psilocybin; Risk
+
+(01:52:18) Caffeine, Caffeine Fast, Health Benefits
+
+(02:00:21) Zero-Cost Support, YouTube, Spotify &amp; Apple Follow, Reviews &amp; Feedback, Sponsors, Protocols Book, Social Media, Neural Network Newsletter
+
+Disclaimer &amp; Disclosures
+Learn more about your ad choices. Visit megaphone.fm/adchoices</ns1:summary>
+      <ns2:encoded>
+        &lt;p&gt;Michael Pollan is a renowned author, journalist and professor at UC Berkeley. He is best known for his influential works on how humans and plants have shaped each other at the level of food, medicine, health, and culture. In this episode we discuss consciousness—what it is and how the recognition between our self vs others contributes to-- but also can impair, certain aspects of conscious experience. We discuss psychedelics, the microbiome, caffeine, and how the unconscious dialogue between our body and brain impacts our thoughts and feelings. Pollan offers a hopeful perspective on how our relationship with plants and animals – including other humans, can lead us to a healthier, and far richer experience of life.&lt;/p&gt;
+&lt;p&gt;Read the full episode show notes at &lt;a href="https://www.hubermanlab.com/episode/what-humans-animals-and-plants-tell-us-about-consciousness-michael-pollan"&gt;hubermanlab.com&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Thank you to our sponsors&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AG1: &lt;a href="https://drinkag1.com/huberman"&gt;https://drinkag1.com/huberman&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Eight Sleep: &lt;a href="https://eightsleep.com/huberman"&gt;https://eightsleep.com/huberman&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Function: &lt;a href="https://functionhealth.com/huberman"&gt;https://functionhealth.com/huberman&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Mateina: &lt;a href="https://drinkmateina.com/"&gt;https://drinkmateina.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Rorra: &lt;a href="https://rorra.com/huberman"&gt;https://rorra.com/huberman&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Timestamps&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;(00:00:00) Michael Pollan&lt;/p&gt;
+&lt;p&gt;(00:02:50) Wendell Berry, Nature&lt;/p&gt;
+&lt;p&gt;(00:06:30) Consciousness; Sentience&lt;/p&gt;
+&lt;p&gt;(00:10:04) Environmental Response, Plant Intelligence; Self-Recognition&lt;/p&gt;
+&lt;p&gt;(00:13:52) Sponsors: Eight Sleep &amp;amp; Rorra&lt;/p&gt;
+&lt;p&gt;(00:20:49) Plants, Communication, Sentience, Symbiosis&lt;/p&gt;
+&lt;p&gt;(00:27:37) Self-Awareness, Time; Xenobots, Instinct&lt;/p&gt;
+&lt;p&gt;(00:34:32) Microbiome, Influence &amp;amp; Symbiosis&lt;/p&gt;
+&lt;p&gt;(00:40:28) Meaning; Cortex vs Brain Stem, Homeostatic Feelings&lt;/p&gt;
+&lt;p&gt;(00:47:17) Sponsor: AG1&lt;/p&gt;
+&lt;p&gt;(00:48:36) Body &amp;amp; Brain Communication, Vagus Nerve&lt;/p&gt;
+&lt;p&gt;(00:57:21) Collective Consciousness, Psychedelics, Ego, Awe&lt;/p&gt;
+&lt;p&gt;(01:08:14) Filter Theories of Consciousness&lt;/p&gt;
+&lt;p&gt;(01:13:28) Sponsor: Function&lt;/p&gt;
+&lt;p&gt;(01:15:06) AI, Consciousness, Feelings; Memory; Quantum Effects&lt;/p&gt;
+&lt;p&gt;(01:21:27) Childhood, Gardening, Interacting with Nature&lt;/p&gt;
+&lt;p&gt;(01:27:08) Hope, Nature &amp;amp; Agency, Food Industry&lt;/p&gt;
+&lt;p&gt;(01:32:21) Advocacy, Psychedelics, Food Industry&lt;/p&gt;
+&lt;p&gt;(01:39:50) Sponsor: Mateina&lt;/p&gt;
+&lt;p&gt;(01:44:52) Psychedelics, Ibogaine, Veterans, Politics; MDMA, Psilocybin; Risk&lt;/p&gt;
+&lt;p&gt;(01:52:18) Caffeine, Caffeine Fast, Health Benefits&lt;/p&gt;
+&lt;p&gt;(02:00:21) Zero-Cost Support, YouTube, Spotify &amp;amp; Apple Follow, Reviews &amp;amp; Feedback, Sponsors, Protocols Book, Social Media, Neural Network Newsletter&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.hubermanlab.com/disclaimer"&gt;Disclaimer &amp;amp; Disclosures&lt;/a&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;Learn more about your ad choices. Visit &lt;a href="https://megaphone.fm/adchoices"&gt;megaphone.fm/adchoices&lt;/a&gt;&lt;/p&gt;
+      </ns2:encoded>
+      <ns1:duration>7353</ns1:duration>
+      <ns1:explicit>no</ns1:explicit>
+      <guid isPermaLink="false">982695aa-badf-11f1-9093-e3267f060ab3</guid>
+      <enclosure url="https://traffic.megaphone.fm/SCIM4063268713.mp3" length="0" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Essentials: Optimal Protocols to Build Strength &amp; Grow Muscles | Dr. Andy Galpin</title>
+      <link>https://www.hubermanlab.com/episode/essentials-optimal-protocols-to-build-strength-and-grow-muscles-andy-galpin</link>
+      <description>In this Huberman Lab Essentials episode, I revisit episode 2 of my six-part guest series with Dr. Andy Galpin, PhD, an exercise scientist and expert in human performance. We discuss how strength and muscle growth (hypertrophy) differ and why resistance training is important for maintaining physical function as we age. We also explain how to build effective training programs using progressive overload, exercise selection, repetition speed and weekly training volume. Dr. Galpin shares practical tools for developing strength, power and muscle size, including how to adapt workouts to your goals, equipment and schedule.
+
+Read the full episode show notes at hubermanlab.com.
+
+Thank you to our sponsors
+
+AG1: https://drinkag1.com/huberman
+
+BetterHelp: https://betterhelp.com/huberman
+
+Timestamps
+
+(00:00:00) Andy Galpin
+
+(00:00:51) Strength Training, Aging &amp; Physical Function
+
+(00:04:04) Strength vs. Hypertrophy
+
+(00:05:57) Sponsor: AG1
+
+(00:07:20) Training Principles, Consistency &amp; Progressive Overload
+
+(00:08:39) Individualization, Specificity &amp; Variation
+
+(00:09:46) Training Variables; Tool: “3 to 5” Approach
+
+(00:12:58) Repetition Speed, Strength vs. Hypertrophy
+
+(00:16:18) Exercise Variation &amp; Standardization
+
+(00:18:17) Power &amp; Strength Training: Exercise Selection, Order &amp; Volume
+
+(00:21:20) Progression, Deloads &amp; Training Intent
+
+(00:22:52) Sponsor: BetterHelp
+
+(00:23:57) Hypertrophy: Training Stimulus &amp; Exercise Selection
+
+(00:25:59) Targeting Muscles, Squat Technique &amp; Machines
+
+(00:29:41) Exercise Order &amp; Pre-Fatigue
+
+(00:30:42) Training Splits, Balanced Muscle Development
+
+(00:32:13) Weekly Training Volume, Reps in Reserve &amp; Limited Workout Time
+
+(00:34:52) Training Frequency, Workout Duration &amp; Full-Body Training
+
+(00:37:40) Acknowledgements
+
+Disclaimer &amp; Disclosures
+Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
+      <pubDate>Thu, 24 Sep 2026 08:00:00 -0000</pubDate>
+      <ns1:episodeType>full</ns1:episodeType>
+      <ns1:author>Scicomm Media</ns1:author>
+      <ns1:image href="https://megaphone.imgix.net/podcasts/3214407a-b7e5-11f1-a48a-3f6aff694931/image/c939ff80ce31857dd7c3855498b342f4.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress" />
+      <ns1:subtitle />
+      <ns1:summary>In this Huberman Lab Essentials episode, I revisit episode 2 of my six-part guest series with Dr. Andy Galpin, PhD, an exercise scientist and expert in human performance. We discuss how strength and muscle growth (hypertrophy) differ and why resistance training is important for maintaining physical function as we age. We also explain how to build effective training programs using progressive overload, exercise selection, repetition speed and weekly training volume. Dr. Galpin shares practical tools for developing strength, power and muscle size, including how to adapt workouts to your goals, equipment and schedule.
+
+Read the full episode show notes at hubermanlab.com.
+
+Thank you to our sponsors
+
+AG1: https://drinkag1.com/huberman
+
+BetterHelp: https://betterhelp.com/huberman
+
+Timestamps
+
+(00:00:00) Andy Galpin
+
+(00:00:51) Strength Training, Aging &amp; Physical Function
+
+(00:04:04) Strength vs. Hypertrophy
+
+(00:05:57) Sponsor: AG1
+
+(00:07:20) Training Principles, Consistency &amp; Progressive Overload
+
+(00:08:39) Individualization, Specificity &amp; Variation
+
+(00:09:46) Training Variables; Tool: “3 to 5” Approach
+
+(00:12:58) Repetition Speed, Strength vs. Hypertrophy
+
+(00:16:18) Exercise Variation &amp; Standardization
+
+(00:18:17) Power &amp; Strength Training: Exercise Selection, Order &amp; Volume
+
+(00:21:20) Progression, Deloads &amp; Training Intent
+
+(00:22:52) Sponsor: BetterHelp
+
+(00:23:57) Hypertrophy: Training Stimulus &amp; Exercise Selection
+
+(00:25:59) Targeting Muscles, Squat Technique &amp; Machines
+
+(00:29:41) Exercise Order &amp; Pre-Fatigue
+
+(00:30:42) Training Splits, Balanced Muscle Development
+
+(00:32:13) Weekly Training Volume, Reps in Reserve &amp; Limited Workout Time
+
+(00:34:52) Training Frequency, Workout Duration &amp; Full-Body Training
+
+(00:37:40) Acknowledgements
+
+Disclaimer &amp; Disclosures
+Learn more about your ad choices. Visit megaphone.fm/adchoices</ns1:summary>
+      <ns2:encoded>
+        &lt;p&gt;In this &lt;a href="https://www.hubermanlab.com/essentials"&gt;Huberman Lab Essentials&lt;/a&gt; episode, I revisit episode 2 of my six-part guest series with Dr. Andy Galpin, PhD, an exercise scientist and expert in human performance. We discuss how strength and muscle growth (hypertrophy) differ and why resistance training is important for maintaining physical function as we age. We also explain how to build effective training programs using progressive overload, exercise selection, repetition speed and weekly training volume. Dr. Galpin shares practical tools for developing strength, power and muscle size, including how to adapt workouts to your goals, equipment and schedule.&lt;/p&gt;
+&lt;p&gt;Read the full episode show notes at &lt;a href="https://www.hubermanlab.com/episode/essentials-optimal-protocols-to-build-strength-and-grow-muscles-andy-galpin"&gt;hubermanlab.com&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Thank you to our sponsors&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AG1: &lt;a href="https://drinkag1.com/huberman"&gt;https://drinkag1.com/huberman&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;BetterHelp: &lt;a href="https://betterhelp.com/huberman"&gt;https://betterhelp.com/huberman&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Timestamps&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;(00:00:00) Andy Galpin&lt;/p&gt;
+&lt;p&gt;(00:00:51) Strength Training, Aging &amp;amp; Physical Function&lt;/p&gt;
+&lt;p&gt;(00:04:04) Strength vs. Hypertrophy&lt;/p&gt;
+&lt;p&gt;(00:05:57) Sponsor: AG1&lt;/p&gt;
+&lt;p&gt;(00:07:20) Training Principles, Consistency &amp;amp; Progressive Overload&lt;/p&gt;
+&lt;p&gt;(00:08:39) Individualization, Specificity &amp;amp; Variation&lt;/p&gt;
+&lt;p&gt;(00:09:46) Training Variables; Tool: “3 to 5” Approach&lt;/p&gt;
+&lt;p&gt;(00:12:58) Repetition Speed, Strength vs. Hypertrophy&lt;/p&gt;
+&lt;p&gt;(00:16:18) Exercise Variation &amp;amp; Standardization&lt;/p&gt;
+&lt;p&gt;(00:18:17) Power &amp;amp; Strength Training: Exercise Selection, Order &amp;amp; Volume&lt;/p&gt;
+&lt;p&gt;(00:21:20) Progression, Deloads &amp;amp; Training Intent&lt;/p&gt;
+&lt;p&gt;(00:22:52) Sponsor: BetterHelp&lt;/p&gt;
+&lt;p&gt;(00:23:57) Hypertrophy: Training Stimulus &amp;amp; Exercise Selection&lt;/p&gt;
+&lt;p&gt;(00:25:59) Targeting Muscles, Squat Technique &amp;amp; Machines&lt;/p&gt;
+&lt;p&gt;(00:29:41) Exercise Order &amp;amp; Pre-Fatigue&lt;/p&gt;
+&lt;p&gt;(00:30:42) Training Splits, Balanced Muscle Development&lt;/p&gt;
+&lt;p&gt;(00:32:13) Weekly Training Volume, Reps in Reserve &amp;amp; Limited Workout Time&lt;/p&gt;
+&lt;p&gt;(00:34:52) Training Frequency, Workout Duration &amp;amp; Full-Body Training&lt;/p&gt;
+&lt;p&gt;(00:37:40) Acknowledgements&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.hubermanlab.com/disclaimer"&gt;Disclaimer &amp;amp; Disclosures&lt;/a&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;Learn more about your ad choices. Visit &lt;a href="https://megaphone.fm/adchoices"&gt;megaphone.fm/adchoices&lt;/a&gt;&lt;/p&gt;
+      </ns2:encoded>
+      <ns1:duration>2286</ns1:duration>
+      <ns1:explicit>no</ns1:explicit>
+      <guid isPermaLink="false">3214407a-b7e5-11f1-a48a-3f6aff694931</guid>
+      <enclosure url="https://traffic.megaphone.fm/SCIM8443296592.mp3" length="0" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Best Tools for Gut Health &amp; Weight Loss | Dr. Chris Thompson</title>
+      <link>https://www.hubermanlab.com/episode/best-tools-for-gut-health-and-weight-loss-chris-thompson</link>
+      <description>Dr. Chris Thompson, MD, Professor of Medicine at Harvard Medical School, Chief of Interventional Gastroenterology at Mass General Brigham in Boston, and Co-Director of the Center for Weight Management and Wellness, is a world-renowned expert on gastroenterology, metabolism, nutrition, and obesity medicine. He explains how your GI tract regulates hunger, fullness, and blood sugar, as well as the gut microbiome, metabolic health, and weight loss. We also discuss common GI tract issues and which particular tests or interventions are actually useful. We discuss both GLP-1 medications and non-GLP-1 approaches to weight loss. Given that gut health is vital to all the organs of the body, overall health, and longevity, our discussion ought to be of interest and practical value to everyone, including, of course, those struggling with gut health or weight loss challenges.
+
+Thank you to our sponsors
+
+AG1: https://drinkag1.com/huberman
+
+Function: https://functionhealth.com/huberman
+
+Lingo: https://hellolingo.com/huberman
+
+LMNT: https://drinklmnt.com/huberman
+
+Our Place: https://fromourplace.com/huberman
+
+Timestamps
+
+(00:00:00) Dr. Chris Thompson
+
+(00:02:16) Digestive Tract, Gut Hormones &amp; Nutrient Absorption
+
+(00:08:06) Colon Microbiome &amp; Colon Cancer Screening
+
+(00:11:13) Sponsors: LMNT &amp; Lingo
+
+(00:13:40) Swallowing Problems &amp; Zenker's Diverticula
+
+(00:16:08) Bowel Movements &amp; Constipation
+
+(00:18:28) Fiber, Resistant Starch &amp; the Gut Barrier
+
+(00:21:50) Intermittent Fasting &amp; the Gut Microbiome
+
+(00:23:38) Fermented Foods, Microbial Diversity &amp; Butyrate
+
+(00:27:12) H. pylori, Stress &amp; Stomach Ulcers
+
+(00:30:20) GLP-1 Medications: Benefits &amp; Limitations
+
+(00:33:42) Lower GLP-1 Doses, Weight Regain &amp; Muscle Loss
+
+(00:37:35) GLP-1 Side Effects, Food Noise &amp; Apathy
+
+(00:39:49) Bariatric Surgery &amp; Medical Innovation
+
+(00:46:07) Sponsor: AG1
+
+(00:47:44) Hunger &amp; Satiety: Ghrelin, CCK, GIP &amp; GLP-1
+
+(00:50:01) Retatrutide &amp; Combining Hormonal Targets
+
+(00:52:55) Ultra-Processed Foods, Overeating &amp; Leptin
+
+(00:55:32) Incretin Discovery, Exendin-4 &amp; the Gila Monster
+
+(00:59:35) Endoscopic Ultrasound &amp; Pancreatic Biopsy
+
+(01:07:40) Early Metabolic Markers, CGMs &amp; Fasting Insulin
+
+(01:13:06) Insulin Resistance &amp; Metabolic Flexibility
+
+(01:15:53) Sponsor: Function
+
+(01:17:35) Patient Data, Screening &amp; Treatment Adoption
+
+(01:26:31) AI, Robotics &amp; Improving Procedures
+
+(01:29:27) Choosing a Surgeon &amp; Measuring Procedure Quality
+
+(01:35:29) Image Guidance &amp; Hyperspectral Imaging
+
+(01:37:19) Sponsor: Our Place
+
+(01:38:56) Diagnostics &amp; Targeted Metabolic Treatments
+
+(01:42:45) Gastric Bypass, Foregut Exclusion &amp; Diabetes
+
+(01:47:59) Duodenal Liners &amp; Mucosal Resurfacing Research
+
+(01:52:58) Gut Permeability, Inflammation &amp; Fatty Liver
+
+(01:59:39) Artificial Sweeteners, Fructose, Fats &amp; Omega-3s
+
+(02:05:00) Resistance Training, Zone 2 Cardio &amp; Intervals
+
+(02:06:31) Weight Set Point &amp; Metabolic Adaptation
+
+(02:08:13) Endoscopic Sleeve Gastroplasty &amp; Fundus Ablation
+
+(02:10:30) Magnetic Intestinal Connections &amp; Combined Treatments
+
+(02:16:52) GLP-1 Gene Therapy Research
+
+(02:22:13) Innovation, Problem Solving &amp; Teamwork
+
+(02:25:58) Zero-Cost Support, Sponsors &amp; Neural Network Newsletter
+
+Disclaimer &amp; Disclosures
+Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
+      <pubDate>Mon, 21 Sep 2026 08:00:00 -0000</pubDate>
+      <ns1:episodeType>full</ns1:episodeType>
+      <ns1:author>Scicomm Media</ns1:author>
+      <ns1:subtitle />
+      <ns1:summary>Dr. Chris Thompson, MD, Professor of Medicine at Harvard Medical School, Chief of Interventional Gastroenterology at Mass General Brigham in Boston, and Co-Director of the Center for Weight Management and Wellness, is a world-renowned expert on gastroenterology, metabolism, nutrition, and obesity medicine. He explains how your GI tract regulates hunger, fullness, and blood sugar, as well as the gut microbiome, metabolic health, and weight loss. We also discuss common GI tract issues and which particular tests or interventions are actually useful. We discuss both GLP-1 medications and non-GLP-1 approaches to weight loss. Given that gut health is vital to all the organs of the body, overall health, and longevity, our discussion ought to be of interest and practical value to everyone, including, of course, those struggling with gut health or weight loss challenges.
+
+Thank you to our sponsors
+
+AG1: https://drinkag1.com/huberman
+
+Function: https://functionhealth.com/huberman
+
+Lingo: https://hellolingo.com/huberman
+
+LMNT: https://drinklmnt.com/huberman
+
+Our Place: https://fromourplace.com/huberman
+
+Timestamps
+
+(00:00:00) Dr. Chris Thompson
+
+(00:02:16) Digestive Tract, Gut Hormones &amp; Nutrient Absorption
+
+(00:08:06) Colon Microbiome &amp; Colon Cancer Screening
+
+(00:11:13) Sponsors: LMNT &amp; Lingo
+
+(00:13:40) Swallowing Problems &amp; Zenker's Diverticula
+
+(00:16:08) Bowel Movements &amp; Constipation
+
+(00:18:28) Fiber, Resistant Starch &amp; the Gut Barrier
+
+(00:21:50) Intermittent Fasting &amp; the Gut Microbiome
+
+(00:23:38) Fermented Foods, Microbial Diversity &amp; Butyrate
+
+(00:27:12) H. pylori, Stress &amp; Stomach Ulcers
+
+(00:30:20) GLP-1 Medications: Benefits &amp; Limitations
+
+(00:33:42) Lower GLP-1 Doses, Weight Regain &amp; Muscle Loss
+
+(00:37:35) GLP-1 Side Effects, Food Noise &amp; Apathy
+
+(00:39:49) Bariatric Surgery &amp; Medical Innovation
+
+(00:46:07) Sponsor: AG1
+
+(00:47:44) Hunger &amp; Satiety: Ghrelin, CCK, GIP &amp; GLP-1
+
+(00:50:01) Retatrutide &amp; Combining Hormonal Targets
+
+(00:52:55) Ultra-Processed Foods, Overeating &amp; Leptin
+
+(00:55:32) Incretin Discovery, Exendin-4 &amp; the Gila Monster
+
+(00:59:35) Endoscopic Ultrasound &amp; Pancreatic Biopsy
+
+(01:07:40) Early Metabolic Markers, CGMs &amp; Fasting Insulin
+
+(01:13:06) Insulin Resistance &amp; Metabolic Flexibility
+
+(01:15:53) Sponsor: Function
+
+(01:17:35) Patient Data, Screening &amp; Treatment Adoption
+
+(01:26:31) AI, Robotics &amp; Improving Procedures
+
+(01:29:27) Choosing a Surgeon &amp; Measuring Procedure Quality
+
+(01:35:29) Image Guidance &amp; Hyperspectral Imaging
+
+(01:37:19) Sponsor: Our Place
+
+(01:38:56) Diagnostics &amp; Targeted Metabolic Treatments
+
+(01:42:45) Gastric Bypass, Foregut Exclusion &amp; Diabetes
+
+(01:47:59) Duodenal Liners &amp; Mucosal Resurfacing Research
+
+(01:52:58) Gut Permeability, Inflammation &amp; Fatty Liver
+
+(01:59:39) Artificial Sweeteners, Fructose, Fats &amp; Omega-3s
+
+(02:05:00) Resistance Training, Zone 2 Cardio &amp; Intervals
+
+(02:06:31) Weight Set Point &amp; Metabolic Adaptation
+
+(02:08:13) Endoscopic Sleeve Gastroplasty &amp; Fundus Ablation
+
+(02:10:30) Magnetic Intestinal Connections &amp; Combined Treatments
+
+(02:16:52) GLP-1 Gene Therapy Research
+
+(02:22:13) Innovation, Problem Solving &amp; Teamwork
+
+(02:25:58) Zero-Cost Support, Sponsors &amp; Neural Network Newsletter
+
+Disclaimer &amp; Disclosures
+Learn more about your ad choices. Visit megaphone.fm/adchoices</ns1:summary>
+      <ns2:encoded>
+        &lt;p&gt;Dr. Chris Thompson, MD, Professor of Medicine at Harvard Medical School, Chief of Interventional Gastroenterology at Mass General Brigham in Boston, and Co-Director of the Center for Weight Management and Wellness, is a world-renowned expert on gastroenterology, metabolism, nutrition, and obesity medicine. He explains how your GI tract regulates hunger, fullness, and blood sugar, as well as the gut microbiome, metabolic health, and weight loss. We also discuss common GI tract issues and which particular tests or interventions are actually useful. We discuss both GLP-1 medications and non-GLP-1 approaches to weight loss. Given that gut health is vital to all the organs of the body, overall health, and longevity, our discussion ought to be of interest and practical value to everyone, including, of course, those struggling with gut health or weight loss challenges.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Thank you to our sponsors&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AG1: &lt;a href="https://drinkag1.com/huberman"&gt;https://drinkag1.com/huberman&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Function: &lt;a href="https://functionhealth.com/huberman"&gt;https://functionhealth.com/huberman&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Lingo: &lt;a href="https://hellolingo.com/huberman"&gt;https://hellolingo.com/huberman&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;LMNT: &lt;a href="https://drinklmnt.com/huberman"&gt;https://drinklmnt.com/huberman&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Our Place: &lt;a href="https://fromourplace.com/huberman"&gt;https://fromourplace.com/huberman&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Timestamps&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;(00:00:00) Dr. Chris Thompson&lt;/p&gt;
+&lt;p&gt;(00:02:16) Digestive Tract, Gut Hormones &amp;amp; Nutrient Absorption&lt;/p&gt;
+&lt;p&gt;(00:08:06) Colon Microbiome &amp;amp; Colon Cancer Screening&lt;/p&gt;
+&lt;p&gt;(00:11:13) Sponsors: LMNT &amp;amp; Lingo&lt;/p&gt;
+&lt;p&gt;(00:13:40) Swallowing Problems &amp;amp; Zenker's Diverticula&lt;/p&gt;
+&lt;p&gt;(00:16:08) Bowel Movements &amp;amp; Constipation&lt;/p&gt;
+&lt;p&gt;(00:18:28) Fiber, Resistant Starch &amp;amp; the Gut Barrier&lt;/p&gt;
+&lt;p&gt;(00:21:50) Intermittent Fasting &amp;amp; the Gut Microbiome&lt;/p&gt;
+&lt;p&gt;(00:23:38) Fermented Foods, Microbial Diversity &amp;amp; Butyrate&lt;/p&gt;
+&lt;p&gt;(00:27:12) H. pylori, Stress &amp;amp; Stomach Ulcers&lt;/p&gt;
+&lt;p&gt;(00:30:20) GLP-1 Medications: Benefits &amp;amp; Limitations&lt;/p&gt;
+&lt;p&gt;(00:33:42) Lower GLP-1 Doses, Weight Regain &amp;amp; Muscle Loss&lt;/p&gt;
+&lt;p&gt;(00:37:35) GLP-1 Side Effects, Food Noise &amp;amp; Apathy&lt;/p&gt;
+&lt;p&gt;(00:39:49) Bariatric Surgery &amp;amp; Medical Innovation&lt;/p&gt;
+&lt;p&gt;(00:46:07) Sponsor: AG1&lt;/p&gt;
+&lt;p&gt;(00:47:44) Hunger &amp;amp; Satiety: Ghrelin, CCK, GIP &amp;amp; GLP-1&lt;/p&gt;
+&lt;p&gt;(00:50:01) Retatrutide &amp;amp; Combining Hormonal Targets&lt;/p&gt;
+&lt;p&gt;(00:52:55) Ultra-Processed Foods, Overeating &amp;amp; Leptin&lt;/p&gt;
+&lt;p&gt;(00:55:32) Incretin Discovery, Exendin-4 &amp;amp; the Gila Monster&lt;/p&gt;
+&lt;p&gt;(00:59:35) Endoscopic Ultrasound &amp;amp; Pancreatic Biopsy&lt;/p&gt;
+&lt;p&gt;(01:07:40) Early Metabolic Markers, CGMs &amp;amp; Fasting Insulin&lt;/p&gt;
+&lt;p&gt;(01:13:06) Insulin Resistance &amp;amp; Metabolic Flexibility&lt;/p&gt;
+&lt;p&gt;(01:15:53) Sponsor: Function&lt;/p&gt;
+&lt;p&gt;(01:17:35) Patient Data, Screening &amp;amp; Treatment Adoption&lt;/p&gt;
+&lt;p&gt;(01:26:31) AI, Robotics &amp;amp; Improving Procedures&lt;/p&gt;
+&lt;p&gt;(01:29:27) Choosing a Surgeon &amp;amp; Measuring Procedure Quality&lt;/p&gt;
+&lt;p&gt;(01:35:29) Image Guidance &amp;amp; Hyperspectral Imaging&lt;/p&gt;
+&lt;p&gt;(01:37:19) Sponsor: Our Place&lt;/p&gt;
+&lt;p&gt;(01:38:56) Diagnostics &amp;amp; Targeted Metabolic Treatments&lt;/p&gt;
+&lt;p&gt;(01:42:45) Gastric Bypass, Foregut Exclusion &amp;amp; Diabetes&lt;/p&gt;
+&lt;p&gt;(01:47:59) Duodenal Liners &amp;amp; Mucosal Resurfacing Research&lt;/p&gt;
+&lt;p&gt;(01:52:58) Gut Permeability, Inflammation &amp;amp; Fatty Liver&lt;/p&gt;
+&lt;p&gt;(01:59:39) Artificial Sweeteners, Fructose, Fats &amp;amp; Omega-3s&lt;/p&gt;
+&lt;p&gt;(02:05:00) Resistance Training, Zone 2 Cardio &amp;amp; Intervals&lt;/p&gt;
+&lt;p&gt;(02:06:31) Weight Set Point &amp;amp; Metabolic Adaptation&lt;/p&gt;
+&lt;p&gt;(02:08:13) Endoscopic Sleeve Gastroplasty &amp;amp; Fundus Ablation&lt;/p&gt;
+&lt;p&gt;(02:10:30) Magnetic Intestinal Connections &amp;amp; Combined Treatments&lt;/p&gt;
+&lt;p&gt;(02:16:52) GLP-1 Gene Therapy Research&lt;/p&gt;
+&lt;p&gt;(02:22:13) Innovation, Problem Solving &amp;amp; Teamwork&lt;/p&gt;
+&lt;p&gt;(02:25:58) Zero-Cost Support, Sponsors &amp;amp; Neural Network Newsletter&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.hubermanlab.com/disclaimer"&gt;Disclaimer &amp;amp; Disclosures&lt;/a&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;Learn more about your ad choices. Visit &lt;a href="https://megaphone.fm/adchoices"&gt;megaphone.fm/adchoices&lt;/a&gt;&lt;/p&gt;
+      </ns2:encoded>
+      <ns1:duration>8888</ns1:duration>
+      <ns1:explicit>no</ns1:explicit>
+      <guid isPermaLink="false">e3e1190e-b57e-11f1-9a2b-0fd85f8c12f8</guid>
+      <enclosure url="https://traffic.megaphone.fm/SCIM7025523715.mp3" length="0" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Essentials: How to Assess &amp; Improve All Aspects of Your Fitness | Dr. Andy Galpin</title>
+      <link>https://www.hubermanlab.com/episode/essentials-how-to-assess-and-improve-all-aspects-of-your-fitness-andy-galpin</link>
+      <description>In this Huberman Lab Essentials episode, my guest is Dr. Andy Galpin, PhD, an exercise physiologist. We revisit the first episode of his Huberman Lab Guest Series to discuss the nine major components of physical fitness and how to assess your abilities. We explain practical tests for movement quality, power, strength, muscle mass and endurance, including grip strength, push-ups and VO2 max. We also discuss how to organize fitness testing, track progress and identify which areas to prioritize in your training to support long-term health and performance.
+
+Read the episode show notes at hubermanlab.com.
+
+Thank you to our sponsors
+
+AG1: https://drinkag1.com/huberman
+
+Eight Sleep: https://eightsleep.com/huberman
+
+David: https://davidprotein.com/huberman
+
+Timestamps
+
+(00:00:00) Andy Galpin
+
+(00:00:44) Fitness Goals, Appearance &amp; Performance
+
+(00:02:32) Nine Components of Physical Fitness
+
+(00:05:54) Sponsor: Eight Sleep
+
+(00:07:21) Movement Skill, Tool: Assessing Movement Quality
+
+(00:11:11) Speed Testing
+
+(00:11:34) Power, Tool: Standing Broad Jump
+
+(00:12:55) Grip Strength, Dynamometers &amp; Dead Hangs
+
+(00:14:51) Sponsor: AG1
+
+(00:16:12) Lower Body Strength, Leg Extensions &amp; Squat Holds
+
+(00:18:47) Safe Testing, Technique &amp; Consistent Warm-Ups
+
+(00:19:45) Muscle Mass, Body Composition &amp; Fat-Free Mass Index
+
+(00:21:51) Muscular Endurance, Planks &amp; Push-Ups
+
+(00:23:21) Anaerobic Capacity, Maximum Effort Tests
+
+(00:24:55) Maximum Heart Rate &amp; Heart Rate Recovery
+
+(00:26:10) VO2 Max, Running &amp; Walking Tests
+
+(00:27:52) Sponsor: David
+
+(00:29:15) Long-Duration Endurance, Steady-State Exercise &amp; Nasal Breathing
+
+(00:30:16) Testing Frequency, Test Order &amp; Training Priorities
+
+(00:34:34) Acknowledgements
+
+Disclaimer &amp; Disclosures
+
+
+Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
+      <pubDate>Thu, 17 Sep 2026 08:00:00 -0000</pubDate>
+      <ns1:episodeType>full</ns1:episodeType>
+      <ns1:author>Scicomm Media</ns1:author>
+      <ns1:image href="https://megaphone.imgix.net/podcasts/07e9f8b8-b244-11f1-b80b-9fee5bb32f26/image/c939ff80ce31857dd7c3855498b342f4.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress" />
+      <ns1:subtitle>In this ⁠Huberman Lab Essentials⁠ episode, my guest is Dr. Andy Galpin, PhD, an exercise physiologist. </ns1:subtitle>
+      <ns1:summary>In this Huberman Lab Essentials episode, my guest is Dr. Andy Galpin, PhD, an exercise physiologist. We revisit the first episode of his Huberman Lab Guest Series to discuss the nine major components of physical fitness and how to assess your abilities. We explain practical tests for movement quality, power, strength, muscle mass and endurance, including grip strength, push-ups and VO2 max. We also discuss how to organize fitness testing, track progress and identify which areas to prioritize in your training to support long-term health and performance.
+
+Read the episode show notes at hubermanlab.com.
+
+Thank you to our sponsors
+
+AG1: https://drinkag1.com/huberman
+
+Eight Sleep: https://eightsleep.com/huberman
+
+David: https://davidprotein.com/huberman
+
+Timestamps
+
+(00:00:00) Andy Galpin
+
+(00:00:44) Fitness Goals, Appearance &amp; Performance
+
+(00:02:32) Nine Components of Physical Fitness
+
+(00:05:54) Sponsor: Eight Sleep
+
+(00:07:21) Movement Skill, Tool: Assessing Movement Quality
+
+(00:11:11) Speed Testing
+
+(00:11:34) Power, Tool: Standing Broad Jump
+
+(00:12:55) Grip Strength, Dynamometers &amp; Dead Hangs
+
+(00:14:51) Sponsor: AG1
+
+(00:16:12) Lower Body Strength, Leg Extensions &amp; Squat Holds
+
+(00:18:47) Safe Testing, Technique &amp; Consistent Warm-Ups
+
+(00:19:45) Muscle Mass, Body Composition &amp; Fat-Free Mass Index
+
+(00:21:51) Muscular Endurance, Planks &amp; Push-Ups
+
+(00:23:21) Anaerobic Capacity, Maximum Effort Tests
+
+(00:24:55) Maximum Heart Rate &amp; Heart Rate Recovery
+
+(00:26:10) VO2 Max, Running &amp; Walking Tests
+
+(00:27:52) Sponsor: David
+
+(00:29:15) Long-Duration Endurance, Steady-State Exercise &amp; Nasal Breathing
+
+(00:30:16) Testing Frequency, Test Order &amp; Training Priorities
+
+(00:34:34) Acknowledgements
+
+Disclaimer &amp; Disclosures
+
+
+Learn more about your ad choices. Visit megaphone.fm/adchoices</ns1:summary>
+      <ns2:encoded>
+        &lt;p&gt;In this &lt;a href="https://www.hubermanlab.com/essentials"&gt;Huberman Lab Essentials&lt;/a&gt; episode, my guest is Dr. Andy Galpin, PhD, an exercise physiologist. We revisit the &lt;a href="https://www.hubermanlab.com/episode/dr-andy-galpin-how-to-assess-improve-all-aspects-of-your-fitness"&gt;first episode of his Huberman Lab Guest Series&lt;/a&gt; to discuss the nine major components of physical fitness and how to assess your abilities. We explain practical tests for movement quality, power, strength, muscle mass and endurance, including grip strength, push-ups and VO2 max. We also discuss how to organize fitness testing, track progress and identify which areas to prioritize in your training to support long-term health and performance.&lt;/p&gt;
+&lt;p&gt;Read the episode show notes at &lt;a href="https://www.hubermanlab.com/episode/essentials-how-to-assess-and-improve-all-aspects-of-your-fitness-andy-galpin"&gt;hubermanlab.com&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Thank you to our sponsors&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AG1: &lt;a href="https://drinkag1.com/huberman"&gt;https://drinkag1.com/huberman&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Eight Sleep: &lt;a href="https://eightsleep.com/huberman"&gt;https://eightsleep.com/huberman&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;David: &lt;a href="https://davidprotein.com/huberman"&gt;https://davidprotein.com/huberman&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Timestamps&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;(00:00:00) Andy Galpin&lt;/p&gt;
+&lt;p&gt;(00:00:44) Fitness Goals, Appearance &amp;amp; Performance&lt;/p&gt;
+&lt;p&gt;(00:02:32) Nine Components of Physical Fitness&lt;/p&gt;
+&lt;p&gt;(00:05:54) Sponsor: Eight Sleep&lt;/p&gt;
+&lt;p&gt;(00:07:21) Movement Skill, Tool: Assessing Movement Quality&lt;/p&gt;
+&lt;p&gt;(00:11:11) Speed Testing&lt;/p&gt;
+&lt;p&gt;(00:11:34) Power, Tool: Standing Broad Jump&lt;/p&gt;
+&lt;p&gt;(00:12:55) Grip Strength, Dynamometers &amp;amp; Dead Hangs&lt;/p&gt;
+&lt;p&gt;(00:14:51) Sponsor: AG1&lt;/p&gt;
+&lt;p&gt;(00:16:12) Lower Body Strength, Leg Extensions &amp;amp; Squat Holds&lt;/p&gt;
+&lt;p&gt;(00:18:47) Safe Testing, Technique &amp;amp; Consistent Warm-Ups&lt;/p&gt;
+&lt;p&gt;(00:19:45) Muscle Mass, Body Composition &amp;amp; Fat-Free Mass Index&lt;/p&gt;
+&lt;p&gt;(00:21:51) Muscular Endurance, Planks &amp;amp; Push-Ups&lt;/p&gt;
+&lt;p&gt;(00:23:21) Anaerobic Capacity, Maximum Effort Tests&lt;/p&gt;
+&lt;p&gt;(00:24:55) Maximum Heart Rate &amp;amp; Heart Rate Recovery&lt;/p&gt;
+&lt;p&gt;(00:26:10) VO2 Max, Running &amp;amp; Walking Tests&lt;/p&gt;
+&lt;p&gt;(00:27:52) Sponsor: David&lt;/p&gt;
+&lt;p&gt;(00:29:15) Long-Duration Endurance, Steady-State Exercise &amp;amp; Nasal Breathing&lt;/p&gt;
+&lt;p&gt;(00:30:16) Testing Frequency, Test Order &amp;amp; Training Priorities&lt;/p&gt;
+&lt;p&gt;(00:34:34) Acknowledgements&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.hubermanlab.com/disclaimer"&gt;Disclaimer &amp;amp; Disclosures&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;Learn more about your ad choices. Visit &lt;a href="https://megaphone.fm/adchoices"&gt;megaphone.fm/adchoices&lt;/a&gt;&lt;/p&gt;
+      </ns2:encoded>
+      <ns1:duration>2141</ns1:duration>
+      <ns1:explicit>no</ns1:explicit>
+      <guid isPermaLink="false">07e9f8b8-b244-11f1-b80b-9fee5bb32f26</guid>
+      <enclosure url="https://traffic.megaphone.fm/SCIM5641095924.mp3" length="0" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Art of True Happiness | Dr. Arthur Brooks</title>
+      <link>https://www.hubermanlab.com/episode/the-art-of-true-happiness-arthur-brooks</link>
+      <description>Dr. Arthur Brooks, PhD, professor at Vanderbilt University and senior fellow at Harvard Business School, is an expert on the science of happiness. He shares the three “macronutrients” of true happiness and tools for you to understand what specifically is in the way of you accessing more happiness and a sense of purpose. Dr. Brooks’ work goes beyond stories and observations by offering potent self-discovery tools for you to identify what truly matters most to you and how to shape your life around those things, and doing so, experience more joy and fulfillment. 
+
+Show notes: https://go.hubermanlab.com/298-arthur-brooks
+
+Pre-order Andrew's book Protocols: https://protocolsbook.com
+
+Thank you to our sponsors
+
+AG1: https://drinkag1.com/huberman
+
+Our Place: https://fromourplace.com/huberman
+
+Helix Sleep: https://helixsleep.com/huberman
+
+David: https://davidprotein.com/huberman
+
+LMNT: https://drinklmnt.com/huberman
+
+Timestamps
+
+(00:00:00) Arthur Brooks
+
+(00:02:40) Public Science Education
+
+(00:04:18) Happiness, Unhappiness, Tool: 3 Macronutrients of Happiness
+
+(00:07:44) #1: Enjoyment, Pleasure; Animal Impulses vs Moral Aspirations; Exercise
+
+(00:17:35) Sponsors: OurPlace &amp; Helix Sleep
+
+(00:20:41) Positive Self-Reflection, Public Commitments &amp; Declare Moral Aspiration
+
+(00:26:45) Moral Differences, Politics
+
+(00:34:02) Tool: Proper Leisure &amp; Values; Enrichment
+
+(00:41:47) Deepening Relationships &amp; Shared Suffering
+
+(00:48:50) Sponsor: AG1
+
+(00:50:08) #2: Satisfaction, Struggle &amp; Purpose
+
+(00:56:32) Struggle &amp; Leisure, High Achievers; Happier with Age, Retirement
+
+(01:03:26) #3: Meaning, Regret, Idols
+
+(01:10:10) Sponsor: David
+
+(01:11:20) Regret, Tool: Identifying Your Idol, Four Idols
+
+(01:29:29) Vices &amp; Virtues, Resisting Vices &amp; Pursuing Moral Aspirations
+
+(01:35:50) Admiration &amp; Unique Self-Expression; Heroes
+
+(01:44:43) Teaching &amp; Sharing Knowledge
+
+(01:49:55) Sponsor: LMNT
+
+(01:51:15) Idols &amp; Hedonic Treadmill, Addictive Behaviors &amp; Quantification
+
+(01:58:26) Life Meaning &amp; Fundamental Experiences, Tool: Break Technology Addiction
+
+(02:07:02) Faith, Gradual Exploration, Desire for the Divine
+
+(02:12:20) Atheism, Death &amp; Nonexistence; Practice Before Feeling
+
+(02:18:18) Practicing Faith, Aging &amp; Deepening Faith; Prayer Practice
+
+(02:26:53) Spouse Relationship; Addiction, Workaholism
+
+(02:35:06) Meaning of Your Life, Tool: 3 Questions of Meaning
+
+(02:43:25) Acknowledgments, Pilgrimages
+
+(02:47:23) Zero-Cost Support, YouTube, Spotify &amp; Apple Follow, Reviews &amp; Feedback, Sponsors, Protocols Book, Social Media, Neural Network Newsletter
+
+Disclaimer &amp; Disclosures
+Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
+      <pubDate>Mon, 14 Sep 2026 08:00:00 -0000</pubDate>
+      <ns1:episodeType>full</ns1:episodeType>
+      <ns1:episode>298</ns1:episode>
+      <ns1:author>Scicomm Media</ns1:author>
+      <ns1:subtitle>Dr. Arthur Brooks, PhD, professor at Vanderbilt University and senior fellow at Harvard Business School, is an expert on the science of happiness.</ns1:subtitle>
+      <ns1:summary>Dr. Arthur Brooks, PhD, professor at Vanderbilt University and senior fellow at Harvard Business School, is an expert on the science of happiness. He shares the three “macronutrients” of true happiness and tools for you to understand what specifically is in the way of you accessing more happiness and a sense of purpose. Dr. Brooks’ work goes beyond stories and observations by offering potent self-discovery tools for you to identify what truly matters most to you and how to shape your life around those things, and doing so, experience more joy and fulfillment. 
+
+Show notes: https://go.hubermanlab.com/298-arthur-brooks
+
+Pre-order Andrew's book Protocols: https://protocolsbook.com
+
+Thank you to our sponsors
+
+AG1: https://drinkag1.com/huberman
+
+Our Place: https://fromourplace.com/huberman
+
+Helix Sleep: https://helixsleep.com/huberman
+
+David: https://davidprotein.com/huberman
+
+LMNT: https://drinklmnt.com/huberman
+
+Timestamps
+
+(00:00:00) Arthur Brooks
+
+(00:02:40) Public Science Education
+
+(00:04:18) Happiness, Unhappiness, Tool: 3 Macronutrients of Happiness
+
+(00:07:44) #1: Enjoyment, Pleasure; Animal Impulses vs Moral Aspirations; Exercise
+
+(00:17:35) Sponsors: OurPlace &amp; Helix Sleep
+
+(00:20:41) Positive Self-Reflection, Public Commitments &amp; Declare Moral Aspiration
+
+(00:26:45) Moral Differences, Politics
+
+(00:34:02) Tool: Proper Leisure &amp; Values; Enrichment
+
+(00:41:47) Deepening Relationships &amp; Shared Suffering
+
+(00:48:50) Sponsor: AG1
+
+(00:50:08) #2: Satisfaction, Struggle &amp; Purpose
+
+(00:56:32) Struggle &amp; Leisure, High Achievers; Happier with Age, Retirement
+
+(01:03:26) #3: Meaning, Regret, Idols
+
+(01:10:10) Sponsor: David
+
+(01:11:20) Regret, Tool: Identifying Your Idol, Four Idols
+
+(01:29:29) Vices &amp; Virtues, Resisting Vices &amp; Pursuing Moral Aspirations
+
+(01:35:50) Admiration &amp; Unique Self-Expression; Heroes
+
+(01:44:43) Teaching &amp; Sharing Knowledge
+
+(01:49:55) Sponsor: LMNT
+
+(01:51:15) Idols &amp; Hedonic Treadmill, Addictive Behaviors &amp; Quantification
+
+(01:58:26) Life Meaning &amp; Fundamental Experiences, Tool: Break Technology Addiction
+
+(02:07:02) Faith, Gradual Exploration, Desire for the Divine
+
+(02:12:20) Atheism, Death &amp; Nonexistence; Practice Before Feeling
+
+(02:18:18) Practicing Faith, Aging &amp; Deepening Faith; Prayer Practice
+
+(02:26:53) Spouse Relationship; Addiction, Workaholism
+
+(02:35:06) Meaning of Your Life, Tool: 3 Questions of Meaning
+
+(02:43:25) Acknowledgments, Pilgrimages
+
+(02:47:23) Zero-Cost Support, YouTube, Spotify &amp; Apple Follow, Reviews &amp; Feedback, Sponsors, Protocols Book, Social Media, Neural Network Newsletter
+
+Disclaimer &amp; Disclosures
+Learn more about your ad choices. Visit megaphone.fm/adchoices</ns1:summary>
+      <ns2:encoded>
+        &lt;p&gt;Dr. Arthur Brooks, PhD, professor at Vanderbilt University and senior fellow at Harvard Business School, is an expert on the science of happiness. He shares the three “macronutrients” of true happiness and tools for you to understand what specifically is in the way of you accessing more happiness and a sense of purpose. Dr. Brooks’ work goes beyond stories and observations by offering potent self-discovery tools for you to identify what truly matters most to you and how to shape your life around those things, and doing so, experience more joy and fulfillment. &lt;/p&gt;
+&lt;p&gt;Show notes: &lt;a href="https://go.hubermanlab.com/298-arthur-brooks"&gt;https://go.hubermanlab.com/298-arthur-brooks&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Pre-order Andrew's book Protocols: &lt;a href="https://protocolsbook.com"&gt;https://protocolsbook.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Thank you to our sponsors&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AG1: &lt;a href="https://drinkag1.com/huberman"&gt;https://drinkag1.com/huberman&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Our Place: &lt;a href="https://fromourplace.com/huberman"&gt;https://fromourplace.com/huberman&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Helix Sleep: &lt;a href="https://helixsleep.com/huberman"&gt;https://helixsleep.com/huberman&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;David: &lt;a href="https://davidprotein.com/huberman"&gt;https://davidprotein.com/huberman&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;LMNT: &lt;a href="https://drinklmnt.com/huberman"&gt;https://drinklmnt.com/huberman&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Timestamps&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;(00:00:00) Arthur Brooks&lt;/p&gt;
+&lt;p&gt;(00:02:40) Public Science Education&lt;/p&gt;
+&lt;p&gt;(00:04:18) Happiness, Unhappiness, Tool: 3 Macronutrients of Happiness&lt;/p&gt;
+&lt;p&gt;(00:07:44) #1: Enjoyment, Pleasure; Animal Impulses vs Moral Aspirations; Exercise&lt;/p&gt;
+&lt;p&gt;(00:17:35) Sponsors: OurPlace &amp;amp; Helix Sleep&lt;/p&gt;
+&lt;p&gt;(00:20:41) Positive Self-Reflection, Public Commitments &amp;amp; Declare Moral Aspiration&lt;/p&gt;
+&lt;p&gt;(00:26:45) Moral Differences, Politics&lt;/p&gt;
+&lt;p&gt;(00:34:02) Tool: Proper Leisure &amp;amp; Values; Enrichment&lt;/p&gt;
+&lt;p&gt;(00:41:47) Deepening Relationships &amp;amp; Shared Suffering&lt;/p&gt;
+&lt;p&gt;(00:48:50) Sponsor: AG1&lt;/p&gt;
+&lt;p&gt;(00:50:08) #2: Satisfaction, Struggle &amp;amp; Purpose&lt;/p&gt;
+&lt;p&gt;(00:56:32) Struggle &amp;amp; Leisure, High Achievers; Happier with Age, Retirement&lt;/p&gt;
+&lt;p&gt;(01:03:26) #3: Meaning, Regret, Idols&lt;/p&gt;
+&lt;p&gt;(01:10:10) Sponsor: David&lt;/p&gt;
+&lt;p&gt;(01:11:20) Regret, Tool: Identifying Your Idol, Four Idols&lt;/p&gt;
+&lt;p&gt;(01:29:29) Vices &amp;amp; Virtues, Resisting Vices &amp;amp; Pursuing Moral Aspirations&lt;/p&gt;
+&lt;p&gt;(01:35:50) Admiration &amp;amp; Unique Self-Expression; Heroes&lt;/p&gt;
+&lt;p&gt;(01:44:43) Teaching &amp;amp; Sharing Knowledge&lt;/p&gt;
+&lt;p&gt;(01:49:55) Sponsor: LMNT&lt;/p&gt;
+&lt;p&gt;(01:51:15) Idols &amp;amp; Hedonic Treadmill, Addictive Behaviors &amp;amp; Quantification&lt;/p&gt;
+&lt;p&gt;(01:58:26) Life Meaning &amp;amp; Fundamental Experiences, Tool: Break Technology Addiction&lt;/p&gt;
+&lt;p&gt;(02:07:02) Faith, Gradual Exploration, Desire for the Divine&lt;/p&gt;
+&lt;p&gt;(02:12:20) Atheism, Death &amp;amp; Nonexistence; Practice Before Feeling&lt;/p&gt;
+&lt;p&gt;(02:18:18) Practicing Faith, Aging &amp;amp; Deepening Faith; Prayer Practice&lt;/p&gt;
+&lt;p&gt;(02:26:53) Spouse Relationship; Addiction, Workaholism&lt;/p&gt;
+&lt;p&gt;(02:35:06) Meaning of Your Life, Tool: 3 Questions of Meaning&lt;/p&gt;
+&lt;p&gt;(02:43:25) Acknowledgments, Pilgrimages&lt;/p&gt;
+&lt;p&gt;(02:47:23) Zero-Cost Support, YouTube, Spotify &amp;amp; Apple Follow, Reviews &amp;amp; Feedback, Sponsors, Protocols Book, Social Media, Neural Network Newsletter&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.hubermanlab.com/disclaimer"&gt;Disclaimer &amp;amp; Disclosures&lt;/a&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;Learn more about your ad choices. Visit &lt;a href="https://megaphone.fm/adchoices"&gt;megaphone.fm/adchoices&lt;/a&gt;&lt;/p&gt;
+      </ns2:encoded>
+      <ns1:duration>10213</ns1:duration>
+      <ns1:explicit>no</ns1:explicit>
+      <guid isPermaLink="false">4b8cad26-afe8-11f1-825c-877fbad20543</guid>
+      <enclosure url="https://traffic.megaphone.fm/SCIM2290485637.mp3" length="0" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Essentials: Genes &amp; the Inheritance of Memories Across Generations | Dr. Oded Rechavi</title>
+      <link>https://www.hubermanlab.com/episode/essentials-genes-and-the-inheritance-of-memories-across-generations-oded-rechavi</link>
+      <description>In this Huberman Lab Essentials episode, my guest is Dr. Oded Rechavi, a professor at Tel Aviv University who studies genetics, epigenetics and the inheritance of acquired traits. We discuss how DNA, RNA and epigenetic mechanisms determine what information can pass between generations, and why acquired traits are generally not thought to be inherited. We also explain research in C. elegans showing how small RNAs can transmit antiviral resistance and influence behavior across generations, what these findings might mean for mammals and humans, and potential future applications for reproductive health and diagnostics.
+
+Thank you to our sponsors
+
+AG1: https://drinkag1.com/huberman
+
+Eight Sleep: https://eightsleep.com/huberman
+
+LMNT: https://drinklmnt.com/huberman
+
+Timestamps
+
+(00:00:00) Oded Rechavi
+
+(00:00:24) DNA, Genome, RNA &amp; Proteins
+
+(00:03:43) Somatic vs. Germ Cells; Inheritance
+
+(00:06:05) Sponsor: Eight Sleep
+
+(00:07:23) Lamarck vs. Darwin, Inheritance of Acquired Traits
+
+(00:09:45) Weismann Barrier, Epigenetic Reprogramming
+
+(00:13:05) RNA &amp; Transgenerational Inheritance
+
+(00:13:54) Model Organisms, C. elegans
+
+(00:16:59) Inheritance of Acquired Traits in C. elegans
+
+(00:17:14) Sponsor: AG1
+
+(00:18:40) RNA Interference, Small RNAs &amp; Gene Silencing
+
+(00:22:46) Viral Resistance Across Generations
+
+(00:24:53) Small RNAs, Mammals &amp; Inherited Effects
+
+(00:26:00) Brain Activity, Memory &amp; Heritable Information
+
+(00:28:46) Neuronal Small RNAs &amp; Behavior Across Generations
+
+(00:29:59) Germ Cells, Development &amp; Heritable RNA
+
+(00:31:29) Sponsor: LMNT
+
+(00:33:11) Future Applications, Exercise, IVF &amp; RNA Diagnostics
+
+(00:35:16) Acknowledgements
+
+Disclaimer &amp; Disclosures
+Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
+      <pubDate>Thu, 10 Sep 2026 08:00:00 -0000</pubDate>
+      <ns1:episodeType>full</ns1:episodeType>
+      <ns1:author>Scicomm Media</ns1:author>
+      <ns1:image href="https://megaphone.imgix.net/podcasts/a8e086bc-acd4-11f1-9687-3bc4959b6315/image/c939ff80ce31857dd7c3855498b342f4.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress" />
+      <ns1:subtitle>In this ⁠Huberman Lab Essentials⁠ episode, my guest is Dr. Oded Rechavi, a professor at Tel Aviv University who studies genetics, epigenetics and the inheritance of acquired traits.</ns1:subtitle>
+      <ns1:summary>In this Huberman Lab Essentials episode, my guest is Dr. Oded Rechavi, a professor at Tel Aviv University who studies genetics, epigenetics and the inheritance of acquired traits. We discuss how DNA, RNA and epigenetic mechanisms determine what information can pass between generations, and why acquired traits are generally not thought to be inherited. We also explain research in C. elegans showing how small RNAs can transmit antiviral resistance and influence behavior across generations, what these findings might mean for mammals and humans, and potential future applications for reproductive health and diagnostics.
+
+Thank you to our sponsors
+
+AG1: https://drinkag1.com/huberman
+
+Eight Sleep: https://eightsleep.com/huberman
+
+LMNT: https://drinklmnt.com/huberman
+
+Timestamps
+
+(00:00:00) Oded Rechavi
+
+(00:00:24) DNA, Genome, RNA &amp; Proteins
+
+(00:03:43) Somatic vs. Germ Cells; Inheritance
+
+(00:06:05) Sponsor: Eight Sleep
+
+(00:07:23) Lamarck vs. Darwin, Inheritance of Acquired Traits
+
+(00:09:45) Weismann Barrier, Epigenetic Reprogramming
+
+(00:13:05) RNA &amp; Transgenerational Inheritance
+
+(00:13:54) Model Organisms, C. elegans
+
+(00:16:59) Inheritance of Acquired Traits in C. elegans
+
+(00:17:14) Sponsor: AG1
+
+(00:18:40) RNA Interference, Small RNAs &amp; Gene Silencing
+
+(00:22:46) Viral Resistance Across Generations
+
+(00:24:53) Small RNAs, Mammals &amp; Inherited Effects
+
+(00:26:00) Brain Activity, Memory &amp; Heritable Information
+
+(00:28:46) Neuronal Small RNAs &amp; Behavior Across Generations
+
+(00:29:59) Germ Cells, Development &amp; Heritable RNA
+
+(00:31:29) Sponsor: LMNT
+
+(00:33:11) Future Applications, Exercise, IVF &amp; RNA Diagnostics
+
+(00:35:16) Acknowledgements
+
+Disclaimer &amp; Disclosures
+Learn more about your ad choices. Visit megaphone.fm/adchoices</ns1:summary>
+      <ns2:encoded>
+        &lt;p&gt;In this &lt;a href="https://www.hubermanlab.com/essentials"&gt;Huberman Lab Essentials&lt;/a&gt; episode, my guest is Dr. Oded Rechavi, a professor at Tel Aviv University who studies genetics, epigenetics and the inheritance of acquired traits. We discuss how DNA, RNA and epigenetic mechanisms determine what information can pass between generations, and why acquired traits are generally not thought to be inherited. We also explain research in C. elegans showing how small RNAs can transmit antiviral resistance and influence behavior across generations, what these findings might mean for mammals and humans, and potential future applications for reproductive health and diagnostics.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Thank you to our sponsors&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AG1: &lt;a href="https://drinkag1.com/huberman"&gt;https://drinkag1.com/huberman&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Eight Sleep: &lt;a href="https://eightsleep.com/huberman"&gt;https://eightsleep.com/huberman&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;LMNT: &lt;a href="https://drinklmnt.com/huberman"&gt;https://drinklmnt.com/huberman&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Timestamps&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;(00:00:00) Oded Rechavi&lt;/p&gt;
+&lt;p&gt;(00:00:24) DNA, Genome, RNA &amp;amp; Proteins&lt;/p&gt;
+&lt;p&gt;(00:03:43) Somatic vs. Germ Cells; Inheritance&lt;/p&gt;
+&lt;p&gt;(00:06:05) Sponsor: Eight Sleep&lt;/p&gt;
+&lt;p&gt;(00:07:23) Lamarck vs. Darwin, Inheritance of Acquired Traits&lt;/p&gt;
+&lt;p&gt;(00:09:45) Weismann Barrier, Epigenetic Reprogramming&lt;/p&gt;
+&lt;p&gt;(00:13:05) RNA &amp;amp; Transgenerational Inheritance&lt;/p&gt;
+&lt;p&gt;(00:13:54) Model Organisms, C. elegans&lt;/p&gt;
+&lt;p&gt;(00:16:59) Inheritance of Acquired Traits in C. elegans&lt;/p&gt;
+&lt;p&gt;(00:17:14) Sponsor: AG1&lt;/p&gt;
+&lt;p&gt;(00:18:40) RNA Interference, Small RNAs &amp;amp; Gene Silencing&lt;/p&gt;
+&lt;p&gt;(00:22:46) Viral Resistance Across Generations&lt;/p&gt;
+&lt;p&gt;(00:24:53) Small RNAs, Mammals &amp;amp; Inherited Effects&lt;/p&gt;
+&lt;p&gt;(00:26:00) Brain Activity, Memory &amp;amp; Heritable Information&lt;/p&gt;
+&lt;p&gt;(00:28:46) Neuronal Small RNAs &amp;amp; Behavior Across Generations&lt;/p&gt;
+&lt;p&gt;(00:29:59) Germ Cells, Development &amp;amp; Heritable RNA&lt;/p&gt;
+&lt;p&gt;(00:31:29) Sponsor: LMNT&lt;/p&gt;
+&lt;p&gt;(00:33:11) Future Applications, Exercise, IVF &amp;amp; RNA Diagnostics&lt;/p&gt;
+&lt;p&gt;(00:35:16) Acknowledgements&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.hubermanlab.com/disclaimer"&gt;Disclaimer &amp;amp; Disclosures&lt;/a&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;Learn more about your ad choices. Visit &lt;a href="https://megaphone.fm/adchoices"&gt;megaphone.fm/adchoices&lt;/a&gt;&lt;/p&gt;
+      </ns2:encoded>
+      <ns1:duration>2153</ns1:duration>
+      <ns1:explicit>no</ns1:explicit>
+      <guid isPermaLink="false">a8e086bc-acd4-11f1-9687-3bc4959b6315</guid>
+      <enclosure url="https://traffic.megaphone.fm/SCIM1624813352.mp3" length="0" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>How Mitochondria Control Your Metabolism | Dr. Jared Rutter</title>
+      <link>https://www.hubermanlab.com/episode/how-mitochondria-control-your-metabolism-jared-rutter</link>
+      <description>Dr. Jared Rutter, PhD, Professor of Biochemistry at the University of Utah and Howard Hughes Medical Institute Investigator, is a leading expert on mitochondria and metabolism. He explains how mitochondria produce the energy for your cells to work but also how they regulate cell growth and replication and thereby contribute to health and disease. We also discuss how mitochondria are linked to aging, cancer, and other diseases. Our conversation explores your metabolism as the composite of trillions of individual cells and points to new ways to improve health, avoid, and treat diseases.
+
+Show notes: https://go.hubermanlab.com/297-jared-rutter
+
+Pre-order Protocols: https://protocolsbook.com
+
+Thank you to our sponsors
+
+AG1: https://drinkag1.com/huberman
+
+Joovv: https://joovv.com/huberman
+
+BetterHelp: https://betterhelp.com/huberman
+
+Eight Sleep: https://eightsleep.com/huberman
+
+Function: https://functionhealth.com/huberman
+
+Timestamps
+
+(00:00:00) Jared Rutter
+
+(00:02:29) Metabolism, Cells; Aging
+
+(00:08:36) Mitochondria, Origin &amp; Cell Complexity
+
+(00:13:07) Sponsors: Joovv &amp; BetterHelp
+
+(00:15:16) Mitochondria Genome, Inheritance
+
+(00:18:18) Mitochondria &amp; Spatial Distribution; Cell-Specific Metabolism
+
+(00:25:59) Nutrient Energy, Hormones, Fat Cells
+
+(00:31:13) Glucose, ATP Conversion, Pyruvate
+
+(00:36:41) Cell Choice: Energy or Growth, Cancer; Virus
+
+(00:46:02) Sponsors: AG1 &amp; Eight Sleep
+
+(00:48:36) Microbiome, Role of Humans
+
+(00:51:44) Molecule Discovery Process, MPC1, MPC2
+
+(00:59:42) Cell Resource Sensing, Fasting, Glucagon, Fat Cells; Neurons, Heart
+
+(01:07:03) Cell Resource Allocation, MPC, Heart Failure; Disease
+
+(01:11:46) Sponsor: Function
+
+(01:13:24) Cell Size vs Fuel Balance, Cell Identity &amp; Disease
+
+(01:20:43) MPC Discovery, Genetics, Model Systems
+
+(01:24:29) Lactate, Oxygen, Exercise; Energy Prioritization Hierarchy
+
+(01:31:32) Cancer, Mutations, Metabolism Changes &amp; Warburg Effect
+
+(01:36:18) Cancer Challenges &amp; Therapies
+
+(01:43:00) Therapy Combinations, Unique Cancer Mutations &amp; Metabolism
+
+(01:48:31) Technology to Visualize Metabolism; Disease, Metabolism &amp; Scents
+
+(01:56:34) Excess Energy &amp; Mitochondria, Reactive Oxygen Species
+
+(02:01:12) Zero-Cost Support, YouTube, Spotify &amp; Apple Follow, Reviews &amp; Feedback, Sponsors, Protocols Book, Social Media, Neural Network Newsletter
+
+Disclaimer &amp; Disclosures
+Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
+      <pubDate>Mon, 07 Sep 2026 08:00:00 -0000</pubDate>
+      <ns1:episodeType>full</ns1:episodeType>
+      <ns1:episode>297</ns1:episode>
+      <ns1:author>Scicomm Media</ns1:author>
+      <ns1:subtitle>Jared Rutter, PhD, is Professor of Biochemistry at the University of Utah and Howard Hughes Medical Institute Investigator, is a leading expert on mitochondria and metabolism. </ns1:subtitle>
+      <ns1:summary>Dr. Jared Rutter, PhD, Professor of Biochemistry at the University of Utah and Howard Hughes Medical Institute Investigator, is a leading expert on mitochondria and metabolism. He explains how mitochondria produce the energy for your cells to work but also how they regulate cell growth and replication and thereby contribute to health and disease. We also discuss how mitochondria are linked to aging, cancer, and other diseases. Our conversation explores your metabolism as the composite of trillions of individual cells and points to new ways to improve health, avoid, and treat diseases.
+
+Show notes: https://go.hubermanlab.com/297-jared-rutter
+
+Pre-order Protocols: https://protocolsbook.com
+
+Thank you to our sponsors
+
+AG1: https://drinkag1.com/huberman
+
+Joovv: https://joovv.com/huberman
+
+BetterHelp: https://betterhelp.com/huberman
+
+Eight Sleep: https://eightsleep.com/huberman
+
+Function: https://functionhealth.com/huberman
+
+Timestamps
+
+(00:00:00) Jared Rutter
+
+(00:02:29) Metabolism, Cells; Aging
+
+(00:08:36) Mitochondria, Origin &amp; Cell Complexity
+
+(00:13:07) Sponsors: Joovv &amp; BetterHelp
+
+(00:15:16) Mitochondria Genome, Inheritance
+
+(00:18:18) Mitochondria &amp; Spatial Distribution; Cell-Specific Metabolism
+
+(00:25:59) Nutrient Energy, Hormones, Fat Cells
+
+(00:31:13) Glucose, ATP Conversion, Pyruvate
+
+(00:36:41) Cell Choice: Energy or Growth, Cancer; Virus
+
+(00:46:02) Sponsors: AG1 &amp; Eight Sleep
+
+(00:48:36) Microbiome, Role of Humans
+
+(00:51:44) Molecule Discovery Process, MPC1, MPC2
+
+(00:59:42) Cell Resource Sensing, Fasting, Glucagon, Fat Cells; Neurons, Heart
+
+(01:07:03) Cell Resource Allocation, MPC, Heart Failure; Disease
+
+(01:11:46) Sponsor: Function
+
+(01:13:24) Cell Size vs Fuel Balance, Cell Identity &amp; Disease
+
+(01:20:43) MPC Discovery, Genetics, Model Systems
+
+(01:24:29) Lactate, Oxygen, Exercise; Energy Prioritization Hierarchy
+
+(01:31:32) Cancer, Mutations, Metabolism Changes &amp; Warburg Effect
+
+(01:36:18) Cancer Challenges &amp; Therapies
+
+(01:43:00) Therapy Combinations, Unique Cancer Mutations &amp; Metabolism
+
+(01:48:31) Technology to Visualize Metabolism; Disease, Metabolism &amp; Scents
+
+(01:56:34) Excess Energy &amp; Mitochondria, Reactive Oxygen Species
+
+(02:01:12) Zero-Cost Support, YouTube, Spotify &amp; Apple Follow, Reviews &amp; Feedback, Sponsors, Protocols Book, Social Media, Neural Network Newsletter
+
+Disclaimer &amp; Disclosures
+Learn more about your ad choices. Visit megaphone.fm/adchoices</ns1:summary>
+      <ns2:encoded>
+        &lt;p&gt;Dr. Jared Rutter, PhD, Professor of Biochemistry at the University of Utah and Howard Hughes Medical Institute Investigator, is a leading expert on mitochondria and metabolism. He explains how mitochondria produce the energy for your cells to work but also how they regulate cell growth and replication and thereby contribute to health and disease. We also discuss how mitochondria are linked to aging, cancer, and other diseases. Our conversation explores your metabolism as the composite of trillions of individual cells and points to new ways to improve health, avoid, and treat diseases.&lt;/p&gt;
+&lt;p&gt;Show notes: &lt;a href="https://go.hubermanlab.com/297-jared-rutter"&gt;https://go.hubermanlab.com/297-jared-rutter&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Pre-order &lt;em&gt;Protocols&lt;/em&gt;: &lt;a href="https://protocolsbook.com"&gt;https://protocolsbook.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Thank you to our sponsors&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AG1: &lt;a href="https://drinkag1.com/huberman"&gt;https://drinkag1.com/huberman&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Joovv: &lt;a href="https://joovv.com/huberman"&gt;https://joovv.com/huberman&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;BetterHelp: &lt;a href="https://betterhelp.com/huberman"&gt;https://betterhelp.com/huberman&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Eight Sleep: &lt;a href="https://eightsleep.com/huberman"&gt;https://eightsleep.com/huberman&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Function: &lt;a href="https://functionhealth.com/huberman"&gt;https://functionhealth.com/huberman&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Timestamps&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;(00:00:00) Jared Rutter&lt;/p&gt;
+&lt;p&gt;(00:02:29) Metabolism, Cells; Aging&lt;/p&gt;
+&lt;p&gt;(00:08:36) Mitochondria, Origin &amp;amp; Cell Complexity&lt;/p&gt;
+&lt;p&gt;(00:13:07) Sponsors: Joovv &amp;amp; BetterHelp&lt;/p&gt;
+&lt;p&gt;(00:15:16) Mitochondria Genome, Inheritance&lt;/p&gt;
+&lt;p&gt;(00:18:18) Mitochondria &amp;amp; Spatial Distribution; Cell-Specific Metabolism&lt;/p&gt;
+&lt;p&gt;(00:25:59) Nutrient Energy, Hormones, Fat Cells&lt;/p&gt;
+&lt;p&gt;(00:31:13) Glucose, ATP Conversion, Pyruvate&lt;/p&gt;
+&lt;p&gt;(00:36:41) Cell Choice: Energy or Growth, Cancer; Virus&lt;/p&gt;
+&lt;p&gt;(00:46:02) Sponsors: AG1 &amp;amp; Eight Sleep&lt;/p&gt;
+&lt;p&gt;(00:48:36) Microbiome, Role of Humans&lt;/p&gt;
+&lt;p&gt;(00:51:44) Molecule Discovery Process, MPC1, MPC2&lt;/p&gt;
+&lt;p&gt;(00:59:42) Cell Resource Sensing, Fasting, Glucagon, Fat Cells; Neurons, Heart&lt;/p&gt;
+&lt;p&gt;(01:07:03) Cell Resource Allocation, MPC, Heart Failure; Disease&lt;/p&gt;
+&lt;p&gt;(01:11:46) Sponsor: Function&lt;/p&gt;
+&lt;p&gt;(01:13:24) Cell Size vs Fuel Balance, Cell Identity &amp;amp; Disease&lt;/p&gt;
+&lt;p&gt;(01:20:43) MPC Discovery, Genetics, Model Systems&lt;/p&gt;
+&lt;p&gt;(01:24:29) Lactate, Oxygen, Exercise; Energy Prioritization Hierarchy&lt;/p&gt;
+&lt;p&gt;(01:31:32) Cancer, Mutations, Metabolism Changes &amp;amp; Warburg Effect&lt;/p&gt;
+&lt;p&gt;(01:36:18) Cancer Challenges &amp;amp; Therapies&lt;/p&gt;
+&lt;p&gt;(01:43:00) Therapy Combinations, Unique Cancer Mutations &amp;amp; Metabolism&lt;/p&gt;
+&lt;p&gt;(01:48:31) Technology to Visualize Metabolism; Disease, Metabolism &amp;amp; Scents&lt;/p&gt;
+&lt;p&gt;(01:56:34) Excess Energy &amp;amp; Mitochondria, Reactive Oxygen Species&lt;/p&gt;
+&lt;p&gt;(02:01:12) Zero-Cost Support, YouTube, Spotify &amp;amp; Apple Follow, Reviews &amp;amp; Feedback, Sponsors, Protocols Book, Social Media, Neural Network Newsletter&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.hubermanlab.com/events"&gt;Disclaimer &amp;amp; Disclosures&lt;/a&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;Learn more about your ad choices. Visit &lt;a href="https://megaphone.fm/adchoices"&gt;megaphone.fm/adchoices&lt;/a&gt;&lt;/p&gt;
+      </ns2:encoded>
+      <ns1:duration>7441</ns1:duration>
+      <ns1:explicit>no</ns1:explicit>
+      <guid isPermaLink="false">ee502b96-aa66-11f1-ad04-5ff2fd270a25</guid>
+      <enclosure url="https://traffic.megaphone.fm/SCIM5888935664.mp3" length="0" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Essentials: Use Sleep to Enhance Learning, Memory &amp; Emotional State | Dr. Gina Poe</title>
+      <link>https://www.hubermanlab.com/episode/essentials-use-sleep-to-enhance-learning-memory-and-emotional-state-gina-poe</link>
+      <description>In this Huberman Lab Essentials episode, my guest is Dr. Gina Poe, PhD, a Professor of Integrative Biology and Physiology at the University of California, Los Angeles (UCLA). We discuss the architecture of sleep and how each stage supports distinct functions, including memory consolidation, creativity, brain restoration, and emotional processing. We also explain science-supported tools to improve sleep quality, support cognitive performance, and hormone balance.
+
+Show notes: https://go.hubermanlab.com/Y6JKgFE
+
+Thank you to our sponsors
+
+AG1: https://drinkag1.com/huberman
+
+LMNT: https://drinklmnt.com/huberman
+
+Eight Sleep: https://eightsleep.com/huberman
+
+Timestamps
+
+(00:00:00) Gina Poe
+
+(00:00:19) Sleep States, Perfect Night's Sleep
+
+(00:02:23) Early Sleep, Memory Processing, Dreams
+
+(00:04:34) Growth Hormone &amp; Early Sleep, Tool: Consistent Bedtime
+
+(00:06:47) Sponsor: LMNT
+
+(00:08:20) Alcohol &amp; Negative Sleep Effects
+
+(00:09:18) Middle Sleep States, Creativity
+
+(00:10:32) Waking During Night, Nighttime Urination
+
+(00:11:39) Later Sleep, REM, Deep Sleep; Sleepwalking
+
+(00:14:01) Morning Grogginess; Sleep Trackers
+
+(00:15:53) Early Sleep "Washout", Brain Waste Clearance
+
+(00:19:56) Sponsor: Eight Sleep
+
+(00:21:14) Locus Coeruleus, Learning &amp; REM Sleep, Tool: Calm Bedtime Routine
+
+(00:25:16) Sleep Spindles, P Waves, Learning &amp; Creativity
+
+(00:28:38) Sponsor: AG1
+
+(00:29:56) Trauma Recovery, REM Sleep, Locus Coeruleus
+
+(00:33:29) Acknowledgements
+
+Disclaimer &amp; Disclosures
+Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
+      <pubDate>Thu, 03 Sep 2026 08:00:00 -0000</pubDate>
+      <ns1:episodeType>full</ns1:episodeType>
+      <ns1:author>Scicomm Media</ns1:author>
+      <ns1:image href="https://megaphone.imgix.net/podcasts/5e716144-a74a-11f1-9b49-9bef3cb4a30a/image/c939ff80ce31857dd7c3855498b342f4.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress" />
+      <ns1:subtitle>In this ⁠Huberman Lab Essentials⁠ episode, my guest is Dr. Gina Poe, PhD, a Professor of Integrative Biology and Physiology at the University of California, Los Angeles (UCLA)</ns1:subtitle>
+      <ns1:summary>In this Huberman Lab Essentials episode, my guest is Dr. Gina Poe, PhD, a Professor of Integrative Biology and Physiology at the University of California, Los Angeles (UCLA). We discuss the architecture of sleep and how each stage supports distinct functions, including memory consolidation, creativity, brain restoration, and emotional processing. We also explain science-supported tools to improve sleep quality, support cognitive performance, and hormone balance.
+
+Show notes: https://go.hubermanlab.com/Y6JKgFE
+
+Thank you to our sponsors
+
+AG1: https://drinkag1.com/huberman
+
+LMNT: https://drinklmnt.com/huberman
+
+Eight Sleep: https://eightsleep.com/huberman
+
+Timestamps
+
+(00:00:00) Gina Poe
+
+(00:00:19) Sleep States, Perfect Night's Sleep
+
+(00:02:23) Early Sleep, Memory Processing, Dreams
+
+(00:04:34) Growth Hormone &amp; Early Sleep, Tool: Consistent Bedtime
+
+(00:06:47) Sponsor: LMNT
+
+(00:08:20) Alcohol &amp; Negative Sleep Effects
+
+(00:09:18) Middle Sleep States, Creativity
+
+(00:10:32) Waking During Night, Nighttime Urination
+
+(00:11:39) Later Sleep, REM, Deep Sleep; Sleepwalking
+
+(00:14:01) Morning Grogginess; Sleep Trackers
+
+(00:15:53) Early Sleep "Washout", Brain Waste Clearance
+
+(00:19:56) Sponsor: Eight Sleep
+
+(00:21:14) Locus Coeruleus, Learning &amp; REM Sleep, Tool: Calm Bedtime Routine
+
+(00:25:16) Sleep Spindles, P Waves, Learning &amp; Creativity
+
+(00:28:38) Sponsor: AG1
+
+(00:29:56) Trauma Recovery, REM Sleep, Locus Coeruleus
+
+(00:33:29) Acknowledgements
+
+Disclaimer &amp; Disclosures
+Learn more about your ad choices. Visit megaphone.fm/adchoices</ns1:summary>
+      <ns2:encoded>
+        &lt;p&gt;In this &lt;a href="https://www.hubermanlab.com/essentials"&gt;Huberman Lab Essentials&lt;/a&gt; episode, my guest is Dr. Gina Poe, PhD, a Professor of Integrative Biology and Physiology at the University of California, Los Angeles (UCLA). We discuss the architecture of sleep and how each stage supports distinct functions, including memory consolidation, creativity, brain restoration, and emotional processing. We also explain science-supported tools to improve sleep quality, support cognitive performance, and hormone balance.&lt;/p&gt;
+&lt;p&gt;Show notes: &lt;a href="https://go.hubermanlab.com/Y6JKgFE"&gt;https://go.hubermanlab.com/Y6JKgFE&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Thank you to our sponsors&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AG1: &lt;a href="https://drinkag1.com/huberman"&gt;https://drinkag1.com/huberman&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;LMNT: &lt;a href="https://drinklmnt.com/huberman"&gt;https://drinklmnt.com/huberman&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Eight Sleep: &lt;a href="https://eightsleep.com/huberman"&gt;https://eightsleep.com/huberman&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Timestamps&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;(00:00:00) Gina Poe&lt;/p&gt;
+&lt;p&gt;(00:00:19) Sleep States, Perfect Night's Sleep&lt;/p&gt;
+&lt;p&gt;(00:02:23) Early Sleep, Memory Processing, Dreams&lt;/p&gt;
+&lt;p&gt;(00:04:34) Growth Hormone &amp;amp; Early Sleep, Tool: Consistent Bedtime&lt;/p&gt;
+&lt;p&gt;(00:06:47) Sponsor: LMNT&lt;/p&gt;
+&lt;p&gt;(00:08:20) Alcohol &amp;amp; Negative Sleep Effects&lt;/p&gt;
+&lt;p&gt;(00:09:18) Middle Sleep States, Creativity&lt;/p&gt;
+&lt;p&gt;(00:10:32) Waking During Night, Nighttime Urination&lt;/p&gt;
+&lt;p&gt;(00:11:39) Later Sleep, REM, Deep Sleep; Sleepwalking&lt;/p&gt;
+&lt;p&gt;(00:14:01) Morning Grogginess; Sleep Trackers&lt;/p&gt;
+&lt;p&gt;(00:15:53) Early Sleep "Washout", Brain Waste Clearance&lt;/p&gt;
+&lt;p&gt;(00:19:56) Sponsor: Eight Sleep&lt;/p&gt;
+&lt;p&gt;(00:21:14) Locus Coeruleus, Learning &amp;amp; REM Sleep, Tool: Calm Bedtime Routine&lt;/p&gt;
+&lt;p&gt;(00:25:16) Sleep Spindles, P Waves, Learning &amp;amp; Creativity&lt;/p&gt;
+&lt;p&gt;(00:28:38) Sponsor: AG1&lt;/p&gt;
+&lt;p&gt;(00:29:56) Trauma Recovery, REM Sleep, Locus Coeruleus&lt;/p&gt;
+&lt;p&gt;(00:33:29) Acknowledgements&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.hubermanlab.com/disclaimer"&gt;Disclaimer &amp;amp; Disclosures&lt;/a&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;Learn more about your ad choices. Visit &lt;a href="https://megaphone.fm/adchoices"&gt;megaphone.fm/adchoices&lt;/a&gt;&lt;/p&gt;
+      </ns2:encoded>
+      <ns1:duration>2051</ns1:duration>
+      <ns1:explicit>no</ns1:explicit>
+      <guid isPermaLink="false">5e716144-a74a-11f1-9b49-9bef3cb4a30a</guid>
+      <enclosure url="https://traffic.megaphone.fm/SCIM7156610982.mp3" length="0" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>How to Accelerate Learning &amp; Improve Education | Joe Liemandt</title>
+      <link>https://www.hubermanlab.com/episode/how-to-accelerate-learning-and-improve-education-joe-liemandt</link>
+      <description>My guest is Joe Liemandt, technology entrepreneur and principal of Alpha School, a K-12 model that uses AI and individualized learning to help students master academics in just two hours a day, freeing the rest of their time to build businesses, conduct experiments, engage with their communities, and develop practical life skills. We discuss Alpha’s promising results, tools parents and educators can use today, and Joe’s vision for how AI could transform education and human potential.
+
+Show notes: https://go.hubermanlab.com/296-joe-liemandt
+
+Pre-order Protocols: https://protocolsbook.com
+
+Huberman Lab live events: https://www.hubermanlab.com/events
+
+Thank you to our sponsors
+
+AG1: https://drinkag1.com/huberman
+
+David: https://davidprotein.com/huberman
+
+Lingo: https://hellolingo.com/huberman
+
+Helix Sleep: https://helixsleep.com/huberman
+
+LMNT: https://drinklmnt.com/huberman
+
+Timestamps
+
+(00:00:00) Joe Liemandt
+
+(00:03:16) History of Traditional Classroom Model; Education Milestones
+
+(00:08:08) Sponsors: David &amp; Lingo
+
+(00:10:25) Alpha School, High Standards &amp; Support
+
+(00:22:33) Effective Support, Academics vs Athletics; Homeschooling
+
+(00:30:03) AI, Individualized Learning &amp; Mastery
+
+(00:34:31) Teacher Education, Standardized Tests, Role of School
+
+(00:40:52) Sponsors: AG1 &amp; Helix Sleep
+
+(00:43:42) AI, Scaffolding Learning, Mastery; Working Memory &amp; Fluency
+
+(00:52:41) Working Memory, Focus; Gifted Kids
+
+(01:00:30) Basics Mastery, Grade Level Catch-Up, Individualized AI Lessons &amp; Pace
+
+(01:06:57) Sponsor: LMNT
+
+(01:08:17) Shame, Motivation, Growth Rate; Overcoming Mental Blocks &amp; Paying Kids
+
+(01:20:55) Suffering &amp; Motivation, Kids Goals, Sports; Doing Hard Things
+
+(01:31:21) Founders High School, Life Skills; Kids' Goals
+
+(01:42:44) Reimagining Classroom Education
+
+(01:47:21) Importance of Building &amp; Creating, AI &amp; Humanity
+
+(01:58:04) Science &amp; Redesigning Experiments, Kids' Interest-Led Projects
+
+(02:05:26) Huberman Lab Live Events
+
+(02:06:14) Learning Predictors, Gender, Income; Redesigning the School System
+
+(02:18:32) Success; Sports Academy, Alpha School Expansion
+
+(02:28:36) Acknowledgements
+
+(02:31:07) Zero-Cost Support, YouTube, Spotify &amp; Apple Follow, Reviews &amp; Feedback, Sponsors, Protocols Book, Social Media, Neural Network Newsletter
+
+Disclaimer &amp; Disclosures
+Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
+      <pubDate>Mon, 31 Aug 2026 08:00:00 -0000</pubDate>
+      <ns1:episodeType>full</ns1:episodeType>
+      <ns1:episode>296</ns1:episode>
+      <ns1:author>Scicomm Media</ns1:author>
+      <ns1:subtitle>My guest is Joe Liemandt, technology entrepreneur and principal of Alpha School</ns1:subtitle>
+      <ns1:summary>My guest is Joe Liemandt, technology entrepreneur and principal of Alpha School, a K-12 model that uses AI and individualized learning to help students master academics in just two hours a day, freeing the rest of their time to build businesses, conduct experiments, engage with their communities, and develop practical life skills. We discuss Alpha’s promising results, tools parents and educators can use today, and Joe’s vision for how AI could transform education and human potential.
+
+Show notes: https://go.hubermanlab.com/296-joe-liemandt
+
+Pre-order Protocols: https://protocolsbook.com
+
+Huberman Lab live events: https://www.hubermanlab.com/events
+
+Thank you to our sponsors
+
+AG1: https://drinkag1.com/huberman
+
+David: https://davidprotein.com/huberman
+
+Lingo: https://hellolingo.com/huberman
+
+Helix Sleep: https://helixsleep.com/huberman
+
+LMNT: https://drinklmnt.com/huberman
+
+Timestamps
+
+(00:00:00) Joe Liemandt
+
+(00:03:16) History of Traditional Classroom Model; Education Milestones
+
+(00:08:08) Sponsors: David &amp; Lingo
+
+(00:10:25) Alpha School, High Standards &amp; Support
+
+(00:22:33) Effective Support, Academics vs Athletics; Homeschooling
+
+(00:30:03) AI, Individualized Learning &amp; Mastery
+
+(00:34:31) Teacher Education, Standardized Tests, Role of School
+
+(00:40:52) Sponsors: AG1 &amp; Helix Sleep
+
+(00:43:42) AI, Scaffolding Learning, Mastery; Working Memory &amp; Fluency
+
+(00:52:41) Working Memory, Focus; Gifted Kids
+
+(01:00:30) Basics Mastery, Grade Level Catch-Up, Individualized AI Lessons &amp; Pace
+
+(01:06:57) Sponsor: LMNT
+
+(01:08:17) Shame, Motivation, Growth Rate; Overcoming Mental Blocks &amp; Paying Kids
+
+(01:20:55) Suffering &amp; Motivation, Kids Goals, Sports; Doing Hard Things
+
+(01:31:21) Founders High School, Life Skills; Kids' Goals
+
+(01:42:44) Reimagining Classroom Education
+
+(01:47:21) Importance of Building &amp; Creating, AI &amp; Humanity
+
+(01:58:04) Science &amp; Redesigning Experiments, Kids' Interest-Led Projects
+
+(02:05:26) Huberman Lab Live Events
+
+(02:06:14) Learning Predictors, Gender, Income; Redesigning the School System
+
+(02:18:32) Success; Sports Academy, Alpha School Expansion
+
+(02:28:36) Acknowledgements
+
+(02:31:07) Zero-Cost Support, YouTube, Spotify &amp; Apple Follow, Reviews &amp; Feedback, Sponsors, Protocols Book, Social Media, Neural Network Newsletter
+
+Disclaimer &amp; Disclosures
+Learn more about your ad choices. Visit megaphone.fm/adchoices</ns1:summary>
+      <ns2:encoded>
+        &lt;p&gt;My guest is Joe Liemandt, technology entrepreneur and principal of Alpha School, a K-12 model that uses AI and individualized learning to help students master academics in just two hours a day, freeing the rest of their time to build businesses, conduct experiments, engage with their communities, and develop practical life skills. We discuss Alpha’s promising results, tools parents and educators can use today, and Joe’s vision for how AI could transform education and human potential.&lt;/p&gt;
+&lt;p&gt;Show notes: &lt;a href="https://go.hubermanlab.com/296-joe-liemandt"&gt;https://go.hubermanlab.com/296-joe-liemandt&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Pre-order Protocols: &lt;a href="https://protocolsbook.com"&gt;https://protocolsbook.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Huberman Lab live events: &lt;a href="https://www.hubermanlab.com/events"&gt;https://www.hubermanlab.com/events&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Thank you to our sponsors&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AG1: &lt;a href="https://drinkag1.com/huberman"&gt;https://drinkag1.com/huberman&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;David: &lt;a href="https://davidprotein.com/huberman"&gt;https://davidprotein.com/huberman&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Lingo: &lt;a href="https://hellolingo.com/huberman"&gt;https://hellolingo.com/huberman&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Helix Sleep: &lt;a href="https://helixsleep.com/huberman"&gt;https://helixsleep.com/huberman&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;LMNT: &lt;a href="https://drinklmnt.com/huberman"&gt;https://drinklmnt.com/huberman&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Timestamps&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;(00:00:00) Joe Liemandt&lt;/p&gt;
+&lt;p&gt;(00:03:16) History of Traditional Classroom Model; Education Milestones&lt;/p&gt;
+&lt;p&gt;(00:08:08) Sponsors: David &amp;amp; Lingo&lt;/p&gt;
+&lt;p&gt;(00:10:25) Alpha School, High Standards &amp;amp; Support&lt;/p&gt;
+&lt;p&gt;(00:22:33) Effective Support, Academics vs Athletics; Homeschooling&lt;/p&gt;
+&lt;p&gt;(00:30:03) AI, Individualized Learning &amp;amp; Mastery&lt;/p&gt;
+&lt;p&gt;(00:34:31) Teacher Education, Standardized Tests, Role of School&lt;/p&gt;
+&lt;p&gt;(00:40:52) Sponsors: AG1 &amp;amp; Helix Sleep&lt;/p&gt;
+&lt;p&gt;(00:43:42) AI, Scaffolding Learning, Mastery; Working Memory &amp;amp; Fluency&lt;/p&gt;
+&lt;p&gt;(00:52:41) Working Memory, Focus; Gifted Kids&lt;/p&gt;
+&lt;p&gt;(01:00:30) Basics Mastery, Grade Level Catch-Up, Individualized AI Lessons &amp;amp; Pace&lt;/p&gt;
+&lt;p&gt;(01:06:57) Sponsor: LMNT&lt;/p&gt;
+&lt;p&gt;(01:08:17) Shame, Motivation, Growth Rate; Overcoming Mental Blocks &amp;amp; Paying Kids&lt;/p&gt;
+&lt;p&gt;(01:20:55) Suffering &amp;amp; Motivation, Kids Goals, Sports; Doing Hard Things&lt;/p&gt;
+&lt;p&gt;(01:31:21) Founders High School, Life Skills; Kids' Goals&lt;/p&gt;
+&lt;p&gt;(01:42:44) Reimagining Classroom Education&lt;/p&gt;
+&lt;p&gt;(01:47:21) Importance of Building &amp;amp; Creating, AI &amp;amp; Humanity&lt;/p&gt;
+&lt;p&gt;(01:58:04) Science &amp;amp; Redesigning Experiments, Kids' Interest-Led Projects&lt;/p&gt;
+&lt;p&gt;(02:05:26) Huberman Lab Live Events&lt;/p&gt;
+&lt;p&gt;(02:06:14) Learning Predictors, Gender, Income; Redesigning the School System&lt;/p&gt;
+&lt;p&gt;(02:18:32) Success; Sports Academy, Alpha School Expansion&lt;/p&gt;
+&lt;p&gt;(02:28:36) Acknowledgements&lt;/p&gt;
+&lt;p&gt;(02:31:07) Zero-Cost Support, YouTube, Spotify &amp;amp; Apple Follow, Reviews &amp;amp; Feedback, Sponsors, &lt;a href="https://books.apple.com/us/book/protocols/id6503704496?itscg=30200&amp;amp;itsct=books_box_link&amp;amp;mttnsubad=6503704496&amp;amp;campaign_id=books_box&amp;amp;at=1000l3bop"&gt;Protocols Book&lt;/a&gt;, Social Media, Neural Network Newsletter&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.hubermanlab.com/disclaimer"&gt;Disclaimer &amp;amp; Disclosures&lt;/a&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;Learn more about your ad choices. Visit &lt;a href="https://megaphone.fm/adchoices"&gt;megaphone.fm/adchoices&lt;/a&gt;&lt;/p&gt;
+      </ns2:encoded>
+      <ns1:duration>9237</ns1:duration>
+      <ns1:explicit>no</ns1:explicit>
+      <guid isPermaLink="false">516d6f0a-a4da-11f1-9d93-cfbd04053b07</guid>
+      <enclosure url="https://traffic.megaphone.fm/SCIM7393383815.mp3" length="0" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Essentials: Diet &amp; Nutrition for Mental Health | Dr. Chris Palmer</title>
+      <description>In this Huberman Lab Essentials episode, my guest is Dr. Chris Palmer, MD, a board-certified psychiatrist and Assistant Professor of Psychiatry at Harvard Medical School. We explain how nutrition and metabolism directly affect mental health, including the biological mechanisms underlying these effects. We also discuss how carbohydrate restriction, ketogenic diets and fasting can improve mood, energy, and, in some cases, treatment-resistant psychiatric conditions.
+
+Thank you to our sponsors
+
+AG1: https://drinkag1.com/huberman
+
+Eight Sleep: https://eightsleep.com/huberman
+
+BetterHelp: https://betterhelp.com/huberman
+
+Timestamps
+
+(00:00:00) Chris Palmer
+
+(00:00:20) Personal Story, Nutrition &amp; Mental Health
+
+(00:05:28) Treatment-Resistant Mental Disorders &amp; Low-Carbohydrate Diet
+
+(00:07:32) Sponsor: Eight Sleep
+
+(00:08:51) Ketogenic Diet &amp; Schizophrenia Success Story
+
+(00:12:20) Nutrition for Mental Disorders, Ketosis, Highly Processed Foods
+
+(00:15:13) Epilepsy &amp; Ketogenic Diet, Fasting; Mitochondrial Benefits
+
+(00:21:14) Sponsor: BetterHelp
+
+(00:22:15) Mitochondria Functions, Mental Disorders
+
+(00:28:05) Mitophagy, Autophagy, Longevity &amp; Calorie Restriction
+
+(00:33:12) Sponsor: AG1
+
+(00:34:25) Carbohydrate Restriction, Depression Treatment
+
+(00:37:23) Acknowledgements
+
+Disclaimer &amp; Disclosures
+Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
+      <pubDate>Thu, 27 Aug 2026 08:00:00 -0000</pubDate>
+      <ns1:episodeType>full</ns1:episodeType>
+      <ns1:author>Scicomm Media</ns1:author>
+      <ns1:image href="https://megaphone.imgix.net/podcasts/fc952864-a1b5-11f1-b8de-73cba0073142/image/c939ff80ce31857dd7c3855498b342f4.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress" />
+      <ns1:subtitle />
+      <ns1:summary>In this Huberman Lab Essentials episode, my guest is Dr. Chris Palmer, MD, a board-certified psychiatrist and Assistant Professor of Psychiatry at Harvard Medical School. We explain how nutrition and metabolism directly affect mental health, including the biological mechanisms underlying these effects. We also discuss how carbohydrate restriction, ketogenic diets and fasting can improve mood, energy, and, in some cases, treatment-resistant psychiatric conditions.
+
+Thank you to our sponsors
+
+AG1: https://drinkag1.com/huberman
+
+Eight Sleep: https://eightsleep.com/huberman
+
+BetterHelp: https://betterhelp.com/huberman
+
+Timestamps
+
+(00:00:00) Chris Palmer
+
+(00:00:20) Personal Story, Nutrition &amp; Mental Health
+
+(00:05:28) Treatment-Resistant Mental Disorders &amp; Low-Carbohydrate Diet
+
+(00:07:32) Sponsor: Eight Sleep
+
+(00:08:51) Ketogenic Diet &amp; Schizophrenia Success Story
+
+(00:12:20) Nutrition for Mental Disorders, Ketosis, Highly Processed Foods
+
+(00:15:13) Epilepsy &amp; Ketogenic Diet, Fasting; Mitochondrial Benefits
+
+(00:21:14) Sponsor: BetterHelp
+
+(00:22:15) Mitochondria Functions, Mental Disorders
+
+(00:28:05) Mitophagy, Autophagy, Longevity &amp; Calorie Restriction
+
+(00:33:12) Sponsor: AG1
+
+(00:34:25) Carbohydrate Restriction, Depression Treatment
+
+(00:37:23) Acknowledgements
+
+Disclaimer &amp; Disclosures
+Learn more about your ad choices. Visit megaphone.fm/adchoices</ns1:summary>
+      <ns2:encoded>
+        &lt;p&gt;In this &lt;a href="https://www.hubermanlab.com/essentials"&gt;Huberman Lab Essentials&lt;/a&gt; episode, my guest is Dr. Chris Palmer, MD, a board-certified psychiatrist and Assistant Professor of Psychiatry at Harvard Medical School. We explain how nutrition and metabolism directly affect mental health, including the biological mechanisms underlying these effects. We also discuss how carbohydrate restriction, ketogenic diets and fasting can improve mood, energy, and, in some cases, treatment-resistant psychiatric conditions.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Thank you to our sponsors&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AG1: &lt;a href="https://drinkag1.com/huberman"&gt;https://drinkag1.com/huberman&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Eight Sleep: &lt;a href="https://eightsleep.com/huberman"&gt;https://eightsleep.com/huberman&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;BetterHelp: &lt;a href="https://betterhelp.com/huberman"&gt;https://betterhelp.com/huberman&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Timestamps&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;(00:00:00) Chris Palmer&lt;/p&gt;
+&lt;p&gt;(00:00:20) Personal Story, Nutrition &amp;amp; Mental Health&lt;/p&gt;
+&lt;p&gt;(00:05:28) Treatment-Resistant Mental Disorders &amp;amp; Low-Carbohydrate Diet&lt;/p&gt;
+&lt;p&gt;(00:07:32) Sponsor: Eight Sleep&lt;/p&gt;
+&lt;p&gt;(00:08:51) Ketogenic Diet &amp;amp; Schizophrenia Success Story&lt;/p&gt;
+&lt;p&gt;(00:12:20) Nutrition for Mental Disorders, Ketosis, Highly Processed Foods&lt;/p&gt;
+&lt;p&gt;(00:15:13) Epilepsy &amp;amp; Ketogenic Diet, Fasting; Mitochondrial Benefits&lt;/p&gt;
+&lt;p&gt;(00:21:14) Sponsor: BetterHelp&lt;/p&gt;
+&lt;p&gt;(00:22:15) Mitochondria Functions, Mental Disorders&lt;/p&gt;
+&lt;p&gt;(00:28:05) Mitophagy, Autophagy, Longevity &amp;amp; Calorie Restriction&lt;/p&gt;
+&lt;p&gt;(00:33:12) Sponsor: AG1&lt;/p&gt;
+&lt;p&gt;(00:34:25) Carbohydrate Restriction, Depression Treatment&lt;/p&gt;
+&lt;p&gt;(00:37:23) Acknowledgements&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.hubermanlab.com/disclaimer"&gt;Disclaimer &amp;amp; Disclosures&lt;/a&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;Learn more about your ad choices. Visit &lt;a href="https://megaphone.fm/adchoices"&gt;megaphone.fm/adchoices&lt;/a&gt;&lt;/p&gt;
+      </ns2:encoded>
+      <ns1:duration>2313</ns1:duration>
+      <ns1:explicit>no</ns1:explicit>
+      <guid isPermaLink="false">fc952864-a1b5-11f1-b8de-73cba0073142</guid>
+      <enclosure url="https://traffic.megaphone.fm/SCIM2465421786.mp3" length="0" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>How to Improve Motivation &amp; Overcome Procrastination | Dr. Masud Husain</title>
+      <link>https://www.hubermanlab.com/episode/how-to-improve-motivation-and-overcome-procrastination-masud-husain</link>
+      <description>Dr. Masud Husain is a Professor of Neurology &amp; Cognitive Neuroscience at the University of Oxford and a leading expert on the science of motivation, apathy, and neurological diseases. We discuss how dopamine and specific brain circuits shape motivation, including how the brain weighs the trade-off between effort vs reward when deciding what goals to pursue. Dr. Husain also explains practical tools to increase motivation, reduce distractions, and make it easier to start and maintain goal pursuit. We also discuss dementia, Parkinson’s and Alzheimer’s disease, including new insights into cognitive resilience and factors that help protect against age-related cognitive decline.
+
+Show notes: https://go.hubermanlab.com/masud-husain-295
+
+Thank you to our sponsors
+
+AG1: https://drinkag1.com/huberman
+
+David: https://davidprotein.com/huberman
+
+BetterHelp: https://betterhelp.com/huberman
+
+Eight Sleep: https://eightsleep.com/huberman
+
+Function: https://functionhealth.com/huberman
+
+Timestamps
+
+(00:00:00) Masud Husain
+
+(00:02:24) Apathy, Motivation
+
+(00:08:07) Rewards, Apathy &amp; Motivation; Dopamine
+
+(00:13:20) Sponsors: David &amp; BetterHelp
+
+(00:15:44) Types of Apathy; Goal Prioritization: Effort vs Rewards
+
+(00:23:26) Motivation, Apathy, Tool: Activation Energy &amp; Overthinking
+
+(00:29:24) Tools to Increase Motivation: Incentives, Subdivide Tasks, Planning
+
+(00:35:13) Subjective Effort, Mental Framing; Learning &amp; Motivation
+
+(00:42:24) Sponsors: AG1 &amp; Eight Sleep
+
+(00:44:54) Perseverance, Failure; Finding Your Passion, Depression vs Apathy
+
+(00:50:58) Self-Concept, Ambition; Life Satisfaction
+
+(00:58:25) Psychedelics, Anhedonia &amp; Changing Self
+
+(01:03:09) Personal &amp; Social Identity, Tools: Curiosity, Purpose &amp; Dementia Risk
+
+(01:11:58) Addiction, Dopamine; Social Media &amp; Dopamine "Hits"?
+
+(01:18:36) Sponsor: Function
+
+(01:20:13) Dopamine, Parkinson's Disease; Other Roles of Dopamine
+
+(01:26:59) Life Purpose, Culture; Reflection, Weighing Decisions
+
+(01:34:21) Internal &amp; External Attention
+
+(01:39:59) Internal Chatter, Distraction; Working Memory, Stimulants, Nicotine
+
+(01:48:54) ADHD, Diagnosis; Attention &amp; Motivation
+
+(01:54:34) Goal Planning &amp; Perseverance
+
+(01:59:44) Alzheimer's Disease, Dementia, Apathy, Tools: Dementia Risk Factors
+
+(02:06:55) Neurodegenerative Disease &amp; Emerging Treatments
+
+(02:10:59) Can You Train Attention?, Tool: Reduce Distraction
+
+(02:15:14) Enrichment, Art
+
+(02:17:45) Zero-Cost Support, YouTube, Spotify &amp; Apple Follow, Reviews &amp; Feedback, Sponsors, Protocols Book, Social Media, Neural Network Newsletter
+
+Disclaimer &amp; Disclosures
+Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
+      <pubDate>Mon, 24 Aug 2026 08:00:00 -0000</pubDate>
+      <ns1:episodeType>full</ns1:episodeType>
+      <ns1:episode>295</ns1:episode>
+      <ns1:author>Scicomm Media</ns1:author>
+      <ns1:subtitle>Dr. Masud Husain is a Professor of Neurology &amp; Cognitive Neuroscience at the University of Oxford and a leading expert on the science of motivation, apathy, and neurological diseases.</ns1:subtitle>
+      <ns1:summary>Dr. Masud Husain is a Professor of Neurology &amp; Cognitive Neuroscience at the University of Oxford and a leading expert on the science of motivation, apathy, and neurological diseases. We discuss how dopamine and specific brain circuits shape motivation, including how the brain weighs the trade-off between effort vs reward when deciding what goals to pursue. Dr. Husain also explains practical tools to increase motivation, reduce distractions, and make it easier to start and maintain goal pursuit. We also discuss dementia, Parkinson’s and Alzheimer’s disease, including new insights into cognitive resilience and factors that help protect against age-related cognitive decline.
+
+Show notes: https://go.hubermanlab.com/masud-husain-295
+
+Thank you to our sponsors
+
+AG1: https://drinkag1.com/huberman
+
+David: https://davidprotein.com/huberman
+
+BetterHelp: https://betterhelp.com/huberman
+
+Eight Sleep: https://eightsleep.com/huberman
+
+Function: https://functionhealth.com/huberman
+
+Timestamps
+
+(00:00:00) Masud Husain
+
+(00:02:24) Apathy, Motivation
+
+(00:08:07) Rewards, Apathy &amp; Motivation; Dopamine
+
+(00:13:20) Sponsors: David &amp; BetterHelp
+
+(00:15:44) Types of Apathy; Goal Prioritization: Effort vs Rewards
+
+(00:23:26) Motivation, Apathy, Tool: Activation Energy &amp; Overthinking
+
+(00:29:24) Tools to Increase Motivation: Incentives, Subdivide Tasks, Planning
+
+(00:35:13) Subjective Effort, Mental Framing; Learning &amp; Motivation
+
+(00:42:24) Sponsors: AG1 &amp; Eight Sleep
+
+(00:44:54) Perseverance, Failure; Finding Your Passion, Depression vs Apathy
+
+(00:50:58) Self-Concept, Ambition; Life Satisfaction
+
+(00:58:25) Psychedelics, Anhedonia &amp; Changing Self
+
+(01:03:09) Personal &amp; Social Identity, Tools: Curiosity, Purpose &amp; Dementia Risk
+
+(01:11:58) Addiction, Dopamine; Social Media &amp; Dopamine "Hits"?
+
+(01:18:36) Sponsor: Function
+
+(01:20:13) Dopamine, Parkinson's Disease; Other Roles of Dopamine
+
+(01:26:59) Life Purpose, Culture; Reflection, Weighing Decisions
+
+(01:34:21) Internal &amp; External Attention
+
+(01:39:59) Internal Chatter, Distraction; Working Memory, Stimulants, Nicotine
+
+(01:48:54) ADHD, Diagnosis; Attention &amp; Motivation
+
+(01:54:34) Goal Planning &amp; Perseverance
+
+(01:59:44) Alzheimer's Disease, Dementia, Apathy, Tools: Dementia Risk Factors
+
+(02:06:55) Neurodegenerative Disease &amp; Emerging Treatments
+
+(02:10:59) Can You Train Attention?, Tool: Reduce Distraction
+
+(02:15:14) Enrichment, Art
+
+(02:17:45) Zero-Cost Support, YouTube, Spotify &amp; Apple Follow, Reviews &amp; Feedback, Sponsors, Protocols Book, Social Media, Neural Network Newsletter
+
+Disclaimer &amp; Disclosures
+Learn more about your ad choices. Visit megaphone.fm/adchoices</ns1:summary>
+      <ns2:encoded>
+        &lt;p&gt;Dr. Masud Husain is a Professor of Neurology &amp;amp; Cognitive Neuroscience at the University of Oxford and a leading expert on the science of motivation, apathy, and neurological diseases. We discuss how dopamine and specific brain circuits shape motivation, including how the brain weighs the trade-off between effort vs reward when deciding what goals to pursue. Dr. Husain also explains practical tools to increase motivation, reduce distractions, and make it easier to start and maintain goal pursuit. We also discuss dementia, Parkinson’s and Alzheimer’s disease, including new insights into cognitive resilience and factors that help protect against age-related cognitive decline.&lt;/p&gt;
+&lt;p&gt;Show notes: &lt;a href="https://go.hubermanlab.com/masud-husain-295"&gt;https://go.hubermanlab.com/masud-husain-295&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Thank you to our sponsors&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AG1: &lt;a href="https://drinkag1.com/huberman"&gt;https://drinkag1.com/huberman&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;David: &lt;a href="https://davidprotein.com/huberman"&gt;https://davidprotein.com/huberman&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;BetterHelp: &lt;a href="https://betterhelp.com/huberman"&gt;https://betterhelp.com/huberman&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Eight Sleep: &lt;a href="https://eightsleep.com/huberman"&gt;https://eightsleep.com/huberman&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Function: &lt;a href="https://functionhealth.com/huberman"&gt;https://functionhealth.com/huberman&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Timestamps&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;(00:00:00) Masud Husain&lt;/p&gt;
+&lt;p&gt;(00:02:24) Apathy, Motivation&lt;/p&gt;
+&lt;p&gt;(00:08:07) Rewards, Apathy &amp;amp; Motivation; Dopamine&lt;/p&gt;
+&lt;p&gt;(00:13:20) Sponsors: David &amp;amp; BetterHelp&lt;/p&gt;
+&lt;p&gt;(00:15:44) Types of Apathy; Goal Prioritization: Effort vs Rewards&lt;/p&gt;
+&lt;p&gt;(00:23:26) Motivation, Apathy, Tool: Activation Energy &amp;amp; Overthinking&lt;/p&gt;
+&lt;p&gt;(00:29:24) Tools to Increase Motivation: Incentives, Subdivide Tasks, Planning&lt;/p&gt;
+&lt;p&gt;(00:35:13) Subjective Effort, Mental Framing; Learning &amp;amp; Motivation&lt;/p&gt;
+&lt;p&gt;(00:42:24) Sponsors: AG1 &amp;amp; Eight Sleep&lt;/p&gt;
+&lt;p&gt;(00:44:54) Perseverance, Failure; Finding Your Passion, Depression vs Apathy&lt;/p&gt;
+&lt;p&gt;(00:50:58) Self-Concept, Ambition; Life Satisfaction&lt;/p&gt;
+&lt;p&gt;(00:58:25) Psychedelics, Anhedonia &amp;amp; Changing Self&lt;/p&gt;
+&lt;p&gt;(01:03:09) Personal &amp;amp; Social Identity, Tools: Curiosity, Purpose &amp;amp; Dementia Risk&lt;/p&gt;
+&lt;p&gt;(01:11:58) Addiction, Dopamine; Social Media &amp;amp; Dopamine "Hits"?&lt;/p&gt;
+&lt;p&gt;(01:18:36) Sponsor: Function&lt;/p&gt;
+&lt;p&gt;(01:20:13) Dopamine, Parkinson's Disease; Other Roles of Dopamine&lt;/p&gt;
+&lt;p&gt;(01:26:59) Life Purpose, Culture; Reflection, Weighing Decisions&lt;/p&gt;
+&lt;p&gt;(01:34:21) Internal &amp;amp; External Attention&lt;/p&gt;
+&lt;p&gt;(01:39:59) Internal Chatter, Distraction; Working Memory, Stimulants, Nicotine&lt;/p&gt;
+&lt;p&gt;(01:48:54) ADHD, Diagnosis; Attention &amp;amp; Motivation&lt;/p&gt;
+&lt;p&gt;(01:54:34) Goal Planning &amp;amp; Perseverance&lt;/p&gt;
+&lt;p&gt;(01:59:44) Alzheimer's Disease, Dementia, Apathy, Tools: Dementia Risk Factors&lt;/p&gt;
+&lt;p&gt;(02:06:55) Neurodegenerative Disease &amp;amp; Emerging Treatments&lt;/p&gt;
+&lt;p&gt;(02:10:59) Can You Train Attention?, Tool: Reduce Distraction&lt;/p&gt;
+&lt;p&gt;(02:15:14) Enrichment, Art&lt;/p&gt;
+&lt;p&gt;(02:17:45) Zero-Cost Support, YouTube, Spotify &amp;amp; Apple Follow, Reviews &amp;amp; Feedback, Sponsors, Protocols Book, Social Media, Neural Network Newsletter&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.hubermanlab.com/disclaimer"&gt;Disclaimer &amp;amp; Disclosures&lt;/a&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;Learn more about your ad choices. Visit &lt;a href="https://megaphone.fm/adchoices"&gt;megaphone.fm/adchoices&lt;/a&gt;&lt;/p&gt;
+      </ns2:encoded>
+      <ns1:duration>8436</ns1:duration>
+      <ns1:explicit>no</ns1:explicit>
+      <guid isPermaLink="false">00d955ca-9f69-11f1-b5db-4f7c8998f802</guid>
+      <enclosure url="https://traffic.megaphone.fm/SCIM3386045656.mp3" length="0" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Essentials: How to Access Your Creativity | Rick Rubin</title>
+      <link>https://www.hubermanlab.com/episode/essentials-how-to-access-your-creativity-rick-rubin</link>
+      <description>In this Huberman Lab Essentials episode, my guest Rick Rubin, world-renowned music producer and author of The Creative Act: A Way of Being, and I discuss how to access creativity by noticing ideas, trusting your taste and staying fully present with the work. Rick explains the phases of the creative process and how focus, disengagement, self-doubt, deadlines and meditation can support original work. We also explore perception, pro wrestling and why remaining open to uncertainty can help anyone create more authentically.
+
+Thank you to our sponsors
+
+AG1: https://drinkag1.com/huberman
+
+LMNT: https://drinklmnt.com/huberman
+
+Timestamps
+
+(00:00:00) Rick Rubin &amp; Creativity
+
+(00:00:23) Creativity as a Dream or Cloud
+
+(00:01:53) Childhood, Openness &amp; Originality
+
+(00:03:29) Trust Your Taste; Experiment, Don't Over-Explain
+
+(00:05:28) Announcement: Protocols Live Events
+
+(00:07:07) Creative Aperture &amp; New Perspectives
+
+(00:07:48) External Feedback &amp; Staying True to the Work
+
+(00:09:14) Finishing Creative Projects
+
+(00:10:35) Focus, Disengagement &amp; the Subconscious
+
+(00:13:15) Sponsor: LMNT
+
+(00:15:04) Perception, Storytelling &amp; Uncertainty
+
+(00:17:38) Pro Wrestling, Playfulness &amp; Reality
+
+(00:18:59) Morning Routine &amp; Receptivity
+
+(00:19:50) Four Phases of Creative Work; Deadlines
+
+(00:24:47) Sponsor: AG1
+
+(00:26:08) Self-Doubt as a Creative Tool
+
+(00:27:05) Capturing Real Moments; Authenticity
+
+(00:28:10) Routines, Advice &amp; Staying Open
+
+(00:29:45) Look for Clues; Belief &amp; Attention
+
+(00:32:01) Staying Present in the Work
+
+(00:32:44) Meditation: Mantra, Breath &amp; Awareness
+
+(00:34:42) Monroe Institute Surgical Support Series
+
+Disclaimer &amp; Disclosures
+Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
+      <pubDate>Thu, 20 Aug 2026 08:00:00 -0000</pubDate>
+      <ns1:episodeType>full</ns1:episodeType>
+      <ns1:author>Scicomm Media</ns1:author>
+      <ns1:image href="https://megaphone.imgix.net/podcasts/5565a244-9c51-11f1-b8ea-e308145cac46/image/c939ff80ce31857dd7c3855498b342f4.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress" />
+      <ns1:subtitle>In this ⁠Huberman Lab Essentials⁠ episode, my guest Rick Rubin, world-renowned music producer and author of The Creative Act: A Way of Being, and I discuss how to access creativity by noticing ideas, trusting your taste and staying fully present with the work.</ns1:subtitle>
+      <ns1:summary>In this Huberman Lab Essentials episode, my guest Rick Rubin, world-renowned music producer and author of The Creative Act: A Way of Being, and I discuss how to access creativity by noticing ideas, trusting your taste and staying fully present with the work. Rick explains the phases of the creative process and how focus, disengagement, self-doubt, deadlines and meditation can support original work. We also explore perception, pro wrestling and why remaining open to uncertainty can help anyone create more authentically.
+
+Thank you to our sponsors
+
+AG1: https://drinkag1.com/huberman
+
+LMNT: https://drinklmnt.com/huberman
+
+Timestamps
+
+(00:00:00) Rick Rubin &amp; Creativity
+
+(00:00:23) Creativity as a Dream or Cloud
+
+(00:01:53) Childhood, Openness &amp; Originality
+
+(00:03:29) Trust Your Taste; Experiment, Don't Over-Explain
+
+(00:05:28) Announcement: Protocols Live Events
+
+(00:07:07) Creative Aperture &amp; New Perspectives
+
+(00:07:48) External Feedback &amp; Staying True to the Work
+
+(00:09:14) Finishing Creative Projects
+
+(00:10:35) Focus, Disengagement &amp; the Subconscious
+
+(00:13:15) Sponsor: LMNT
+
+(00:15:04) Perception, Storytelling &amp; Uncertainty
+
+(00:17:38) Pro Wrestling, Playfulness &amp; Reality
+
+(00:18:59) Morning Routine &amp; Receptivity
+
+(00:19:50) Four Phases of Creative Work; Deadlines
+
+(00:24:47) Sponsor: AG1
+
+(00:26:08) Self-Doubt as a Creative Tool
+
+(00:27:05) Capturing Real Moments; Authenticity
+
+(00:28:10) Routines, Advice &amp; Staying Open
+
+(00:29:45) Look for Clues; Belief &amp; Attention
+
+(00:32:01) Staying Present in the Work
+
+(00:32:44) Meditation: Mantra, Breath &amp; Awareness
+
+(00:34:42) Monroe Institute Surgical Support Series
+
+Disclaimer &amp; Disclosures
+Learn more about your ad choices. Visit megaphone.fm/adchoices</ns1:summary>
+      <ns2:encoded>
+        &lt;p&gt;In this &lt;a href="https://www.hubermanlab.com/essentials"&gt;Huberman Lab Essentials&lt;/a&gt; episode, my guest Rick Rubin, world-renowned music producer and author of &lt;a href="https://geni.us/jEcQ6hb"&gt;&lt;em&gt;The Creative Act: A Way of Being&lt;/em&gt;&lt;/a&gt;, and I discuss how to access creativity by noticing ideas, trusting your taste and staying fully present with the work. Rick explains the phases of the creative process and how focus, disengagement, self-doubt, deadlines and meditation can support original work. We also explore perception, pro wrestling and why remaining open to uncertainty can help anyone create more authentically.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Thank you to our sponsors&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AG1: &lt;a href="https://drinkag1.com/huberman"&gt;https://drinkag1.com/huberman&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;LMNT: &lt;a href="https://drinklmnt.com/huberman"&gt;https://drinklmnt.com/huberman&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Timestamps&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;(00:00:00) Rick Rubin &amp;amp; Creativity&lt;/p&gt;
+&lt;p&gt;(00:00:23) Creativity as a Dream or Cloud&lt;/p&gt;
+&lt;p&gt;(00:01:53) Childhood, Openness &amp;amp; Originality&lt;/p&gt;
+&lt;p&gt;(00:03:29) Trust Your Taste; Experiment, Don't Over-Explain&lt;/p&gt;
+&lt;p&gt;(00:05:28) Announcement: Protocols Live Events&lt;/p&gt;
+&lt;p&gt;(00:07:07) Creative Aperture &amp;amp; New Perspectives&lt;/p&gt;
+&lt;p&gt;(00:07:48) External Feedback &amp;amp; Staying True to the Work&lt;/p&gt;
+&lt;p&gt;(00:09:14) Finishing Creative Projects&lt;/p&gt;
+&lt;p&gt;(00:10:35) Focus, Disengagement &amp;amp; the Subconscious&lt;/p&gt;
+&lt;p&gt;(00:13:15) Sponsor: LMNT&lt;/p&gt;
+&lt;p&gt;(00:15:04) Perception, Storytelling &amp;amp; Uncertainty&lt;/p&gt;
+&lt;p&gt;(00:17:38) Pro Wrestling, Playfulness &amp;amp; Reality&lt;/p&gt;
+&lt;p&gt;(00:18:59) Morning Routine &amp;amp; Receptivity&lt;/p&gt;
+&lt;p&gt;(00:19:50) Four Phases of Creative Work; Deadlines&lt;/p&gt;
+&lt;p&gt;(00:24:47) Sponsor: AG1&lt;/p&gt;
+&lt;p&gt;(00:26:08) Self-Doubt as a Creative Tool&lt;/p&gt;
+&lt;p&gt;(00:27:05) Capturing Real Moments; Authenticity&lt;/p&gt;
+&lt;p&gt;(00:28:10) Routines, Advice &amp;amp; Staying Open&lt;/p&gt;
+&lt;p&gt;(00:29:45) Look for Clues; Belief &amp;amp; Attention&lt;/p&gt;
+&lt;p&gt;(00:32:01) Staying Present in the Work&lt;/p&gt;
+&lt;p&gt;(00:32:44) Meditation: Mantra, Breath &amp;amp; Awareness&lt;/p&gt;
+&lt;p&gt;(00:34:42) Monroe Institute Surgical Support Series&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.hubermanlab.com/disclaimer"&gt;Disclaimer &amp;amp; Disclosures&lt;/a&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;Learn more about your ad choices. Visit &lt;a href="https://megaphone.fm/adchoices"&gt;megaphone.fm/adchoices&lt;/a&gt;&lt;/p&gt;
+      </ns2:encoded>
+      <ns1:duration>2171</ns1:duration>
+      <ns1:explicit>no</ns1:explicit>
+      <guid isPermaLink="false">5565a244-9c51-11f1-b8ea-e308145cac46</guid>
+      <enclosure url="https://traffic.megaphone.fm/SCIM7816635332.mp3" length="0" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Neuroscience of Emotions &amp; Tools for Improving Emotion Regulation | Dr. Ralph Adolphs</title>
+      <description>Dr. Ralph Adolphs, PhD, is a Professor of Psychology, Neuroscience, and Biology at Caltech and a leading expert on the science of human emotions. We discuss how emotions shape our attention and decision-making, whether emotions are truly “stored” in the body, and whether facial expressions are truly reliable signals of emotion. We also cover tools for improving emotional regulation, including cognitive reappraisal and deliberate cold exposure. This episode provides a modern scientific explanation of how emotions are created and regulated in the brain and body, their many impacts on other aspects of brain function, and practical tools for improving emotional wellbeing and processing.
+
+
+
+Get tickets to Huberman Lab live events: https://www.hubermanlab.com/events
+
+Pre-order Andrew's book Protocols: https://protocolsbook.com
+
+Thank you to our sponsors
+
+AG1: https://drinkag1.com/huberman
+
+Function: https://functionhealth.com/huberman
+
+Helix Sleep: https://helixsleep.com/huberman
+
+LMNT: https://drinklmnt.com/huberman
+
+Rorra: https://rorra.com/huberman
+
+Timestamps
+
+(00:00:00) Ralph Adolphs
+
+(00:02:54) Emotions; Qualities of Emotions: Priority, Valence
+
+(00:10:00) Qualities of Emotions: Scalability, Persistence
+
+(00:15:25) Sponsors: Helix Sleep &amp; Rorra
+
+(00:18:17) Do Animals Have Emotions?, Conscious Experience
+
+(00:22:58) Monitoring &amp; Regulating Emotions; Emotional Granularity
+
+(00:31:22) Emotional Regulation, Tools: Situational Avoidance, Ice Baths
+
+(00:37:11) Ultramarathons, Perseverance, Adversity; Awe
+
+(00:45:04) Sponsor: AG1
+
+(00:46:17) Perception of Emotions, Amygdala &amp; Fear, Facial Expressions
+
+(00:51:59) Interpreting Others' Emotions, Prediction
+
+(00:57:52) Emotions as Adaptations to the Environment, Types of Fear
+
+(01:00:13) Feeling Emotions in the Body, Pain, Insula
+
+(01:08:05) Brain &amp; Body Connection; Marketing &amp; Emotion
+
+(01:12:34) Sponsor: Function
+
+(01:14:11) Art, Music &amp; Emotion
+
+(01:17:43) Interpreting Facial Expressions, Developing Emotions, Flexibility vs Reflexes
+
+(01:25:11) Emotional Intelligence, Context-Dependent Social Intelligence; Autism
+
+(01:33:31) Sponsor: LMNT
+
+(01:34:51) Autism &amp; Social Dynamics, Eye Contact
+
+(01:42:01) Change Your Personality?, Body Movement &amp; Thought, Social Interaction
+
+(01:47:18) Emotion Regulation, Tool: Training Mental Stillness
+
+(01:53:46) Task Switching, Tool: Meditation, Breathing Techniques
+
+(02:02:07) Illness, Diagnosis &amp; Emotions, Gratitude &amp; Awe
+
+(02:06:52) Zero-Cost Support, YouTube, Spotify &amp; Apple Follow, Reviews &amp; Feedback, Sponsors, Protocols Book, Social Media, Neural Network Newsletter
+
+Disclaimer &amp; Disclosures
+Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
+      <pubDate>Mon, 17 Aug 2026 08:00:00 -0000</pubDate>
+      <ns1:episodeType>full</ns1:episodeType>
+      <ns1:episode>294</ns1:episode>
+      <ns1:author>Scicomm Media</ns1:author>
+      <ns1:subtitle />
+      <ns1:summary>Dr. Ralph Adolphs, PhD, is a Professor of Psychology, Neuroscience, and Biology at Caltech and a leading expert on the science of human emotions. We discuss how emotions shape our attention and decision-making, whether emotions are truly “stored” in the body, and whether facial expressions are truly reliable signals of emotion. We also cover tools for improving emotional regulation, including cognitive reappraisal and deliberate cold exposure. This episode provides a modern scientific explanation of how emotions are created and regulated in the brain and body, their many impacts on other aspects of brain function, and practical tools for improving emotional wellbeing and processing.
+
+
+
+Get tickets to Huberman Lab live events: https://www.hubermanlab.com/events
+
+Pre-order Andrew's book Protocols: https://protocolsbook.com
+
+Thank you to our sponsors
+
+AG1: https://drinkag1.com/huberman
+
+Function: https://functionhealth.com/huberman
+
+Helix Sleep: https://helixsleep.com/huberman
+
+LMNT: https://drinklmnt.com/huberman
+
+Rorra: https://rorra.com/huberman
+
+Timestamps
+
+(00:00:00) Ralph Adolphs
+
+(00:02:54) Emotions; Qualities of Emotions: Priority, Valence
+
+(00:10:00) Qualities of Emotions: Scalability, Persistence
+
+(00:15:25) Sponsors: Helix Sleep &amp; Rorra
+
+(00:18:17) Do Animals Have Emotions?, Conscious Experience
+
+(00:22:58) Monitoring &amp; Regulating Emotions; Emotional Granularity
+
+(00:31:22) Emotional Regulation, Tools: Situational Avoidance, Ice Baths
+
+(00:37:11) Ultramarathons, Perseverance, Adversity; Awe
+
+(00:45:04) Sponsor: AG1
+
+(00:46:17) Perception of Emotions, Amygdala &amp; Fear, Facial Expressions
+
+(00:51:59) Interpreting Others' Emotions, Prediction
+
+(00:57:52) Emotions as Adaptations to the Environment, Types of Fear
+
+(01:00:13) Feeling Emotions in the Body, Pain, Insula
+
+(01:08:05) Brain &amp; Body Connection; Marketing &amp; Emotion
+
+(01:12:34) Sponsor: Function
+
+(01:14:11) Art, Music &amp; Emotion
+
+(01:17:43) Interpreting Facial Expressions, Developing Emotions, Flexibility vs Reflexes
+
+(01:25:11) Emotional Intelligence, Context-Dependent Social Intelligence; Autism
+
+(01:33:31) Sponsor: LMNT
+
+(01:34:51) Autism &amp; Social Dynamics, Eye Contact
+
+(01:42:01) Change Your Personality?, Body Movement &amp; Thought, Social Interaction
+
+(01:47:18) Emotion Regulation, Tool: Training Mental Stillness
+
+(01:53:46) Task Switching, Tool: Meditation, Breathing Techniques
+
+(02:02:07) Illness, Diagnosis &amp; Emotions, Gratitude &amp; Awe
+
+(02:06:52) Zero-Cost Support, YouTube, Spotify &amp; Apple Follow, Reviews &amp; Feedback, Sponsors, Protocols Book, Social Media, Neural Network Newsletter
+
+Disclaimer &amp; Disclosures
+Learn more about your ad choices. Visit megaphone.fm/adchoices</ns1:summary>
+      <ns2:encoded>
+        &lt;p&gt;Dr. Ralph Adolphs, PhD, is a Professor of Psychology, Neuroscience, and Biology at Caltech and a leading expert on the science of human emotions. We discuss how emotions shape our attention and decision-making, whether emotions are truly “stored” in the body, and whether facial expressions are truly reliable signals of emotion. We also cover tools for improving emotional regulation, including cognitive reappraisal and deliberate cold exposure. This episode provides a modern scientific explanation of how emotions are created and regulated in the brain and body, their many impacts on other aspects of brain function, and practical tools for improving emotional wellbeing and processing.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;a href="https://www.hubermanlab.com/episode/neuroscience-of-emotions-and-tools-for-improving-emotion-regulation-ralph-adolphs"&gt;&lt;br&gt;&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Get tickets to Huberman Lab live events: &lt;a href="https://www.hubermanlab.com/events"&gt;https://www.hubermanlab.com/events&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Pre-order Andrew's book &lt;em&gt;Protocols&lt;/em&gt;: &lt;a href="https://protocolsbook.com"&gt;https://protocolsbook.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Thank you to our sponsors&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AG1: &lt;a href="https://drinkag1.com/huberman"&gt;https://drinkag1.com/huberman&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Function: &lt;a href="https://functionhealth.com/huberman"&gt;https://functionhealth.com/huberman&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Helix Sleep: &lt;a href="https://helixsleep.com/huberman"&gt;https://helixsleep.com/huberman&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;LMNT: &lt;a href="https://drinklmnt.com/huberman"&gt;https://drinklmnt.com/huberman&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Rorra: &lt;a href="https://rorra.com/huberman"&gt;https://rorra.com/huberman&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Timestamps&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;(00:00:00) Ralph Adolphs&lt;/p&gt;
+&lt;p&gt;(00:02:54) Emotions; Qualities of Emotions: Priority, Valence&lt;/p&gt;
+&lt;p&gt;(00:10:00) Qualities of Emotions: Scalability, Persistence&lt;/p&gt;
+&lt;p&gt;(00:15:25) Sponsors: Helix Sleep &amp;amp; Rorra&lt;/p&gt;
+&lt;p&gt;(00:18:17) Do Animals Have Emotions?, Conscious Experience&lt;/p&gt;
+&lt;p&gt;(00:22:58) Monitoring &amp;amp; Regulating Emotions; Emotional Granularity&lt;/p&gt;
+&lt;p&gt;(00:31:22) Emotional Regulation, Tools: Situational Avoidance, Ice Baths&lt;/p&gt;
+&lt;p&gt;(00:37:11) Ultramarathons, Perseverance, Adversity; Awe&lt;/p&gt;
+&lt;p&gt;(00:45:04) Sponsor: AG1&lt;/p&gt;
+&lt;p&gt;(00:46:17) Perception of Emotions, Amygdala &amp;amp; Fear, Facial Expressions&lt;/p&gt;
+&lt;p&gt;(00:51:59) Interpreting Others' Emotions, Prediction&lt;/p&gt;
+&lt;p&gt;(00:57:52) Emotions as Adaptations to the Environment, Types of Fear&lt;/p&gt;
+&lt;p&gt;(01:00:13) Feeling Emotions in the Body, Pain, Insula&lt;/p&gt;
+&lt;p&gt;(01:08:05) Brain &amp;amp; Body Connection; Marketing &amp;amp; Emotion&lt;/p&gt;
+&lt;p&gt;(01:12:34) Sponsor: Function&lt;/p&gt;
+&lt;p&gt;(01:14:11) Art, Music &amp;amp; Emotion&lt;/p&gt;
+&lt;p&gt;(01:17:43) Interpreting Facial Expressions, Developing Emotions, Flexibility vs Reflexes&lt;/p&gt;
+&lt;p&gt;(01:25:11) Emotional Intelligence, Context-Dependent Social Intelligence; Autism&lt;/p&gt;
+&lt;p&gt;(01:33:31) Sponsor: LMNT&lt;/p&gt;
+&lt;p&gt;(01:34:51) Autism &amp;amp; Social Dynamics, Eye Contact&lt;/p&gt;
+&lt;p&gt;(01:42:01) Change Your Personality?, Body Movement &amp;amp; Thought, Social Interaction&lt;/p&gt;
+&lt;p&gt;(01:47:18) Emotion Regulation, Tool: Training Mental Stillness&lt;/p&gt;
+&lt;p&gt;(01:53:46) Task Switching, Tool: Meditation, Breathing Techniques&lt;/p&gt;
+&lt;p&gt;(02:02:07) Illness, Diagnosis &amp;amp; Emotions, Gratitude &amp;amp; Awe&lt;/p&gt;
+&lt;p&gt;(02:06:52) Zero-Cost Support, YouTube, Spotify &amp;amp; Apple Follow, Reviews &amp;amp; Feedback, Sponsors, Protocols Book, Social Media, Neural Network Newsletter&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.hubermanlab.com/disclaimer"&gt;Disclaimer &amp;amp; Disclosures&lt;/a&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;Learn more about your ad choices. Visit &lt;a href="https://megaphone.fm/adchoices"&gt;megaphone.fm/adchoices&lt;/a&gt;&lt;/p&gt;
+      </ns2:encoded>
+      <ns1:duration>7785</ns1:duration>
+      <ns1:explicit>no</ns1:explicit>
+      <guid isPermaLink="false">5f099660-99f0-11f1-91cd-cfc180734888</guid>
+      <enclosure url="https://traffic.megaphone.fm/SCIM1222961716.mp3" length="0" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Essentials: How to Optimize Female Hormone Health for Vitality &amp; Longevity | Dr. Sara Gottfried</title>
+      <link>https://www.hubermanlab.com/episode/essentials-how-to-optimize-female-hormone-health-for-vitality-and-longevity-sara-gottfried</link>
+      <description>In this Huberman Lab Essentials episode, my guest is Dr. Sara Gottfried, M.D., a Harvard-trained, board-certified gynecologist and expert in female hormone health. We discuss the key biomarkers women should track at each stage of life and how cortisol, thyroid hormone, estrogen, progesterone, and testosterone shape energy, mood, metabolism, and long-term disease risk. We also discuss PCOS, the risks and benefits of oral contraceptives, and the shift in brain metabolism that begins in perimenopause. Dr. Gottfried explains actionable tools for hormone and micronutrient testing, nutrition, stress management, and cardiometabolic screening that women can use at any age.
+
+Read the episode show notes at hubermanlab.com.
+
+Thank you to our sponsors
+
+AG1: https://drinkag1.com/huberman
+
+LMNT: https://drinklmnt.com/huberman
+
+Eight Sleep: https://eightsleep.com/huberman
+
+Timestamps
+
+(00:00:00) Female Hormone Health
+
+(00:00:24) Family History, Intergenerational Trauma; Endometriosis, Fibroids, PCOS
+
+(00:01:31) Biomarkers by Decade; Teens &amp; Cortisol; 20s &amp; Sex Hormones
+
+(00:03:35) Tool: Hormone Test Timing; Micronutrient Testing, Magnesium
+
+(00:05:41) Sponsor: LMNT
+
+(00:07:17) Tool: Smoothies, Greens Powders &amp; Microbiome
+
+(00:08:12) Nutrient Panels, Antioxidants, B Vitamins, Glutathione
+
+(00:09:34) Constipation, Thyroid Dysfunction; Trauma &amp; Female Physiology
+
+(00:11:50) Tools: Reduce Perceived Stress, Meditation, Yoga, Breathwork
+
+(00:13:30) Opportunities by Decade; Androgens &amp; Testosterone Decline
+
+(00:14:50) PCOS, Diagnostic Criteria, Hirsutism, Cardiometabolic Risk
+
+(00:17:10) Insulin &amp; Glucose; Tool: Continuous Glucose Monitors
+
+(00:18:05) Democratizing Health Data
+
+(00:18:52) Sponsor: AG1
+
+(00:20:07) Longevity "Don’ts"; Chronic Cardio &amp; Cortisol; Tool: Adaptive Exercise
+
+(00:22:46) Oral Contraceptives, Benefits &amp; Ovarian Cancer Risk
+
+(00:24:27) Ovarian Cancer Symptoms, Bloating, CA-125
+
+(00:25:51) Oral Contraceptive Risks, Progestins, Inflammation; SHBG &amp; Testosterone
+
+(00:29:08) Clitoral Shrinkage; Tools: Alternatives for Painful Periods
+
+(00:30:14) Sponsor: Eight Sleep
+
+(00:31:32) Menopause &amp; Perimenopause; 30s Hormonal Baseline
+
+(00:33:07) Female Brain, Cerebral Hypometabolism &amp; Alzheimer’s Risk
+
+(00:35:02) Slow Brain Energy, Hormone Therapy; Hot Flashes as Biomarkers
+
+(00:36:54) Tool: Coronary Artery Calcium Score
+
+Disclaimer &amp; Disclosures
+Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
+      <pubDate>Thu, 13 Aug 2026 08:00:00 -0000</pubDate>
+      <ns1:episodeType>full</ns1:episodeType>
+      <ns1:author>Scicomm Media</ns1:author>
+      <ns1:image href="https://megaphone.imgix.net/podcasts/d5bc4646-96ca-11f1-aaf8-2bcc5308b57c/image/c939ff80ce31857dd7c3855498b342f4.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress" />
+      <ns1:subtitle>In this ⁠Huberman Lab Essentials⁠ episode, my guest is Dr. Sara Gottfried, M.D., a Harvard-trained, board-certified gynecologist and expert in female hormone health.</ns1:subtitle>
+      <ns1:summary>In this Huberman Lab Essentials episode, my guest is Dr. Sara Gottfried, M.D., a Harvard-trained, board-certified gynecologist and expert in female hormone health. We discuss the key biomarkers women should track at each stage of life and how cortisol, thyroid hormone, estrogen, progesterone, and testosterone shape energy, mood, metabolism, and long-term disease risk. We also discuss PCOS, the risks and benefits of oral contraceptives, and the shift in brain metabolism that begins in perimenopause. Dr. Gottfried explains actionable tools for hormone and micronutrient testing, nutrition, stress management, and cardiometabolic screening that women can use at any age.
+
+Read the episode show notes at hubermanlab.com.
+
+Thank you to our sponsors
+
+AG1: https://drinkag1.com/huberman
+
+LMNT: https://drinklmnt.com/huberman
+
+Eight Sleep: https://eightsleep.com/huberman
+
+Timestamps
+
+(00:00:00) Female Hormone Health
+
+(00:00:24) Family History, Intergenerational Trauma; Endometriosis, Fibroids, PCOS
+
+(00:01:31) Biomarkers by Decade; Teens &amp; Cortisol; 20s &amp; Sex Hormones
+
+(00:03:35) Tool: Hormone Test Timing; Micronutrient Testing, Magnesium
+
+(00:05:41) Sponsor: LMNT
+
+(00:07:17) Tool: Smoothies, Greens Powders &amp; Microbiome
+
+(00:08:12) Nutrient Panels, Antioxidants, B Vitamins, Glutathione
+
+(00:09:34) Constipation, Thyroid Dysfunction; Trauma &amp; Female Physiology
+
+(00:11:50) Tools: Reduce Perceived Stress, Meditation, Yoga, Breathwork
+
+(00:13:30) Opportunities by Decade; Androgens &amp; Testosterone Decline
+
+(00:14:50) PCOS, Diagnostic Criteria, Hirsutism, Cardiometabolic Risk
+
+(00:17:10) Insulin &amp; Glucose; Tool: Continuous Glucose Monitors
+
+(00:18:05) Democratizing Health Data
+
+(00:18:52) Sponsor: AG1
+
+(00:20:07) Longevity "Don’ts"; Chronic Cardio &amp; Cortisol; Tool: Adaptive Exercise
+
+(00:22:46) Oral Contraceptives, Benefits &amp; Ovarian Cancer Risk
+
+(00:24:27) Ovarian Cancer Symptoms, Bloating, CA-125
+
+(00:25:51) Oral Contraceptive Risks, Progestins, Inflammation; SHBG &amp; Testosterone
+
+(00:29:08) Clitoral Shrinkage; Tools: Alternatives for Painful Periods
+
+(00:30:14) Sponsor: Eight Sleep
+
+(00:31:32) Menopause &amp; Perimenopause; 30s Hormonal Baseline
+
+(00:33:07) Female Brain, Cerebral Hypometabolism &amp; Alzheimer’s Risk
+
+(00:35:02) Slow Brain Energy, Hormone Therapy; Hot Flashes as Biomarkers
+
+(00:36:54) Tool: Coronary Artery Calcium Score
+
+Disclaimer &amp; Disclosures
+Learn more about your ad choices. Visit megaphone.fm/adchoices</ns1:summary>
+      <ns2:encoded>
+        &lt;p&gt;In this &lt;a href="https://www.hubermanlab.com/essentials"&gt;Huberman Lab Essentials&lt;/a&gt; episode, my guest is Dr. Sara Gottfried, M.D., a Harvard-trained, board-certified gynecologist and expert in female hormone health. We discuss the key biomarkers women should track at each stage of life and how cortisol, thyroid hormone, estrogen, progesterone, and testosterone shape energy, mood, metabolism, and long-term disease risk. We also discuss PCOS, the risks and benefits of oral contraceptives, and the shift in brain metabolism that begins in perimenopause. Dr. Gottfried explains actionable tools for hormone and micronutrient testing, nutrition, stress management, and cardiometabolic screening that women can use at any age.&lt;/p&gt;
+&lt;p&gt;Read the episode show notes at &lt;a href="https://www.hubermanlab.com/episode/essentials-how-to-optimize-female-hormone-health-for-vitality-and-longevity-sara-gottfried"&gt;hubermanlab.com&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Thank you to our sponsors&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AG1: &lt;a href="https://drinkag1.com/huberman"&gt;https://drinkag1.com/huberman&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;LMNT: &lt;a href="https://drinklmnt.com/huberman"&gt;https://drinklmnt.com/huberman&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Eight Sleep: &lt;a href="https://eightsleep.com/huberman"&gt;https://eightsleep.com/huberman&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Timestamps&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;(00:00:00) Female Hormone Health&lt;/p&gt;
+&lt;p&gt;(00:00:24) Family History, Intergenerational Trauma; Endometriosis, Fibroids, PCOS&lt;/p&gt;
+&lt;p&gt;(00:01:31) Biomarkers by Decade; Teens &amp;amp; Cortisol; 20s &amp;amp; Sex Hormones&lt;/p&gt;
+&lt;p&gt;(00:03:35) Tool: Hormone Test Timing; Micronutrient Testing, Magnesium&lt;/p&gt;
+&lt;p&gt;(00:05:41) Sponsor: LMNT&lt;/p&gt;
+&lt;p&gt;(00:07:17) Tool: Smoothies, Greens Powders &amp;amp; Microbiome&lt;/p&gt;
+&lt;p&gt;(00:08:12) Nutrient Panels, Antioxidants, B Vitamins, Glutathione&lt;/p&gt;
+&lt;p&gt;(00:09:34) Constipation, Thyroid Dysfunction; Trauma &amp;amp; Female Physiology&lt;/p&gt;
+&lt;p&gt;(00:11:50) Tools: Reduce Perceived Stress, Meditation, Yoga, Breathwork&lt;/p&gt;
+&lt;p&gt;(00:13:30) Opportunities by Decade; Androgens &amp;amp; Testosterone Decline&lt;/p&gt;
+&lt;p&gt;(00:14:50) PCOS, Diagnostic Criteria, Hirsutism, Cardiometabolic Risk&lt;/p&gt;
+&lt;p&gt;(00:17:10) Insulin &amp;amp; Glucose; Tool: Continuous Glucose Monitors&lt;/p&gt;
+&lt;p&gt;(00:18:05) Democratizing Health Data&lt;/p&gt;
+&lt;p&gt;(00:18:52) Sponsor: AG1&lt;/p&gt;
+&lt;p&gt;(00:20:07) Longevity "Don’ts"; Chronic Cardio &amp;amp; Cortisol; Tool: Adaptive Exercise&lt;/p&gt;
+&lt;p&gt;(00:22:46) Oral Contraceptives, Benefits &amp;amp; Ovarian Cancer Risk&lt;/p&gt;
+&lt;p&gt;(00:24:27) Ovarian Cancer Symptoms, Bloating, CA-125&lt;/p&gt;
+&lt;p&gt;(00:25:51) Oral Contraceptive Risks, Progestins, Inflammation; SHBG &amp;amp; Testosterone&lt;/p&gt;
+&lt;p&gt;(00:29:08) Clitoral Shrinkage; Tools: Alternatives for Painful Periods&lt;/p&gt;
+&lt;p&gt;(00:30:14) Sponsor: Eight Sleep&lt;/p&gt;
+&lt;p&gt;(00:31:32) Menopause &amp;amp; Perimenopause; 30s Hormonal Baseline&lt;/p&gt;
+&lt;p&gt;(00:33:07) Female Brain, Cerebral Hypometabolism &amp;amp; Alzheimer’s Risk&lt;/p&gt;
+&lt;p&gt;(00:35:02) Slow Brain Energy, Hormone Therapy; Hot Flashes as Biomarkers&lt;/p&gt;
+&lt;p&gt;(00:36:54) Tool: Coronary Artery Calcium Score&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.hubermanlab.com/disclaimer"&gt;Disclaimer &amp;amp; Disclosures&lt;/a&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;Learn more about your ad choices. Visit &lt;a href="https://megaphone.fm/adchoices"&gt;megaphone.fm/adchoices&lt;/a&gt;&lt;/p&gt;
+      </ns2:encoded>
+      <ns1:duration>2299</ns1:duration>
+      <ns1:explicit>no</ns1:explicit>
+      <guid isPermaLink="false">d5bc4646-96ca-11f1-aaf8-2bcc5308b57c</guid>
+      <enclosure url="https://traffic.megaphone.fm/SCIM5131677929.mp3" length="0" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Using AI to Increase Your Intelligence &amp; Enrich Humanity | Dr. Fei-Fei Li</title>
+      <link>https://www.hubermanlab.com/episode/using-ai-to-increase-your-intelligence-and-enrich-humanity-fei-fei-li</link>
+      <description>Dr. Fei-Fei Li, PhD, is a professor of computer science at Stanford University and a pioneer and expert in artificial intelligence (AI). We discuss how AI can be used safely and effectively to extend human capabilities – not just to search for information but specifically to increase human intelligence and creativity. We also discuss how humans collaborating with AI and robots stand to positively transform human health and one’s experience of life. And we cover what makes AI fundamentally different from human cognition, and why your intuition and unique experiences are not replicable by AI or machines. Both AI enthusiasts and skeptics are sure to benefit from the information and tools Dr. Fei-Fei Li shares in this episode.
+
+Read the episode show notes at hubermanlab.com.
+
+Huberman Lab live events: https://www.hubermanlab.com/events
+
+Thank you to our sponsors
+
+AG1: https://drinkag1.com/huberman
+
+David: https://davidprotein.com/huberman
+
+Lingo: https://hellolingo.com/huberman
+
+LMNT: https://drinklmnt.com/huberman
+
+Wealthfront*: https://wealthfront.com/huberman
+
+Timestamps
+
+(00:00:00) Fei-Fei Li
+
+(00:03:46) Vision &amp; Intelligence; Human Vision &amp; Contribution to AI
+
+(00:12:11) Computer Vision &amp; the AI Revolution
+
+(00:18:34) Sponsors: Lingo &amp; Wealthfront
+
+(00:21:19) Speech, Sound &amp; AI Development
+
+(00:23:36) AI &amp; Contextual Learning, Human Intelligence
+
+(00:33:43) Current AI Gaps, Emotion &amp; Creativity
+
+(00:45:48) Computers Enhancing Humanity; Tool: Personal Agency &amp; Learning about AI
+
+(00:53:04) Sponsors: AG1 &amp; LMNT
+
+(00:55:37) Public Discourse about AI
+
+(00:57:34) AI to Enhance Scientific Discovery &amp; Healthcare; Human Collaboration
+
+(01:07:38) Intuition, Motivation &amp; Human States Beyond AI
+
+(01:19:18) Sponsor: David
+
+(01:20:37) Social &amp; Ethical Considerations for AI
+
+(01:27:38) Kids, Development &amp; AI Tools; Tool: Prompt AI Effectively
+
+(01:35:04) Next Frontier for Robotics &amp; AI; Human Agency
+
+(01:43:52) Human-Centered AI Future
+
+(01:50:10) World Labs, Spatial Intelligence
+
+(01:54:12) Concerns about AI &amp; Creativity; Movies, Art, Storytelling
+
+(01:59:51) Younger Generation &amp; AI, Teachers
+
+(02:05:38) Zero-Cost Support, YouTube, Spotify &amp; Apple Follow, Reviews &amp; Feedback, Sponsors, Protocols Book, Social Media, Neural Network Newsletter
+
+*This experience may not be representative of other Wealthfront clients, and there is no guarantee of future performance or success. Experiences will vary. Andrew Huberman receives cash compensation from Wealthfront Brokerage for paid testimonials in his podcast, creating a conflict of interest. The Cash Account, which is not a deposit account, is offered by Wealthfront Brokerage LLC, member FINRA/SIPC.  Wealthfront Brokerage is not a bank. The base APY is 3.30% on cash deposits as of January 30, 2026, is representative, subject to change, and requires no minimum. If eligible for the overall boosted rate of 4.05% offered in connection with this promo, your boosted rate is also subject to change if the base rate decreases during the 3 month promo period. Additional terms and conditions apply, which can be found on Wealthfront.com/Huberman.  Funds in the Cash Account are swept to program banks, where it earns the variable APY. Same-day withdrawal or instant payment transfers may be limited by destination institutions, daily transaction caps, and by participating entities such as Wells Fargo, the RTP® Network, and FedNow® Service. New Cash Account deposits are subject to a 2-4 day holding period before becoming available for transfer. Investment advisory services are provided by Wealthfront Advisers LLC, an SEC-registered investment adviser. Securities investments: not bank deposits, bank-guaranteed or FDIC-insured, and may lose value.
+
+Disclaimer &amp; Disclosures
+Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
+      <pubDate>Mon, 10 Aug 2026 08:00:00 -0000</pubDate>
+      <ns1:episodeType>full</ns1:episodeType>
+      <ns1:author>Scicomm Media</ns1:author>
+      <ns1:subtitle>Dr. Fei-Fei Li, PhD, is a professor of computer science at Stanford University and a pioneer and expert in artificial intelligence (AI). </ns1:subtitle>
+      <ns1:summary>Dr. Fei-Fei Li, PhD, is a professor of computer science at Stanford University and a pioneer and expert in artificial intelligence (AI). We discuss how AI can be used safely and effectively to extend human capabilities – not just to search for information but specifically to increase human intelligence and creativity. We also discuss how humans collaborating with AI and robots stand to positively transform human health and one’s experience of life. And we cover what makes AI fundamentally different from human cognition, and why your intuition and unique experiences are not replicable by AI or machines. Both AI enthusiasts and skeptics are sure to benefit from the information and tools Dr. Fei-Fei Li shares in this episode.
+
+Read the episode show notes at hubermanlab.com.
+
+Huberman Lab live events: https://www.hubermanlab.com/events
+
+Thank you to our sponsors
+
+AG1: https://drinkag1.com/huberman
+
+David: https://davidprotein.com/huberman
+
+Lingo: https://hellolingo.com/huberman
+
+LMNT: https://drinklmnt.com/huberman
+
+Wealthfront*: https://wealthfront.com/huberman
+
+Timestamps
+
+(00:00:00) Fei-Fei Li
+
+(00:03:46) Vision &amp; Intelligence; Human Vision &amp; Contribution to AI
+
+(00:12:11) Computer Vision &amp; the AI Revolution
+
+(00:18:34) Sponsors: Lingo &amp; Wealthfront
+
+(00:21:19) Speech, Sound &amp; AI Development
+
+(00:23:36) AI &amp; Contextual Learning, Human Intelligence
+
+(00:33:43) Current AI Gaps, Emotion &amp; Creativity
+
+(00:45:48) Computers Enhancing Humanity; Tool: Personal Agency &amp; Learning about AI
+
+(00:53:04) Sponsors: AG1 &amp; LMNT
+
+(00:55:37) Public Discourse about AI
+
+(00:57:34) AI to Enhance Scientific Discovery &amp; Healthcare; Human Collaboration
+
+(01:07:38) Intuition, Motivation &amp; Human States Beyond AI
+
+(01:19:18) Sponsor: David
+
+(01:20:37) Social &amp; Ethical Considerations for AI
+
+(01:27:38) Kids, Development &amp; AI Tools; Tool: Prompt AI Effectively
+
+(01:35:04) Next Frontier for Robotics &amp; AI; Human Agency
+
+(01:43:52) Human-Centered AI Future
+
+(01:50:10) World Labs, Spatial Intelligence
+
+(01:54:12) Concerns about AI &amp; Creativity; Movies, Art, Storytelling
+
+(01:59:51) Younger Generation &amp; AI, Teachers
+
+(02:05:38) Zero-Cost Support, YouTube, Spotify &amp; Apple Follow, Reviews &amp; Feedback, Sponsors, Protocols Book, Social Media, Neural Network Newsletter
+
+*This experience may not be representative of other Wealthfront clients, and there is no guarantee of future performance or success. Experiences will vary. Andrew Huberman receives cash compensation from Wealthfront Brokerage for paid testimonials in his podcast, creating a conflict of interest. The Cash Account, which is not a deposit account, is offered by Wealthfront Brokerage LLC, member FINRA/SIPC.  Wealthfront Brokerage is not a bank. The base APY is 3.30% on cash deposits as of January 30, 2026, is representative, subject to change, and requires no minimum. If eligible for the overall boosted rate of 4.05% offered in connection with this promo, your boosted rate is also subject to change if the base rate decreases during the 3 month promo period. Additional terms and conditions apply, which can be found on Wealthfront.com/Huberman.  Funds in the Cash Account are swept to program banks, where it earns the variable APY. Same-day withdrawal or instant payment transfers may be limited by destination institutions, daily transaction caps, and by participating entities such as Wells Fargo, the RTP® Network, and FedNow® Service. New Cash Account deposits are subject to a 2-4 day holding period before becoming available for transfer. Investment advisory services are provided by Wealthfront Advisers LLC, an SEC-registered investment adviser. Securities investments: not bank deposits, bank-guaranteed or FDIC-insured, and may lose value.
+
+Disclaimer &amp; Disclosures
+Learn more about your ad choices. Visit megaphone.fm/adchoices</ns1:summary>
+      <ns2:encoded>
+        &lt;p&gt;Dr. Fei-Fei Li, PhD, is a professor of computer science at Stanford University and a pioneer and expert in artificial intelligence (AI). We discuss how AI can be used safely and effectively to extend human capabilities – not just to search for information but specifically to increase human intelligence and creativity. We also discuss how humans collaborating with AI and robots stand to positively transform human health and one’s experience of life. And we cover what makes AI fundamentally different from human cognition, and why your intuition and unique experiences are not replicable by AI or machines. Both AI enthusiasts and skeptics are sure to benefit from the information and tools Dr. Fei-Fei Li shares in this episode.&lt;/p&gt;
+&lt;p&gt;Read the episode show notes at &lt;a href="https://www.hubermanlab.com/episode/using-ai-to-increase-your-intelligence-and-enrich-humanity-fei-fei-li"&gt;hubermanlab.com&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Huberman Lab live events: &lt;a href="https://www.hubermanlab.com/events"&gt;https://www.hubermanlab.com/events&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Thank you to our sponsors&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AG1: &lt;a href="https://drinkag1.com/huberman"&gt;https://drinkag1.com/huberman&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;David: &lt;a href="https://davidprotein.com/huberman"&gt;https://davidprotein.com/huberman&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Lingo: &lt;a href="https://hellolingo.com/huberman"&gt;https://hellolingo.com/huberman&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;LMNT: &lt;a href="https://drinklmnt.com/huberman"&gt;https://drinklmnt.com/huberman&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Wealthfront*: &lt;a href="https://wealthfront.com/huberman"&gt;https://wealthfront.com/huberman&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Timestamps&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;(00:00:00) Fei-Fei Li&lt;/p&gt;
+&lt;p&gt;(00:03:46) Vision &amp;amp; Intelligence; Human Vision &amp;amp; Contribution to AI&lt;/p&gt;
+&lt;p&gt;(00:12:11) Computer Vision &amp;amp; the AI Revolution&lt;/p&gt;
+&lt;p&gt;(00:18:34) Sponsors: Lingo &amp;amp; Wealthfront&lt;/p&gt;
+&lt;p&gt;(00:21:19) Speech, Sound &amp;amp; AI Development&lt;/p&gt;
+&lt;p&gt;(00:23:36) AI &amp;amp; Contextual Learning, Human Intelligence&lt;/p&gt;
+&lt;p&gt;(00:33:43) Current AI Gaps, Emotion &amp;amp; Creativity&lt;/p&gt;
+&lt;p&gt;(00:45:48) Computers Enhancing Humanity; Tool: Personal Agency &amp;amp; Learning about AI&lt;/p&gt;
+&lt;p&gt;(00:53:04) Sponsors: AG1 &amp;amp; LMNT&lt;/p&gt;
+&lt;p&gt;(00:55:37) Public Discourse about AI&lt;/p&gt;
+&lt;p&gt;(00:57:34) AI to Enhance Scientific Discovery &amp;amp; Healthcare; Human Collaboration&lt;/p&gt;
+&lt;p&gt;(01:07:38) Intuition, Motivation &amp;amp; Human States Beyond AI&lt;/p&gt;
+&lt;p&gt;(01:19:18) Sponsor: David&lt;/p&gt;
+&lt;p&gt;(01:20:37) Social &amp;amp; Ethical Considerations for AI&lt;/p&gt;
+&lt;p&gt;(01:27:38) Kids, Development &amp;amp; AI Tools; Tool: Prompt AI Effectively&lt;/p&gt;
+&lt;p&gt;(01:35:04) Next Frontier for Robotics &amp;amp; AI; Human Agency&lt;/p&gt;
+&lt;p&gt;(01:43:52) Human-Centered AI Future&lt;/p&gt;
+&lt;p&gt;(01:50:10) World Labs, Spatial Intelligence&lt;/p&gt;
+&lt;p&gt;(01:54:12) Concerns about AI &amp;amp; Creativity; Movies, Art, Storytelling&lt;/p&gt;
+&lt;p&gt;(01:59:51) Younger Generation &amp;amp; AI, Teachers&lt;/p&gt;
+&lt;p&gt;(02:05:38) Zero-Cost Support, YouTube, Spotify &amp;amp; Apple Follow, Reviews &amp;amp; Feedback, Sponsors, Protocols Book, Social Media, Neural Network Newsletter&lt;/p&gt;
+&lt;p&gt;*&lt;em&gt;This experience may not be representative of other Wealthfront clients, and there is no guarantee of future performance or success. Experiences will vary. Andrew Huberman receives cash compensation from Wealthfront Brokerage for paid testimonials in his podcast, creating a conflict of interest. The Cash Account, which is not a deposit account, is offered by Wealthfront Brokerage LLC, member FINRA/SIPC.  Wealthfront Brokerage is not a bank. The base APY is 3.30% on cash deposits as of January 30, 2026, is representative, subject to change, and requires no minimum. If eligible for the overall boosted rate of 4.05% offered in connection with this promo, your boosted rate is also subject to change if the base rate decreases during the 3 month promo period. Additional terms and conditions apply, which can be found on Wealthfront.com/Huberman.  Funds in the Cash Account are swept to program banks, where it earns the variable APY. Same-day withdrawal or instant payment transfers may be limited by destination institutions, daily transaction caps, and by participating entities such as Wells Fargo, the RTP® Network, and FedNow® Service. New Cash Account deposits are subject to a 2-4 day holding period before becoming available for transfer. Investment advisory services are provided by Wealthfront Advisers LLC, an SEC-registered investment adviser. Securities investments: not bank deposits, bank-guaranteed or FDIC-insured, and may lose value.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.hubermanlab.com/disclaimer"&gt;Disclaimer &amp;amp; Disclosures&lt;/a&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;Learn more about your ad choices. Visit &lt;a href="https://megaphone.fm/adchoices"&gt;megaphone.fm/adchoices&lt;/a&gt;&lt;/p&gt;
+      </ns2:encoded>
+      <ns1:duration>7707</ns1:duration>
+      <ns1:explicit>no</ns1:explicit>
+      <guid isPermaLink="false">08c064d2-9478-11f1-8fb1-5fc70077aa23</guid>
+      <enclosure url="https://traffic.megaphone.fm/SCIM5701398040.mp3" length="0" type="audio/mpeg" />
+    </item>
+    </channel>
+</rss>

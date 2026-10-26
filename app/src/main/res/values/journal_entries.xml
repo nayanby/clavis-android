@@ -1,0 +1,5 @@
+<resources>
+    <item name="action_create_journal_entry" type="id"/>
+    <string name="create_journal_entry">Create entry</string>
+    <string name="journal_entry_name">Entry name</string>
+</resources>

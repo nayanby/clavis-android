@@ -1,0 +1,8 @@
+package com.clavis.reader;
+import android.content.*;import org.json.*;import java.io.*;import java.nio.charset.StandardCharsets;import java.util.*;
+final class StarterCatalog {
+ static ArrayList<JSONObject> load(Context c)throws Exception{try(InputStream in=c.getAssets().open("starter_catalog.json");ByteArrayOutputStream out=new ByteArrayOutputStream()){byte[] buffer=new byte[8192];int n;while((n=in.read(buffer))!=-1)out.write(buffer,0,n);JSONArray items=new JSONObject(out.toString(StandardCharsets.UTF_8.name())).getJSONArray("items");ArrayList<JSONObject> result=new ArrayList<>();for(int i=0;i<items.length();i++)result.add(items.getJSONObject(i));return result;}}
+ static void rights(MainActivity a,JSONObject item){new AppDialog.Builder(a).setTitle("Source and rights").setMessage(item.optString("title")+"\n\n"+item.optString("rights")+"\n\nSource rights evidence: United States. Public-domain status in the US does not establish worldwide clearance. Translations, recordings and cover art can have separate rights.\n\nCatalog snapshot: 26 October 2026. No affiliation with or endorsement by the source.").setPositiveButton("Source page",(d,n)->a.startActivity(new Intent(Intent.ACTION_VIEW,android.net.Uri.parse(item.optString("source"))))).setNeutralButton("Rights policy",(d,n)->a.startActivity(new Intent(Intent.ACTION_VIEW,android.net.Uri.parse(item.optString("rightsUrl"))))).setNegativeButton("Close",null).show();}
+}
+
+

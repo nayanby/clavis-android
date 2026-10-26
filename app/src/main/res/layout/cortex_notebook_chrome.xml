@@ -1,0 +1,32 @@
+<FrameLayout xmlns:ns0="http://schemas.android.com/apk/res/android" xmlns:ns1="http://schemas.android.com/apk/res-auto" ns0:layout_width="match_parent" ns0:layout_height="match_parent" ns0:background="@color/cortex_page_background"><LinearLayout ns0:layout_width="match_parent" ns0:layout_height="match_parent" ns0:orientation="vertical"><com.google.android.material.appbar.MaterialToolbar ns0:id="@+id/cortex_toolbar" ns0:layout_width="match_parent" ns0:layout_height="wrap_content" ns0:background="@drawable/cortex_bg_reference_header" ns0:minHeight="56dp" ns0:theme="@style/cortex_ThemeOverlay.ClinicalNotes.Toolbar" ns1:navigationContentDescription="@string/cortex_nav_back" ns1:popupTheme="@style/cortex_ThemeOverlay.ClinicalNotes.Toolbar" ns1:titleTextAppearance="@style/cortex_TextAppearance.ClinicalNotes.ToolbarTitle" ns1:itemTextAppearance="@style/cortex_TextAppearance.ClinicalNotes.ToolbarAction" ns1:titleTextColor="@color/cortex_ink">
+
+            
+            <LinearLayout ns0:id="@+id/cortex_readerTitleBlock" ns0:layout_width="wrap_content" ns0:layout_height="wrap_content" ns0:layout_gravity="center_vertical|start" ns0:gravity="center_vertical" ns0:orientation="vertical" ns0:visibility="gone">
+
+                <TextView ns0:id="@+id/cortex_readerTitleFolder" ns0:layout_width="wrap_content" ns0:layout_height="wrap_content" ns0:ellipsize="end" ns0:fontFamily="@font/cortex_averia_serif_libre" ns0:includeFontPadding="false" ns0:maxLines="1" ns0:textColor="@color/cortex_muted" ns0:textSize="13sp" />
+
+                <TextView ns0:id="@+id/cortex_readerTitleFile" ns0:layout_width="wrap_content" ns0:layout_height="wrap_content" ns0:ellipsize="end" ns0:fontFamily="@font/cortex_averia_serif_libre" ns0:includeFontPadding="false" ns0:lineSpacingExtra="1dp" ns0:maxLines="2" ns0:textColor="@color/cortex_ink" ns0:textSize="14sp" ns0:textStyle="bold" />
+            </LinearLayout>
+        </com.google.android.material.appbar.MaterialToolbar>
+
+        <FrameLayout ns0:id="@+id/cortex_notebookContent" ns0:layout_width="match_parent" ns0:layout_height="0dp" ns0:layout_weight="1" /></LinearLayout><LinearLayout ns0:id="@+id/cortex_topEndChrome" ns0:layout_width="wrap_content" ns0:layout_height="wrap_content" ns0:layout_gravity="top|end" ns0:layout_marginTop="2dp" ns0:layout_marginEnd="12dp" ns0:elevation="8dp" ns0:gravity="center_vertical" ns0:orientation="horizontal" ns0:visibility="gone">
+
+                <LinearLayout ns0:id="@+id/cortex_inkRightStack" ns0:layout_width="wrap_content" ns0:layout_height="34dp" ns0:gravity="center_vertical|end" ns0:orientation="horizontal" ns0:visibility="gone">
+
+                <LinearLayout ns0:id="@+id/cortex_inkEditPill" ns0:layout_width="wrap_content" ns0:layout_height="34dp" ns0:background="@drawable/cortex_bg_ink_pill" ns0:gravity="center_vertical" ns0:orientation="horizontal" ns0:paddingStart="2dp" ns0:paddingEnd="2dp">
+
+                    <ImageButton style="@style/cortex_Widget.ClinicalNotes.CompactIconButton" ns0:id="@+id/cortex_inkUndo" ns0:contentDescription="@string/cortex_pen_undo" ns0:src="@drawable/cortex_ic_toolbar_undo" />
+
+                    <ImageButton style="@style/cortex_Widget.ClinicalNotes.CompactIconButton" ns0:id="@+id/cortex_inkRedo" ns0:contentDescription="@string/cortex_pen_redo" ns0:src="@drawable/cortex_ic_toolbar_redo" />
+                </LinearLayout>
+
+                <LinearLayout ns0:id="@+id/cortex_inkColorPill" ns0:layout_width="wrap_content" ns0:layout_height="34dp" ns0:layout_marginStart="6dp" ns0:background="@drawable/cortex_bg_ink_pill" ns0:gravity="center_vertical" ns0:orientation="horizontal" ns0:paddingStart="6dp" ns0:paddingEnd="2dp" ns0:visibility="gone">
+
+                    <LinearLayout ns0:id="@+id/cortex_inkColorSwatches" ns0:layout_width="wrap_content" ns0:layout_height="wrap_content" ns0:gravity="center_vertical" ns0:orientation="horizontal" />
+
+                    <ImageButton style="@style/cortex_Widget.ClinicalNotes.CompactIconButton" ns0:id="@+id/cortex_inkEraser" ns0:layout_marginStart="2dp" ns0:contentDescription="@string/cortex_pen_eraser" ns0:src="@drawable/cortex_ic_eraser" />
+                </LinearLayout>
+            </LinearLayout>
+            </LinearLayout>
+
+            </FrameLayout>

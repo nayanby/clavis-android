@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- PDF / notebook / notes outline row: title, then expand on the right, optional ⋮. -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:foreground="?attr/selectableItemBackground"
+    android:gravity="center_vertical"
+    android:orientation="horizontal"
+    android:paddingTop="4dp"
+    android:paddingBottom="4dp">
+
+    <FrameLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1">
+
+        <TextView
+            android:id="@+id/cortex_outlineHeading"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ellipsize="end"
+            android:maxLines="2"
+            android:paddingStart="8dp"
+            android:paddingTop="4dp"
+            android:paddingEnd="44dp"
+            android:paddingBottom="4dp"
+            android:textColor="@color/cortex_ink"
+            android:textSize="14sp"
+            app:fontFamily="@font/cortex_averia_serif_libre" />
+
+        <TextView
+            android:id="@+id/cortex_outlineExpand"
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:layout_gravity="center_vertical|end"
+            android:layout_marginEnd="8dp"
+            android:background="@drawable/cortex_bg_outline_expand"
+            android:includeFontPadding="false"
+            android:gravity="center"
+            android:textColor="@color/cortex_callout_ink"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            app:fontFamily="@font/cortex_averia_serif_libre" />
+    </FrameLayout>
+
+    <!-- Kept for findViewById; page numbers are no longer shown. -->
+    <TextView
+        android:id="@+id/cortex_outlinePage"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:visibility="gone" />
+
+    <ImageButton
+                style="@style/cortex_Widget.ClinicalNotes.CompactIconButton"
+        android:id="@+id/cortex_outlineMore"
+        android:contentDescription="@string/cortex_paper_outline_more"
+        android:src="@drawable/cortex_ic_more_vert"
+        android:visibility="gone" />
+</LinearLayout>

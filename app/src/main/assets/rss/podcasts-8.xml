@@ -1,0 +1,396 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:html="http://www.w3.org/1999/xhtml" xmlns:ns1="http://www.w3.org/2005/Atom" xmlns:ns2="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:ns3="https://schema.acast.com/1.0/" version="2.0">
+   <html:script src="https://feeds.acast.com/global/feed/xslt-polyfill.min.js" />
+    <channel>
+		<ttl>60</ttl>
+		<generator>acast.com</generator>
+		<title>TED Talks Daily</title>
+		<link>https://www.ted.com</link>
+		<ns1:link href="https://feeds.acast.com/public/shows/67587e77c705e441797aff96" rel="self" type="application/rss+xml" />
+		<language>en</language>
+		<copyright>© TED: https://www.ted.com/about/our-organization/our-policies-terms/ted-com-terms-of-use#h2--copyright-issues-and-licenses</copyright>
+		<ns2:keywords>Ted Talks,Ted Talks Daily,Ted podcast,TED</ns2:keywords>
+		<ns2:author>TED</ns2:author>
+		<ns2:subtitle>Ideas change everything from the TED Conference</ns2:subtitle>
+		<ns2:summary>Want TED Talks on the go? Everyday, this feed brings you our latest talks in audio format. Hear thought-provoking ideas on every subject imaginable – from Artificial Intelligence to Zoology, and everything in between – given by the world's leading thinkers and doers. This collection of talks, given at TED and TEDx conferences around the globe, is also available in video format.&lt;hr&gt;&lt;p style='color:grey; font-size:0.75em;'&gt; Hosted on Acast. See &lt;a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'&gt;acast.com/privacy&lt;/a&gt; for more information.&lt;/p&gt;</ns2:summary>
+		<description>Want TED Talks on the go? Everyday, this feed brings you our latest talks in audio format. Hear thought-provoking ideas on every subject imaginable – from Artificial Intelligence to Zoology, and everything in between – given by the world's leading thinkers and doers. This collection of talks, given at TED and TEDx conferences around the globe, is also available in video format.&lt;hr&gt;&lt;p style='color:grey; font-size:0.75em;'&gt; Hosted on Acast. See &lt;a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'&gt;acast.com/privacy&lt;/a&gt; for more information.&lt;/p&gt;</description>
+		<ns2:explicit>false</ns2:explicit>
+		<ns2:owner>
+			<ns2:name>TED</ns2:name>
+			<ns2:email>podcasts@ted.com</ns2:email>
+		</ns2:owner>
+		<ns3:showId>67587e77c705e441797aff96</ns3:showId>
+		<ns3:showUrl>ttd</ns3:showUrl>
+		<ns3:signature key="EXAMPLE" algorithm="aes-256-cbc">wbG1Z7+6h9QOi+CR1Dv0uQ==</ns3:signature>
+		<ns3:settings>FYjHyZbXWHZ7gmX8Pp1rmStkiTEE0CNxIPxmLPEYNwMKCHLDRL22sHQZ4ElCEGqt3fze1jZ6iH+IMFJT2mYmZBop93NMym64KdiN2K1IOYMpkClY0h1NhSdhiGE+A22gB9reTOFxNj8z98kkAWQ7Ux4cgKYGN4XUL6VX2fDmwzh3H/Ivmds5YaaogGplGATIrj9lTFQ6lRFZimWDJ6mLAbV1xo4JGZb0dcwqJfkAFozGDUJy7MrpH2FZhm2cEGVv1TY4hdyD1T/7mNayzoBkSg==</ns3:settings>
+        <ns3:network id="66e1e4bf9a7dcc160e617eef" slug="ted-audio-collective">TED Audio Collective</ns3:network>
+		<ns2:type>episodic</ns2:type>
+			<ns2:image href="https://assets.pippa.io/shows/67587e77c705e441797aff96/show-cover.png" />
+			<image>
+				<url>https://assets.pippa.io/shows/67587e77c705e441797aff96/show-cover.png</url>
+				<link>https://www.ted.com</link>
+				<title>TED Talks Daily</title>
+			</image>
+		<item>
+			<title>How to stop homelessness before it starts | Jen Loving</title>
+			<ns2:title>How to stop homelessness before it starts | Jen Loving</ns2:title>
+			<pubDate>Thu, 15 Oct 2026 15:00:00 GMT</pubDate>
+			<ns2:duration>11:50</ns2:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6acfa619b3381b9dbb7c315c/media.mp3" length="11365146" type="audio/mpeg" />
+			<guid isPermaLink="false">6acfa619b3381b9dbb7c315c</guid>
+			<ns2:explicit>false</ns2:explicit>
+			<link>http://go.ted.com/jenloving</link>
+			<ns3:episodeId>6acfa619b3381b9dbb7c315c</ns3:episodeId>
+			<ns3:showId>67587e77c705e441797aff96</ns3:showId>
+			<ns3:episodeUrl>tid188981tid</ns3:episodeUrl>
+			<ns3:settings>FYjHyZbXWHZ7gmX8Pp1rmRbkUlg2iR8fDtnl1O71B2N8B7jZZH+7YdsHlGFxMJ/JB5ewwSWwnDfITsERRlXnRLWqsOCW4kI2TR2idDKLey47XZm28GvOKHqUPWQuvmcxJrtswhkjuejzOOfz/c8WRJPhH8kSADn8ewFTQp8BugsyLaoMt5DCRKpiL/P4ajlTo6W8J2T8FtZBAzZghbyfH1YNufdmbY+7CBck5sZdmCaWhgvSPU8FEyVn8UEUOCA5zicK3KHOKhtcpppAKyMQ7smLwZMpSmgjslbZkPZxbNYQcmZPJvtGI5unljwdQhPNRx9Zb9NcP/dIODm6/UKqxRp9r4viQK48Xg5A3GwWA0Lv+UrM5/DS4Zae/PQ+O3vn</ns3:settings>
+			<ns2:episodeType>full</ns2:episodeType>
+			<ns2:image href="https://assets.pippa.io/shows/67587e77c705e441797aff96/show-cover.png" />
+			<description>&lt;p&gt;Homelessness can feel like an issue that’s too big and complicated to fix, something we&amp;#39;ve learned to walk past. Jen Loving, who leads the nonprofit Destination: Home, has spent her entire life proving that mindset is wrong. She shows why we must stop waiting until someone is pushed outside before intervening — and introduces Right at Home, a proven model helping communities across the US keep people from becoming homeless in the first place. (This ambitious idea is part of The Audacious Project, TED&amp;#39;s initiative to inspire and fund global change.)&lt;/p&gt;&lt;p&gt;Vote for our show in the Signal Awards for &lt;a href="https://vote.signalaward.com/PublicVoting#/2026/shows/genre/most-inspirational" rel="noopener noreferrer" target="_blank"&gt;Most Inspirational&lt;/a&gt; podcast! &lt;/p&gt;&lt;hr&gt;&lt;p style='color:grey; font-size:0.75em;'&gt; Hosted on Acast. See &lt;a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'&gt;acast.com/privacy&lt;/a&gt; for more information.&lt;/p&gt;</description>
+			<ns2:summary>&lt;p&gt;Homelessness can feel like an issue that’s too big and complicated to fix, something we&amp;#39;ve learned to walk past. Jen Loving, who leads the nonprofit Destination: Home, has spent her entire life proving that mindset is wrong. She shows why we must stop waiting until someone is pushed outside before intervening — and introduces Right at Home, a proven model helping communities across the US keep people from becoming homeless in the first place. (This ambitious idea is part of The Audacious Project, TED&amp;#39;s initiative to inspire and fund global change.)&lt;/p&gt;&lt;p&gt;Vote for our show in the Signal Awards for &lt;a href="https://vote.signalaward.com/PublicVoting#/2026/shows/genre/most-inspirational" rel="noopener noreferrer" target="_blank"&gt;Most Inspirational&lt;/a&gt; podcast! &lt;/p&gt;&lt;hr&gt;&lt;p style='color:grey; font-size:0.75em;'&gt; Hosted on Acast. See &lt;a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'&gt;acast.com/privacy&lt;/a&gt; for more information.&lt;/p&gt;</ns2:summary>
+		</item>
+		<item>
+			<title>AI brain fry is real. Here’s what leaders can do | Julie Bedard</title>
+			<ns2:title>AI brain fry is real. Here’s what leaders can do | Julie Bedard</ns2:title>
+			<pubDate>Wed, 14 Oct 2026 15:00:20 GMT</pubDate>
+			<ns2:duration>11:25</ns2:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6acf9867b3381b9dbb7c315a/media.mp3" length="10969338" type="audio/mpeg" />
+			<guid isPermaLink="false">6acf9867b3381b9dbb7c315a</guid>
+			<ns2:explicit>false</ns2:explicit>
+			<link>http://go.ted.com/juliebedard</link>
+			<ns3:episodeId>6acf9867b3381b9dbb7c315a</ns3:episodeId>
+			<ns3:showId>67587e77c705e441797aff96</ns3:showId>
+			<ns3:episodeUrl>tid189394tid</ns3:episodeUrl>
+			<ns3:settings>FYjHyZbXWHZ7gmX8Pp1rmRbkUlg2iR8fDtnl1O71B2N8B7jZZH+7YdsHlGFxMJ/JB5ewwSWwnDfITsERRlXnREWiXVpZEJM5h6QoSV51LblupyS6mhf8jxsx49AqDtYtIExkuEMvpmoOPJe4pCQNfnAfxsoaTNoyGuUbSXvcGAn69ekaJJ3PWMro27FFRn92G4vxMpkCU4J9bwnxFDhyMDTzMae8dC7gDtHKJTIVH+L2XTKZ9MsDGSpgrCq6/7VWP2NUvlp3mVgmRAuUQFIpVICHrDM2PGqSEeOmZuRAFkAm7+ttp6XgdPii/8JLJyUGLxi7bFlVe94SHjuIo2i1DPoGRLQBsTyejni19XrQQ2EhA3CuLAChfColsk701YHc</ns3:settings>
+			<ns2:episodeType>full</ns2:episodeType>
+			<ns2:image href="https://assets.pippa.io/shows/67587e77c705e441797aff96/show-cover.png" />
+			<description>&lt;p&gt;Workers everywhere are quietly redesigning their jobs around AI, boosting productivity but also creating new kinds of problems. AI advisor Julie Bedard thinks she has a fix. She shares new research on three areas for leaders to focus on — including how to avoid &amp;quot;AI brain fry&amp;quot; — and why we need to shape this change rather than let it happen to us.&lt;/p&gt;&lt;p&gt;Vote for our show in the Signal Awards for &lt;a href="https://vote.signalaward.com/PublicVoting#/2026/shows/genre/most-inspirational" rel="noopener noreferrer" target="_blank"&gt;Most Inspirational&lt;/a&gt; podcast! &lt;/p&gt;&lt;hr&gt;&lt;p style='color:grey; font-size:0.75em;'&gt; Hosted on Acast. See &lt;a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'&gt;acast.com/privacy&lt;/a&gt; for more information.&lt;/p&gt;</description>
+			<ns2:summary>&lt;p&gt;Workers everywhere are quietly redesigning their jobs around AI, boosting productivity but also creating new kinds of problems. AI advisor Julie Bedard thinks she has a fix. She shares new research on three areas for leaders to focus on — including how to avoid &amp;quot;AI brain fry&amp;quot; — and why we need to shape this change rather than let it happen to us.&lt;/p&gt;&lt;p&gt;Vote for our show in the Signal Awards for &lt;a href="https://vote.signalaward.com/PublicVoting#/2026/shows/genre/most-inspirational" rel="noopener noreferrer" target="_blank"&gt;Most Inspirational&lt;/a&gt; podcast! &lt;/p&gt;&lt;hr&gt;&lt;p style='color:grey; font-size:0.75em;'&gt; Hosted on Acast. See &lt;a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'&gt;acast.com/privacy&lt;/a&gt; for more information.&lt;/p&gt;</ns2:summary>
+		</item>
+		<item>
+			<title>Why it's so hard to listen when you disagree | Emily Kasriel</title>
+			<ns2:title>Why it's so hard to listen when you disagree | Emily Kasriel</ns2:title>
+			<pubDate>Tue, 13 Oct 2026 15:00:00 GMT</pubDate>
+			<ns2:duration>13:32</ns2:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6acd4daa1882f45a244792a2/media.mp3" length="12997694" type="audio/mpeg" />
+			<guid isPermaLink="false">6acd4daa1882f45a244792a2</guid>
+			<ns2:explicit>false</ns2:explicit>
+			<link>http://go.ted.com/emilykasriel</link>
+			<ns3:episodeId>6acd4daa1882f45a244792a2</ns3:episodeId>
+			<ns3:showId>67587e77c705e441797aff96</ns3:showId>
+			<ns3:episodeUrl>tid188522tid</ns3:episodeUrl>
+			<ns3:settings>FYjHyZbXWHZ7gmX8Pp1rmRbkUlg2iR8fDtnl1O71B2N8B7jZZH+7YdsHlGFxMJ/JB5ewwSWwnDfITsERRlXnRJr9jaTUZRGhDZstO080NYc1aco0KTN7rDCsWrZ4eidTk/4HeIJna1ttP9Ea1CxwKmmnNfNg2S7NIavOZ+NUDEvGWPTkHWR7SA7lx8L0FxlGiEFEaEXDdrLc7Ia/8Uo+c3+Kf25bhRHoof9+Tr3h8QYwn3jIrgF77k7g6s0Ss+TJweJ9fHsOOd78Z+EKh+7QG2Egh8qEbQGPybcuH8M9oPN2LUogYQZ5XpSZ3cLtYGrrrO9L+EgO9HBEwgW/nTmYN2vQNZZ8cXzY8aU6ogL41cteFSoU0wlm8ZqzqY1AJykZ</ns3:settings>
+			<ns2:episodeType>full</ns2:episodeType>
+			<ns2:image href="https://assets.pippa.io/shows/67587e77c705e441797aff96/show-cover.png" />
+			<description>&lt;p&gt;Do you avoid talking to people you disagree with? Author and mediator Emily Kasriel thinks you should try it out. She explains why engaging with ideas that bother you is one of the most powerful things you can do — and presents her framework for “deep listening” that can help you form relationships across generations, cultures and political divides.&lt;/p&gt;&lt;p&gt;Vote for our show in the Signal Awards for &lt;a href="https://vote.signalaward.com/PublicVoting#/2026/shows/genre/most-inspirational" rel="noopener noreferrer" target="_blank"&gt;Most Inspirational&lt;/a&gt; podcast! &lt;/p&gt;&lt;hr&gt;&lt;p style='color:grey; font-size:0.75em;'&gt; Hosted on Acast. See &lt;a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'&gt;acast.com/privacy&lt;/a&gt; for more information.&lt;/p&gt;</description>
+			<ns2:summary>&lt;p&gt;Do you avoid talking to people you disagree with? Author and mediator Emily Kasriel thinks you should try it out. She explains why engaging with ideas that bother you is one of the most powerful things you can do — and presents her framework for “deep listening” that can help you form relationships across generations, cultures and political divides.&lt;/p&gt;&lt;p&gt;Vote for our show in the Signal Awards for &lt;a href="https://vote.signalaward.com/PublicVoting#/2026/shows/genre/most-inspirational" rel="noopener noreferrer" target="_blank"&gt;Most Inspirational&lt;/a&gt; podcast! &lt;/p&gt;&lt;hr&gt;&lt;p style='color:grey; font-size:0.75em;'&gt; Hosted on Acast. See &lt;a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'&gt;acast.com/privacy&lt;/a&gt; for more information.&lt;/p&gt;</ns2:summary>
+		</item>
+		<item>
+			<title>How to make parenting less lonely | Stacey McLachlan</title>
+			<ns2:title>How to make parenting less lonely | Stacey McLachlan</ns2:title>
+			<pubDate>Mon, 12 Oct 2026 15:00:00 GMT</pubDate>
+			<ns2:duration>20:26</ns2:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ac7affae2a72faefc1e8d12/media.mp3" length="19628199" type="audio/mpeg" />
+			<guid isPermaLink="false">6ac7affae2a72faefc1e8d12</guid>
+			<ns2:explicit>false</ns2:explicit>
+			<link>http://go.ted.com/staceymclachlan</link>
+			<ns3:episodeId>6ac7affae2a72faefc1e8d12</ns3:episodeId>
+			<ns3:showId>67587e77c705e441797aff96</ns3:showId>
+			<ns3:episodeUrl>tid190421tid</ns3:episodeUrl>
+			<ns3:settings>FYjHyZbXWHZ7gmX8Pp1rmRbkUlg2iR8fDtnl1O71B2N8B7jZZH+7YdsHlGFxMJ/JB5ewwSWwnDfITsERRlXnRFEwCj9nbTiTsjuW9YFOIC/wMiDvNsqWgWhe/mg6DQ9V8Lj79akSldV7/aQ3f8oKnYQHkgPPoRW2HdUw8CJtCAR9HnvpF0Vbarojyr5BcP7LRJCuG0Q/N8OWftFeYM3wtAoe9zVVvOqoNRwjJhfImt4g4kXrsk3spkbndQriIYr+IRh6hCDdDxTUzUDMennn0u52U6eKiCkAt9w1ewtBDAlHPO726bKW4N0/LznbjapSBGKVMV195AoFvFfJJ5bTO60CAVdrADGjNakDa73S4/hLmohgNlotu3fK2SYMUqwS</ns3:settings>
+			<ns2:episodeType>full</ns2:episodeType>
+			<ns2:image href="https://assets.pippa.io/shows/67587e77c705e441797aff96/show-cover.png" />
+			<description>&lt;p&gt;When parents first have kids, some risk entering “the loneliest decade,” where they fall out of touch with friends. Writer Stacey McLachlan decided to do something different when she had her daughter, refusing to let her social life slip away. In this witty talk, she shares her solution — and why it matters for all of us.&lt;/p&gt;&lt;p&gt;Vote for our show in the Signal Awards for &lt;a href="https://vote.signalaward.com/PublicVoting#/2026/shows/genre/most-inspirational" rel="noopener noreferrer" target="_blank"&gt;Most Inspirational&lt;/a&gt; podcast! &lt;/p&gt;&lt;hr&gt;&lt;p style='color:grey; font-size:0.75em;'&gt; Hosted on Acast. See &lt;a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'&gt;acast.com/privacy&lt;/a&gt; for more information.&lt;/p&gt;</description>
+			<ns2:summary>&lt;p&gt;When parents first have kids, some risk entering “the loneliest decade,” where they fall out of touch with friends. Writer Stacey McLachlan decided to do something different when she had her daughter, refusing to let her social life slip away. In this witty talk, she shares her solution — and why it matters for all of us.&lt;/p&gt;&lt;p&gt;Vote for our show in the Signal Awards for &lt;a href="https://vote.signalaward.com/PublicVoting#/2026/shows/genre/most-inspirational" rel="noopener noreferrer" target="_blank"&gt;Most Inspirational&lt;/a&gt; podcast! &lt;/p&gt;&lt;hr&gt;&lt;p style='color:grey; font-size:0.75em;'&gt; Hosted on Acast. See &lt;a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'&gt;acast.com/privacy&lt;/a&gt; for more information.&lt;/p&gt;</ns2:summary>
+		</item>
+		<item>
+			<title>Sunday Pick: Can AI really teach your kids? with Leah Belsky | from WorkLife with Molly Graham</title>
+			<ns2:title>Sunday Pick: Can AI really teach your kids? with Leah Belsky | from WorkLife with Molly Graham</ns2:title>
+			<pubDate>Sun, 11 Oct 2026 06:00:00 GMT</pubDate>
+			<ns2:duration>51:09</ns2:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ac7b033e2a72faefc1e8d13/media.mp3" length="49117309" type="audio/mpeg" />
+			<guid isPermaLink="false">6ac7b033e2a72faefc1e8d13</guid>
+			<ns2:explicit>false</ns2:explicit>
+			<link>https://audiocollective.ted.com/</link>
+			<ns3:episodeId>6ac7b033e2a72faefc1e8d13</ns3:episodeId>
+			<ns3:showId>67587e77c705e441797aff96</ns3:showId>
+			<ns3:episodeUrl>sunday-pick-can-ai-really-teach-your-kids-with-leah-belsky</ns3:episodeUrl>
+			<ns3:settings>FYjHyZbXWHZ7gmX8Pp1rmRbkUlg2iR8fDtnl1O71B2N8B7jZZH+7YdsHlGFxMJ/JB5ewwSWwnDfITsERRlXnRPFItsZG2am1DzXXSms+kVG58AH4PsII8i7xFPScjgO4u5jxogypg38jrmLcxUw8hW/Ct4o3V8vwy25Hi2MTYmLMvRPuaYTMGr62xcgKVRgWmOXqd5Ss9hqQm1fgHUMRN+HNpMljCnutgo3xDT2F720XlZNG61aUO58KQ4QKApy24PG+et5km/FPped14KBjDhxpHjawkDKJau3GVj/tZuTYC4+Dm4jdiSMMyf7GhMefIS9750KAsx2WP9/m0niig1WPiWRRdJ09VMn8wnQzBgObAp9gBUI9r+WdaSvAobfOdhcHaK+6hGQ3zSImsKWJ5a6WTuQQ2Y132LcFkahBJt9qdJlpa6vF3QbAR4pVfCJ9WbdhMGn8E346c1ZDJHWVQg2eJoiMhYWdESorYCrkH1MH/ivue2LKu20GwHrbxLdE</ns3:settings>
+			<ns2:episodeType>full</ns2:episodeType>
+			<ns2:image href="https://assets.pippa.io/shows/67587e77c705e441797aff96/1791471730255-f2a292bf-0543-4dbe-b328-bf01d5d05279.jpeg" />
+			<description>&lt;p&gt;Technology has been promising to revolutionize education for a long time. Online learning, smartphones, and even asynchronous classes during COVID seemed for a while like they might finally transform what learning can look like, but all we really learned was that changing education is slower and harder than anyone wants it to be. Could AI finally be the unlock we’ve been looking for? Leah Belsky has spent nearly 20 years at the intersection of education and technology. She helped lead Coursera during the rise of online learning, and is now the head of education at OpenAI. In this episode, Molly sits down with Leah to find out what AI really has to offer as a learning tool, and where it falls short of the hype. Leah shares what she’s learned as both a leader in the ed tech world and a parent of AI-curious kids, and offers tips for how to coach kids to use AI as an empowering tool without getting in the way of their learning. &lt;/p&gt;&lt;p&gt;Vote for our show in the Signal Awards for &lt;a href="https://vote.signalaward.com/PublicVoting#/2026/shows/genre/most-inspirational" rel="noopener noreferrer" target="_blank"&gt;Most Inspirational&lt;/a&gt; podcast! &lt;/p&gt;&lt;hr&gt;&lt;p style='color:grey; font-size:0.75em;'&gt; Hosted on Acast. See &lt;a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'&gt;acast.com/privacy&lt;/a&gt; for more information.&lt;/p&gt;</description>
+			<ns2:summary>&lt;p&gt;Technology has been promising to revolutionize education for a long time. Online learning, smartphones, and even asynchronous classes during COVID seemed for a while like they might finally transform what learning can look like, but all we really learned was that changing education is slower and harder than anyone wants it to be. Could AI finally be the unlock we’ve been looking for? Leah Belsky has spent nearly 20 years at the intersection of education and technology. She helped lead Coursera during the rise of online learning, and is now the head of education at OpenAI. In this episode, Molly sits down with Leah to find out what AI really has to offer as a learning tool, and where it falls short of the hype. Leah shares what she’s learned as both a leader in the ed tech world and a parent of AI-curious kids, and offers tips for how to coach kids to use AI as an empowering tool without getting in the way of their learning. &lt;/p&gt;&lt;p&gt;Vote for our show in the Signal Awards for &lt;a href="https://vote.signalaward.com/PublicVoting#/2026/shows/genre/most-inspirational" rel="noopener noreferrer" target="_blank"&gt;Most Inspirational&lt;/a&gt; podcast! &lt;/p&gt;&lt;hr&gt;&lt;p style='color:grey; font-size:0.75em;'&gt; Hosted on Acast. See &lt;a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'&gt;acast.com/privacy&lt;/a&gt; for more information.&lt;/p&gt;</ns2:summary>
+		</item>
+		<item>
+			<title>Why the future is human ... plus AI | Sal Khan and Esther Perel</title>
+			<ns2:title>Why the future is human ... plus AI | Sal Khan and Esther Perel</ns2:title>
+			<pubDate>Sat, 10 Oct 2026 15:00:00 GMT</pubDate>
+			<ns2:duration>23:39</ns2:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ac518de854b00dcfdb99f09/media.mp3" length="22806384" type="audio/mpeg" />
+			<guid isPermaLink="false">6ac518de854b00dcfdb99f09</guid>
+			<ns2:explicit>false</ns2:explicit>
+			<link>http://go.ted.com/salandesther</link>
+			<ns3:episodeId>6ac518de854b00dcfdb99f09</ns3:episodeId>
+			<ns3:showId>67587e77c705e441797aff96</ns3:showId>
+			<ns3:episodeUrl>tid188007tid</ns3:episodeUrl>
+			<ns3:settings>FYjHyZbXWHZ7gmX8Pp1rmRbkUlg2iR8fDtnl1O71B2N8B7jZZH+7YdsHlGFxMJ/JB5ewwSWwnDfITsERRlXnRIIcJ/Kn63SzZ6xk+/EsevbXEkIX8qqE1uxsdGPZ314hDRNOWiO9hKV8aMgZiL9DwVPcLQknwi7d/5MTx47ULSCyx+EALY0p/gn/EYMgg0R80Ncf2c7qMnoVtPKYncM3B5HwOHbdK3WeLB2diNpMQIDrz3Eq4xL2mvThiXRghuKcONGKW6ihMLXTsZu/uko3lSSol5+4H/Nuqx+XT4gW+nf8MDP+eVPW33ClcW0iet4/5Wp1FpaxaGCR5MkL9YGNtHyurDrhs7ez16uKTs2l7Bh4rljG0/rhTnHZ9HEVwWAGn8j0ONprsE7XTHF4r7dpQivwMCbQshbRlWpS0XgkcQw=</ns3:settings>
+			<ns2:episodeType>full</ns2:episodeType>
+			<ns2:image href="https://assets.pippa.io/shows/67587e77c705e441797aff96/show-cover.png" />
+			<description>&lt;p&gt;As AI reshapes work, school and love, what part of being human can&amp;#39;t a machine take over? In a wide-ranging conversation, psychotherapist Esther Perel and TED&amp;#39;s vision steward Sal Khan provide their unique takes on the answer. From personalized learning and AI companions to &amp;quot;emotional capitalism&amp;quot; and the rituals we create to live with uncertainty, the two explore if we&amp;#39;re getting better at living or just getting better at optimizing. (This conversation is part of “TED Intersections,” a series featuring thought-provoking conversations between experts navigating the ideas shaping our world.)&lt;/p&gt;&lt;p&gt;Vote for our show in the Signal Awards for &lt;a href="https://vote.signalaward.com/PublicVoting#/2026/shows/genre/most-inspirational" rel="noopener noreferrer" target="_blank"&gt;Most Inspirational&lt;/a&gt; podcast! &lt;/p&gt;&lt;hr&gt;&lt;p style='color:grey; font-size:0.75em;'&gt; Hosted on Acast. See &lt;a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'&gt;acast.com/privacy&lt;/a&gt; for more information.&lt;/p&gt;</description>
+			<ns2:summary>&lt;p&gt;As AI reshapes work, school and love, what part of being human can&amp;#39;t a machine take over? In a wide-ranging conversation, psychotherapist Esther Perel and TED&amp;#39;s vision steward Sal Khan provide their unique takes on the answer. From personalized learning and AI companions to &amp;quot;emotional capitalism&amp;quot; and the rituals we create to live with uncertainty, the two explore if we&amp;#39;re getting better at living or just getting better at optimizing. (This conversation is part of “TED Intersections,” a series featuring thought-provoking conversations between experts navigating the ideas shaping our world.)&lt;/p&gt;&lt;p&gt;Vote for our show in the Signal Awards for &lt;a href="https://vote.signalaward.com/PublicVoting#/2026/shows/genre/most-inspirational" rel="noopener noreferrer" target="_blank"&gt;Most Inspirational&lt;/a&gt; podcast! &lt;/p&gt;&lt;hr&gt;&lt;p style='color:grey; font-size:0.75em;'&gt; Hosted on Acast. See &lt;a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'&gt;acast.com/privacy&lt;/a&gt; for more information.&lt;/p&gt;</ns2:summary>
+		</item>
+		<item>
+			<title>The three words that saved my life | Blake Mycoskie</title>
+			<ns2:title>The three words that saved my life | Blake Mycoskie</ns2:title>
+			<pubDate>Fri, 09 Oct 2026 15:00:00 GMT</pubDate>
+			<ns2:duration>18:48</ns2:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ac7af6ae2a72faefc1e8d10/media.mp3" length="18058344" type="audio/mpeg" />
+			<guid isPermaLink="false">6ac7af6ae2a72faefc1e8d10</guid>
+			<ns2:explicit>false</ns2:explicit>
+			<link>http://go.ted.com/blakemycoskie</link>
+			<ns3:episodeId>6ac7af6ae2a72faefc1e8d10</ns3:episodeId>
+			<ns3:showId>67587e77c705e441797aff96</ns3:showId>
+			<ns3:episodeUrl>tid188521tid</ns3:episodeUrl>
+			<ns3:settings>FYjHyZbXWHZ7gmX8Pp1rmRbkUlg2iR8fDtnl1O71B2N8B7jZZH+7YdsHlGFxMJ/JB5ewwSWwnDfITsERRlXnRDZNxqhFA9/Gpj3k7bhWN54Q4Z+QHaBg1Gq0pEtgtf6+jPWIaw2BiQ0eO1NN9mRWRFD9kE/kX985q37mNldg3R7/P3cMtPxvII6mEjSSWod+ts94WXbtVrqo/ks9QqEpVIv7SYHYBLo2Z7KAbFf7EZZEIKI6ohWIElCwFU9e4cGe7nstdL/hmwVhVxDVIqpljTamVHus4k5dWu5xtCReLXYX61hdlOX2948ykKDhvcWtkoBc3qExnjKR2bQyjVJVmRCE7UwJp/JI5YkK0YmOrAT5VW9pUr56lkD5nHj2yiXm</ns3:settings>
+			<ns2:episodeType>full</ns2:episodeType>
+			<ns2:image href="https://assets.pippa.io/shows/67587e77c705e441797aff96/show-cover.png" />
+			<description>&lt;p&gt;On paper, Blake Mycoskie is a glowing success story: he founded TOMS Shoes, building a global brand that has given away more than 100 million pairs of shoes to children in need. Yet despite his success, his struggle with depression nearly cost him his life. In this personal talk, he explores the all-too-common shame that keeps people suffering in silence — and shares his new mission to spread the simple yet powerful message that each of us is inherently enough. (Note: This talk includes discussion of suicide and depression.)&lt;/p&gt;&lt;br&gt;&lt;p&gt;More resources&lt;/p&gt;&lt;p&gt;&lt;a href="https://blog.ted.com/resources-for-suicide-prevention-post-attempt-survivors-and-their-families/" rel="noopener noreferrer" target="_blank"&gt;Resources for suicide prevention, post-attempt survivors and their families&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Vote for our show in the Signal Awards for &lt;a href="https://vote.signalaward.com/PublicVoting#/2026/shows/genre/most-inspirational" rel="noopener noreferrer" target="_blank"&gt;Most Inspirational&lt;/a&gt; podcast! &lt;/p&gt;&lt;hr&gt;&lt;p style='color:grey; font-size:0.75em;'&gt; Hosted on Acast. See &lt;a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'&gt;acast.com/privacy&lt;/a&gt; for more information.&lt;/p&gt;</description>
+			<ns2:summary>&lt;p&gt;On paper, Blake Mycoskie is a glowing success story: he founded TOMS Shoes, building a global brand that has given away more than 100 million pairs of shoes to children in need. Yet despite his success, his struggle with depression nearly cost him his life. In this personal talk, he explores the all-too-common shame that keeps people suffering in silence — and shares his new mission to spread the simple yet powerful message that each of us is inherently enough. (Note: This talk includes discussion of suicide and depression.)&lt;/p&gt;&lt;br&gt;&lt;p&gt;More resources&lt;/p&gt;&lt;p&gt;&lt;a href="https://blog.ted.com/resources-for-suicide-prevention-post-attempt-survivors-and-their-families/" rel="noopener noreferrer" target="_blank"&gt;Resources for suicide prevention, post-attempt survivors and their families&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Vote for our show in the Signal Awards for &lt;a href="https://vote.signalaward.com/PublicVoting#/2026/shows/genre/most-inspirational" rel="noopener noreferrer" target="_blank"&gt;Most Inspirational&lt;/a&gt; podcast! &lt;/p&gt;&lt;hr&gt;&lt;p style='color:grey; font-size:0.75em;'&gt; Hosted on Acast. See &lt;a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'&gt;acast.com/privacy&lt;/a&gt; for more information.&lt;/p&gt;</ns2:summary>
+		</item>
+		<item>
+			<title>How imaginary worlds help kids learn | Anna Rainio</title>
+			<ns2:title>How imaginary worlds help kids learn | Anna Rainio</ns2:title>
+			<pubDate>Thu, 08 Oct 2026 15:00:03 GMT</pubDate>
+			<ns2:duration>17:42</ns2:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ac7ae48e2a72faefc1e8d0f/media.mp3" length="17005923" type="audio/mpeg" />
+			<guid isPermaLink="false">6ac7ae48e2a72faefc1e8d0f</guid>
+			<ns2:explicit>false</ns2:explicit>
+			<link>http://go.ted.com/annarainio</link>
+			<ns3:episodeId>6ac7ae48e2a72faefc1e8d0f</ns3:episodeId>
+			<ns3:showId>67587e77c705e441797aff96</ns3:showId>
+			<ns3:episodeUrl>tid190490tid</ns3:episodeUrl>
+			<ns3:settings>FYjHyZbXWHZ7gmX8Pp1rmRbkUlg2iR8fDtnl1O71B2N8B7jZZH+7YdsHlGFxMJ/JB5ewwSWwnDfITsERRlXnRBh4YrYONh5dhBwY79ZNGeCs3OHVRIxI0AyKvM9wxU/cbo+W7FB2ApSiamSUuijpNSPlELq0L2d2aE00qcjj2i1mtLEQx7Z+tjMJVGZUdCIqlVPIgHKmn0GY+vnrPQ/eVjKtddA+VTrpkq6+tYJk7aKeirtBWFf9AsqQSZ4DfeRI6vtQrB4IMm4fhQhBZ9m6ZMY8PJqBRn49y2kJzlhmAFNpg6PA/gBweJEiECzgOLzKTD4z9OIEALcRZMoO9E53RazJTt2dYuXYeoEqjP9V4+SNlt27lu+XaHJYwSp/hp4+</ns3:settings>
+			<ns2:episodeType>full</ns2:episodeType>
+			<ns2:image href="https://assets.pippa.io/shows/67587e77c705e441797aff96/show-cover.png" />
+			<description>&lt;p&gt;All children develop at different paces — so why do schools expect every student to learn the same way? Early education researcher Anna Rainio introduces &amp;quot;playworlds,&amp;quot; a learning activity where adults and kids create imaginary stories together. She shows how pretend play helps students find their place — and the power of a teacher or parent starting with a simple question: Why not?&lt;/p&gt;&lt;p&gt;Vote for our show in the Signal Awards for &lt;a href="https://vote.signalaward.com/PublicVoting#/2026/shows/genre/most-inspirational" rel="noopener noreferrer" target="_blank"&gt;Most Inspirational&lt;/a&gt; podcast! &lt;/p&gt;&lt;hr&gt;&lt;p style='color:grey; font-size:0.75em;'&gt; Hosted on Acast. See &lt;a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'&gt;acast.com/privacy&lt;/a&gt; for more information.&lt;/p&gt;</description>
+			<ns2:summary>&lt;p&gt;All children develop at different paces — so why do schools expect every student to learn the same way? Early education researcher Anna Rainio introduces &amp;quot;playworlds,&amp;quot; a learning activity where adults and kids create imaginary stories together. She shows how pretend play helps students find their place — and the power of a teacher or parent starting with a simple question: Why not?&lt;/p&gt;&lt;p&gt;Vote for our show in the Signal Awards for &lt;a href="https://vote.signalaward.com/PublicVoting#/2026/shows/genre/most-inspirational" rel="noopener noreferrer" target="_blank"&gt;Most Inspirational&lt;/a&gt; podcast! &lt;/p&gt;&lt;hr&gt;&lt;p style='color:grey; font-size:0.75em;'&gt; Hosted on Acast. See &lt;a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'&gt;acast.com/privacy&lt;/a&gt; for more information.&lt;/p&gt;</ns2:summary>
+		</item>
+		<item>
+			<title>What my politically divided family teaches me | Tami Pyfer</title>
+			<ns2:title>What my politically divided family teaches me | Tami Pyfer</ns2:title>
+			<pubDate>Wed, 07 Oct 2026 15:00:00 GMT</pubDate>
+			<ns2:duration>14:03</ns2:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ac50a9bfba456483104cf1e/media.mp3" length="13599599" type="audio/mpeg" />
+			<guid isPermaLink="false">6ac50a9bfba456483104cf1e</guid>
+			<ns2:explicit>false</ns2:explicit>
+			<link>http://go.ted.com/tamipyfer</link>
+			<ns3:episodeId>6ac50a9bfba456483104cf1e</ns3:episodeId>
+			<ns3:showId>67587e77c705e441797aff96</ns3:showId>
+			<ns3:episodeUrl>tid190163tid</ns3:episodeUrl>
+			<ns3:settings>FYjHyZbXWHZ7gmX8Pp1rmRbkUlg2iR8fDtnl1O71B2N8B7jZZH+7YdsHlGFxMJ/JB5ewwSWwnDfITsERRlXnRDpWbkL37OoASNJvsE5l8gLsR7Ql684eUdg66k9vD/uP+Ee5yAc4YEJ9rIjCoH4mMu7NhDkKmQNWzjzYXkB59mFvXVWGv8hHC7gnRHUGyuoKHAYWDuYwBec6DRnGtiU+Z9DAa5k3mamkkhI2HprManiBNaPYTPyehaN1yEYn1/X/T5ZjU1G/TDYlzBIj2QY2rpCRaBh5MZF/lAWD311/pze8ZL63btnd/iJCmWPh1MlB1M2aT7+W50Z95YDguC2sUWF/tmWSUeIrcOl4fKCYujvfOmRmXf+f6hUDjH/pA2Y2</ns3:settings>
+			<ns2:episodeType>full</ns2:episodeType>
+			<ns2:image href="https://assets.pippa.io/shows/67587e77c705e441797aff96/show-cover.png" />
+			<description>&lt;p&gt;Tami Pyfer has five kids who belong to five different political parties, and sometimes family conversations get heated. Drawing on her work as a former policy advisor to the governor of Utah, she wanted to find a healthier way for people to talk about politics without contempt. The result is the Dignity Index: an eight-point scale that measures the language we use to disagree, aiming to ease political divisions. What score do you think your last conversation would get?&lt;/p&gt;&lt;p&gt;Vote for our show in the Signal Awards for &lt;a href="https://vote.signalaward.com/PublicVoting#/2026/shows/genre/most-inspirational" rel="noopener noreferrer" target="_blank"&gt;Most Inspirational&lt;/a&gt; podcast! &lt;/p&gt;&lt;hr&gt;&lt;p style='color:grey; font-size:0.75em;'&gt; Hosted on Acast. See &lt;a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'&gt;acast.com/privacy&lt;/a&gt; for more information.&lt;/p&gt;</description>
+			<ns2:summary>&lt;p&gt;Tami Pyfer has five kids who belong to five different political parties, and sometimes family conversations get heated. Drawing on her work as a former policy advisor to the governor of Utah, she wanted to find a healthier way for people to talk about politics without contempt. The result is the Dignity Index: an eight-point scale that measures the language we use to disagree, aiming to ease political divisions. What score do you think your last conversation would get?&lt;/p&gt;&lt;p&gt;Vote for our show in the Signal Awards for &lt;a href="https://vote.signalaward.com/PublicVoting#/2026/shows/genre/most-inspirational" rel="noopener noreferrer" target="_blank"&gt;Most Inspirational&lt;/a&gt; podcast! &lt;/p&gt;&lt;hr&gt;&lt;p style='color:grey; font-size:0.75em;'&gt; Hosted on Acast. See &lt;a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'&gt;acast.com/privacy&lt;/a&gt; for more information.&lt;/p&gt;</ns2:summary>
+		</item>
+		<item>
+			<title>The wonder of weightlifting | Jaime Seeman (re-release)</title>
+			<ns2:title>The wonder of weightlifting | Jaime Seeman (re-release)</ns2:title>
+			<pubDate>Tue, 06 Oct 2026 15:00:00 GMT</pubDate>
+			<ns2:duration>13:05</ns2:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ac3ba163b662ae0dba27e87/media.mp3" length="12562599" type="audio/mpeg" />
+			<guid isPermaLink="false">6ac3ba163b662ae0dba27e87</guid>
+			<ns2:explicit>false</ns2:explicit>
+			<link>http://go.ted.com/jaimeseeman</link>
+			<ns3:episodeId>6ac3ba163b662ae0dba27e87</ns3:episodeId>
+			<ns3:showId>67587e77c705e441797aff96</ns3:showId>
+			<ns3:episodeUrl>tid158395tid</ns3:episodeUrl>
+			<ns3:settings>FYjHyZbXWHZ7gmX8Pp1rmRbkUlg2iR8fDtnl1O71B2N8B7jZZH+7YdsHlGFxMJ/JB5ewwSWwnDfITsERRlXnRCeZv68mKDTun/hRXyn8XJbXvf80cTAk7afifTRXoBNNlWrKfCAyeGje7UNMuZ0roAn6uAZkVih5bWmZwDO4FefOuOPZkmHz8VhxmyCh7ZpjiTg3Jl9Zk/rwvnK9AVDMmOueg11BieibHq59i0/6PyJ648R06J8/jmFChY7JqIY8OGvsIgteTKJH1EmdFQXmbR2rOWyw55oV9VzFAV6Cj8ZUXmGXl0yqYuAB0gdRHhhWqSr3wQKh8noQmgOzNmOaIL7WaSfsqk4CXapeVirVgqXx6YaHUZkHhyOmum4CGSKJ</ns3:settings>
+			<ns2:episodeType>full</ns2:episodeType>
+			<ns2:image href="https://assets.pippa.io/shows/67587e77c705e441797aff96/show-cover.png" />
+			<description>&lt;p&gt;With humor and hard science, obstetrician and gynecologist Jaime Seeman reveals why building muscle is one of the best ways to combat women’s top health risks. Learn the truth behind three weightlifting myths that prevent women from getting serious about strength training — and why your future self will thank you for picking up those dumbbells.&lt;/p&gt;&lt;br&gt;&lt;p&gt;(This episode originally aired in 2025.)&lt;/p&gt;&lt;p&gt;Vote for our show in the Signal Awards for &lt;a href="https://vote.signalaward.com/PublicVoting#/2026/shows/genre/most-inspirational" rel="noopener noreferrer" target="_blank"&gt;Most Inspirational&lt;/a&gt; podcast! &lt;/p&gt;&lt;hr&gt;&lt;p style='color:grey; font-size:0.75em;'&gt; Hosted on Acast. See &lt;a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'&gt;acast.com/privacy&lt;/a&gt; for more information.&lt;/p&gt;</description>
+			<ns2:summary>&lt;p&gt;With humor and hard science, obstetrician and gynecologist Jaime Seeman reveals why building muscle is one of the best ways to combat women’s top health risks. Learn the truth behind three weightlifting myths that prevent women from getting serious about strength training — and why your future self will thank you for picking up those dumbbells.&lt;/p&gt;&lt;br&gt;&lt;p&gt;(This episode originally aired in 2025.)&lt;/p&gt;&lt;p&gt;Vote for our show in the Signal Awards for &lt;a href="https://vote.signalaward.com/PublicVoting#/2026/shows/genre/most-inspirational" rel="noopener noreferrer" target="_blank"&gt;Most Inspirational&lt;/a&gt; podcast! &lt;/p&gt;&lt;hr&gt;&lt;p style='color:grey; font-size:0.75em;'&gt; Hosted on Acast. See &lt;a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'&gt;acast.com/privacy&lt;/a&gt; for more information.&lt;/p&gt;</ns2:summary>
+		</item>
+		<item>
+			<title>The secret to lasting love | Eli J Finkel</title>
+			<ns2:title>The secret to lasting love | Eli J Finkel</ns2:title>
+			<pubDate>Mon, 05 Oct 2026 15:00:00 GMT</pubDate>
+			<ns2:duration>15:32</ns2:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6abfc88f5dd8db805ee8e56b/media.mp3" length="15015791" type="audio/mpeg" />
+			<guid isPermaLink="false">6abfc88f5dd8db805ee8e56b</guid>
+			<ns2:explicit>false</ns2:explicit>
+			<link>http://go.ted.com/elijfinkel</link>
+			<ns3:episodeId>6abfc88f5dd8db805ee8e56b</ns3:episodeId>
+			<ns3:showId>67587e77c705e441797aff96</ns3:showId>
+			<ns3:episodeUrl>tid190162tid</ns3:episodeUrl>
+			<ns3:settings>FYjHyZbXWHZ7gmX8Pp1rmRbkUlg2iR8fDtnl1O71B2N8B7jZZH+7YdsHlGFxMJ/JB5ewwSWwnDfITsERRlXnROmEjHoAiJJ+2B5cEyB20HiWX52yVas+iRFetZuKGND8sQXsOYfdYJPeHKVbQQupD+n5L7J55iugCvqngXMfNLucS8VhzvXe+S9usYZpKKJQImwoxxbNN0uGJL0/iMXBB0aUl3H1XmBmdgtXUyuIajFjWeJ2uR3C8li2CFRMlokgy22HOdEvsIDr6JefoLcoGPBE9NdP1etVbjCRkOwKgZRP0TTMEWpqNgaLEvpnIwQQcXnSKU651i5HSd/0jLS9pWsDbcbSKPFfchhz4o/UJPKWtnmuTfgGgVtvnIMKumIQ</ns3:settings>
+			<ns2:episodeType>full</ns2:episodeType>
+			<ns2:image href="https://assets.pippa.io/shows/67587e77c705e441797aff96/show-cover.png" />
+			<description>&lt;p&gt;Social psychologist Eli J. Finkel has spent decades studying what makes partnerships successful. In a practical talk drawing on lessons from pop culture, he explores why so many of us struggle to be true to ourselves in our relationships — and what the happiest couples do differently.&lt;/p&gt;&lt;p&gt;Vote for our show in the Signal Awards for &lt;a href="https://vote.signalaward.com/PublicVoting#/2026/shows/genre/most-inspirational" rel="noopener noreferrer" target="_blank"&gt;Most Inspirational&lt;/a&gt; podcast! &lt;/p&gt;&lt;hr&gt;&lt;p style='color:grey; font-size:0.75em;'&gt; Hosted on Acast. See &lt;a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'&gt;acast.com/privacy&lt;/a&gt; for more information.&lt;/p&gt;</description>
+			<ns2:summary>&lt;p&gt;Social psychologist Eli J. Finkel has spent decades studying what makes partnerships successful. In a practical talk drawing on lessons from pop culture, he explores why so many of us struggle to be true to ourselves in our relationships — and what the happiest couples do differently.&lt;/p&gt;&lt;p&gt;Vote for our show in the Signal Awards for &lt;a href="https://vote.signalaward.com/PublicVoting#/2026/shows/genre/most-inspirational" rel="noopener noreferrer" target="_blank"&gt;Most Inspirational&lt;/a&gt; podcast! &lt;/p&gt;&lt;hr&gt;&lt;p style='color:grey; font-size:0.75em;'&gt; Hosted on Acast. See &lt;a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'&gt;acast.com/privacy&lt;/a&gt; for more information.&lt;/p&gt;</ns2:summary>
+		</item>
+		<item>
+			<title>Sunday Pick: All the lonely people | from Corner Piece</title>
+			<ns2:title>Sunday Pick: All the lonely people | from Corner Piece</ns2:title>
+			<pubDate>Sun, 04 Oct 2026 04:00:00 GMT</pubDate>
+			<ns2:duration>34:03</ns2:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6aa1dbbb156a52f880a51eb6/media.mp3" length="32704470" type="audio/mpeg" />
+			<guid isPermaLink="false">6aa1dbbb156a52f880a51eb6</guid>
+			<ns2:explicit>false</ns2:explicit>
+			<link>https://audiocollective.ted.com/</link>
+			<ns3:episodeId>6aa1dbbb156a52f880a51eb6</ns3:episodeId>
+			<ns3:showId>67587e77c705e441797aff96</ns3:showId>
+			<ns3:episodeUrl>sunday-pick-all-the-lonely-people-from-corner-piece</ns3:episodeUrl>
+			<ns3:settings>FYjHyZbXWHZ7gmX8Pp1rmRbkUlg2iR8fDtnl1O71B2N8B7jZZH+7YdsHlGFxMJ/JB5ewwSWwnDfITsERRlXnRDXWwmYC0D099WkCvZmmeHdjHwTe0DJKdYibY3OUqd/8phGyxlK4lhgvmMlyvpCCHzQ6cQ0q0lZKqyo0etgOXZ91yWtmgCjkv5yygq0kvYdNg/rpeWavyIeNZ1bYHqD0ktcw7vJQe4OPjnxThz9TIgZ+Zd3C40o6VJb6M7isivrnTGF9UX/+0kRtbZ7p8QMOQDNB/T83Icbqyv9p6h/m4d6HecJAxtSZ2dBaPczC+YASVzzUw6HGW8vFQcI0wuE90A9WDoi/R7r3wsLuLbwHe0nlkI6BqMgGBFFwT0+W1oMMhAoTI+9BIanwXkQJghwQmh7wWT1DYRZerUwVV+V13U8jl/odcc/EAYhSXjQ3/SH67Xsjs7Rp2yXhqTXRXI9OYNLC+PW1UHvbR0rsDpbnQXssmsgLhP+p2zzkXD/i0Fyu</ns3:settings>
+			<ns2:episodeType>full</ns2:episodeType>
+			<ns2:image href="https://assets.pippa.io/shows/67587e77c705e441797aff96/1790632358503-4e77a41c-f972-426f-8154-594838dcd8f7.jpeg" />
+			<description>&lt;p&gt;From group chats to video calls, technology should make social connection easier than ever. So, why is everyone so lonely? &lt;/p&gt;&lt;br&gt;&lt;p&gt;In this special featured episode from the new TED podcast, &lt;em&gt;Corner Piece&lt;/em&gt;, host Sabrina sets out to investigate the &amp;quot;loneliness epidemic&amp;quot; that is sweeping the globe and impacting her friends and cohosts. She interviews Professor Fay Bound-Alberti, author of &amp;quot;A Biography of Loneliness: The History of an Emotion&amp;quot; to understand what loneliness is, where it comes from, and whether there is a &amp;quot;cure&amp;quot;. In the process, co-hosts Taha and Melissa challenge Sabrina to tackle her own loneliness through a sidequest that reveals just how hard connection can be in modern life. &lt;/p&gt;&lt;br&gt;&lt;p&gt;Hear more episodes of Corner Piece on your favorite podcast app or here: &lt;em&gt;&lt;u&gt;&lt;a href="https://link.mgln.ai/G4KvuV" rel="noopener noreferrer" target="_blank"&gt;https://link.mgln.ai/G4KvuV&lt;/a&gt;&lt;/u&gt; &lt;/em&gt;&lt;/p&gt;&lt;p&gt;Vote for our show in the Signal Awards for &lt;a href="https://vote.signalaward.com/PublicVoting#/2026/shows/genre/most-inspirational" rel="noopener noreferrer" target="_blank"&gt;Most Inspirational&lt;/a&gt; podcast! &lt;/p&gt;&lt;hr&gt;&lt;p style='color:grey; font-size:0.75em;'&gt; Hosted on Acast. See &lt;a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'&gt;acast.com/privacy&lt;/a&gt; for more information.&lt;/p&gt;</description>
+			<ns2:summary>&lt;p&gt;From group chats to video calls, technology should make social connection easier than ever. So, why is everyone so lonely? &lt;/p&gt;&lt;br&gt;&lt;p&gt;In this special featured episode from the new TED podcast, &lt;em&gt;Corner Piece&lt;/em&gt;, host Sabrina sets out to investigate the &amp;quot;loneliness epidemic&amp;quot; that is sweeping the globe and impacting her friends and cohosts. She interviews Professor Fay Bound-Alberti, author of &amp;quot;A Biography of Loneliness: The History of an Emotion&amp;quot; to understand what loneliness is, where it comes from, and whether there is a &amp;quot;cure&amp;quot;. In the process, co-hosts Taha and Melissa challenge Sabrina to tackle her own loneliness through a sidequest that reveals just how hard connection can be in modern life. &lt;/p&gt;&lt;br&gt;&lt;p&gt;Hear more episodes of Corner Piece on your favorite podcast app or here: &lt;em&gt;&lt;u&gt;&lt;a href="https://link.mgln.ai/G4KvuV" rel="noopener noreferrer" target="_blank"&gt;https://link.mgln.ai/G4KvuV&lt;/a&gt;&lt;/u&gt; &lt;/em&gt;&lt;/p&gt;&lt;p&gt;Vote for our show in the Signal Awards for &lt;a href="https://vote.signalaward.com/PublicVoting#/2026/shows/genre/most-inspirational" rel="noopener noreferrer" target="_blank"&gt;Most Inspirational&lt;/a&gt; podcast! &lt;/p&gt;&lt;hr&gt;&lt;p style='color:grey; font-size:0.75em;'&gt; Hosted on Acast. See &lt;a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'&gt;acast.com/privacy&lt;/a&gt; for more information.&lt;/p&gt;</ns2:summary>
+		</item>
+		<item>
+			<title>The joy of foraging your own food | Alexis Nikole Nelson</title>
+			<ns2:title>The joy of foraging your own food | Alexis Nikole Nelson</ns2:title>
+			<pubDate>Sat, 03 Oct 2026 15:00:00 GMT</pubDate>
+			<ns2:duration>51:25</ns2:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6abe754bce220947617cd459/media.mp3" length="49372264" type="audio/mpeg" />
+			<guid isPermaLink="false">6abe754bce220947617cd459</guid>
+			<ns2:explicit>false</ns2:explicit>
+			<link>http://go.ted.com/alexisnikolenelson26</link>
+			<ns3:episodeId>6abe754bce220947617cd459</ns3:episodeId>
+			<ns3:showId>67587e77c705e441797aff96</ns3:showId>
+			<ns3:episodeUrl>tid189897tid</ns3:episodeUrl>
+			<ns3:settings>FYjHyZbXWHZ7gmX8Pp1rmRbkUlg2iR8fDtnl1O71B2N8B7jZZH+7YdsHlGFxMJ/JB5ewwSWwnDfITsERRlXnRFOV1wsygHRYrD++1aXk383yatjGKMI3tcUi8zFwCw8GZDw3DsLqQBWMALqpC5cBgA2gom0oxGTbfhgID7jVc5A+uFmNh9S7/0j2maiGdKi0Ybiv2bFE+KXPp5AuX+7NBpt41PgIjxICpTnvp3dD0rSm/9jtXXEycVtT0pn34eCMQ+qWa/EH2O1wxAc5BAQOnKqkx2/NQcqt1IuOVuKsVJCDopXjvvM4V1nl2ZK/vyXM1x37f4V+0ziyvIPlIKxtQNYoNsXJwdDME8Yd3JwTkQnyp2tZ9kFt7wG7M8UrPjF0c6hOpO4Fv80cGzEdDcgz7S/1N2JkjZTm2MMFp/589I296jz2sy1oPwqPjWDwjscN</ns3:settings>
+			<ns2:episodeType>full</ns2:episodeType>
+			<ns2:image href="https://assets.pippa.io/shows/67587e77c705e441797aff96/show-cover.png" />
+			<description>&lt;p&gt;There&amp;#39;s a whole world of food growing right outside our doors — in our backyards, on sidewalks, in the parks we walk through every day — and most of us pass by it without a second glance. Alexis Nikole Nelson wants to change that. A self-described “ethnobotany nerd,” she’s spent years teaching people how to forage the wild food hiding in plain sight. She explores how paying closer attention to what’s already around us can reconnect us to the land, our communities and each other. (This conversation, hosted by TED’s Whitney Pennington Rodgers, was part of an exclusive TED Membership event. TED Membership is the best way to support and engage with the big ideas you love from TED. To learn more, visit &lt;a href="http://ted.com/membership." rel="noopener noreferrer" target="_blank"&gt;ted.com/membership.&lt;/a&gt;)&lt;/p&gt;&lt;p&gt;Vote for our show in the Signal Awards for &lt;a href="https://vote.signalaward.com/PublicVoting#/2026/shows/genre/most-inspirational" rel="noopener noreferrer" target="_blank"&gt;Most Inspirational&lt;/a&gt; podcast! &lt;/p&gt;&lt;hr&gt;&lt;p style='color:grey; font-size:0.75em;'&gt; Hosted on Acast. See &lt;a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'&gt;acast.com/privacy&lt;/a&gt; for more information.&lt;/p&gt;</description>
+			<ns2:summary>&lt;p&gt;There&amp;#39;s a whole world of food growing right outside our doors — in our backyards, on sidewalks, in the parks we walk through every day — and most of us pass by it without a second glance. Alexis Nikole Nelson wants to change that. A self-described “ethnobotany nerd,” she’s spent years teaching people how to forage the wild food hiding in plain sight. She explores how paying closer attention to what’s already around us can reconnect us to the land, our communities and each other. (This conversation, hosted by TED’s Whitney Pennington Rodgers, was part of an exclusive TED Membership event. TED Membership is the best way to support and engage with the big ideas you love from TED. To learn more, visit &lt;a href="http://ted.com/membership." rel="noopener noreferrer" target="_blank"&gt;ted.com/membership.&lt;/a&gt;)&lt;/p&gt;&lt;p&gt;Vote for our show in the Signal Awards for &lt;a href="https://vote.signalaward.com/PublicVoting#/2026/shows/genre/most-inspirational" rel="noopener noreferrer" target="_blank"&gt;Most Inspirational&lt;/a&gt; podcast! &lt;/p&gt;&lt;hr&gt;&lt;p style='color:grey; font-size:0.75em;'&gt; Hosted on Acast. See &lt;a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'&gt;acast.com/privacy&lt;/a&gt; for more information.&lt;/p&gt;</ns2:summary>
+		</item>
+		<item>
+			<title>Why we should design cities like Disney | Zach DeBoer</title>
+			<ns2:title>Why we should design cities like Disney | Zach DeBoer</ns2:title>
+			<pubDate>Fri, 02 Oct 2026 15:00:00 GMT</pubDate>
+			<ns2:duration>17:50</ns2:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6abe74dcce220947617cd458/media.mp3" length="17125877" type="audio/mpeg" />
+			<guid isPermaLink="false">6abe74dcce220947617cd458</guid>
+			<ns2:explicit>false</ns2:explicit>
+			<link>http://go.ted.com/zachdeboer</link>
+			<ns3:episodeId>6abe74dcce220947617cd458</ns3:episodeId>
+			<ns3:showId>67587e77c705e441797aff96</ns3:showId>
+			<ns3:episodeUrl>tid190066tid</ns3:episodeUrl>
+			<ns3:settings>FYjHyZbXWHZ7gmX8Pp1rmRbkUlg2iR8fDtnl1O71B2N8B7jZZH+7YdsHlGFxMJ/JB5ewwSWwnDfITsERRlXnRKLAI3vXnG82yt23O01F9oerrl0nPOXD9ARdpOZcsYjiZ6slSDA3iIXCho5esKr8KAsuUQkYxnZwlM/oIoSo9ONMbTVMOhmBgAPenVPT7ZPhZW1ArIrUUyGfr12qDiTk+8Xij61Psv/kCiNdDXgLpIO3pkQm7jd8hjPwMFyxqthj25/7TXDeOy4rmsq3H4mU7zy/h92rKK1HHfgAFeKqh3fdEomlGERBOqx/8S47+ZZ07TMrh6gZEHUf6YayOq8COiWovm0olo9ph5bfOYsjuwidIFmyaf99NhCXjouprvS+</ns3:settings>
+			<ns2:episodeType>full</ns2:episodeType>
+			<ns2:image href="https://assets.pippa.io/shows/67587e77c705e441797aff96/show-cover.png" />
+			<description>&lt;p&gt;Where you live shapes your relationships, your emotions and even how long you live, says community designer Zach DeBoer. After studying what a century of building cities around cars has done to downtowns in the US, he turned to lessons from some of the most walkable, carefully designed streets in the country: the ones inside Disney theme parks. With ideas ranging from narrower roads to buildings that pull you around the next corner, he offers a practical guide to turning ordinary downtowns into magical places people want to explore.&lt;/p&gt;&lt;p&gt;Vote for our show in the Signal Awards for &lt;a href="https://vote.signalaward.com/PublicVoting#/2026/shows/genre/most-inspirational" rel="noopener noreferrer" target="_blank"&gt;Most Inspirational&lt;/a&gt; podcast! &lt;/p&gt;&lt;hr&gt;&lt;p style='color:grey; font-size:0.75em;'&gt; Hosted on Acast. See &lt;a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'&gt;acast.com/privacy&lt;/a&gt; for more information.&lt;/p&gt;</description>
+			<ns2:summary>&lt;p&gt;Where you live shapes your relationships, your emotions and even how long you live, says community designer Zach DeBoer. After studying what a century of building cities around cars has done to downtowns in the US, he turned to lessons from some of the most walkable, carefully designed streets in the country: the ones inside Disney theme parks. With ideas ranging from narrower roads to buildings that pull you around the next corner, he offers a practical guide to turning ordinary downtowns into magical places people want to explore.&lt;/p&gt;&lt;p&gt;Vote for our show in the Signal Awards for &lt;a href="https://vote.signalaward.com/PublicVoting#/2026/shows/genre/most-inspirational" rel="noopener noreferrer" target="_blank"&gt;Most Inspirational&lt;/a&gt; podcast! &lt;/p&gt;&lt;hr&gt;&lt;p style='color:grey; font-size:0.75em;'&gt; Hosted on Acast. See &lt;a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'&gt;acast.com/privacy&lt;/a&gt; for more information.&lt;/p&gt;</ns2:summary>
+		</item>
+		<item>
+			<title>Are your dealbreakers sabotaging your love life? | Amy Chan</title>
+			<ns2:title>Are your dealbreakers sabotaging your love life? | Amy Chan</ns2:title>
+			<pubDate>Thu, 01 Oct 2026 15:00:00 GMT</pubDate>
+			<ns2:duration>17:37</ns2:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6abe7442ce220947617cd457/media.mp3" length="16917733" type="audio/mpeg" />
+			<guid isPermaLink="false">6abe7442ce220947617cd457</guid>
+			<ns2:explicit>false</ns2:explicit>
+			<link>http://go.ted.com/amychan</link>
+			<ns3:episodeId>6abe7442ce220947617cd457</ns3:episodeId>
+			<ns3:showId>67587e77c705e441797aff96</ns3:showId>
+			<ns3:episodeUrl>tid189346tid</ns3:episodeUrl>
+			<ns3:settings>FYjHyZbXWHZ7gmX8Pp1rmRbkUlg2iR8fDtnl1O71B2N8B7jZZH+7YdsHlGFxMJ/JB5ewwSWwnDfITsERRlXnRDM/sEJjgmyuY5PKQ22YtfHZxBSb/opS793+1KBynjAC2tor197gZp7RnbLHLRYaaC2PgOW2kANIrutpX2E3uc65vA8UfmQA7Ir+b5If1vr6sFulRko6+K7/k2DELPs+VyQTNoTAhRoPOt8jJKKJ/5WWe+0b56dGTKcqadtcgH2B+UeHFKl+zKf/I+QqEZQYr3P/6gkeaIsfe8hqZ5DpxWiSFanhrkPuxdencqGvne6Yx8EgquZLCeAZo4Ehxv5/lGzHunDlHG+lk6HJVKFZRCG924w/rHXV2Z1jZsv2TK+n</ns3:settings>
+			<ns2:episodeType>full</ns2:episodeType>
+			<ns2:image href="https://assets.pippa.io/shows/67587e77c705e441797aff96/show-cover.png" />
+			<description>&lt;p&gt;Relationship expert Amy Chan believes we&amp;#39;re in a relationship recession, fueled by modern daters constantly looking for what could go wrong. But what if your dealbreakers are the very thing keeping you from finding love? In this relatable talk, she reveals how to discover true connection — and why the right person for you might not be who you expect.&lt;/p&gt;&lt;p&gt;Vote for our show in the Signal Awards for &lt;a href="https://vote.signalaward.com/PublicVoting#/2026/shows/genre/most-inspirational" rel="noopener noreferrer" target="_blank"&gt;Most Inspirational&lt;/a&gt; podcast! &lt;/p&gt;&lt;hr&gt;&lt;p style='color:grey; font-size:0.75em;'&gt; Hosted on Acast. See &lt;a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'&gt;acast.com/privacy&lt;/a&gt; for more information.&lt;/p&gt;</description>
+			<ns2:summary>&lt;p&gt;Relationship expert Amy Chan believes we&amp;#39;re in a relationship recession, fueled by modern daters constantly looking for what could go wrong. But what if your dealbreakers are the very thing keeping you from finding love? In this relatable talk, she reveals how to discover true connection — and why the right person for you might not be who you expect.&lt;/p&gt;&lt;p&gt;Vote for our show in the Signal Awards for &lt;a href="https://vote.signalaward.com/PublicVoting#/2026/shows/genre/most-inspirational" rel="noopener noreferrer" target="_blank"&gt;Most Inspirational&lt;/a&gt; podcast! &lt;/p&gt;&lt;hr&gt;&lt;p style='color:grey; font-size:0.75em;'&gt; Hosted on Acast. See &lt;a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'&gt;acast.com/privacy&lt;/a&gt; for more information.&lt;/p&gt;</ns2:summary>
+		</item>
+		<item>
+			<title>AI and the end of loneliness | Paul Bloom</title>
+			<ns2:title>AI and the end of loneliness | Paul Bloom</ns2:title>
+			<pubDate>Wed, 30 Sep 2026 15:01:47 GMT</pubDate>
+			<ns2:duration>29:29</ns2:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6abd245b56d8e12f09c351cf/media.mp3" length="70781888" type="audio/mpeg" />
+			<guid isPermaLink="false">6abd245b56d8e12f09c351cf</guid>
+			<ns2:explicit>false</ns2:explicit>
+			<link>http://go.ted.com/paulbloom26</link>
+			<ns3:episodeId>6abd245b56d8e12f09c351cf</ns3:episodeId>
+			<ns3:showId>67587e77c705e441797aff96</ns3:showId>
+			<ns3:episodeUrl>tid188342tid</ns3:episodeUrl>
+			<ns3:settings>FYjHyZbXWHZ7gmX8Pp1rmRbkUlg2iR8fDtnl1O71B2N8B7jZZH+7YdsHlGFxMJ/JB5ewwSWwnDfITsERRlXnRA2DAjD9kzHAlLHm5RdKLxeDPL2MXZ/cq8wi1nNnJ162zjZBkLvLB56FypfXd3XvSBBN4oca7ECXILYW3/U+O/i1+4mO9EHlA9q2x+/GTZ6yZrOJWOhIBJsKCOmfzFB3hZjQRALdkHbvNWYp/yQ084Yt5UU8YoD6v9XzxCq9ToNxgEJkaqQqKujDbjtJRF3CTc8Ka855UF3e0cQR+ENMzxUCOos1CRNOwIch5iTw6/qnJ/SVM1GwHF32QQZsWwMO0zmr5kk+BPi+DY0sugAzh3FdP1ERm1GNKQ72nmh2CaLL3iZ3gz5cfyy8yGGLaKDzSNjLjyZnYBCHw7gKlH9qBGbo4zrmJ78iqqklCO9cQ7e7</ns3:settings>
+			<ns2:episodeType>full</ns2:episodeType>
+			<ns2:image href="https://assets.pippa.io/shows/67587e77c705e441797aff96/show-cover.png" />
+			<description>&lt;p&gt;AI companions may soon cure loneliness, says psychologist Paul Bloom: a gift for the isolated and the elderly, but a danger for the young, who need to experience the hard work of real relationships. So what happens to a generation raised on chatbots that never need an apology or get bored of a story? Bloom pitches a stranger, more hopeful solution, one that lets us lean on AI without ever losing our humanity.&lt;/p&gt;&lt;br&gt;&lt;p&gt;(Following his talk, Bloom joins Elise Hu to talk more about what role an empathetic AI could play in human life. They dig into how difficult conversations help us grow and why it might be easier to hear corrective feedback from a chatbot.)&lt;/p&gt;&lt;p&gt;Vote for our show in the Signal Awards for &lt;a href="https://vote.signalaward.com/PublicVoting#/2026/shows/genre/most-inspirational" rel="noopener noreferrer" target="_blank"&gt;Most Inspirational&lt;/a&gt; podcast! &lt;/p&gt;&lt;hr&gt;&lt;p style='color:grey; font-size:0.75em;'&gt; Hosted on Acast. See &lt;a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'&gt;acast.com/privacy&lt;/a&gt; for more information.&lt;/p&gt;</description>
+			<ns2:summary>&lt;p&gt;AI companions may soon cure loneliness, says psychologist Paul Bloom: a gift for the isolated and the elderly, but a danger for the young, who need to experience the hard work of real relationships. So what happens to a generation raised on chatbots that never need an apology or get bored of a story? Bloom pitches a stranger, more hopeful solution, one that lets us lean on AI without ever losing our humanity.&lt;/p&gt;&lt;br&gt;&lt;p&gt;(Following his talk, Bloom joins Elise Hu to talk more about what role an empathetic AI could play in human life. They dig into how difficult conversations help us grow and why it might be easier to hear corrective feedback from a chatbot.)&lt;/p&gt;&lt;p&gt;Vote for our show in the Signal Awards for &lt;a href="https://vote.signalaward.com/PublicVoting#/2026/shows/genre/most-inspirational" rel="noopener noreferrer" target="_blank"&gt;Most Inspirational&lt;/a&gt; podcast! &lt;/p&gt;&lt;hr&gt;&lt;p style='color:grey; font-size:0.75em;'&gt; Hosted on Acast. See &lt;a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'&gt;acast.com/privacy&lt;/a&gt; for more information.&lt;/p&gt;</ns2:summary>
+		</item>
+		<item>
+			<title>How to break down barriers and not accept limits | Candace Parker</title>
+			<ns2:title>How to break down barriers and not accept limits | Candace Parker</ns2:title>
+			<pubDate>Tue, 29 Sep 2026 15:00:00 GMT</pubDate>
+			<ns2:duration>13:57</ns2:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6abbd19706846f55a3d01b5d/media.mp3" length="13398935" type="audio/mpeg" />
+			<guid isPermaLink="false">6abbd19706846f55a3d01b5d</guid>
+			<ns2:explicit>false</ns2:explicit>
+			<link>https://go.ted.com/64fe</link>
+			<ns3:episodeId>6abbd19706846f55a3d01b5d</ns3:episodeId>
+			<ns3:showId>67587e77c705e441797aff96</ns3:showId>
+			<ns3:episodeUrl>tid86532tid</ns3:episodeUrl>
+			<ns3:settings>FYjHyZbXWHZ7gmX8Pp1rmRbkUlg2iR8fDtnl1O71B2N8B7jZZH+7YdsHlGFxMJ/JB5ewwSWwnDfITsERRlXnRPdjbJm7d4qQ2rUK1Oh2E65gYDhVAjVZ14DHwOhC8Pz9XMEWWPsD0Zfd9A+9pv3MOneTk6I39IcyF5rQtcxziUqqpIs+AjAGzGBDkKEGgvx7D135NruFADRYuIFFQxbZ5astrPh2XySHq9rcTDfFVXejVW3DA9t4+5PBJvURrfnHoSnL4FasDoOphvF/f/9EfQ89AUWgFo7N0gUX+Sa3XC/j0NAlEjR8K6Bqvsm6Y86uA0pw1lIk0/WVuZlC3NwxNI7pEh4+WSGY4MMjTJ9TACs=</ns3:settings>
+			<ns2:episodeType>full</ns2:episodeType>
+			<ns2:image href="https://assets.pippa.io/shows/67587e77c705e441797aff96/show-cover.png" />
+			<description>&lt;p&gt;What can&amp;#39;t Candace Parker do? A two-time NCAA champion, two-time Olympic gold medalist and two-time WNBA champion, Parker knows what it takes to fight for your dreams. In this inspiring talk, she shares what she&amp;#39;s learned during a career spent not accepting limits -- and how her daughter taught her the best lesson of all. &amp;quot;Barrier breaking is about not staying in your lane and not being something that the world expects you to be,&amp;quot; she says. &amp;quot;It&amp;#39;s about not accepting limitations.&amp;quot;&lt;/p&gt;&lt;br&gt;&lt;p&gt;(This episode originally aired in 2024.)&lt;/p&gt;&lt;p&gt;Vote for our show in the Signal Awards for &lt;a href="https://vote.signalaward.com/PublicVoting#/2026/shows/genre/most-inspirational" rel="noopener noreferrer" target="_blank"&gt;Most Inspirational&lt;/a&gt; podcast! &lt;/p&gt;&lt;hr&gt;&lt;p style='color:grey; font-size:0.75em;'&gt; Hosted on Acast. See &lt;a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'&gt;acast.com/privacy&lt;/a&gt; for more information.&lt;/p&gt;</description>
+			<ns2:summary>&lt;p&gt;What can&amp;#39;t Candace Parker do? A two-time NCAA champion, two-time Olympic gold medalist and two-time WNBA champion, Parker knows what it takes to fight for your dreams. In this inspiring talk, she shares what she&amp;#39;s learned during a career spent not accepting limits -- and how her daughter taught her the best lesson of all. &amp;quot;Barrier breaking is about not staying in your lane and not being something that the world expects you to be,&amp;quot; she says. &amp;quot;It&amp;#39;s about not accepting limitations.&amp;quot;&lt;/p&gt;&lt;br&gt;&lt;p&gt;(This episode originally aired in 2024.)&lt;/p&gt;&lt;p&gt;Vote for our show in the Signal Awards for &lt;a href="https://vote.signalaward.com/PublicVoting#/2026/shows/genre/most-inspirational" rel="noopener noreferrer" target="_blank"&gt;Most Inspirational&lt;/a&gt; podcast! &lt;/p&gt;&lt;hr&gt;&lt;p style='color:grey; font-size:0.75em;'&gt; Hosted on Acast. See &lt;a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'&gt;acast.com/privacy&lt;/a&gt; for more information.&lt;/p&gt;</ns2:summary>
+		</item>
+		<item>
+			<title>Why I’m building libraries inside prisons | Reginald Dwayne Betts</title>
+			<ns2:title>Why I’m building libraries inside prisons | Reginald Dwayne Betts</ns2:title>
+			<pubDate>Mon, 28 Sep 2026 15:00:00 GMT</pubDate>
+			<ns2:duration>14:55</ns2:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ab68e195410c8e94cb948d1/media.mp3" length="14333910" type="audio/mpeg" />
+			<guid isPermaLink="false">6ab68e195410c8e94cb948d1</guid>
+			<ns2:explicit>false</ns2:explicit>
+			<link>http://go.ted.com/reginalddwaynebetts</link>
+			<ns3:episodeId>6ab68e195410c8e94cb948d1</ns3:episodeId>
+			<ns3:showId>67587e77c705e441797aff96</ns3:showId>
+			<ns3:episodeUrl>tid189894tid</ns3:episodeUrl>
+			<ns3:settings>FYjHyZbXWHZ7gmX8Pp1rmRbkUlg2iR8fDtnl1O71B2N8B7jZZH+7YdsHlGFxMJ/JB5ewwSWwnDfITsERRlXnRArhQ3n5pzqxmc04IZDYhFciK70HbMb1FeCwkwvzdqb3rg2MIPLdTV5oMFD3nNPcbSvKqI5DtTUyVWxKiK7nTUm4sWX3DbWi9IUifmg2bJJh3k6gJLqB0+G6USqma7HjV7VMpCDw61us/DL2oJ3E4eYnDfRwrcIUpL9x5dla85hGV2g/8zJHYUW+stSzamEXrhEbnjaqjWR6CzojB8aTQmokBTBDlbCvQBoksyjnxIgDpXOSjIbB8HesE1oeYSFydcaNxbxawYGC8pMhQIiF3OF7bU6taXXkSg2cZOCxkOLk</ns3:settings>
+			<ns2:episodeType>full</ns2:episodeType>
+			<ns2:image href="https://assets.pippa.io/shows/67587e77c705e441797aff96/show-cover.png" />
+			<description>&lt;p&gt;At age 16, Reginald Dwayne Betts was sentenced to nine years in prison. He turned to books to help hold onto his sanity — and developed a belief that we find what we look for, even in the toughest places. Now a lawyer and poet, he&amp;#39;s opened hundreds of Freedom Libraries inside prisons across the US, putting books he once dreamed of reading into the hands of incarcerated people. In this profound talk, he makes the case that hope is something people pass on to one another. &amp;quot;We put millions of people in prison. I would put millions of books inside,&amp;quot; he says.&lt;/p&gt;&lt;p&gt;Vote for our show in the Signal Awards for &lt;a href="https://vote.signalaward.com/PublicVoting#/2026/shows/genre/most-inspirational" rel="noopener noreferrer" target="_blank"&gt;Most Inspirational&lt;/a&gt; podcast! &lt;/p&gt;&lt;hr&gt;&lt;p style='color:grey; font-size:0.75em;'&gt; Hosted on Acast. See &lt;a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'&gt;acast.com/privacy&lt;/a&gt; for more information.&lt;/p&gt;</description>
+			<ns2:summary>&lt;p&gt;At age 16, Reginald Dwayne Betts was sentenced to nine years in prison. He turned to books to help hold onto his sanity — and developed a belief that we find what we look for, even in the toughest places. Now a lawyer and poet, he&amp;#39;s opened hundreds of Freedom Libraries inside prisons across the US, putting books he once dreamed of reading into the hands of incarcerated people. In this profound talk, he makes the case that hope is something people pass on to one another. &amp;quot;We put millions of people in prison. I would put millions of books inside,&amp;quot; he says.&lt;/p&gt;&lt;p&gt;Vote for our show in the Signal Awards for &lt;a href="https://vote.signalaward.com/PublicVoting#/2026/shows/genre/most-inspirational" rel="noopener noreferrer" target="_blank"&gt;Most Inspirational&lt;/a&gt; podcast! &lt;/p&gt;&lt;hr&gt;&lt;p style='color:grey; font-size:0.75em;'&gt; Hosted on Acast. See &lt;a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'&gt;acast.com/privacy&lt;/a&gt; for more information.&lt;/p&gt;</ns2:summary>
+		</item>
+		<item>
+			<title>How to break through fear and become a leader | Valerie Montgomery Rice</title>
+			<ns2:title>How to break through fear and become a leader | Valerie Montgomery Rice</ns2:title>
+			<pubDate>Sun, 27 Sep 2026 06:00:00 GMT</pubDate>
+			<ns2:duration>17:35</ns2:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ab2aeff68ec5641e2235644/media.mp3" length="16891402" type="audio/mpeg" />
+			<guid isPermaLink="false">6ab2aeff68ec5641e2235644</guid>
+			<ns2:explicit>false</ns2:explicit>
+			<link>http://go.ted.com/valeriemontgomeryrice</link>
+			<ns3:episodeId>6ab2aeff68ec5641e2235644</ns3:episodeId>
+			<ns3:showId>67587e77c705e441797aff96</ns3:showId>
+			<ns3:episodeUrl>tid135214tid</ns3:episodeUrl>
+			<ns3:settings>FYjHyZbXWHZ7gmX8Pp1rmRbkUlg2iR8fDtnl1O71B2N8B7jZZH+7YdsHlGFxMJ/JB5ewwSWwnDfITsERRlXnRPdjbJm7d4qQ2rUK1Oh2E65gYDhVAjVZ14DHwOhC8Pz9Xe3pGg+1tyFXNHt42rJCyc+6Wafck9LjuxCVOQCFcUFott88NoUT2yHPWOAjwOBrsbc/IABlfunion6omVgJtH2i5mNUBoYSW1Czbn7gOtFn+lIF4ZRSx5lSw5yUd+Sf0WvgFfZvuDJL5JZIG7hA8JdNDhhOhPZXfM/5QWQ2xnSiUOmrbdwr7uIm04v4d7P/p4iU5CtxG/e3g/GRO0qzU/47aV+zByMPEYjuM+xSwb4=</ns3:settings>
+			<ns2:episodeType>full</ns2:episodeType>
+			<ns2:image href="https://assets.pippa.io/shows/67587e77c705e441797aff96/1790095031289-9461d409-267b-4e52-b4d6-a2aee722f983.jpeg" />
+			<description>&lt;p&gt;Vigilance. Grit. Resilience. Valerie Montgomery Rice, the president and CEO of Morehouse School of Medicine, shares where she learned these key qualities of successful leadership, offering three lessons for anyone who wants to overcome their fears, stand up for what’s right and build opportunity for all.&lt;/p&gt;&lt;br&gt;&lt;p&gt;(This episode originally aired in 2024.)&lt;/p&gt;&lt;p&gt;Vote for our show in the Signal Awards for &lt;a href="https://vote.signalaward.com/PublicVoting#/2026/shows/genre/most-inspirational" rel="noopener noreferrer" target="_blank"&gt;Most Inspirational&lt;/a&gt; podcast! &lt;/p&gt;&lt;hr&gt;&lt;p style='color:grey; font-size:0.75em;'&gt; Hosted on Acast. See &lt;a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'&gt;acast.com/privacy&lt;/a&gt; for more information.&lt;/p&gt;</description>
+			<ns2:summary>&lt;p&gt;Vigilance. Grit. Resilience. Valerie Montgomery Rice, the president and CEO of Morehouse School of Medicine, shares where she learned these key qualities of successful leadership, offering three lessons for anyone who wants to overcome their fears, stand up for what’s right and build opportunity for all.&lt;/p&gt;&lt;br&gt;&lt;p&gt;(This episode originally aired in 2024.)&lt;/p&gt;&lt;p&gt;Vote for our show in the Signal Awards for &lt;a href="https://vote.signalaward.com/PublicVoting#/2026/shows/genre/most-inspirational" rel="noopener noreferrer" target="_blank"&gt;Most Inspirational&lt;/a&gt; podcast! &lt;/p&gt;&lt;hr&gt;&lt;p style='color:grey; font-size:0.75em;'&gt; Hosted on Acast. See &lt;a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'&gt;acast.com/privacy&lt;/a&gt; for more information.&lt;/p&gt;</ns2:summary>
+		</item>
+		<item>
+			<title>How to escape your obsession with productivity | Rebecca McMackin and Catherine Price</title>
+			<ns2:title>How to escape your obsession with productivity | Rebecca McMackin and Catherine Price</ns2:title>
+			<pubDate>Sat, 26 Sep 2026 15:00:00 GMT</pubDate>
+			<ns2:duration>29:51</ns2:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6ab68cb0079b46c81911b04a/media.mp3" length="28662386" type="audio/mpeg" />
+			<guid isPermaLink="false">6ab68cb0079b46c81911b04a</guid>
+			<ns2:explicit>false</ns2:explicit>
+			<link>http://go.ted.com/rebeccaandcatherine</link>
+			<ns3:episodeId>6ab68cb0079b46c81911b04a</ns3:episodeId>
+			<ns3:showId>67587e77c705e441797aff96</ns3:showId>
+			<ns3:episodeUrl>tid188006itd</ns3:episodeUrl>
+			<ns3:settings>FYjHyZbXWHZ7gmX8Pp1rmRbkUlg2iR8fDtnl1O71B2N8B7jZZH+7YdsHlGFxMJ/JB5ewwSWwnDfITsERRlXnRPQ+L7MHD14rPgyk+8R6a9K3kA55gkT9aT+WaD52TtEOrlw/K3LR9ej/czunWIi7asMWMzPtcAUeQ++GsGaP44eewlpZBWmfI75+UcRHwhHWOlFmCrmTUVcTxBqbguErcn6gS1Pw38i7wfUJFBQwxyrMkPG4yhRsgwDXLRvQXIb846pUa+NKU9uu5TaFIKqGDcAAxUjM3iGnGF9vdzjhJvvbeL0AQ35+3W3JZ3vbtuBpqgUSxmf80H2tWzjMAl5G97pWbQrpxELkW4yjbvi9VsvXqSqTvexEEHt9OAm85iYvv1DCz5CZ9IbziLaq8+nKUYcg7UyI9gmFnW49iFzq8iM=</ns3:settings>
+			<ns2:episodeType>full</ns2:episodeType>
+			<ns2:image href="https://assets.pippa.io/shows/67587e77c705e441797aff96/show-cover.png" />
+			<description>&lt;p&gt;Why are we so obsessed with productivity? Horticulturist Rebecca McMackin (who wants people to let their lawns grow wild) and author Catherine Price (who wrote a book about the power of fun) come together to discuss the relief of giving up control. From growing milkweed to taking up unproductive hobbies, they dig into the benefits of rest — and why doing something for its own sake shouldn&amp;#39;t need defending. (This conversation is part of &amp;quot;TED Intersections,&amp;quot; a series featuring thought-provoking conversations between experts navigating the ideas shaping our world.)&lt;/p&gt;&lt;p&gt;Vote for our show in the Signal Awards for &lt;a href="https://vote.signalaward.com/PublicVoting#/2026/shows/genre/most-inspirational" rel="noopener noreferrer" target="_blank"&gt;Most Inspirational&lt;/a&gt; podcast! &lt;/p&gt;&lt;hr&gt;&lt;p style='color:grey; font-size:0.75em;'&gt; Hosted on Acast. See &lt;a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'&gt;acast.com/privacy&lt;/a&gt; for more information.&lt;/p&gt;</description>
+			<ns2:summary>&lt;p&gt;Why are we so obsessed with productivity? Horticulturist Rebecca McMackin (who wants people to let their lawns grow wild) and author Catherine Price (who wrote a book about the power of fun) come together to discuss the relief of giving up control. From growing milkweed to taking up unproductive hobbies, they dig into the benefits of rest — and why doing something for its own sake shouldn&amp;#39;t need defending. (This conversation is part of &amp;quot;TED Intersections,&amp;quot; a series featuring thought-provoking conversations between experts navigating the ideas shaping our world.)&lt;/p&gt;&lt;p&gt;Vote for our show in the Signal Awards for &lt;a href="https://vote.signalaward.com/PublicVoting#/2026/shows/genre/most-inspirational" rel="noopener noreferrer" target="_blank"&gt;Most Inspirational&lt;/a&gt; podcast! &lt;/p&gt;&lt;hr&gt;&lt;p style='color:grey; font-size:0.75em;'&gt; Hosted on Acast. See &lt;a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'&gt;acast.com/privacy&lt;/a&gt; for more information.&lt;/p&gt;</ns2:summary>
+		</item>
+		<ns2:category text="Society &amp; Culture" />
+    </channel>
+</rss>

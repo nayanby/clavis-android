@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/cortex_page_background"
+    android:orientation="vertical">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <!-- Page sits under the chrome; PDF adds its own inset + top fade. -->
+        <HorizontalScrollView
+            android:id="@+id/cortex_paperHScroll"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="8dp"
+            android:fillViewport="true"
+            android:overScrollMode="ifContentScrolls">
+
+            <com.clavis.reader.notebook.ZoomScrollView
+                android:id="@+id/cortex_paperScroll"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:fillViewport="true"
+                android:overScrollMode="ifContentScrolls">
+
+                <com.clavis.reader.notebook.ZoomShell
+                    android:id="@+id/cortex_paperZoomShell"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content">
+
+                    <androidx.recyclerview.widget.RecyclerView
+                        android:id="@+id/cortex_paperStack"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:clipToPadding="false"
+                        android:overScrollMode="ifContentScrolls" />
+                </com.clavis.reader.notebook.ZoomShell>
+            </com.clavis.reader.notebook.ZoomScrollView>
+        </HorizontalScrollView>
+
+        <!-- Softens the top margin; solid until the midline of the chrome pills. -->
+        <View
+            android:id="@+id/cortex_paperTopFade"
+            android:layout_width="match_parent"
+            android:layout_height="18dp"
+            android:layout_gravity="top"
+            android:background="@drawable/cortex_bg_paper_top_fade"
+            android:clickable="false"
+            android:elevation="4dp"
+            android:focusable="false"
+            android:visibility="gone" />
+
+        <!-- Same fade at the foot, in place of the bottom bar. -->
+        <View
+            android:id="@+id/cortex_paperBottomFade"
+            android:layout_width="match_parent"
+            android:layout_height="21dp"
+            android:layout_gravity="bottom"
+            android:background="@drawable/cortex_bg_paper_bottom_fade"
+            android:clickable="false"
+            android:elevation="4dp"
+            android:focusable="false"
+            android:visibility="gone" />
+
+        <ProgressBar
+            android:id="@+id/cortex_paperLoading"
+            style="?android:attr/progressBarStyleLarge"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:layout_gravity="center"
+            android:indeterminate="true"
+            android:visibility="gone" />
+
+        <!-- Outline control mirrors the notes viewer at bottom-right. -->
+        <LinearLayout
+            android:id="@+id/cortex_paperOutlinePill"
+            android:layout_width="wrap_content"
+            android:layout_height="34dp"
+            android:layout_gravity="bottom|end"
+            android:layout_marginEnd="12dp"
+            android:layout_marginBottom="10dp"
+            android:background="@android:color/transparent"
+            android:elevation="8dp"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:paddingStart="0dp"
+            android:paddingEnd="0dp">
+
+            <ImageButton
+                style="@style/cortex_Widget.ClinicalNotes.CompactIconButton"
+                android:id="@+id/cortex_paperOutlineBtn"
+                android:contentDescription="@string/cortex_action_outline"
+                android:src="@drawable/cortex_ic_outline" />
+        </LinearLayout>
+
+        <!-- Page number with a turn button on either side: one centre pill. -->
+        <LinearLayout
+            android:id="@+id/cortex_paperNavPill"
+            android:layout_width="wrap_content"
+            android:layout_height="34dp"
+            android:layout_gravity="bottom|center_horizontal"
+            android:layout_marginBottom="10dp"
+            android:background="@android:color/transparent"
+            android:elevation="8dp"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:paddingStart="0dp"
+            android:paddingEnd="0dp">
+
+            <ImageButton
+                style="@style/cortex_Widget.ClinicalNotes.CompactIconButton"
+                android:id="@+id/cortex_paperPrev"
+                android:contentDescription="@string/cortex_paper_prev"
+                android:src="@drawable/cortex_ic_chevron_left" />
+
+            <TextView
+                android:id="@+id/cortex_paperPagePill"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:includeFontPadding="false"
+                android:minWidth="34dp"
+                android:layout_marginStart="4dp"
+                android:layout_marginEnd="4dp"
+                android:background="@drawable/cortex_bg_reader_toolbar_pill"
+                android:paddingStart="8dp"
+                android:paddingEnd="8dp"
+                android:textColor="@color/cortex_ink"
+                android:textSize="12sp"
+                android:textStyle="bold"
+                app:fontFamily="@font/cortex_averia_serif_libre" />
+
+            <ImageButton
+                style="@style/cortex_Widget.ClinicalNotes.CompactIconButton"
+                android:id="@+id/cortex_paperAddPage"
+                android:layout_marginEnd="4dp"
+                android:contentDescription="@string/cortex_action_paper_add_page"
+                android:src="@drawable/cortex_ic_add"
+                android:visibility="gone" />
+
+            <ImageView
+                android:id="@+id/cortex_paperSavedIndicator"
+                android:layout_width="20dp"
+                android:layout_height="34dp"
+                android:padding="2dp"
+                android:src="@drawable/cortex_ic_toolbar_saved"
+                android:contentDescription="Notebook ink saved"
+                android:visibility="gone"
+                app:tint="@color/cortex_ink" />
+
+            <ImageButton
+                style="@style/cortex_Widget.ClinicalNotes.CompactIconButton"
+                android:id="@+id/cortex_paperNext"
+                android:contentDescription="@string/cortex_paper_next"
+                android:src="@drawable/cortex_ic_chevron_right" />
+        </LinearLayout>
+
+        <!-- Taps outside the sidebar dismiss the outline. -->
+        <View
+            android:id="@+id/cortex_paperOutlineScrim"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@android:color/transparent"
+            android:clickable="true"
+            android:elevation="9dp"
+            android:focusable="true"
+            android:visibility="gone" />
+
+        <LinearLayout
+            android:id="@+id/cortex_paperOutlineHost"
+            android:layout_width="290dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="start"
+            android:background="@drawable/cortex_bg_outline_panel"
+            android:clipToOutline="true"
+            android:elevation="10dp"
+            android:orientation="vertical"
+            android:visibility="gone">
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/cortex_line" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical"
+                android:orientation="horizontal"
+                android:paddingStart="12dp"
+                android:paddingTop="8dp"
+                android:paddingEnd="12dp"
+                android:paddingBottom="4dp">
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:letterSpacing="0.09"
+                    android:text="@string/cortex_outline_title"
+                    android:textAllCaps="true"
+                    android:textColor="@color/cortex_muted"
+                    android:textSize="12sp"
+                    android:textStyle="bold" />
+
+                <ImageButton
+                style="@style/cortex_Widget.ClinicalNotes.CompactIconButton"
+                    android:id="@+id/cortex_paperOutlineAdd"
+                    android:contentDescription="@string/cortex_paper_outline_add"
+                    android:src="@drawable/cortex_ic_add" />
+
+                <ImageButton
+                style="@style/cortex_Widget.ClinicalNotes.CompactIconButton"
+                    android:id="@+id/cortex_paperOutlineClose"
+                    android:contentDescription="@string/cortex_action_outline"
+                    android:src="@drawable/cortex_ic_outline" />
+            </LinearLayout>
+
+            <ScrollView
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1">
+
+                <LinearLayout
+                    android:id="@+id/cortex_paperOutlineList"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:paddingBottom="20dp" />
+            </ScrollView>
+        </LinearLayout>
+
+        <!-- Kept for findViewById compatibility; chrome is the floating pills. -->
+        <LinearLayout
+            android:id="@+id/cortex_paperBar"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:visibility="gone">
+
+            <TextView
+                android:id="@+id/cortex_paperPageLabel"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:visibility="gone" />
+        </LinearLayout>
+    </FrameLayout>
+</LinearLayout>

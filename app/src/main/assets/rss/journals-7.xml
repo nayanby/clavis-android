@@ -1,0 +1,348 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>The Journal of Clinical Investigation -- New Articles</title>
+    <link>https://www.jci.org/current</link>
+    <description>
+      The Journal of Clinical Investigation RSS feed -- New Articles Published
+    </description>
+    <language>en-us</language>
+    <copyright>2026 The American Society for Clinical Investigation</copyright>
+    <image>
+      <title>The Journal of Clinical Investigation</title>
+      <url>http://www.jci.org/assets/common/jci-only-white-blue-bg.png</url>
+      <link>http://www.jci.org</link>
+    </image>
+    <item>
+      <title>
+        ISG15+ Müller glial subtype contributes to early blood–retinal barrier breakdown in diabetic retinopathy
+      </title>
+      <author>
+        Tian Niu, Yan Jiang, Xindan Xing, Qian Zhu, Xinyi Liu, Kangjia Lv, Junwei Fang, Kun Liu
+      </author>
+      <dc:creator>
+        Tian Niu, Yan Jiang, Xindan Xing, Qian Zhu, Xinyi Liu, Kangjia Lv, Junwei Fang, Kun Liu
+      </dc:creator>
+      <link>https://www.jci.org/articles/view/205800</link>
+      <description>
+        Diabetic retinopathy features early glial stress and neurovascular dysfunction, yet Müller glial programs linking inflammatory cues to oxidative injury remain unclear. We identify a spatially clustered interferon-stimulated gene 15 (ISG15)+ Müller glial subtype expanded in streptozotocin-induced diabetic mice. High glucose alone did not increase basal free ISG15 or detectable ISGylation (ISG15-dependent protein modification) in primary Müller glia, whereas conditioned medium from high glucose–exposed microglia induced both, recapitulated by IFN-β and attenuated by type I interferon receptor 1 inhibition. In vivo, Ifnb1 RNAscope signals were associated with microglia, retinal Ifnb1 expression increased in diabetic retinas, and microglial depletion reduced Ifnb1 expression and limited the expansion of ISG15+ Müller glia. Müller glia–specific Isg15 deletion preserved blood–retinal barrier integrity, reduced acellular capillaries and Evans blue leakage, and mitigated oxidative stress, lipid peroxidation, and glutathione redox imbalance. Loss of ISG15 or disruption of ISGylation blunted interferon-driven oxidative stress in Müller glia and reduced Müller glia–conditioned medium–dependent endothelial migration and tube formation. Mechanistically, IFN-β promoted peroxiredoxin 6 (PRDX6) ISGylation and proteasome-dependent degradation without altering Prdx6 transcripts. Thus, microglial IFN-β promotes an ISG15+ Müller glial subtype that compromises antioxidant defense and promotes early barrier injury in diabetic retinopathy.
+      </description>
+      <identifer>info:doi/10.1172/JCI205800</identifer>
+      <publisher>The American Society for Clinical Investigation</publisher>
+    </item>
+    <item>
+      <title>
+        Next-generation CDK inhibitors in HR+/HER2– breast cancer
+      </title>
+      <author>
+        Daria Seriak, Jun Yong Kim, Geoffrey I. Shapiro, Antonio Giordano
+      </author>
+      <dc:creator>
+        Daria Seriak, Jun Yong Kim, Geoffrey I. Shapiro, Antonio Giordano
+      </dc:creator>
+      <link>https://www.jci.org/articles/view/207631</link>
+      <description>
+        Cell-cycle dysregulation is a central driver of breast cancer progression and a major therapeutic vulnerability, particularly in hormone receptor–positive/human epidermal growth factor receptor 2–negative (HR+/HER2–) disease. The clinical success of cyclin-dependent kinase (CDK) 4/6 inhibitors combined with endocrine therapy has transformed treatment paradigms and established cell-cycle targeting as a cornerstone of care. However, important challenges remain, including hematologic toxicity, incomplete and largely cytostatic responses, and the near-universal development of resistance. These limitations have highlighted the need for next-generation CDK-directed strategies capable of improving selectivity, extending disease control, and overcoming adaptive escape pathways. This Review examines the evolving landscape of CDK-targeted therapeutics in breast cancer, with particular emphasis on emerging CDK4-selective inhibitors, CDK2-directed approaches, and broader multi-CDK strategies. We discuss the biological rationale underpinning these agents, the mechanisms of resistance that have informed their development, and the clinical opportunities they may create across both advanced and early-stage settings. By refining target specificity and addressing resistance-associated cell-cycle rewiring, next-generation CDK inhibitors may reduce toxicity, enhance treatment durability, and enable more effective combination and sequencing strategies. Collectively, these advances promise to move breast cancer treatment beyond current CDK4/6 inhibition toward more precise, adaptable, and durable cell-cycle–directed therapy.
+      </description>
+      <identifer>info:doi/10.1172/JCI207631</identifer>
+      <publisher>The American Society for Clinical Investigation</publisher>
+    </item>
+    <item>
+      <title>
+        Efferocytosis activates a DNMT3A-mediated oxidized DNA repair pathway to enable tissue resolution
+      </title>
+      <author>
+        Kleopatra Avrampou, Santosh R. Sukka, David Ngai, Patrick B. Ampomah, Xiaobo Wang, George Kuriakose, Jacob Glass, Bernhard Dorweiler, Hanna Winter, Lars Maegdefessel, Hanrui Zhang, Aaron D. Viny, Ira Tabas
+      </author>
+      <dc:creator>
+        Kleopatra Avrampou, Santosh R. Sukka, David Ngai, Patrick B. Ampomah, Xiaobo Wang, George Kuriakose, Jacob Glass, Bernhard Dorweiler, Hanna Winter, Lars Maegdefessel, Hanrui Zhang, Aaron D. Viny, Ira Tabas
+      </dc:creator>
+      <link>https://www.jci.org/articles/view/203265</link>
+      <description>
+        Efferocytosis, the clearance of apoptotic cells by macrophages, promotes tissue resolution. Efficient resolution requires efferocytosis-induced macrophage proliferation (EIMP) to expand pro-resolving macrophages. Here, we show that efferocytosis activates base excision repair (BER) to remove 8-OHdG from DNA, enabling EIMP. Mechanistically, efferocytosis promotes poly(ADP-ribose) polymerase 1 (PARP1) chromatin binding and PARylation to facilitate DNA repair complex assembly and increases nuclear MutT homolog 1 (MTH1) (gene NUDT1), which hydrolyzes 8-OHdG. Both processes require DNA-methyltransferase-3A (DNMT3A), which is activated during efferocytosis. Using a model in which dexamethasone-induced thymocyte apoptosis triggers efferocytosis-mediated thymic repair, we showed that DNMT3A was required for increases in nuclear PARP1/MTH1, oxidized DNA suppression, EIMP in thymic macrophages, and thymic repair. We next studied a human-relevant model of atherosclerosis regression, whereby efferocytosis drove protective lesional fibrous cap thickening. We compared WT mice with a model of DNMT3A clonal hematopoiesis (CH), in which loss-of-function DNMT3A mutations promoted atherosclerotic disease. Atherosclerosis regression in WT mice led to decreased nuclear 8-OHdG and increased nuclear PARP1/MTH1 and EIMP in lesional macrophages and fibrous cap thickening, all of which were impaired in DNMT3A-CH regression. These findings reveal that efferocytosis initiates a BER pathway to allow macrophage proliferation for tissue resolution, with possible therapeutic relevance to atherosclerosis regression and DNMT3A-CH.
+      </description>
+      <identifer>info:doi/10.1172/JCI203265</identifer>
+      <publisher>The American Society for Clinical Investigation</publisher>
+    </item>
+    <item>
+      <title>
+        Polycomb scaffolding subunit EED supports the SCLC neuroendocrine identity and EGFR-mutant LUAD-to-SCLC transformation
+      </title>
+      <author>
+        Yixiang Li, Yasmin N. Laimon, Hyeonseo Cho, Marina Vivero, Gabriel Roberti De Oliveira, Maxwell D. Seager, Andrew Delcea, Varunika Savla, Yuting Chen, Yavuz T. Durmaz, Xintao Qiu, Shweta Kukreja, Rong Li, Talal El Zarif, Wesley Lu, McKayla Van Orden, Jacob E. Berchuck, Roderick T. Bronson, Shuqiang Li, Hongbin Ji, David A. Barbie, Katerina Politi, Matthew L. Freedman, Henry W. Long, Sabina Signoretti, Matthew G. Oser
+      </author>
+      <dc:creator>
+        Yixiang Li, Yasmin N. Laimon, Hyeonseo Cho, Marina Vivero, Gabriel Roberti De Oliveira, Maxwell D. Seager, Andrew Delcea, Varunika Savla, Yuting Chen, Yavuz T. Durmaz, Xintao Qiu, Shweta Kukreja, Rong Li, Talal El Zarif, Wesley Lu, McKayla Van Orden, Jacob E. Berchuck, Roderick T. Bronson, Shuqiang Li, Hongbin Ji, David A. Barbie, Katerina Politi, Matthew L. Freedman, Henry W. Long, Sabina Signoretti, Matthew G. Oser
+      </dc:creator>
+      <link>https://www.jci.org/articles/view/199454</link>
+      <description>
+        Lung cancer histological subtypes include lung adenocarcinoma (LUAD) and small-cell lung cancer (SCLC). Although usually distinct, rare combined LUAD/SCLC tumors occur, and LUAD can transform into SCLC as a mechanism of resistance to targeted therapies, particularly in EGFR-mutant LUAD tumors with RB1/TP53 inactivation. Although PRC2 complex expression increases during this transformation, its functional role remains unclear. Using CRISPR-based autochthonous immunocompetent GEMMs, we found that inactivation of EED, the core PRC2 scaffolding subunit, impaired SCLC tumorigenesis and promoted LUAD histological identity, likely through a NEUROD1-positive intermediate state. Mechanistically, EED loss derepressed bivalent genes comarked by H3K27me3 and H3K4me3, including LUAD oncogenic RAS, PI3K, and MAPK pathway genes and NEUROD1. These same LUAD oncogenic signaling genes were bivalently repressed in human SCLC patient-derived xenografts, suggesting a conserved PRC2-dependent mechanism that represses LUAD oncogenic signaling and thereby supports the SCLC neuroendocrine identity. In a complementary EGFR-mutant LUAD GEMM with Rb1 and Trp53 inactivation, EED inactivation at tumor initiation prevented the emergence of SCLC histology after EGFR oncogene withdrawal and redirected recurrent tumors toward mucinous LUAD states with reduced spontaneous metastasis. These findings identify PRC2/EED as a regulator of SCLC neuroendocrine identity and nominate pharmacologic EED inhibition for future investigation in therapy-associated LUAD-to-SCLC transformation.
+      </description>
+      <identifer>info:doi/10.1172/JCI199454</identifer>
+      <publisher>The American Society for Clinical Investigation</publisher>
+    </item>
+    <item>
+      <title>
+        IRF2BP2-FOSL2 interaction regulates SOX9-mediated cartilage regeneration in osteoarthritis models
+      </title>
+      <author>
+        Hao Zhou, Tiantian Lu, Zhuoqun Gao, Can Cui, Zhiqiang Fang, Yu You, Jing Jiang, Jinjin Xu, Fang Wei, Jing Yu, Hu Zhou, Jinsong Li, Jian Luo, Lei Zhang, Yunyun Jin
+      </author>
+      <dc:creator>
+        Hao Zhou, Tiantian Lu, Zhuoqun Gao, Can Cui, Zhiqiang Fang, Yu You, Jing Jiang, Jinjin Xu, Fang Wei, Jing Yu, Hu Zhou, Jinsong Li, Jian Luo, Lei Zhang, Yunyun Jin
+      </dc:creator>
+      <link>https://www.jci.org/articles/view/200039</link>
+      <description>
+        Osteoarthritis (OA) is the most common degenerative joint disease. However, the molecular mechanisms underlying OA-induced cartilage degeneration remain elusive. Here, we identify IFN regulatory factor 2 binding protein 2 (IRF2BP2) as an important regulator of chondrocyte differentiation and articular cartilage regeneration. Irf2bp2 deficiency promoted chondrogenesis and inhibited chondrocyte terminal differentiation by transcriptionally upregulating the key chondrogenic marker SRY-box transcription factor 9 (SOX9), inducing its ectopic expression in the hypertrophic zone. Cartilage-specific KO of Irf2bp2 elevated SOX9 levels, attenuated OA progression in the destabilization of the medial meniscus (DMM) model, and enhanced cartilage regeneration and hyalinization in the microfracture model. Mechanistically, IRF2BP2 bound to and stabilized Fos-related antigen 2 (FOSL2), an activator protein 1 (AP-1) family member, thereby facilitating FOSL2/c-Jun complex formation and repressing SOX9 expression. Adeno-associated virus–mediated (AAV-mediated) FOSL2 overexpression reversed the protective phenotype observed in Irf2bp2-deficient mice. These findings establish the Hippo/IRF2BP2/FOSL2/SOX9 regulatory axis as critical for cartilage regeneration. Importantly, AAV-mediated IRF2BP2 knockdown, pharmacological targeting of the IRF2BP2/AP-1 axis using T-5224, and delivery of a peptide that disrupts IRF2BP2-FOSL2 binding via intra-articular injection all preserved cartilage integrity, offering potential therapeutic strategies for OA and cartilage regeneration.
+      </description>
+      <identifer>info:doi/10.1172/JCI200039</identifer>
+      <publisher>The American Society for Clinical Investigation</publisher>
+    </item>
+    <item>
+      <title>
+        Microglial GRB2 is essential for brain ventriculogenesis and cerebrospinal fluid homeostasis
+      </title>
+      <author>
+        Phan Q. Duy, Benjamin C. Reeves, Huanxing Sun, Xueyan Peng, Pazhanichamy Kalailingam, Garrett Allington, Evan Dennis, Le Thi Hao, Lei Wang, David Rufino-Ramos, Shujuan Zhao, Qiang Li, Neel H. Mehta, William C. Davalan, Mason Blacker, Anthony J. Piscopo, Shozeb Haider, Baojian Fan, Kedous Y. Mekbib, Shuai Shao, Carol Nelson-Williams, Tukiet T. Lam, Benjamin P. Kleinstiver, Patricia L. Musolino, Seth L. Alper, Sheng Chih Jin, Erica L. Herzog, Kristopher T. Kahle
+      </author>
+      <dc:creator>
+        Phan Q. Duy, Benjamin C. Reeves, Huanxing Sun, Xueyan Peng, Pazhanichamy Kalailingam, Garrett Allington, Evan Dennis, Le Thi Hao, Lei Wang, David Rufino-Ramos, Shujuan Zhao, Qiang Li, Neel H. Mehta, William C. Davalan, Mason Blacker, Anthony J. Piscopo, Shozeb Haider, Baojian Fan, Kedous Y. Mekbib, Shuai Shao, Carol Nelson-Williams, Tukiet T. Lam, Benjamin P. Kleinstiver, Patricia L. Musolino, Seth L. Alper, Sheng Chih Jin, Erica L. Herzog, Kristopher T. Kahle
+      </dc:creator>
+      <link>https://www.jci.org/articles/view/185791</link>
+      <description>
+        Microglia play essential yet poorly understood roles in brain development, including axon guidance, regulation of neurogenesis, and pruning of neuronal projections. Congenital hydrocephalus (CH), characterized by enlarged ventricles filled with cerebrospinal fluid (CSF), is a leading cause of pediatric brain surgery, but its molecular mechanisms remain unclear. We have identified what we believe to be novel, recurrent, damaging missense variants in the SH3-binding domain of the adaptor protein growth factor receptor-bound protein 2 (GRB2) in unrelated patients with CH. GRB2 is significantly coexpressed with 1 of its known upstream RTK partners, CSF1R, in the developing human brain, particularly in a microglial subtype associated with regulation of neural stem cells. IP validated GRB2-CSF1R binding in mouse microglial cells and a human monocyte cell line. Cx3cr1-Grb2fl/fl mice engineered with conditional deletion of Grb2 in microglia exhibit congenital absence of microglia and early postnatal severe communicating (nonobstructive) hydrocephalus, mimicking the condition of patients with the GRB2 mutation. The severe ventriculomegaly of Cx3cr1-Grb2fl/fl mice is associated with both depletion of cerebral cortical neurons and impairment of glia-lymphatic-mediated CSF flow. Together, these findings implicate a role of GRB2 in microglia that could be essential for brain development and CSF homeostasis.
+      </description>
+      <identifer>info:doi/10.1172/JCI185791</identifer>
+      <publisher>The American Society for Clinical Investigation</publisher>
+    </item>
+    <item>
+      <title>
+        FBXW5 blunts RIGI/MDA5/IFN signaling to drive immune evasion and chemo-immune resistance in triple-negative breast cancer models
+      </title>
+      <author>
+        Xin Li, Tong Chen, Wenjing Zhao, Jiaxing Li, Yifan Shang, Bing Chen, Lijuan Wang, Ning Zhang, Xiaoli Kong, Yiran Liang, Yaming Li, Chen Li, Dianwen Han, Xi Chen, Shan Jiang, Chao Yang, Dan Luo, Tingting Ma, Qifeng Yang
+      </author>
+      <dc:creator>
+        Xin Li, Tong Chen, Wenjing Zhao, Jiaxing Li, Yifan Shang, Bing Chen, Lijuan Wang, Ning Zhang, Xiaoli Kong, Yiran Liang, Yaming Li, Chen Li, Dianwen Han, Xi Chen, Shan Jiang, Chao Yang, Dan Luo, Tingting Ma, Qifeng Yang
+      </dc:creator>
+      <link>https://www.jci.org/articles/view/201573</link>
+      <description>
+        Triple-negative breast cancer (TNBC), characterized by aggressive behavior and poor prognosis, presents a formidable clinical challenge. Despite guideline endorsement of chemoimmunotherapy as a standard treatment in TNBC, durable responses remain rare, largely due to an immunologically “cold” tumor microenvironment (TME). Through integrated analysis, we identified the F-box protein FBXW5 as a tumor-intrinsic immunosuppressive regulator, whose expression is elevated in immunologically “cold” TNBC and correlates with dismal patient survival. Genetic knockdown of murine Fbxw5 suppressed tumor growth, reinvigorated CD8+ T cell–mediated antitumor immunity, and sensitized TNBC tumors to both single-agent and combined chemoimmunotherapy in preclinical models. Mechanistically, FBXW5 acts within the SKP1/CUL1/F-box protein E3 ligase complex to bind RIGI and MDA5, promoting their K27-linked polyubiquitination and subsequent SQSTM1-mediated autophagic degradation. This process blunts cytosolic RNA sensing and type I interferon signaling, thereby limiting CD8+ T cell infiltration and activation. Our findings establish FBXW5 as a master regulator of the “cold” TME, presenting a potential predictive biomarker and actionable therapeutic target for enhancing chemoimmunotherapy in TNBC.
+      </description>
+      <identifer>info:doi/10.1172/JCI201573</identifer>
+      <publisher>The American Society for Clinical Investigation</publisher>
+    </item>
+    <item>
+      <title>
+        Multimodal assessment of exceptional responders refines subtyping-directed precision treatment in HR+/HER2– breast cancer
+      </title>
+      <author>
+        Yi Xiao, Fan Yang, Ying-Jia Qi, Li Chen, Hang Zhang, Si-Wei Zhang, Rui Shan, Liang Huang, Jun-Jie Li, Yi-Zhou Jiang, Zhi-Ming Shao
+      </author>
+      <dc:creator>
+        Yi Xiao, Fan Yang, Ying-Jia Qi, Li Chen, Hang Zhang, Si-Wei Zhang, Rui Shan, Liang Huang, Jun-Jie Li, Yi-Zhou Jiang, Zhi-Ming Shao
+      </dc:creator>
+      <link>https://www.jci.org/articles/view/202305</link>
+      <description>
+        BACKGROUND We previously defined 4 hormone receptor+/human epidermal growth factor receptor 2– (HR+/HER2–) subtypes: SNF1 canonical luminal, SNF2 immunogenic, SNF3 proliferative, and SNF4 RTK driven. The FASCINATE-N proof-of-concept trial demonstrated that subtyping-directed precision treatment improves pathologic complete response in locally advanced HR+/HER2– breast cancer, yet efficacy remains suboptimal.METHODS We integrated transcriptomic, genomic, digital pathology, and clinical data from this trial (n = 230) and focused on exceptional responders to explore opportunities for refining treatment strategies.RESULTS In SNF1, we uncovered that perineural invasion diminished endocrine therapy efficacy, suggesting the potential benefit of incorporating perineural blockade. Digital pathology and spatial transcriptomics identified that the spatial architecture of the tumor-stromal-immune interface influenced apatinib efficacy in SNF4, highlighting the importance of interfering with the tumor microenvironment. In the SNF3 group, exceptionally well responders exhibited multiple mutations in DNA repair genes and cell cycle activation, correlating with the efficacy of poly (ADP-ribose) polymerase and CDK4/6 inhibitors. Additionally, we illustrated that lymphatic vessel infiltration was linked to improved immunotherapy outcomes in HR+/HER2– SNF2 tumors.CONCLUSION Overall, our study emphasizes the importance of multimodal assessments in optimizing precision treatments for HR+/HER2– breast cancer.FUNDING National Natural Science Foundation of China, grant numbers U25C2032, 82441028, and 82573645; The Shanghai Key Laboratory of Breast Cancer, grant number 12DZ2260100; The Human Phenome Data Center of Fudan University.TRIAL REGISTRATION ClinicalTrials.gov identifier: NCT05582499.
+      </description>
+      <identifer>info:doi/10.1172/JCI202305</identifer>
+      <publisher>The American Society for Clinical Investigation</publisher>
+    </item>
+    <item>
+      <title>
+        Extinction-recruited prefrontal-hypothalamic pathway encodes positive affect to sustain fear extinction in posttraumatic stress mouse model
+      </title>
+      <author>
+        Ze-Jie Lin, Xin-Rong Wu, Ming-Yang Wei, Zheng-Kai Lao, Xiang Lan, Yan-Jiao Wu, Wei-Guang Li, Tian-Le Xu, Li-Na Huang, Xue Gu
+      </author>
+      <dc:creator>
+        Ze-Jie Lin, Xin-Rong Wu, Ming-Yang Wei, Zheng-Kai Lao, Xiang Lan, Yan-Jiao Wu, Wei-Guang Li, Tian-Le Xu, Li-Na Huang, Xue Gu
+      </dc:creator>
+      <link>https://www.jci.org/articles/view/206270</link>
+      <description>
+        Effective psychotherapeutic interventions for posttraumatic stress disorder (PTSD) rely on fear extinction to suppress maladaptive fear responses, yet their long-term efficacy is limited by high relapse rates. Notably, extinction involves not only fear inhibition but also affective engagement. However, whether and how internal affective components contribute to extinction retrieval and long-term persistence remain unclear. Here, we demonstrate that positive affective experiences arising during extinction govern the long-term persistence of extinction and resistance to spontaneous recovery. We identify a subpopulation of medial prefrontal cortex (mPFC) extinction neurons projecting to supramammillary nucleus glutamatergic (SuMGlu) neurons that encode positive affective experience during extinction and selectively govern long-term extinction persistence. This ensemble is spatially, anatomically, and transcriptionally distinct from mPFC extinction neurons projecting to zona incerta somatostatin-expressing (ZISST) neurons, which primarily support extinction retrieval. Transcriptomic profiling reveals enrichment of sirtuin 1 (Sirt1) within SuM-projecting extinction ensembles, and bidirectional manipulation of SIRT1 alters extinction relapse vulnerability in a PTSD mouse model. These findings provide a cortical-hypothalamic framework incorporating molecular features that governs the long-term persistence of fear extinction and resistance to relapse through positive affective processes.
+      </description>
+      <identifer>info:doi/10.1172/JCI206270</identifer>
+      <publisher>The American Society for Clinical Investigation</publisher>
+    </item>
+    <item>
+      <title>
+        PI3K signaling in breast cancer: therapeutic advances versus adaptive resistance
+      </title>
+      <author>
+        Fabiana Napolitano, Nisha Unni, Carlos L. Arteaga
+      </author>
+      <dc:creator>
+        Fabiana Napolitano, Nisha Unni, Carlos L. Arteaga
+      </dc:creator>
+      <link>https://www.jci.org/articles/view/207635</link>
+      <description>
+        Somatic alterations in the phosphoinositide 3-kinase (PI3K) pathway are frequent oncogenic drivers in cancer and are particularly relevant in estrogen receptor–positive breast cancer, where PI3K signaling integrates hormonal, growth factor, and metabolic inputs. Therapeutic targeting of PI3K has been limited by toxicity, pathway crosstalk, and adaptive resistance. Recent advances in structural and functional characterization of PIK3CA mutations have enabled the development of more selective inhibitors, including PI3K isoform–selective and emerging allosteric PI3Ka mutant–targeted compounds. These approaches aim to improve the therapeutic index while maintaining pathway inhibition. In parallel, combination strategies with endocrine therapy and CDK4/6 inhibitors have demonstrated clinical benefit in selected patient populations. However, responses are often transient owing to compensatory signaling and pathway reactivation. Additional metabolic and transcriptional adaptations further contribute to sustaining tumor cell survival. Overall, PI3K-targeted therapy is evolving along two complementary paths: increased mutant-selective inhibition to improve therapeutic index and broader pathway-level strategies designed to overcome adaptive resistance and achieve more durable responses. Ongoing efforts focus on optimizing combination strategies, enhancing development of predictive biomarkers, and improving therapeutic sequencing to achieve durable responses while minimizing toxicity.
+      </description>
+      <identifer>info:doi/10.1172/JCI207635</identifer>
+      <publisher>The American Society for Clinical Investigation</publisher>
+    </item>
+    <item>
+      <title>
+        Selective estrogen receptor degraders and their effect on the breast cancer immune microenvironment
+      </title>
+      <author>
+        Kristen S. Young, Sean W. Fanning
+      </author>
+      <dc:creator>
+        Kristen S. Young, Sean W. Fanning
+      </dc:creator>
+      <link>https://www.jci.org/articles/view/207633</link>
+      <description>
+        One in eight women will be diagnosed with breast cancer in their lifetime. Most breast cancers express estrogen receptor α (ERα) and depend on its signaling, which promotes tumor growth, survival, and metastatic spread through hormone-dependent transcriptional reprogramming. Selective estrogen receptor degraders/downregulators (SERDs), such as fulvestrant (faslodex), which was FDA approved in 2002, are second-line endocrine therapies for the treatment of advanced metastatic disease. Tumors containing activating hotspot mutations in ESR1 (the gene encoding ERα) retain some sensitivity to fulvestrant but require higher doses to achieve inhibition of the mutant receptor. Substantial efforts to develop next-generation SERDs with improved pharmacology over fulvestrant have led to the FDA approval of the first-in-class orally available SERD elacestrant (Orserdu), followed by imlunestrant (Inluriyo), and the anticipated approval of several more therapies. Excitingly, recent studies show that in addition to their previously described antitumoral mechanisms, SERDs also act by increasing antitumor immunity. In this Review, we detail the current SERD clinical landscape and our emerging understanding of the interplay among SERDs, breast cancer cells, and the tumor immune microenvironment.
+      </description>
+      <identifer>info:doi/10.1172/JCI207633</identifer>
+      <publisher>The American Society for Clinical Investigation</publisher>
+    </item>
+    <item>
+      <title>
+        Tumor NLRP3 amplification promotes immunotherapy resistance by inhibiting STAT1 signaling and MHC class I expression
+      </title>
+      <author>
+        Balamayroon Theivanthiran, Nagendra Yarla, Kaylee Villarreal, Y-Van Nguyen, Mahere Rezazade Bazaz, Ernesto Pena Calderin, Linda Cao, Kyra Majors, Michael P. Plebanek, Alisha Holtzhausen, Emily Bolch, Douglas B. Johnson, Hope Uronis, John H. Strickler, Nicholas C. DeVito, Brent A. Hanks
+      </author>
+      <dc:creator>
+        Balamayroon Theivanthiran, Nagendra Yarla, Kaylee Villarreal, Y-Van Nguyen, Mahere Rezazade Bazaz, Ernesto Pena Calderin, Linda Cao, Kyra Majors, Michael P. Plebanek, Alisha Holtzhausen, Emily Bolch, Douglas B. Johnson, Hope Uronis, John H. Strickler, Nicholas C. DeVito, Brent A. Hanks
+      </dc:creator>
+      <link>https://www.jci.org/articles/view/201816</link>
+      <description>
+        Immunotherapy resistance remains a challenge in immuno-oncology, and predictive biomarkers are needed to guide combination immunotherapy selection for the individual patient. We showed that elevated tumor-intrinsic NOD-, LRR-, and pyrin domain-containing protein 3 (NLRP3) signaling activity correlates with checkpoint inhibitor resistance in several independent cohorts of stage III/IV melanoma and gastroesophageal (GE) adenocarcinoma. In situ hybridization demonstrated tumor NLRP3 copy number gain in immunotherapy-resistant melanomas and GE adenocarcinomas harboring enhanced NLRP3 signaling activity. Nlrp3 amplification suppressed NOD-, LRR-, and CARD-containing 5–mediated (NLRC5-mediated) MHC class I upregulation, while spatial transcriptomic analysis of patient-derived GE adenocarcinomas confirmed that NLRP3 signaling activity inversely correlated with NLRC5 and MHC class I–associated gene expression. Mechanistically, NLRP3 binds to and inhibits signal transducer and activator of transcription 1 (STAT1) dimerization, nuclear translocation, and NLRC5 transcription. Consistent with these findings, pharmacologic inhibition of the NLRP3 inflammasome augmented tumor STAT1/NLRC5 signaling, enhanced MHC class I surface expression, and overcame anti–programmed cell death 1 resistance in an orthotopic model of gastric adenocarcinoma. This work reveals a fundamental link between cellular stress and tumor-mediated immune evasion and indicates that the tumor NLRP3 signaling pathway merits further clinical study as a therapeutic target and a source of companion biomarkers for overcoming checkpoint inhibitor resistance in patients with cancer.
+      </description>
+      <identifer>info:doi/10.1172/JCI201816</identifer>
+      <publisher>The American Society for Clinical Investigation</publisher>
+    </item>
+    <item>
+      <title>
+        Single-nuclei transcriptomics reveals cellular senescence in pediatric anthracycline-induced cardiomyopathy
+      </title>
+      <author>
+        Diwakar Turaga, Chang-Ru Tsai, Yuka Morikawa, Hanna J. Tadros, Yi Zhao, Lalita Wadhwa, Iki Adachi, Xiao Li, James F. Martin
+      </author>
+      <dc:creator>
+        Diwakar Turaga, Chang-Ru Tsai, Yuka Morikawa, Hanna J. Tadros, Yi Zhao, Lalita Wadhwa, Iki Adachi, Xiao Li, James F. Martin
+      </dc:creator>
+      <link>https://www.jci.org/articles/view/204909</link>
+      <identifer>info:doi/10.1172/JCI204909</identifer>
+      <publisher>The American Society for Clinical Investigation</publisher>
+    </item>
+    <item>
+      <title>
+        RhoA WT allele loss unleashes the cancer driver function of RhoA E40Q
+      </title>
+      <author>
+        Justine Noujarède, Qiuyue Wang, Eleftherios Panagiotis Kokkinogenis, Yuewan Luo, Ivona Cudina, Simon Willaume, Clémence Mooser, Lap Phuoc Nguyen, Mads Frederik Poulsen, Simon Heijmerikx, Thu Han Le Phan, Xiubin He, Jesper Bøje Andersen, Claus Storgaard Sørensen, Cord Brakebusch
+      </author>
+      <dc:creator>
+        Justine Noujarède, Qiuyue Wang, Eleftherios Panagiotis Kokkinogenis, Yuewan Luo, Ivona Cudina, Simon Willaume, Clémence Mooser, Lap Phuoc Nguyen, Mads Frederik Poulsen, Simon Heijmerikx, Thu Han Le Phan, Xiubin He, Jesper Bøje Andersen, Claus Storgaard Sørensen, Cord Brakebusch
+      </dc:creator>
+      <link>https://www.jci.org/articles/view/201975</link>
+      <description>
+        Cancer hot spot mutations of unknown function often obscure the functional understanding of the molecular pathways underlying cancer formation and limit the progress of precision medicine. We investigated unresolved driver functions of RHOA in head and neck squamous cell carcinoma. Our investigation reveals that RHOA E40Q is a partial loss-of-function allele that paradoxically promotes tumorigenesis only in the absence of WT RhoA. Therefore, mice expressing RHOA E40Q specifically in keratinocytes lacking WT Rhoa spontaneously developed squamous cell carcinoma and had defective hair shaft formation. Mechanistically, this is related to increased replication stress and genome instability caused by aberrant expression of cell cycle regulators and DNA repair genes, independent of the classical RhoA effectors ROCK and DIAPH. These data establish RHOA E40Q as an unusual, context-dependent oncogenic driver: a seemingly inactive variant that unleashes its tumor-promoting potential only when the WT allele is absent.
+      </description>
+      <identifer>info:doi/10.1172/JCI201975</identifer>
+      <publisher>The American Society for Clinical Investigation</publisher>
+    </item>
+    <item>
+      <title>
+        Edited HSPCs rescue frataxin deficiency and inflammation-driven multisystemic pathology in Friedreich’s ataxia mice
+      </title>
+      <author>
+        Anusha Sivakumar, Alexis N. Corl, Keneth Jordan Muñoz, Subhashini Arumugam, Betul B. Gunes, Angelyn B. Solis, Rishika Murthy, Lilas Rony El-Hachem, Donald P. Pizzo, Ian A. Blair, Teerapat Rojsajjakul, Clementina Mesaros, Xinlong Wan, Joseph N. Rainaldi, Rafael A. Badell-Grau, Veenita Khare, Kevin Eric Thai, Kavya Biederman, Stephanie Cherqui
+      </author>
+      <dc:creator>
+        Anusha Sivakumar, Alexis N. Corl, Keneth Jordan Muñoz, Subhashini Arumugam, Betul B. Gunes, Angelyn B. Solis, Rishika Murthy, Lilas Rony El-Hachem, Donald P. Pizzo, Ian A. Blair, Teerapat Rojsajjakul, Clementina Mesaros, Xinlong Wan, Joseph N. Rainaldi, Rafael A. Badell-Grau, Veenita Khare, Kevin Eric Thai, Kavya Biederman, Stephanie Cherqui
+      </dc:creator>
+      <link>https://www.jci.org/articles/view/209546</link>
+      <description>
+        Friedreich’s ataxia (FRDA) is a multisystemic neurodegenerative disorder caused by GAA repeat expansion in intron 1 of frataxin (FXN), resulting in FXN deficiency and mitochondrial dysfunction. Current therapies do not correct the underlying genetic defect. Here, we demonstrate that ex vivo CRISPR/Cas9 excision of the GAA expansion in hematopoietic stem and progenitor cells (HSPCs) provides durable, systemic therapy for FRDA. A single infusion of gene-edited Sca1+ HSPCs, mPPL-001, into myeloablative, humanized YG8JR mice resulted in long-term engraftment of donor-derived cells across hematopoietic and FRDA-affected tissues. mPPL-001 increased FXN expression and corrected multiple key pathogenic drivers of FRDA, including mitochondrial stress, microglial and macrophage activation, and inflammatory signaling. These coordinated effects improved motor functions, preserved cerebellar architecture, mitigated cardiac pathology, and promoted survival of insulin-producing β cells in the pancreatic islets of Langerhans. Collectively, these findings establish FXN-edited autologous HSPCs as a one-time, disease-modifying therapy for FRDA and support advancement toward a first-in-human trial.
+      </description>
+      <identifer>info:doi/10.1172/JCI209546</identifer>
+      <publisher>The American Society for Clinical Investigation</publisher>
+    </item>
+    <item>
+      <title>
+        Insulin sensitivity and mitochondrial homeostasis connect lactation to maternal metabolic health
+      </title>
+      <author>
+        Laura L. Hernandez
+      </author>
+      <dc:creator>
+        Laura L. Hernandez
+      </dc:creator>
+      <link>https://www.jci.org/articles/view/210439</link>
+      <description>
+        Lactation insufficiency in postpartum women has been associated with obesity and insulin resistance, among other risk factors. Challenges related to translating findings from animal models of lactation and the limited ability to study pregnant and lactating women in clinical trials have impeded more detailed mechanistic understanding of this relationship. In this issue of the JCI, Meng et al. combined studies in human milk samples and in vitro mammary epithelial cell models from humans and rodents to provide compelling evidence that mitochondrial dysfunction mediates the link between insulin resistance and lactation insufficiency. Notably, they observed that chronic exposure to high levels of insulin led to mitochondrial fragmentation and loss of volume in mouse mammary epithelial cells. This framework linking mitochondria, insulin signaling, and lactation should be extended to in vivo models and primary human tissues to better define the mechanisms supporting successful lactation.
+      </description>
+      <identifer>info:doi/10.1172/JCI210439</identifer>
+      <publisher>The American Society for Clinical Investigation</publisher>
+    </item>
+    <item>
+      <title>
+        Expression of Concern for The pseudokinase tribbles homolog 3 interacts with ATF4 to negatively regulate insulin exocytosis in human and mouse β cells
+      </title>
+      <author>
+        Chong Wee Liew, Jacek Bochenski, Dan Kawamori, Jiang Hu, Colin A. Leech, Krzysztof Wanic, Maciej Malecki, James H. Warram, Ling Qi, Andrzej S. Krolewski, Rohit N. Kulkarni
+      </author>
+      <dc:creator>
+        Chong Wee Liew, Jacek Bochenski, Dan Kawamori, Jiang Hu, Colin A. Leech, Krzysztof Wanic, Maciej Malecki, James H. Warram, Ling Qi, Andrzej S. Krolewski, Rohit N. Kulkarni
+      </dc:creator>
+      <link>https://www.jci.org/articles/view/213205</link>
+      <identifer>info:doi/10.1172/JCI213205</identifer>
+      <publisher>The American Society for Clinical Investigation</publisher>
+    </item>
+    <item>
+      <title>
+        Expression of Concern for Proanthocyanidins enhance antitumor immunity by promoting ubiquitin-proteasomal PD-L1 degradation via stabilization of LKB1 and SYVN1
+      </title>
+      <author>
+        Mengting Xu, Xuwen Lin, Hanchi Xu, Hongmei Hu, Xinying Xue, Qing Zhang, Dianping Yu, Saisai Tian, Mei Xie, Linyang Li, Xiaoyu Tao, Xinru Li, Simeng Li, Shize Xie, Yating Tian, Xia Liu, Hanchen Xu, Qun Wang, Weidong Zhang, Sanhong Liu
+      </author>
+      <dc:creator>
+        Mengting Xu, Xuwen Lin, Hanchi Xu, Hongmei Hu, Xinying Xue, Qing Zhang, Dianping Yu, Saisai Tian, Mei Xie, Linyang Li, Xiaoyu Tao, Xinru Li, Simeng Li, Shize Xie, Yating Tian, Xia Liu, Hanchen Xu, Qun Wang, Weidong Zhang, Sanhong Liu
+      </dc:creator>
+      <link>https://www.jci.org/articles/view/213313</link>
+      <identifer>info:doi/10.1172/JCI213313</identifer>
+      <publisher>The American Society for Clinical Investigation</publisher>
+    </item>
+    <item>
+      <title>
+        Cells heal themselves: gene-edited hematopoietic stem cells restore frataxin deficiency in multiple organs
+      </title>
+      <author>
+        Lucy R. Osborne
+      </author>
+      <dc:creator>
+        Lucy R. Osborne
+      </dc:creator>
+      <link>https://www.jci.org/articles/view/211630</link>
+      <description>
+        Friedreich’s ataxia (FRDA) is a triplet repeat expansion disorder with multisystem, progressive symptoms caused by reduced frataxin protein levels and compromised mitochondrial function. Restoration of frataxin protein is a focus of clinical trials involving adeno-associated viral vectors, but substantial barriers exist because of the immune response they elicit. In this issue of the JCI, Sivakumar et al. harnessed CRISPR/Cas9 editing of endogenous hematopoietic stem and progenitor cells (HSPCs) to excise the frataxin gene (FXN) repeat expansion ex vivo, followed by autologous transplantation. A single, systemic infusion of corrected HSPCs resulted in long-term engraftment and sustained multiorgan benefit in a humanized mouse model of FRDA. This improvement in brain, cardiac, and pancreatic symptoms, mediated by myeloid progeny of the engrafted stem cells, provides strong support for the potential effectiveness of this approach in humans and bypasses the need to correct the FXN deficiency in the affected tissue and cells directly.
+      </description>
+      <identifer>info:doi/10.1172/JCI211630</identifer>
+      <publisher>The American Society for Clinical Investigation</publisher>
+    </item>
+    <item>
+      <title>
+        CD8+ regulatory T cells shorten neutrophil lifespan to reduce hemorrhagic transformation after ischemic stroke
+      </title>
+      <author>
+        Jianan Lu, Qia Zhang, Jiarui Chen, Huaming Li, An Ping, Ziyang Jin, Xiaotao Zhang, Yichen Gu, Xuejiao Dai, Zihong Chen, Yajun Qian, Guoqiang Zhang, Jun Yu, Jianmin Zhang, Ligen Shi
+      </author>
+      <dc:creator>
+        Jianan Lu, Qia Zhang, Jiarui Chen, Huaming Li, An Ping, Ziyang Jin, Xiaotao Zhang, Yichen Gu, Xuejiao Dai, Zihong Chen, Yajun Qian, Guoqiang Zhang, Jun Yu, Jianmin Zhang, Ligen Shi
+      </dc:creator>
+      <link>https://www.jci.org/articles/view/203868</link>
+      <description>
+        The neutrophil-to-lymphocyte ratio (NLR) is associated with unfavorable prognosis and hemorrhagic transformation (HT) in patients with ischemic stroke, yet the underlying mechanisms remain unclear. Using patient samples and a murine stroke model, we identified CD8+ regulatory T cells (CD8 Tregs) as key regulators of neutrophil homeostasis after ischemic stroke, thereby limiting endothelial disruption and HT. Loss of CD8 Tregs expanded circulating neutrophils by extending their lifespan rather than altering proliferation, bone marrow release, or direct cytotoxicity. Mechanistically, CD8 Tregs shortened neutrophil lifespan by modulating HIF-1α–dependent glycolytic activity and relieving PD-L1–mediated suppression of bone marrow clearance. Finally, coculture experiments with human CD8 Tregs and neutrophils revealed similar neutrophil-regulatory effects, accompanied by improved endothelial barrier integrity. These findings reveal a previously unrecognized CD8 Treg–neutrophil axis and suggest potential therapeutic strategies for preventing HT after stroke.
+      </description>
+      <identifer>info:doi/10.1172/JCI203868</identifer>
+      <publisher>The American Society for Clinical Investigation</publisher>
+    </item>
+    </channel>
+</rss>

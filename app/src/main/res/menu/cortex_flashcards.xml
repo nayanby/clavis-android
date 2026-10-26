@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- The Flashcards tab's own bar: the explanation of the settings, which is only
+     shown while the settings block is on screen. -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/cortex_action_flash_settings"
+        android:icon="@drawable/cortex_ic_settings"
+        android:title="@string/cortex_flash_settings_title"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/cortex_action_whats_this"
+        android:icon="@drawable/cortex_ic_help"
+        android:title="@string/cortex_help_whats_this"
+        android:visible="false"
+        app:showAsAction="ifRoom" />
+</menu>

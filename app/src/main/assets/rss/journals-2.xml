@@ -1,0 +1,407 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://purl.org/rss/1.0/" xmlns:ns4="http://prismstandard.org/namespaces/1.2/basic/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/1999/02/22-rdf-syntax-ns# uri:atypon.com:cms:schema:rdf.xsd">
+   <ns2:channel rdf:about="https://www.thelancet.com/journals/lancet/issue/current">
+      <ns2:title>The Lancet</ns2:title>
+      <ns2:description>The Lancet RSS feed. </ns2:description>
+      <ns2:link>https://www.thelancet.com/journals/lancet/issue/current</ns2:link>
+      <dc:publisher>Elsevier Limited</dc:publisher>
+      <dc:language>en</dc:language>
+      <dc:rights>© 2026 Elsevier Limited</dc:rights>
+      <ns4:publicationName>The Lancet</ns4:publicationName>
+      <ns4:issn>0140-6736</ns4:issn>
+      <ns4:publicationDate>2026-10-15-07:00</ns4:publicationDate>
+      <ns4:copyright>Copyright © 2026 Elsevier Limited</ns4:copyright>
+      <ns4:rightsAgent>permissionshelpdesk@elsevier.com</ns4:rightsAgent>
+      <ns4:volume>408</ns4:volume>
+      <ns4:number>10564</ns4:number>
+      <ns2:items>
+         <rdf:Seq>
+            <rdf:li rdf:resource="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01958-6/fulltext?rss=yes" />
+            <rdf:li rdf:resource="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02045-3/fulltext?rss=yes" />
+            <rdf:li rdf:resource="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01863-5/fulltext?rss=yes" />
+            <rdf:li rdf:resource="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01868-4/fulltext?rss=yes" />
+            <rdf:li rdf:resource="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01613-2/fulltext?rss=yes" />
+            <rdf:li rdf:resource="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01989-6/fulltext?rss=yes" />
+            <rdf:li rdf:resource="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01777-0/fulltext?rss=yes" />
+            <rdf:li rdf:resource="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02083-0/fulltext?rss=yes" />
+            <rdf:li rdf:resource="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02082-9/fulltext?rss=yes" />
+            <rdf:li rdf:resource="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02084-2/fulltext?rss=yes" />
+            <rdf:li rdf:resource="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01995-1/fulltext?rss=yes" />
+            <rdf:li rdf:resource="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02050-7/fulltext?rss=yes" />
+            <rdf:li rdf:resource="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02051-9/fulltext?rss=yes" />
+            <rdf:li rdf:resource="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02052-0/fulltext?rss=yes" />
+            <rdf:li rdf:resource="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02053-2/fulltext?rss=yes" />
+            <rdf:li rdf:resource="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01980-X/fulltext?rss=yes" />
+            <rdf:li rdf:resource="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01641-7/fulltext?rss=yes" />
+            <rdf:li rdf:resource="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01852-0/fulltext?rss=yes" />
+            <rdf:li rdf:resource="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01716-2/fulltext?rss=yes" />
+            <rdf:li rdf:resource="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01901-X/fulltext?rss=yes" />
+            <rdf:li rdf:resource="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01423-6/fulltext?rss=yes" />
+            <rdf:li rdf:resource="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01900-8/fulltext?rss=yes" />
+            <rdf:li rdf:resource="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01666-1/fulltext?rss=yes" />
+            <rdf:li rdf:resource="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01850-7/fulltext?rss=yes" />
+            <rdf:li rdf:resource="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01672-7/fulltext?rss=yes" />
+            <rdf:li rdf:resource="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01851-9/fulltext?rss=yes" />
+            <rdf:li rdf:resource="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02055-6/fulltext?rss=yes" />
+            <rdf:li rdf:resource="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02056-8/fulltext?rss=yes" />
+            <rdf:li rdf:resource="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01865-9/fulltext?rss=yes" />
+            <rdf:li rdf:resource="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01390-5/fulltext?rss=yes" />
+            <rdf:li rdf:resource="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01599-0/fulltext?rss=yes" />
+            <rdf:li rdf:resource="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01380-2/fulltext?rss=yes" />
+            <rdf:li rdf:resource="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01714-9/fulltext?rss=yes" />
+            <rdf:li rdf:resource="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00880-9/fulltext?rss=yes" />
+         </rdf:Seq>
+      </ns2:items>
+   </ns2:channel>
+   <ns2:item rdf:about="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01958-6/fulltext?rss=yes">
+      <ns2:title>[Editorial] Rethinking threats to human survival</ns2:title>
+      <ns2:link>https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01958-6/fulltext?rss=yes</ns2:link>
+      <ns2:description>Much health advocacy is driven by single-issue activism. Communities with a common interest—from AIDS to child health, climate to tobacco control—focus intensely on their own domain. And understandably so. Important progress has been made through often courageous direct action. But this sharply competitive approach is, according to a new Lancet Commission on 21st Century Global Threats to Health, dangerously flawed. Indeed, perhaps the most important contribution of this Commission is to move global health beyond the consideration of individual harms.</ns2:description>
+      <dc:title>Rethinking threats to human survival</dc:title>
+      <dc:creator> The Lancet</dc:creator>
+      <dc:identifier>10.1016/S0140-6736(26)01958-6</dc:identifier>
+      <dc:source>The Lancet 408, 10564 (2026)</dc:source>
+      <dc:date>2026-10-11T15:58:25Z</dc:date>
+      <ns4:publicationName>The Lancet</ns4:publicationName>
+      <ns4:publicationDate>2026-10-11T15:58:25Z</ns4:publicationDate>
+      <ns4:volume>408</ns4:volume>
+      <ns4:number>10564</ns4:number>
+      <ns4:issueIdentifier>S0140-6736(26)X2039-6</ns4:issueIdentifier>
+      <ns4:section>Editorial</ns4:section>
+      <ns4:startingPage>1525</ns4:startingPage>
+   </ns2:item>
+   <ns2:item rdf:about="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02045-3/fulltext?rss=yes">
+      <ns2:title>[Comment] Establishing cardiovascular safety of the small-molecule GLP-1 receptor agonist orforglipron in type 2 diabetes</ns2:title>
+      <ns2:link>https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02045-3/fulltext?rss=yes</ns2:link>
+      <ns2:description>Cardiovascular outcomes trials with GLP-1 receptor agonists, which to date have largely comprised peptide analogues of the incretin hormone GLP-1, have evolved from studies primarily designed to establish cardiovascular safety to trials demonstrating cardiovascular benefit.1–3 Substantial reductions in major adverse cardiovascular events (MACE) and kidney protection have been demonstrated with multiple GLP-1 receptor agonists for subcutaneous administration,1–3 and, more recently, with oral semaglutide.</ns2:description>
+      <dc:title>Establishing cardiovascular safety of the small-molecule GLP-1 receptor agonist orforglipron in type 2 diabetes</dc:title>
+      <dc:creator>Yu Mi Kang, Michael A Nauck</dc:creator>
+      <dc:identifier>10.1016/S0140-6736(26)02045-3</dc:identifier>
+      <dc:source>The Lancet 408, 10564 (2026)</dc:source>
+      <dc:date>2026-10-17</dc:date>
+      <ns4:publicationName>The Lancet</ns4:publicationName>
+      <ns4:publicationDate>2026-10-17</ns4:publicationDate>
+      <ns4:volume>408</ns4:volume>
+      <ns4:number>10564</ns4:number>
+      <ns4:issueIdentifier>S0140-6736(26)X2039-6</ns4:issueIdentifier>
+      <ns4:section>Comment</ns4:section>
+      <ns4:startingPage>1526</ns4:startingPage>
+      <ns4:endingPage>1527</ns4:endingPage>
+   </ns2:item>
+   <ns2:item rdf:about="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01863-5/fulltext?rss=yes">
+      <ns2:title>[Comment] Making every vial count: fractional dosing of yellow fever vaccine</ns2:title>
+      <ns2:link>https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01863-5/fulltext?rss=yes</ns2:link>
+      <ns2:description>Yellow fever is an important public health problem, but vaccine manufacturing cannot be scaled up easily, making it necessary to use existing vaccine stocks to protect as many people as possible. Fractional doses, usually one-fifth of a vial, have been used during outbreaks. The use of fractional doses is supported by evidence in adults showing immunogenicity1,2 and is endorsed by WHO.3 Yellow fever vaccine is routinely given to infants and young children in endemic areas, but whether fractional dosing is effective in children was unclear until recent trials from 2023 and 2026 addressed this question.</ns2:description>
+      <dc:title>Making every vial count: fractional dosing of yellow fever vaccine</dc:title>
+      <dc:creator>Lance Turtle, Krishanthi Subramaniam</dc:creator>
+      <dc:identifier>10.1016/S0140-6736(26)01863-5</dc:identifier>
+      <dc:source>The Lancet 408, 10564 (2026)</dc:source>
+      <dc:date>2026-10-17</dc:date>
+      <ns4:publicationName>The Lancet</ns4:publicationName>
+      <ns4:publicationDate>2026-10-17</ns4:publicationDate>
+      <ns4:volume>408</ns4:volume>
+      <ns4:number>10564</ns4:number>
+      <ns4:issueIdentifier>S0140-6736(26)X2039-6</ns4:issueIdentifier>
+      <ns4:section>Comment</ns4:section>
+      <ns4:startingPage>1528</ns4:startingPage>
+      <ns4:endingPage>1529</ns4:endingPage>
+   </ns2:item>
+   <ns2:item rdf:about="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01868-4/fulltext?rss=yes">
+      <ns2:title>[Comment] A novel and effective treatment for fibrodysplasia ossificans progressiva</ns2:title>
+      <ns2:link>https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01868-4/fulltext?rss=yes</ns2:link>
+      <ns2:description>Fibrodysplasia ossificans progressiva (FOP) is among the most devastating musculoskeletal disorders. FOP is caused by activating variants in ACVR1, most often arising de novo, and is characterised by congenital malformations of the great toes, followed by episodic flare-ups and progressive heterotopic ossification in soft tissues.1,2 Lesions can be triggered by minor trauma, intramuscular injections, or surgery, but can also arise without an identifiable trigger. Over time, heterotopic bone forms a second skeleton, progressively restricting movement of the jaw, spine, hips, shoulders, and thorax.</ns2:description>
+      <dc:title>A novel and effective treatment for fibrodysplasia ossificans progressiva</dc:title>
+      <dc:creator>Ernestina Schipani</dc:creator>
+      <dc:identifier>10.1016/S0140-6736(26)01868-4</dc:identifier>
+      <dc:source>The Lancet 408, 10564 (2026)</dc:source>
+      <dc:date>2026-09-28T22:30:00Z</dc:date>
+      <ns4:publicationName>The Lancet</ns4:publicationName>
+      <ns4:publicationDate>2026-09-28T22:30:00Z</ns4:publicationDate>
+      <ns4:volume>408</ns4:volume>
+      <ns4:number>10564</ns4:number>
+      <ns4:issueIdentifier>S0140-6736(26)X2039-6</ns4:issueIdentifier>
+      <ns4:section>Comment</ns4:section>
+      <ns4:startingPage>1530</ns4:startingPage>
+      <ns4:endingPage>1531</ns4:endingPage>
+   </ns2:item>
+   <ns2:item rdf:about="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01613-2/fulltext?rss=yes">
+      <ns2:title>[Comment] Shortening treatment to accelerate hepatitis C elimination</ns2:title>
+      <ns2:link>https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01613-2/fulltext?rss=yes</ns2:link>
+      <ns2:description>Simple oral direct-acting antiviral treatment for hepatitis C virus (HCV) infection has transformed clinical management and paved the way for elimination.1 The first pan-genotypic fixed-dose combination regimen, sofosbuvir–velpatasvir, was approved for use in 2016, with the second, glecaprevir–pibrentasvir, following in 2017. Both recommended first-line HCV treatments for people with or without compensated cirrhosis share several important features—high efficacy, excellent tolerability, oral administration, once daily dosing—but differ by pill burden, treatment duration, and availability, with sofosbuvir–velpatasvir prescribed for 12 weeks (one tablet daily; available as a generic formulation) and glecaprevir–pibrentasvir for 8 weeks (three tablets daily; under patent protection).</ns2:description>
+      <dc:title>Shortening treatment to accelerate hepatitis C elimination</dc:title>
+      <dc:creator>Marianne Martinello, Gregory J Dore</dc:creator>
+      <dc:identifier>10.1016/S0140-6736(26)01613-2</dc:identifier>
+      <dc:source>The Lancet 408, 10564 (2026)</dc:source>
+      <dc:date>2026-10-17</dc:date>
+      <ns4:publicationName>The Lancet</ns4:publicationName>
+      <ns4:publicationDate>2026-10-17</ns4:publicationDate>
+      <ns4:volume>408</ns4:volume>
+      <ns4:number>10564</ns4:number>
+      <ns4:issueIdentifier>S0140-6736(26)X2039-6</ns4:issueIdentifier>
+      <ns4:section>Comment</ns4:section>
+      <ns4:startingPage>1532</ns4:startingPage>
+      <ns4:endingPage>1533</ns4:endingPage>
+   </ns2:item>
+   <ns2:item rdf:about="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01989-6/fulltext?rss=yes">
+      <ns2:title>[Comment] 21st century global threats to health are not what you think</ns2:title>
+      <ns2:link>https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01989-6/fulltext?rss=yes</ns2:link>
+      <ns2:description>The Lancet Commission on 21st century global threats to health's report by Christopher J L Murray and colleagues uses forecasts based on expected cumulative amenable disability-adjusted life-years (DALYs) to quantify and compare threats from 2025 to 2100.1 The Commission's intent is to equip governments with the tools to make smart long-term decisions that reduce risk based on “systematic, repeatable risk assessment and preparedness planning” as opposed to “short-termism and localism”.</ns2:description>
+      <dc:title>21st century global threats to health are not what you think</dc:title>
+      <dc:creator>J Stephen Morrison</dc:creator>
+      <dc:identifier>10.1016/S0140-6736(26)01989-6</dc:identifier>
+      <dc:source>The Lancet 408, 10564 (2026)</dc:source>
+      <dc:date>2026-10-10T23:01:02Z</dc:date>
+      <ns4:publicationName>The Lancet</ns4:publicationName>
+      <ns4:publicationDate>2026-10-10T23:01:02Z</ns4:publicationDate>
+      <ns4:volume>408</ns4:volume>
+      <ns4:number>10564</ns4:number>
+      <ns4:issueIdentifier>S0140-6736(26)X2039-6</ns4:issueIdentifier>
+      <ns4:section>Comment</ns4:section>
+      <ns4:startingPage>1533</ns4:startingPage>
+      <ns4:endingPage>1535</ns4:endingPage>
+   </ns2:item>
+   <ns2:item rdf:about="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01777-0/fulltext?rss=yes">
+      <ns2:title>[Comment] The WHS Academic Alliance–Lancet Commission on academic responsibility for trust in science and societal change</ns2:title>
+      <ns2:link>https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01777-0/fulltext?rss=yes</ns2:link>
+      <ns2:description>Universities and academic institutions are indispensable pillars of the modern world, and have been an integral part of societies over centuries. However, academia's relation to society and the core responsibilities of universities are continuously negotiated. Ideally, academia provides reliable scientific insights that drive progress towards better health and wellbeing for all on a sustainable planet. In this process, trustworthy science aims to increase knowledge that is unconstrained by the specific backgrounds under which research is performed and not influenced by political or ideological forces.</ns2:description>
+      <dc:title>The WHS Academic Alliance–Lancet Commission on academic responsibility for trust in science and societal change</dc:title>
+      <dc:creator>Axel R Pries, Marinus Fislage, Adnan A Hyder, Ilona Kickbusch, Sabina F Rashid, Rhoda Wanyenze, Sabine Kleinert</dc:creator>
+      <dc:identifier>10.1016/S0140-6736(26)01777-0</dc:identifier>
+      <dc:source>The Lancet 408, 10564 (2026)</dc:source>
+      <dc:date>2026-09-09T22:30:04Z</dc:date>
+      <ns4:publicationName>The Lancet</ns4:publicationName>
+      <ns4:publicationDate>2026-09-09T22:30:04Z</ns4:publicationDate>
+      <ns4:volume>408</ns4:volume>
+      <ns4:number>10564</ns4:number>
+      <ns4:issueIdentifier>S0140-6736(26)X2039-6</ns4:issueIdentifier>
+      <ns4:section>Comment</ns4:section>
+      <ns4:startingPage>1535</ns4:startingPage>
+      <ns4:endingPage>1537</ns4:endingPage>
+   </ns2:item>
+   <ns2:item rdf:about="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02083-0/fulltext?rss=yes">
+      <ns2:title>[Comment] Offline: In praise of astrologers, sorcerers, and magicians</ns2:title>
+      <ns2:link>https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02083-0/fulltext?rss=yes</ns2:link>
+      <ns2:description>“Prophecies are the grounds on which fights over the future take place”, writes Carissa Véliz in Prophecy: Prediction, Power, and the Fight for the Future, from Ancient Oracles to AI (2026). That fight intensified this week with the publication of our Commission on 21st century global threats to health. Commissioners reviewed almost 400 risks to human health. They identified two existential threats and 15 major catastrophic threats. The peer review process was instructive about how these findings might be received.</ns2:description>
+      <dc:title>Offline: In praise of astrologers, sorcerers, and magicians</dc:title>
+      <dc:creator>Richard Horton</dc:creator>
+      <dc:identifier>10.1016/S0140-6736(26)02083-0</dc:identifier>
+      <dc:source>The Lancet 408, 10564 (2026)</dc:source>
+      <dc:date>2026-10-17</dc:date>
+      <ns4:publicationName>The Lancet</ns4:publicationName>
+      <ns4:publicationDate>2026-10-17</ns4:publicationDate>
+      <ns4:volume>408</ns4:volume>
+      <ns4:number>10564</ns4:number>
+      <ns4:issueIdentifier>S0140-6736(26)X2039-6</ns4:issueIdentifier>
+      <ns4:section>Comment</ns4:section>
+      <ns4:startingPage>1538</ns4:startingPage>
+   </ns2:item>
+   <ns2:item rdf:about="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02082-9/fulltext?rss=yes">
+      <ns2:title>[World Report] “You have to be willing to take risks”: the 2026 Nobel prizes</ns2:title>
+      <ns2:link>https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02082-9/fulltext?rss=yes</ns2:link>
+      <ns2:description>Karl Deisseroth, Peter Hegemann, and Georg Nagel have been awarded the 2026 Nobel Prize in Physiology or Medicine. Talha Burki reports.</ns2:description>
+      <dc:title>“You have to be willing to take risks”: the 2026 Nobel prizes</dc:title>
+      <dc:creator>Talha Burki</dc:creator>
+      <dc:identifier>10.1016/S0140-6736(26)02082-9</dc:identifier>
+      <dc:source>The Lancet 408, 10564 (2026)</dc:source>
+      <dc:date>2026-10-17</dc:date>
+      <ns4:publicationName>The Lancet</ns4:publicationName>
+      <ns4:publicationDate>2026-10-17</ns4:publicationDate>
+      <ns4:volume>408</ns4:volume>
+      <ns4:number>10564</ns4:number>
+      <ns4:issueIdentifier>S0140-6736(26)X2039-6</ns4:issueIdentifier>
+      <ns4:section>World Report</ns4:section>
+      <ns4:startingPage>1539</ns4:startingPage>
+      <ns4:endingPage>1540</ns4:endingPage>
+   </ns2:item>
+   <ns2:item rdf:about="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02084-2/fulltext?rss=yes">
+      <ns2:title>[World Report] Health in Brazil's election</ns2:title>
+      <ns2:link>https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02084-2/fulltext?rss=yes</ns2:link>
+      <ns2:description>Ahead of a presidential runoff between Lula and Flávio Bolsonaro, experts outline what is at stake for health. Luke Taylor reports from Rio de Janeiro.</ns2:description>
+      <dc:title>Health in Brazil's election</dc:title>
+      <dc:creator>Luke Taylor</dc:creator>
+      <dc:identifier>10.1016/S0140-6736(26)02084-2</dc:identifier>
+      <dc:source>The Lancet 408, 10564 (2026)</dc:source>
+      <dc:date>2026-10-17</dc:date>
+      <ns4:publicationName>The Lancet</ns4:publicationName>
+      <ns4:publicationDate>2026-10-17</ns4:publicationDate>
+      <ns4:volume>408</ns4:volume>
+      <ns4:number>10564</ns4:number>
+      <ns4:issueIdentifier>S0140-6736(26)X2039-6</ns4:issueIdentifier>
+      <ns4:section>World Report</ns4:section>
+      <ns4:startingPage>1541</ns4:startingPage>
+      <ns4:endingPage>1542</ns4:endingPage>
+   </ns2:item>
+   <ns2:item rdf:about="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01995-1/fulltext?rss=yes">
+      <ns2:title>[Perspectives] John Wong: making an impact on population health at scale</ns2:title>
+      <ns2:link>https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01995-1/fulltext?rss=yes</ns2:link>
+      <ns2:description>“I’m concerned that the narrative now around ageing populations is one of doom and gloom. But long-lived populations are not the problem. The problem is that we haven’t allowed people to get to an older age healthy”, says John Wong, Executive Director of the Centre for Population Health at the National University of Singapore (NUS) and Executive Director of The Yong Pung How and Yong Wei-Woo Centre at the National University Health System (NUHS), Singapore. “Two-thirds of the world is now below the fertility replacement rate, and unless we keep our populations healthy throughout their whole lifespan, we’ll have this major challenge of more and more unwell older people”, continued Wong, who is also Isabel Chan Professor in Medical Sciences in the Division of Haematology-Oncology at the Yong Loo Lin School of Medicine, NUS, and Emeritus Consultant in the Department of Haematology-Oncology, National University Cancer Institute, NUHS, Singapore.</ns2:description>
+      <dc:title>John Wong: making an impact on population health at scale</dc:title>
+      <dc:creator>Udani Samarasekera</dc:creator>
+      <dc:identifier>10.1016/S0140-6736(26)01995-1</dc:identifier>
+      <dc:source>The Lancet 408, 10564 (2026)</dc:source>
+      <dc:date>2026-10-10T23:01:01Z</dc:date>
+      <ns4:publicationName>The Lancet</ns4:publicationName>
+      <ns4:publicationDate>2026-10-10T23:01:01Z</ns4:publicationDate>
+      <ns4:volume>408</ns4:volume>
+      <ns4:number>10564</ns4:number>
+      <ns4:issueIdentifier>S0140-6736(26)X2039-6</ns4:issueIdentifier>
+      <ns4:section>Perspectives</ns4:section>
+      <ns4:startingPage>1543</ns4:startingPage>
+   </ns2:item>
+   <ns2:item rdf:about="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02050-7/fulltext?rss=yes">
+      <ns2:title>[Perspectives] Shadows and interiority</ns2:title>
+      <ns2:link>https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02050-7/fulltext?rss=yes</ns2:link>
+      <ns2:description>American television series The Pitt may have redefined the popularity of medical drama, but hospitals have always provided a rich seam for creatives, whether their medium is page or screen. From novels like Aleksandr Solzhenitsyn's 1966 Soviet-era Cancer Ward and Abraham Verghese's epic saga Cutting for Stone (2009) all the way through to television dramas such as Casualty, ER, and Grey's Anatomy, it seems we can’t get enough of human stories played out in a tense clinical setting. This is the absolute opposite of what author Chloe Aridjis does in The Shadow of the Object.</ns2:description>
+      <dc:title>Shadows and interiority</dc:title>
+      <dc:creator>Gabriel Weston</dc:creator>
+      <dc:identifier>10.1016/S0140-6736(26)02050-7</dc:identifier>
+      <dc:source>The Lancet 408, 10564 (2026)</dc:source>
+      <dc:date>2026-10-17</dc:date>
+      <ns4:publicationName>The Lancet</ns4:publicationName>
+      <ns4:publicationDate>2026-10-17</ns4:publicationDate>
+      <ns4:volume>408</ns4:volume>
+      <ns4:number>10564</ns4:number>
+      <ns4:issueIdentifier>S0140-6736(26)X2039-6</ns4:issueIdentifier>
+      <ns4:section>Perspectives</ns4:section>
+      <ns4:startingPage>1544</ns4:startingPage>
+   </ns2:item>
+   <ns2:item rdf:about="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02051-9/fulltext?rss=yes">
+      <ns2:title>[Perspectives] Beyond the battlefield: war and global health security</ns2:title>
+      <ns2:link>https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02051-9/fulltext?rss=yes</ns2:link>
+      <ns2:description>During the Syrian war (2011–24), the Assad Government forces and their Russian allies conducted hundreds of strikes on medical facilities in opposition-held areas. Monitoring groups documented over 600 attacks on health care, resulting in the deaths of hundreds of health-care workers throughout the conflict. Hospitals in eastern Aleppo and other contested regions were reduced to rubble. Surgeons operated in underground rooms illuminated by generators, and ambulances were targeted while transporting patients between sites.</ns2:description>
+      <dc:title>Beyond the battlefield: war and global health security</dc:title>
+      <dc:creator>Fouad Fouad</dc:creator>
+      <dc:identifier>10.1016/S0140-6736(26)02051-9</dc:identifier>
+      <dc:source>The Lancet 408, 10564 (2026)</dc:source>
+      <dc:date>2026-10-17</dc:date>
+      <ns4:publicationName>The Lancet</ns4:publicationName>
+      <ns4:publicationDate>2026-10-17</ns4:publicationDate>
+      <ns4:volume>408</ns4:volume>
+      <ns4:number>10564</ns4:number>
+      <ns4:issueIdentifier>S0140-6736(26)X2039-6</ns4:issueIdentifier>
+      <ns4:section>Perspectives</ns4:section>
+      <ns4:startingPage>1545</ns4:startingPage>
+   </ns2:item>
+   <ns2:item rdf:about="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02052-0/fulltext?rss=yes">
+      <ns2:title>[Perspectives] Temporal rationing: a man with gastric cancer in Colombia</ns2:title>
+      <ns2:link>https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02052-0/fulltext?rss=yes</ns2:link>
+      <ns2:description>Pepe, a 45-year-old man living in the city of Cali, Colombia, worked as a self-employed hauler of goods with a wheelbarrow. In 2010, he presented to a general practitioner with several months of abdominal heaviness and non-exertional substernal burning. The physician provisionally diagnosed gastro-oesophageal reflux disease and prescribed omeprazole. However, Pepe's symptoms slowly worsened and 10 weeks later he returned to the physician, who ordered a gastroscopy, which occurred 2 months later, revealing an ulcerated mass.</ns2:description>
+      <dc:title>Temporal rationing: a man with gastric cancer in Colombia</dc:title>
+      <dc:creator>Camilo Sanz, Santiago Martínez Medina, Scott D Stonington</dc:creator>
+      <dc:identifier>10.1016/S0140-6736(26)02052-0</dc:identifier>
+      <dc:source>The Lancet 408, 10564 (2026)</dc:source>
+      <dc:date>2026-10-17</dc:date>
+      <ns4:publicationName>The Lancet</ns4:publicationName>
+      <ns4:publicationDate>2026-10-17</ns4:publicationDate>
+      <ns4:volume>408</ns4:volume>
+      <ns4:number>10564</ns4:number>
+      <ns4:issueIdentifier>S0140-6736(26)X2039-6</ns4:issueIdentifier>
+      <ns4:section>Perspectives</ns4:section>
+      <ns4:startingPage>1546</ns4:startingPage>
+      <ns4:endingPage>1547</ns4:endingPage>
+   </ns2:item>
+   <ns2:item rdf:about="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02053-2/fulltext?rss=yes">
+      <ns2:title>[Obituary] Roger Detels</ns2:title>
+      <ns2:link>https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02053-2/fulltext?rss=yes</ns2:link>
+      <ns2:description>Epidemiologist and pioneer in HIV research. Born on Oct 14, 1936, in Brooklyn, New York, NY, USA, he died on July 25, 2026, in Los Angeles, CA, USA, aged 89 years.</ns2:description>
+      <dc:title>Roger Detels</dc:title>
+      <dc:creator>Andrew Green</dc:creator>
+      <dc:identifier>10.1016/S0140-6736(26)02053-2</dc:identifier>
+      <dc:source>The Lancet 408, 10564 (2026)</dc:source>
+      <dc:date>2026-10-17</dc:date>
+      <ns4:publicationName>The Lancet</ns4:publicationName>
+      <ns4:publicationDate>2026-10-17</ns4:publicationDate>
+      <ns4:volume>408</ns4:volume>
+      <ns4:number>10564</ns4:number>
+      <ns4:issueIdentifier>S0140-6736(26)X2039-6</ns4:issueIdentifier>
+      <ns4:section>Obituary</ns4:section>
+      <ns4:startingPage>1548</ns4:startingPage>
+   </ns2:item>
+   <ns2:item rdf:about="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01980-X/fulltext?rss=yes">
+      <ns2:title>[Correspondence] Bundibugyo virus: coordinating a cross-border response</ns2:title>
+      <ns2:link>https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01980-X/fulltext?rss=yes</ns2:link>
+      <ns2:description>On May 15, 2026, the Democratic Republic of the Congo and Uganda declared outbreaks of Ebola disease caused by Bundibugyo virus. On May 17, 2026, the Director-General of WHO determined that the epidemic in the Democratic Republic of the Congo and Uganda constituted a Public Health Emergency of International Concern, approximately 48 h after the outbreak declarations.1 By Aug 26, 2026, 5815 confirmed cases and 2788 deaths had been reported, including 5794 cases and 2786 deaths in the Democratic Republic of the Congo, where transmission had spread to 60 health zones across six provinces.</ns2:description>
+      <dc:title>Bundibugyo virus: coordinating a cross-border response</dc:title>
+      <dc:creator>Marie Roseline Darnycka Belizaire, Otim Patrick Cossy Ramadan, Dick Chamla, Etien Luc Koua, Ebenezer Obi Daniel</dc:creator>
+      <dc:identifier>10.1016/S0140-6736(26)01980-X</dc:identifier>
+      <dc:source>The Lancet 408, 10564 (2026)</dc:source>
+      <dc:date>2026-10-08T22:30:01Z</dc:date>
+      <ns4:publicationName>The Lancet</ns4:publicationName>
+      <ns4:publicationDate>2026-10-08T22:30:01Z</ns4:publicationDate>
+      <ns4:volume>408</ns4:volume>
+      <ns4:number>10564</ns4:number>
+      <ns4:issueIdentifier>S0140-6736(26)X2039-6</ns4:issueIdentifier>
+      <ns4:section>Correspondence</ns4:section>
+      <ns4:startingPage>1549</ns4:startingPage>
+   </ns2:item>
+   <ns2:item rdf:about="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01641-7/fulltext?rss=yes">
+      <ns2:title>[Correspondence] WHO should adjust its cervical cancer plan</ns2:title>
+      <ns2:link>https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01641-7/fulltext?rss=yes</ns2:link>
+      <ns2:description>In Gary M Clifford's Comment, he observed that the dominant driver of global inequalities in cervical cancer burden, which are poised to increase dramatically, is unequal access to cervical screening.1 WHO perpetuates such inequalities by offering paradoxical guidance for low-income and middle-income countries (LMICs), where 95% of global cervical cancer deaths occur.2 In 2000, the WHO International Agency for Research on Cancer's (IARC) Head of Cancer Screening stated he would be “loath to recommend starting a screening programme with conventional Paps in a country with no current screening programme in place”.</ns2:description>
+      <dc:title>WHO should adjust its cervical cancer plan</dc:title>
+      <dc:creator>Eric J Suba</dc:creator>
+      <dc:identifier>10.1016/S0140-6736(26)01641-7</dc:identifier>
+      <dc:source>The Lancet 408, 10564 (2026)</dc:source>
+      <dc:date>2026-10-17</dc:date>
+      <ns4:publicationName>The Lancet</ns4:publicationName>
+      <ns4:publicationDate>2026-10-17</ns4:publicationDate>
+      <ns4:volume>408</ns4:volume>
+      <ns4:number>10564</ns4:number>
+      <ns4:issueIdentifier>S0140-6736(26)X2039-6</ns4:issueIdentifier>
+      <ns4:section>Correspondence</ns4:section>
+      <ns4:startingPage>1549</ns4:startingPage>
+      <ns4:endingPage>1550</ns4:endingPage>
+   </ns2:item>
+   <ns2:item rdf:about="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01852-0/fulltext?rss=yes">
+      <ns2:title>[Correspondence] WHO should adjust its cervical cancer plan – Authors’ reply</ns2:title>
+      <ns2:link>https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01852-0/fulltext?rss=yes</ns2:link>
+      <ns2:description>We agree with Eric J Suba that current global inequalities in cervical cancer burden are driven largely by unequal access to effective screening programmes. This point was highlighted by Brisson and colleagues1 and in an accompanying Comment2 that warned that human papillomavirus (HPV) vaccination implementation must not follow the same inequitable path.</ns2:description>
+      <dc:title>WHO should adjust its cervical cancer plan – Authors’ reply</dc:title>
+      <dc:creator>Gary M Clifford, Feixue Wei</dc:creator>
+      <dc:identifier>10.1016/S0140-6736(26)01852-0</dc:identifier>
+      <dc:source>The Lancet 408, 10564 (2026)</dc:source>
+      <dc:date>2026-10-17</dc:date>
+      <ns4:publicationName>The Lancet</ns4:publicationName>
+      <ns4:publicationDate>2026-10-17</ns4:publicationDate>
+      <ns4:volume>408</ns4:volume>
+      <ns4:number>10564</ns4:number>
+      <ns4:issueIdentifier>S0140-6736(26)X2039-6</ns4:issueIdentifier>
+      <ns4:section>Correspondence</ns4:section>
+      <ns4:startingPage>1550</ns4:startingPage>
+   </ns2:item>
+   <ns2:item rdf:about="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01716-2/fulltext?rss=yes">
+      <ns2:title>[Correspondence] Smoking rates: when should harm-reduction evidence be updated?</ns2:title>
+      <ns2:link>https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01716-2/fulltext?rss=yes</ns2:link>
+      <ns2:description>In their Comment, Ruth Bonita and Robert Beaglehole use New Zealand as an example to argue that smoke-free nicotine products accelerate adult smoking declines, stating that annual decline increased “around four-fold” after vapes became widely available.1 But their claim rests on evidence that was either unavailable to readers at the time of publication or ends before the two most recent New Zealand Health Survey waves (2023–24 and 2024–25). Their supporting self-citation was in press, whereas Borland and colleagues,2 also referenced in the Comment, rely on Mendelsohn and colleagues3 for their New Zealand evidence, which stops at 2022–23.</ns2:description>
+      <dc:title>Smoking rates: when should harm-reduction evidence be updated?</dc:title>
+      <dc:creator>Sam Egger</dc:creator>
+      <dc:identifier>10.1016/S0140-6736(26)01716-2</dc:identifier>
+      <dc:source>The Lancet 408, 10564 (2026)</dc:source>
+      <dc:date>2026-10-17</dc:date>
+      <ns4:publicationName>The Lancet</ns4:publicationName>
+      <ns4:publicationDate>2026-10-17</ns4:publicationDate>
+      <ns4:volume>408</ns4:volume>
+      <ns4:number>10564</ns4:number>
+      <ns4:issueIdentifier>S0140-6736(26)X2039-6</ns4:issueIdentifier>
+      <ns4:section>Correspondence</ns4:section>
+      <ns4:startingPage>1551</ns4:startingPage>
+   </ns2:item>
+   <ns2:item rdf:about="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01901-X/fulltext?rss=yes">
+      <ns2:title>[Correspondence] Smoking rates: when should harm-reduction evidence be updated? – Authors’ reply</ns2:title>
+      <ns2:link>https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01901-X/fulltext?rss=yes</ns2:link>
+      <ns2:description>The striking feature of recent New Zealand smoking trends is the statistically significant acceleration in smoking decline after 2019, not the subsequent plateau. The critical issue is why smoking declined so rapidly after vaping became widespread.</ns2:description>
+      <dc:title>Smoking rates: when should harm-reduction evidence be updated? – Authors’ reply</dc:title>
+      <dc:creator>Ruth Bonita, Robert Beaglehole</dc:creator>
+      <dc:identifier>10.1016/S0140-6736(26)01901-X</dc:identifier>
+      <dc:source>The Lancet 408, 10564 (2026)</dc:source>
+      <dc:date>2026-10-17</dc:date>
+      <ns4:publicationName>The Lancet</ns4:publicationName>
+      <ns4:publicationDate>2026-10-17</ns4:publicationDate>
+      <ns4:volume>408</ns4:volume>
+      <ns4:number>10564</ns4:number>
+      <ns4:issueIdentifier>S0140-6736(26)X2039-6</ns4:issueIdentifier>
+      <ns4:section>Correspondence</ns4:section>
+      <ns4:startingPage>1551</ns4:startingPage>
+      <ns4:endingPage>1552</ns4:endingPage>
+   </ns2:item>
+   </rdf:RDF>

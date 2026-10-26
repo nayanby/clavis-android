@@ -1,0 +1,240 @@
+[
+  {
+    "kind": "Podcasts",
+    "title": "The Daily",
+    "url": "https://feeds.simplecast.com/54nAGcIl",
+    "asset": "rss/podcasts-0.xml",
+    "preload": true
+  },
+  {
+    "kind": "Podcasts",
+    "title": "This American Life",
+    "url": "https://www.thisamericanlife.org/podcast/rss.xml",
+    "asset": "rss/podcasts-1.xml",
+    "preload": true
+  },
+  {
+    "kind": "Podcasts",
+    "title": "Radiolab",
+    "url": "https://feeds.simplecast.com/EmVW7VGp",
+    "asset": "rss/podcasts-2.xml",
+    "preload": true
+  },
+  {
+    "kind": "Podcasts",
+    "title": "Stuff You Should Know",
+    "url": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/44710ecc-10bb-48d1-93c7-ae270180c33e/podcast.rss",
+    "asset": "rss/podcasts-3.xml",
+    "preload": true
+  },
+  {
+    "kind": "Podcasts",
+    "title": "Huberman Lab",
+    "url": "https://feeds.megaphone.fm/hubermanlab",
+    "asset": "rss/podcasts-4.xml",
+    "preload": true
+  },
+  {
+    "kind": "Podcasts",
+    "title": "Lex Fridman Podcast",
+    "url": "https://lexfridman.com/feed/podcast/",
+    "asset": "rss/podcasts-5.xml",
+    "preload": true
+  },
+  {
+    "kind": "Podcasts",
+    "title": "99% Invisible",
+    "url": "https://feeds.simplecast.com/BqbsxVfO",
+    "asset": "rss/podcasts-6.xml",
+    "preload": true
+  },
+  {
+    "kind": "Podcasts",
+    "title": "Hidden Brain",
+    "url": "https://feeds.npr.org/510308/podcast.xml",
+    "asset": "rss/podcasts-7.xml",
+    "preload": true
+  },
+  {
+    "kind": "Podcasts",
+    "title": "TED Talks Daily",
+    "url": "https://feeds.feedburner.com/TEDTalks_audio",
+    "asset": "rss/podcasts-8.xml",
+    "preload": true
+  },
+  {
+    "kind": "Podcasts",
+    "title": "Planet Money",
+    "url": "https://feeds.npr.org/510289/podcast.xml",
+    "asset": "rss/podcasts-9.xml",
+    "preload": true
+  },
+  {
+    "kind": "Podcasts",
+    "title": "TED Radio Hour",
+    "url": "https://feeds.npr.org/510298/podcast.xml",
+    "asset": "rss/podcasts-10.xml",
+    "preload": false
+  },
+  {
+    "kind": "Podcasts",
+    "title": "Science Friday",
+    "url": "https://feeds.simplecast.com/y1LF_sn2",
+    "asset": "rss/podcasts-11.xml",
+    "preload": false
+  },
+  {
+    "kind": "News",
+    "title": "BBC News",
+    "url": "https://feeds.bbci.co.uk/news/rss.xml",
+    "asset": "rss/news-0.xml",
+    "preload": true
+  },
+  {
+    "kind": "News",
+    "title": "The Guardian World",
+    "url": "https://www.theguardian.com/world/rss",
+    "asset": "rss/news-1.xml",
+    "preload": true
+  },
+  {
+    "kind": "News",
+    "title": "Al Jazeera",
+    "url": "https://www.aljazeera.com/xml/rss/all.xml",
+    "asset": "rss/news-2.xml",
+    "preload": true
+  },
+  {
+    "kind": "News",
+    "title": "NPR News",
+    "url": "https://feeds.npr.org/1001/rss.xml",
+    "asset": "rss/news-3.xml",
+    "preload": true
+  },
+  {
+    "kind": "News",
+    "title": "The New York Times",
+    "url": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+    "asset": "rss/news-4.xml",
+    "preload": true
+  },
+  {
+    "kind": "News",
+    "title": "The Hindu",
+    "url": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "asset": "rss/news-5.xml",
+    "preload": true
+  },
+  {
+    "kind": "News",
+    "title": "The Indian Express",
+    "url": "https://indianexpress.com/feed/",
+    "asset": "rss/news-6.xml",
+    "preload": true
+  },
+  {
+    "kind": "News",
+    "title": "Hindustan Times",
+    "url": "https://www.hindustantimes.com/feeds/rss/india-news/rssfeed.xml",
+    "asset": "rss/news-7.xml",
+    "preload": true
+  },
+  {
+    "kind": "News",
+    "title": "Deutsche Welle",
+    "url": "https://rss.dw.com/rdf/rss-en-all",
+    "asset": "rss/news-8.xml",
+    "preload": true
+  },
+  {
+    "kind": "News",
+    "title": "Sky News",
+    "url": "https://feeds.skynews.com/feeds/rss/home.xml",
+    "asset": "rss/news-9.xml",
+    "preload": true
+  },
+  {
+    "kind": "News",
+    "title": "BBC Science",
+    "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+    "asset": "rss/news-10.xml",
+    "preload": false
+  },
+  {
+    "kind": "News",
+    "title": "The Guardian Science",
+    "url": "https://www.theguardian.com/science/rss",
+    "asset": "rss/news-11.xml",
+    "preload": false
+  },
+  {
+    "kind": "Journals",
+    "title": "NEJM",
+    "url": "https://www.nejm.org/action/showFeed?jc=nejm&type=etoc&feed=rss",
+    "asset": "rss/journals-0.xml",
+    "preload": true
+  },
+  {
+    "kind": "Journals",
+    "title": "JAMA",
+    "url": "https://jamanetwork.com/rss/site_3/67.xml",
+    "asset": "rss/journals-1.xml",
+    "preload": true
+  },
+  {
+    "kind": "Journals",
+    "title": "The Lancet",
+    "url": "https://www.thelancet.com/rssfeed/lancet_current.xml",
+    "asset": "rss/journals-2.xml",
+    "preload": true
+  },
+  {
+    "kind": "Journals",
+    "title": "Nature Medicine",
+    "url": "https://www.nature.com/nm.rss",
+    "asset": "rss/journals-3.xml",
+    "preload": true
+  },
+  {
+    "kind": "Journals",
+    "title": "Annals of Internal Medicine",
+    "url": "https://www.acpjournals.org/action/showFeed?jc=aim&type=etoc&feed=rss",
+    "asset": "rss/journals-4.xml",
+    "preload": true
+  },
+  {
+    "kind": "Journals",
+    "title": "BMJ Open",
+    "url": "https://bmjopen.bmj.com/rss/current.xml",
+    "asset": "rss/journals-5.xml",
+    "preload": true
+  },
+  {
+    "kind": "Journals",
+    "title": "PLOS Medicine",
+    "url": "https://journals.plos.org/plosmedicine/feed/atom",
+    "asset": "rss/journals-6.xml",
+    "preload": true
+  },
+  {
+    "kind": "Journals",
+    "title": "Journal of Clinical Investigation",
+    "url": "https://www.jci.org/rss",
+    "asset": "rss/journals-7.xml",
+    "preload": true
+  },
+  {
+    "kind": "Journals",
+    "title": "eLife",
+    "url": "https://elifesciences.org/rss/recent.xml",
+    "asset": "rss/journals-8.xml",
+    "preload": true
+  },
+  {
+    "kind": "Journals",
+    "title": "Nature Reviews Cardiology",
+    "url": "https://www.nature.com/nrcardio.rss",
+    "asset": "rss/journals-9.xml",
+    "preload": true
+  }
+]

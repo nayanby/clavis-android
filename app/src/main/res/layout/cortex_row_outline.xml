@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Notes outline row — type/padding match the PDF viewer outline. -->
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/cortex_outlineHeading"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:ellipsize="end"
+    android:foreground="?attr/selectableItemBackground"
+    android:maxLines="2"
+    android:paddingStart="12dp"
+    android:paddingTop="6dp"
+    android:paddingEnd="12dp"
+    android:paddingBottom="6dp"
+    android:textColor="@color/cortex_ink"
+    android:textSize="14sp"
+    app:fontFamily="@font/cortex_averia_serif_libre" />

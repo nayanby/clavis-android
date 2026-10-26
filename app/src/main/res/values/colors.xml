@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- The reference palette of the bundled page (its cnl custom properties):
+         paper background, indigo ink, slate secondary text, hairline borders. -->
+    <color name="brand">#292B30</color>
+    <color name="on_brand">#FFFFFF</color>
+    <color name="brand_soft">#73B5CCF1</color>
+    <color name="page_background">#EDF2F3</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="ink">#292B30</color>
+    <color name="muted">#5F6C73</color>
+    <color name="nav_unselected">#5F6C73</color>
+    <color name="option_stroke">#E3E9EB</color>
+    <color name="line">#E3E9EB</color>
+    <color name="sky">#94A9CE</color>
+    <color name="mist">#B5CCF1</color>
+    <color name="blossom">#F2BED1</color>
+    <color name="rosewood">#87434D</color>
+    <color name="sage_soft">#4DA9D3B3</color>
+    <color name="sage_ink">#2F5D3C</color>
+    <color name="coral_soft">#40E9A8A3</color>
+    <color name="coral_ink">#8C2F28</color>
+    <color name="answer_correct">#2F5D3C</color>
+    <color name="answer_wrong">#8C2F28</color>
+    <color name="callout_background">#E8EFF8</color>
+    <color name="callout_ink">#28467C</color>
+    <color name="panel_soft">#FAFBFC</color>
+    <color name="poster_page">#FFFFFF</color>
+    <color name="poster_primary">#28467C</color>
+    <color name="poster_secondary">#6F3D5D</color>
+    <color name="poster_neutral">#E7E1E4</color>
+    <color name="poster_even">#F2EEF0</color>
+    <color name="poster_text">#2E2E2E</color>
+    <color name="poster_odd">#EDF2F9</color>
+    <color name="export_paper">#FFFFFF</color>
+    <color name="note_navy">#294C7B</color>
+    <color name="note_burgundy">#5B3A52</color>
+    <color name="table_line">#AEAAAA</color>
+    <color name="home_deep_start">#EAF3FC</color>
+    <color name="home_deep_end">#CFE1F5</color>
+    <color name="home_mine_start">#EEEEF0</color>
+    <color name="home_mine_end">#D8D9DD</color>
+    <color name="home_rapid_start">#F0E8EB</color>
+    <color name="home_rapid_end">#E1D0DC</color>
+    <color name="home_settings_start">#F2F3FA</color>
+    <color name="home_settings_end">#E2E5F2</color>
+    <color name="home_pdf_start">#E8F2EA</color>
+    <color name="home_pdf_end">#CFE4D4</color>
+    <color name="home_notebook_start">#F6EFE4</color>
+    <color name="home_notebook_end">#E8D9C4</color>
+    <color name="ic_launcher_background">#E2DADF</color>
+</resources>

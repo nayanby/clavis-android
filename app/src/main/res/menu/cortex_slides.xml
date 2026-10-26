@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  The slide player's corner menu: the same shape as the snapshot's, with the type
+  row and the pen tools on the bar, and Make New / Save folded in. The ids the
+  reader and snapshot share are reused, so one handler serves all three screens.
+-->
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/cortex_action_text_size"
+        android:title="@string/cortex_action_type_bar"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/cortex_action_pen"
+        android:icon="@drawable/cortex_ic_pen"
+        android:title="@string/cortex_menu_pen"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/cortex_action_highlighter"
+        android:icon="@drawable/cortex_ic_highlighter"
+        android:title="@string/cortex_menu_highlighter"
+        app:iconTint="@color/cortex_ink"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/cortex_action_underliner"
+        android:icon="@drawable/cortex_ic_underliner"
+        android:title="@string/cortex_menu_underliner"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/cortex_action_cursor"
+        android:icon="@drawable/cortex_ic_cursor"
+        android:title="@string/cortex_menu_cursor"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/cortex_action_stylus"
+        android:checkable="true"
+        android:title="@string/cortex_menu_stylus"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/cortex_action_slides_make_new"
+        android:title="@string/cortex_slides_make_new"
+        android:visible="false"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/cortex_action_slides_save"
+        android:enabled="false"
+        android:title="@string/cortex_poster_save"
+        android:visible="false"
+        app:showAsAction="always" />
+</menu>

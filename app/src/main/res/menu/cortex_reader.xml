@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <!-- The type sits in the bar's right corner as a plain Aa, because reading
+         type is adjusted often: a tap opens the one sheet that steps the size
+         and both spacings. The outline and the snapshot are the bottom bar's
+         two pills. A note written by Create with AI opens here as a draft, so
+         its save item joins the bar beside the Aa for as long as that draft is
+         open. -->
+    <item
+        android:id="@+id/cortex_action_save_ai_note"
+        android:title="@string/cortex_menu_save_ai_note"
+        android:visible="false"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/cortex_action_text_size"
+        android:title="@string/cortex_action_type_bar"
+        android:orderInCategory="10"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/cortex_action_pen"
+        android:icon="@drawable/cortex_ic_pen"
+        android:title="@string/cortex_menu_pen"
+        android:orderInCategory="20"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/cortex_action_highlighter"
+        android:icon="@drawable/cortex_ic_highlighter"
+        android:title="@string/cortex_menu_highlighter"
+        android:orderInCategory="21"
+        app:iconTint="@color/cortex_ink"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/cortex_action_underliner"
+        android:icon="@drawable/cortex_ic_underliner"
+        android:title="@string/cortex_menu_underliner"
+        android:orderInCategory="22"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/cortex_action_cursor"
+        android:icon="@drawable/cortex_ic_cursor"
+        android:title="@string/cortex_menu_cursor"
+        android:orderInCategory="23"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/cortex_action_feedback"
+        android:icon="@drawable/cortex_ic_chat"
+        android:title="@string/cortex_feedback"
+        app:iconTint="@color/cortex_ink"
+        app:showAsAction="never" />
+
+    <!-- Stylus sits at the top of this corner menu so the marking tools can
+         be offered or put away. Formatted DOCX export stays out of Consumer. -->
+    <item
+        android:id="@+id/cortex_action_stylus"
+        android:checkable="true"
+        android:title="@string/cortex_menu_stylus"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/cortex_action_flashcards"
+        android:title="@string/cortex_menu_flashcards"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/cortex_action_quiz"
+        android:title="@string/cortex_menu_quiz"
+        app:showAsAction="never" />
+</menu>

@@ -1,0 +1,1 @@
+<resources><style name="NotebookDialogs.Dark" parent=""><item name="android:alertDialogTheme">@style/Theme.Clavis.Dialog</item></style><style name="NotebookDialogs.Light" parent=""><item name="android:alertDialogTheme">@style/Theme.Clavis.Dialog.Light</item></style></resources>

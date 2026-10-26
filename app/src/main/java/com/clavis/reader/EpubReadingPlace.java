@@ -1,0 +1,9 @@
+package com.clavis.reader;
+import com.artifex.mupdf.fitz.*;import java.util.function.BooleanSupplier;
+/** Stable passage anchor across reopened/styled EPUB documents; native bookmarks contain DOM pointers. */
+final class EpubReadingPlace {
+ final int chapter,page,pages;final String passage;
+ EpubReadingPlace(int chapter,int page,int pages,String passage){this.chapter=chapter;this.page=page;this.pages=pages;this.passage=passage;}
+ static EpubReadingPlace capture(Document doc,int pageIndex){Location loc=doc.locationFromPageNumber(pageIndex);String passage="";Page page=doc.loadPage(loc);try{StructuredText text=page.toStructuredText();try{String raw=text.asText().replace('\u00ad',' ').replaceAll("\\s+"," ").trim();String[] words=raw.split(" ");StringBuilder anchor=new StringBuilder();for(int i=0;i<Math.min(6,words.length);i++){if(anchor.length()>0)anchor.append(' ');anchor.append(words[i]);}passage=anchor.toString();}finally{text.destroy();}}finally{page.destroy();}return new EpubReadingPlace(loc.chapter,loc.page,doc.countPages(loc.chapter),passage);}
+ int restore(Document doc,BooleanSupplier cancelled){int chapter=Math.max(0,Math.min(doc.countChapters()-1,this.chapter)),count=doc.countPages(chapter);int expected=Math.max(0,Math.min(count-1,Math.round(page*count/(float)Math.max(1,pages))));if(!passage.isEmpty()){for(int distance=0;distance<=32;distance++){for(int direction:distance==0?new int[]{1}:new int[]{-1,1}){if(cancelled.getAsBoolean())return doc.pageNumberFromLocation(new Location(chapter,expected));int index=expected+distance*direction;if(index<0||index>=count)continue;Page page=doc.loadPage(chapter,index);try{if(page.search(passage).length>0)return doc.pageNumberFromLocation(new Location(chapter,index));}finally{page.destroy();}}}}return doc.pageNumberFromLocation(new Location(chapter,expected));}
+}

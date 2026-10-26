@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Compact − / size / + for the pen sheet, sits beside colour swatches. -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="36dp"
+    android:background="@drawable/cortex_bg_field"
+    android:gravity="center_vertical"
+    android:orientation="horizontal"
+    android:paddingStart="2dp"
+    android:paddingEnd="2dp">
+
+    <TextView
+        android:id="@+id/cortex_stepMinus"
+        android:layout_width="32dp"
+        android:layout_height="match_parent"
+        android:background="?attr/selectableItemBackgroundBorderless"
+        android:clickable="true"
+        android:contentDescription="@string/cortex_step_down"
+        android:focusable="true"
+        android:gravity="center"
+        android:text="@string/cortex_step_minus_glyph"
+        android:textColor="@color/cortex_ink"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/cortex_stepPosition"
+        android:layout_width="28dp"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textColor="@color/cortex_ink"
+        android:textSize="13sp"
+        app:fontFamily="@font/cortex_averia_serif_libre" />
+
+    <TextView
+        android:id="@+id/cortex_stepPlus"
+        android:layout_width="32dp"
+        android:layout_height="match_parent"
+        android:background="?attr/selectableItemBackgroundBorderless"
+        android:clickable="true"
+        android:contentDescription="@string/cortex_step_up"
+        android:focusable="true"
+        android:gravity="center"
+        android:text="@string/cortex_step_plus_glyph"
+        android:textColor="@color/cortex_ink"
+        android:textSize="16sp" />
+</LinearLayout>

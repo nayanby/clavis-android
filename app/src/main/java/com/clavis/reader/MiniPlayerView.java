@@ -1,0 +1,11 @@
+package com.clavis.reader;
+import android.graphics.*;
+import android.widget.*;
+import android.view.*;
+final class MiniPlayerView extends LinearLayout {
+ final MainActivity a; final TextView subtitle,title;final PlayerButton play;String artworkUri="";final ImageView cover;final Runnable refresh=new Runnable(){public void run(){update();postDelayed(this,500);}};
+ MiniPlayerView(MainActivity a){super(a);this.a=a;setOrientation(HORIZONTAL);setGravity(Gravity.CENTER_VERTICAL);setPadding(a.dp(12),a.dp(8),a.dp(8),a.dp(8));setBackground(a.bg(AppTheme.surface,12));cover=new ImageView(a);cover.setScaleType(ImageView.ScaleType.FIT_CENTER);cover.setBackground(a.bg(AppTheme.raised,4));cover.setClipToOutline(true);addView(cover,new LayoutParams(a.dp(46),a.dp(50)));LinearLayout labels=a.column();labels.setPadding(a.dp(8),0,a.dp(4),0);title=a.text("",14,MainActivity.INK,false);title.setTypeface(null,Typeface.BOLD);title.setSingleLine();title.setEllipsize(android.text.TextUtils.TruncateAt.END);subtitle=a.text("",12,MainActivity.MUTED,false);subtitle.setSingleLine();labels.addView(title);labels.addView(subtitle);addView(labels,new LayoutParams(0,-2,1));PlayerButton back=new PlayerButton(a,"back",()->{PlaybackService s=PlaybackService.live;if(s!=null)s.skip(-30);});back.setContentDescription("Rewind 30 seconds");addView(back,new LayoutParams(a.dp(48),a.dp(48)));play=new PlayerButton(a,"play",()->{PlaybackService s=PlaybackService.live;if(s!=null){if(s.playing())s.pause();else s.play();update();}});addView(play,new LayoutParams(a.dp(46),a.dp(46)));setOnClickListener(v->a.openActivePlayer());update();}
+ void update(){PlaybackService s=PlaybackService.live;if(s==null)return;title.setText(s.title);subtitle.setText(Store.time(Math.max(0,s.duration()-s.position()))+" left in chapter · "+s.speed+"x");play.setPlaying(s.playing());play.setContentDescription(s.playing()?"Pause":"Play");play.invalidate();if(!artworkUri.equals(s.uri)&&s.book!=null){artworkUri=s.uri;Book b=s.book;a.io.execute(()->{Bitmap image=Artwork.load(a,b);if(image!=null)a.runOnUiThread(()->cover.setImageBitmap(image));});}}
+ protected void onAttachedToWindow(){super.onAttachedToWindow();post(refresh);}protected void onDetachedFromWindow(){removeCallbacks(refresh);super.onDetachedFromWindow();}
+}
+

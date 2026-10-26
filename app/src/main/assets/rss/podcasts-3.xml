@@ -1,0 +1,478 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:ns0="https://omny.fm/rss-extensions" xmlns:ns1="http://www.w3.org/2005/Atom" xmlns:ns2="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:ns3="http://purl.org/rss/1.0/modules/content/" xmlns:ns4="http://search.yahoo.com/mrss/" xmlns:ns5="https://podcastindex.org/namespace/1.0" xmlns:ns6="http://podlove.org/simple-chapters" version="2.0">
+  <channel>
+    <ns0:organizationId>e73c998e-6e60-432f-8610-ae210140c5b1</ns0:organizationId>
+    <ns0:networkId>f4bdfbd3-5be1-45d2-b690-ae3e0141cc95</ns0:networkId>
+    <ns0:programId>a91018a4-ea4f-4130-bf55-ae270180c327</ns0:programId>
+    <ns0:playlistId>44710ecc-10bb-48d1-93c7-ae270180c33e</ns0:playlistId>
+    <language>en-US</language>
+    <ns1:link rel="self" type="application/rss+xml" href="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/44710ecc-10bb-48d1-93c7-ae270180c33e/podcast.rss" />
+    <ns1:link rel="first" type="application/rss+xml" href="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/44710ecc-10bb-48d1-93c7-ae270180c33e/podcast.rss?page=1" />
+    <ns1:link rel="last" type="application/rss+xml" href="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/44710ecc-10bb-48d1-93c7-ae270180c33e/podcast.rss?page=1" />
+    <ns2:new-feed-url>https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/44710ecc-10bb-48d1-93c7-ae270180c33e/podcast.rss</ns2:new-feed-url>
+    <title>Stuff You Should Know</title>
+    <ns2:subtitle>Stuff You Should Know</ns2:subtitle>
+    <link>https://www.iheart.com/podcast/105-stuff-you-should-know-26940277/</link>
+    <description>If you've ever wanted to know about champagne, satanism, the Stonewall Uprising, chaos theory, LSD, El Nino, true crime and Rosa Parks, then look no further. Josh and Chuck have you covered.</description>
+    <ns2:type>episodic</ns2:type>
+    <ns2:summary>If you've ever wanted to know about champagne, satanism, the Stonewall Uprising, chaos theory, LSD, El Nino, true crime and Rosa Parks, then look no further. Josh and Chuck have you covered.</ns2:summary>
+    <ns2:owner>
+      <ns2:name>iHeartPodcasts</ns2:name>
+      <ns2:email>iHeartPodcasts@iHeartmedia.com</ns2:email>
+    </ns2:owner>
+    <ns2:author>iHeartPodcasts</ns2:author>
+    <copyright>2026 iHeartMedia, Inc. © Any use of this intellectual property for text and data mining or computational analysis including as training material for artificial intelligence systems is strictly prohibited without express written consent from iHeartMedia</copyright>
+    <ns2:explicit>no</ns2:explicit>
+    <ns2:category text="Society &amp; Culture" />
+    <ns2:image href="https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/image.jpg?t=1749759419&amp;size=Large" />
+    <image>
+      <url>https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/image.jpg?t=1749759419&amp;size=Large</url>
+      <title>Stuff You Should Know</title>
+      <link>https://www.iheart.com/podcast/105-stuff-you-should-know-26940277/</link>
+    </image>
+    <item>
+      <title>The Disappearance of Dorothy Arnold</title>
+      <ns2:title>The Disappearance of Dorothy Arnold</ns2:title>
+      <description>&lt;p&gt;When socialite Dorothy Arnold disappeared in 1910, no one imagined the case would remain forever unsolved. Today we tell her story.&lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</description>
+      <ns3:encoded>&lt;p&gt;When socialite Dorothy Arnold disappeared in 1910, no one imagined the case would remain forever unsolved. Today we tell her story.&lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</ns3:encoded>
+      <ns2:episodeType>full</ns2:episodeType>
+      <ns2:author>iHeartPodcasts</ns2:author>
+      <ns2:image href="https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/image.jpg?t=1749759419&amp;size=Large" />
+      <ns4:content url="https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/bdf36b41-bcb8-4ce8-9e94-b4e301268c65/audio.mp3?utm_source=Podcast&amp;in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e" type="audio/mpeg">
+        <ns4:player url="https://omny.fm/shows/stuff-you-should-know-1/the-disappearance-of-dorothy-arnold/embed?media=Audio" />
+      </ns4:content>
+      <ns4:content url="https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/image.jpg?t=1749759419&amp;size=Large" type="image/jpeg" />
+      <guid isPermaLink="false">bdf36b41-bcb8-4ce8-9e94-b4e301268c65</guid>
+      <ns0:clipId>bdf36b41-bcb8-4ce8-9e94-b4e301268c65</ns0:clipId>
+      <pubDate>Thu, 15 Oct 2026 09:00:00 +0000</pubDate>
+      <ns2:duration>2534</ns2:duration>
+      <enclosure url="https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/bdf36b41-bcb8-4ce8-9e94-b4e301268c65/audio.mp3?utm_source=Podcast&amp;in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e" length="40591041" type="audio/mpeg" />
+      <link>https://omny.fm/shows/stuff-you-should-know-1/the-disappearance-of-dorothy-arnold</link>
+      <ns5:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/bdf36b41-bcb8-4ce8-9e94-b4e301268c65/transcript?format=SubRip&amp;t=1792000583" type="application/srt" language="en" />
+      <ns5:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/bdf36b41-bcb8-4ce8-9e94-b4e301268c65/transcript?format=WebVTT&amp;t=1792000583" type="text/vtt" language="en" />
+      <ns5:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/bdf36b41-bcb8-4ce8-9e94-b4e301268c65/transcript?format=TextWithTimestamps&amp;t=1792000583" type="text/plain" language="en" />
+    </item>
+    <item>
+      <title>Short Stuff: Currency Symbols</title>
+      <ns2:title>Short Stuff: Currency Symbols</ns2:title>
+      <description>&lt;p&gt;In today's shorty, Josh and Chuck go over the stories behind some of the world's currency symbols.&lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</description>
+      <ns3:encoded>&lt;p&gt;In today's shorty, Josh and Chuck go over the stories behind some of the world's currency symbols.&lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</ns3:encoded>
+      <ns2:episodeType>full</ns2:episodeType>
+      <ns2:author>iHeartPodcasts</ns2:author>
+      <ns2:image href="https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/65aec1de-d4db-465a-851d-b4e20124b771/image.jpg?t=1791913614&amp;size=Large" />
+      <ns4:content url="https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/65aec1de-d4db-465a-851d-b4e20124b771/audio.mp3?utm_source=Podcast&amp;in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e" type="audio/mpeg">
+        <ns4:player url="https://omny.fm/shows/stuff-you-should-know-1/short-stuff-currency-symbols/embed?media=Audio" />
+      </ns4:content>
+      <ns4:content url="https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/65aec1de-d4db-465a-851d-b4e20124b771/image.jpg?t=1791913614&amp;size=Large" type="image/jpeg" />
+      <guid isPermaLink="false">65aec1de-d4db-465a-851d-b4e20124b771</guid>
+      <ns0:clipId>65aec1de-d4db-465a-851d-b4e20124b771</ns0:clipId>
+      <pubDate>Wed, 14 Oct 2026 09:00:00 +0000</pubDate>
+      <ns2:duration>785</ns2:duration>
+      <enclosure url="https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/65aec1de-d4db-465a-851d-b4e20124b771/audio.mp3?utm_source=Podcast&amp;in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e" length="12588946" type="audio/mpeg" />
+      <link>https://omny.fm/shows/stuff-you-should-know-1/short-stuff-currency-symbols</link>
+      <ns5:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/65aec1de-d4db-465a-851d-b4e20124b771/transcript?format=SubRip&amp;t=1791913652" type="application/srt" language="en" />
+      <ns5:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/65aec1de-d4db-465a-851d-b4e20124b771/transcript?format=WebVTT&amp;t=1791913652" type="text/vtt" language="en" />
+      <ns5:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/65aec1de-d4db-465a-851d-b4e20124b771/transcript?format=TextWithTimestamps&amp;t=1791913652" type="text/plain" language="en" />
+    </item>
+    <item>
+      <title>Asteroooooid De-FENSE!</title>
+      <ns2:title>Asteroooooid De-FENSE!</ns2:title>
+      <description>&lt;p&gt;There&amp;rsquo;s no question that millions of asteroids are circling the Earth at incredible speed and every one of them is just dying to get a chance to smoosh our planet and wipe out life in the universe once and for all. But Earth has an ace up its sleeve: Us!&lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</description>
+      <ns3:encoded>&lt;p&gt;There&amp;rsquo;s no question that millions of asteroids are circling the Earth at incredible speed and every one of them is just dying to get a chance to smoosh our planet and wipe out life in the universe once and for all. But Earth has an ace up its sleeve: Us!&lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</ns3:encoded>
+      <ns2:episodeType>full</ns2:episodeType>
+      <ns2:author>iHeartPodcasts</ns2:author>
+      <ns2:image href="https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/image.jpg?t=1749759419&amp;size=Large" />
+      <ns4:content url="https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/2fa6d973-0ab9-4879-984c-b4db013027cd/audio.mp3?utm_source=Podcast&amp;in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e" type="audio/mpeg">
+        <ns4:player url="https://omny.fm/shows/stuff-you-should-know-1/asteroooooid-de-fense/embed?media=Audio" />
+      </ns4:content>
+      <ns4:content url="https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/image.jpg?t=1749759419&amp;size=Large" type="image/jpeg" />
+      <guid isPermaLink="false">2fa6d973-0ab9-4879-984c-b4db013027cd</guid>
+      <ns0:clipId>2fa6d973-0ab9-4879-984c-b4db013027cd</ns0:clipId>
+      <pubDate>Tue, 13 Oct 2026 09:00:00 +0000</pubDate>
+      <ns2:duration>2494</ns2:duration>
+      <enclosure url="https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/2fa6d973-0ab9-4879-984c-b4db013027cd/audio.mp3?utm_source=Podcast&amp;in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e" length="39938456" type="audio/mpeg" />
+      <link>https://omny.fm/shows/stuff-you-should-know-1/asteroooooid-de-fense</link>
+      <ns5:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/2fa6d973-0ab9-4879-984c-b4db013027cd/transcript?format=SubRip&amp;t=1791893042" type="application/srt" language="en" />
+      <ns5:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/2fa6d973-0ab9-4879-984c-b4db013027cd/transcript?format=WebVTT&amp;t=1791893042" type="text/vtt" language="en" />
+      <ns5:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/2fa6d973-0ab9-4879-984c-b4db013027cd/transcript?format=TextWithTimestamps&amp;t=1791893042" type="text/plain" language="en" />
+    </item>
+    <item>
+      <title>Selects: What's the deal with swing states?</title>
+      <ns2:title>Selects: What's the deal with swing states?</ns2:title>
+      <description>&lt;p&gt;Swing states are all the rage once again this election season, but the makeup has changed a bit. In this classic episode, learn all about what makes a swing state a swing state right now.&lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</description>
+      <ns3:encoded>&lt;p&gt;Swing states are all the rage once again this election season, but the makeup has changed a bit. In this classic episode, learn all about what makes a swing state a swing state right now.&lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</ns3:encoded>
+      <ns2:episodeType>full</ns2:episodeType>
+      <ns2:author>iHeartPodcasts</ns2:author>
+      <ns2:image href="https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/image.jpg?t=1749759419&amp;size=Large" />
+      <ns4:content url="https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/b5d62a33-4f18-41e1-9997-b4dd00d9c300/audio.mp3?utm_source=Podcast&amp;in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e" type="audio/mpeg">
+        <ns4:player url="https://omny.fm/shows/stuff-you-should-know-1/selects-whats-the-deal-with-swing-states/embed?media=Audio" />
+      </ns4:content>
+      <ns4:content url="https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/image.jpg?t=1749759419&amp;size=Large" type="image/jpeg" />
+      <guid isPermaLink="false">b5d62a33-4f18-41e1-9997-b4dd00d9c300</guid>
+      <ns0:clipId>b5d62a33-4f18-41e1-9997-b4dd00d9c300</ns0:clipId>
+      <pubDate>Sat, 10 Oct 2026 09:00:00 +0000</pubDate>
+      <ns2:duration>2865</ns2:duration>
+      <enclosure url="https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/b5d62a33-4f18-41e1-9997-b4dd00d9c300/audio.mp3?utm_source=Podcast&amp;in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e" length="45875725" type="audio/mpeg" />
+      <link>https://omny.fm/shows/stuff-you-should-know-1/selects-whats-the-deal-with-swing-states</link>
+      <ns5:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/b5d62a33-4f18-41e1-9997-b4dd00d9c300/transcript?format=SubRip&amp;t=1791465960" type="application/srt" language="en" />
+      <ns5:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/b5d62a33-4f18-41e1-9997-b4dd00d9c300/transcript?format=WebVTT&amp;t=1791465960" type="text/vtt" language="en" />
+      <ns5:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/b5d62a33-4f18-41e1-9997-b4dd00d9c300/transcript?format=TextWithTimestamps&amp;t=1791465960" type="text/plain" language="en" />
+    </item>
+    <item>
+      <title>Stand-Up Pt II</title>
+      <ns2:title>Stand-Up Pt II</ns2:title>
+      <description>&lt;p&gt;The SYSK boys continue the episode on stand-up comedy in part two, placing it in the rarefied company of other two-parters like Evel Knievel, the Hoover Dam, and the Trail of Tears. In this ep: should anything be off limits for stand-up? Consensus: no.&lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</description>
+      <ns3:encoded>&lt;p&gt;The SYSK boys continue the episode on stand-up comedy in part two, placing it in the rarefied company of other two-parters like Evel Knievel, the Hoover Dam, and the Trail of Tears. In this ep: should anything be off limits for stand-up? Consensus: no.&lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</ns3:encoded>
+      <ns2:episodeType>full</ns2:episodeType>
+      <ns2:author>iHeartPodcasts</ns2:author>
+      <ns2:image href="https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/image.jpg?t=1749759419&amp;size=Large" />
+      <ns4:content url="https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/165c6213-d25c-418d-89f3-b4d601257f1e/audio.mp3?utm_source=Podcast&amp;in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e" type="audio/mpeg">
+        <ns4:player url="https://omny.fm/shows/stuff-you-should-know-1/stand-up-pt-ii/embed?media=Audio" />
+      </ns4:content>
+      <ns4:content url="https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/image.jpg?t=1749759419&amp;size=Large" type="image/jpeg" />
+      <guid isPermaLink="false">165c6213-d25c-418d-89f3-b4d601257f1e</guid>
+      <ns0:clipId>165c6213-d25c-418d-89f3-b4d601257f1e</ns0:clipId>
+      <pubDate>Thu, 08 Oct 2026 09:00:00 +0000</pubDate>
+      <ns2:duration>2904</ns2:duration>
+      <enclosure url="https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/165c6213-d25c-418d-89f3-b4d601257f1e/audio.mp3?utm_source=Podcast&amp;in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e" length="46499709" type="audio/mpeg" />
+      <link>https://omny.fm/shows/stuff-you-should-know-1/stand-up-pt-ii</link>
+      <ns5:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/165c6213-d25c-418d-89f3-b4d601257f1e/transcript?format=SubRip&amp;t=1790877175" type="application/srt" language="en" />
+      <ns5:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/165c6213-d25c-418d-89f3-b4d601257f1e/transcript?format=WebVTT&amp;t=1790877175" type="text/vtt" language="en" />
+      <ns5:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/165c6213-d25c-418d-89f3-b4d601257f1e/transcript?format=TextWithTimestamps&amp;t=1790877175" type="text/plain" language="en" />
+    </item>
+    <item>
+      <title>Short Stuff: The Style Cycle</title>
+      <ns2:title>Short Stuff: The Style Cycle</ns2:title>
+      <description>&lt;p&gt;Why do clothing styles get stale and then come back into fashion? Listen in to find out.&lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</description>
+      <ns3:encoded>&lt;p&gt;Why do clothing styles get stale and then come back into fashion? Listen in to find out.&lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</ns3:encoded>
+      <ns2:episodeType>full</ns2:episodeType>
+      <ns2:author>iHeartPodcasts</ns2:author>
+      <ns2:image href="https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/551d1c25-8c6b-40c8-8a0a-b4db011ecd2e/image.jpg?t=1791307537&amp;size=Large" />
+      <ns4:content url="https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/551d1c25-8c6b-40c8-8a0a-b4db011ecd2e/audio.mp3?utm_source=Podcast&amp;in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e" type="audio/mpeg">
+        <ns4:player url="https://omny.fm/shows/stuff-you-should-know-1/short-stuff-the-style-cycle/embed?media=Audio" />
+      </ns4:content>
+      <ns4:content url="https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/551d1c25-8c6b-40c8-8a0a-b4db011ecd2e/image.jpg?t=1791307537&amp;size=Large" type="image/jpeg" />
+      <guid isPermaLink="false">551d1c25-8c6b-40c8-8a0a-b4db011ecd2e</guid>
+      <ns0:clipId>551d1c25-8c6b-40c8-8a0a-b4db011ecd2e</ns0:clipId>
+      <pubDate>Wed, 07 Oct 2026 09:00:00 +0000</pubDate>
+      <ns2:duration>802</ns2:duration>
+      <enclosure url="https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/551d1c25-8c6b-40c8-8a0a-b4db011ecd2e/audio.mp3?utm_source=Podcast&amp;in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e" length="12861873" type="audio/mpeg" />
+      <link>https://omny.fm/shows/stuff-you-should-know-1/short-stuff-the-style-cycle</link>
+      <ns5:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/551d1c25-8c6b-40c8-8a0a-b4db011ecd2e/transcript?format=SubRip&amp;t=1791307603" type="application/srt" language="en" />
+      <ns5:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/551d1c25-8c6b-40c8-8a0a-b4db011ecd2e/transcript?format=WebVTT&amp;t=1791307603" type="text/vtt" language="en" />
+      <ns5:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/551d1c25-8c6b-40c8-8a0a-b4db011ecd2e/transcript?format=TextWithTimestamps&amp;t=1791307603" type="text/plain" language="en" />
+    </item>
+    <item>
+      <title>Stand-Up Comedy Pt I</title>
+      <ns2:title>Stand-Up Comedy Pt I</ns2:title>
+      <description>&lt;p&gt;Chuck and Josh do their best to tackle &amp;ldquo;the craft,&amp;rdquo; which most normal people call stand-up comedy. Stand-up dates back to the vaudeville days but it really started to take off in the 60s when comics stopped wearing suits and started getting edgy.&lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</description>
+      <ns3:encoded>&lt;p&gt;Chuck and Josh do their best to tackle &amp;ldquo;the craft,&amp;rdquo; which most normal people call stand-up comedy. Stand-up dates back to the vaudeville days but it really started to take off in the 60s when comics stopped wearing suits and started getting edgy.&lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</ns3:encoded>
+      <ns2:episodeType>full</ns2:episodeType>
+      <ns2:author>iHeartPodcasts</ns2:author>
+      <ns2:image href="https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/image.jpg?t=1749759419&amp;size=Large" />
+      <ns4:content url="https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/6badb8c6-5351-4a96-924b-b4d60123f7fe/audio.mp3?utm_source=Podcast&amp;in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e" type="audio/mpeg">
+        <ns4:player url="https://omny.fm/shows/stuff-you-should-know-1/stand-up-comedy-pt-i/embed?media=Audio" />
+      </ns4:content>
+      <ns4:content url="https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/image.jpg?t=1749759419&amp;size=Large" type="image/jpeg" />
+      <guid isPermaLink="false">6badb8c6-5351-4a96-924b-b4d60123f7fe</guid>
+      <ns0:clipId>6badb8c6-5351-4a96-924b-b4d60123f7fe</ns0:clipId>
+      <pubDate>Tue, 06 Oct 2026 09:00:00 +0000</pubDate>
+      <ns2:duration>2718</ns2:duration>
+      <enclosure url="https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/6badb8c6-5351-4a96-924b-b4d60123f7fe/audio.mp3?utm_source=Podcast&amp;in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e" length="43534294" type="audio/mpeg" />
+      <link>https://omny.fm/shows/stuff-you-should-know-1/stand-up-comedy-pt-i</link>
+      <ns5:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/6badb8c6-5351-4a96-924b-b4d60123f7fe/transcript?format=SubRip&amp;t=1790877147" type="application/srt" language="en" />
+      <ns5:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/6badb8c6-5351-4a96-924b-b4d60123f7fe/transcript?format=WebVTT&amp;t=1790877147" type="text/vtt" language="en" />
+      <ns5:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/6badb8c6-5351-4a96-924b-b4d60123f7fe/transcript?format=TextWithTimestamps&amp;t=1790877147" type="text/plain" language="en" />
+    </item>
+    <item>
+      <title>Selects: How Bras Work</title>
+      <ns2:title>Selects: How Bras Work</ns2:title>
+      <description>&lt;p&gt;Bras are loved and hated, sometimes at the same time. But as difficult and restrictive as they can be, they rescued women from a much cruel contraption: corsets. The question remains, though, do women need bras at all? Listen to this classic episode to find out.&lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</description>
+      <ns3:encoded>&lt;p&gt;Bras are loved and hated, sometimes at the same time. But as difficult and restrictive as they can be, they rescued women from a much cruel contraption: corsets. The question remains, though, do women need bras at all? Listen to this classic episode to find out.&lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</ns3:encoded>
+      <ns2:episodeType>full</ns2:episodeType>
+      <ns2:author>iHeartPodcasts</ns2:author>
+      <ns2:image href="https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/image.jpg?t=1749759419&amp;size=Large" />
+      <ns4:content url="https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/f582c445-37a0-4e9d-b7dd-b4d600e4b4c3/audio.mp3?utm_source=Podcast&amp;in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e" type="audio/mpeg">
+        <ns4:player url="https://omny.fm/shows/stuff-you-should-know-1/selects-how-bras-work/embed?media=Audio" />
+      </ns4:content>
+      <ns4:content url="https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/image.jpg?t=1749759419&amp;size=Large" type="image/jpeg" />
+      <guid isPermaLink="false">f582c445-37a0-4e9d-b7dd-b4d600e4b4c3</guid>
+      <ns0:clipId>f582c445-37a0-4e9d-b7dd-b4d600e4b4c3</ns0:clipId>
+      <pubDate>Sat, 03 Oct 2026 09:00:00 +0000</pubDate>
+      <ns2:duration>3186</ns2:duration>
+      <enclosure url="https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/f582c445-37a0-4e9d-b7dd-b4d600e4b4c3/audio.mp3?utm_source=Podcast&amp;in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e" length="51022871" type="audio/mpeg" />
+      <link>https://omny.fm/shows/stuff-you-should-know-1/selects-how-bras-work</link>
+      <ns5:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/f582c445-37a0-4e9d-b7dd-b4d600e4b4c3/transcript?format=SubRip&amp;t=1790863024" type="application/srt" language="en" />
+      <ns5:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/f582c445-37a0-4e9d-b7dd-b4d600e4b4c3/transcript?format=WebVTT&amp;t=1790863024" type="text/vtt" language="en" />
+      <ns5:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/f582c445-37a0-4e9d-b7dd-b4d600e4b4c3/transcript?format=TextWithTimestamps&amp;t=1790863024" type="text/plain" language="en" />
+    </item>
+    <item>
+      <title>Let's Thank Universal Pictures for Monster Movies!</title>
+      <ns2:title>Let's Thank Universal Pictures for Monster Movies!</ns2:title>
+      <description>&lt;p&gt;Basically everything you think of when you think of vampires, mummies, werewolves, and Frankenstein all come from a spate of films made in the 1930s, and every one of them by Universal Pictures. Amazingly, they are still among the best films ever made.&lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</description>
+      <ns3:encoded>&lt;p&gt;Basically everything you think of when you think of vampires, mummies, werewolves, and Frankenstein all come from a spate of films made in the 1930s, and every one of them by Universal Pictures. Amazingly, they are still among the best films ever made.&lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</ns3:encoded>
+      <ns2:episodeType>full</ns2:episodeType>
+      <ns2:author>iHeartPodcasts</ns2:author>
+      <ns2:image href="https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/image.jpg?t=1749759419&amp;size=Large" />
+      <ns4:content url="https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/3d494b3c-945d-46fd-aa4c-b4d300ee7cda/audio.mp3?utm_source=Podcast&amp;in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e" type="audio/mpeg">
+        <ns4:player url="https://omny.fm/shows/stuff-you-should-know-1/lets-thank-universal-pictures-for-monster-movies/embed?media=Audio" />
+      </ns4:content>
+      <ns4:content url="https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/image.jpg?t=1749759419&amp;size=Large" type="image/jpeg" />
+      <guid isPermaLink="false">3d494b3c-945d-46fd-aa4c-b4d300ee7cda</guid>
+      <ns0:clipId>3d494b3c-945d-46fd-aa4c-b4d300ee7cda</ns0:clipId>
+      <pubDate>Thu, 01 Oct 2026 09:00:00 +0000</pubDate>
+      <ns2:duration>2625</ns2:duration>
+      <enclosure url="https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/3d494b3c-945d-46fd-aa4c-b4d300ee7cda/audio.mp3?utm_source=Podcast&amp;in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e" length="42045835" type="audio/mpeg" />
+      <link>https://omny.fm/shows/stuff-you-should-know-1/lets-thank-universal-pictures-for-monster-movies</link>
+      <ns5:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/3d494b3c-945d-46fd-aa4c-b4d300ee7cda/transcript?format=SubRip&amp;t=1790606158" type="application/srt" language="en" />
+      <ns5:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/3d494b3c-945d-46fd-aa4c-b4d300ee7cda/transcript?format=WebVTT&amp;t=1790606158" type="text/vtt" language="en" />
+      <ns5:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/3d494b3c-945d-46fd-aa4c-b4d300ee7cda/transcript?format=TextWithTimestamps&amp;t=1790606158" type="text/plain" language="en" />
+    </item>
+    <item>
+      <title>Short Stuff: The Retirement Curse</title>
+      <ns2:title>Short Stuff: The Retirement Curse</ns2:title>
+      <description>&lt;p&gt;Is retirement bad for your health? Well it certainly can be if you don't take steps to prevent it. Listen in to learn more about the "retirement curse."&lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</description>
+      <ns3:encoded>&lt;p&gt;Is retirement bad for your health? Well it certainly can be if you don't take steps to prevent it. Listen in to learn more about the "retirement curse."&lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</ns3:encoded>
+      <ns2:episodeType>full</ns2:episodeType>
+      <ns2:author>iHeartPodcasts</ns2:author>
+      <ns2:image href="https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/980bf20b-77bd-4045-aed2-b4d401844195/image.jpg?t=1790724885&amp;size=Large" />
+      <ns4:content url="https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/980bf20b-77bd-4045-aed2-b4d401844195/audio.mp3?utm_source=Podcast&amp;in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e" type="audio/mpeg">
+        <ns4:player url="https://omny.fm/shows/stuff-you-should-know-1/short-stuff-the-retirement-curse/embed?media=Audio" />
+      </ns4:content>
+      <ns4:content url="https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/980bf20b-77bd-4045-aed2-b4d401844195/image.jpg?t=1790724885&amp;size=Large" type="image/jpeg" />
+      <guid isPermaLink="false">980bf20b-77bd-4045-aed2-b4d401844195</guid>
+      <ns0:clipId>980bf20b-77bd-4045-aed2-b4d401844195</ns0:clipId>
+      <pubDate>Wed, 30 Sep 2026 09:00:00 +0000</pubDate>
+      <ns2:duration>745</ns2:duration>
+      <enclosure url="https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/980bf20b-77bd-4045-aed2-b4d401844195/audio.mp3?utm_source=Podcast&amp;in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e" length="11954906" type="audio/mpeg" />
+      <link>https://omny.fm/shows/stuff-you-should-know-1/short-stuff-the-retirement-curse</link>
+      <ns5:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/980bf20b-77bd-4045-aed2-b4d401844195/transcript?format=SubRip&amp;t=1790725075" type="application/srt" language="en" />
+      <ns5:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/980bf20b-77bd-4045-aed2-b4d401844195/transcript?format=WebVTT&amp;t=1790725075" type="text/vtt" language="en" />
+      <ns5:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/980bf20b-77bd-4045-aed2-b4d401844195/transcript?format=TextWithTimestamps&amp;t=1790725075" type="text/plain" language="en" />
+    </item>
+    <item>
+      <title>A Good Walk Ruined: The History of Golf</title>
+      <ns2:title>A Good Walk Ruined: The History of Golf</ns2:title>
+      <description>&lt;p&gt;The history of golf is a bit muddled, but once it was truly born in Scotland, it started the beginning of lifelong obsessions for people dumb enough to pick up a club and give it a try. Learn all about the early history of the most frustrating game ever invented.&lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</description>
+      <ns3:encoded>&lt;p&gt;The history of golf is a bit muddled, but once it was truly born in Scotland, it started the beginning of lifelong obsessions for people dumb enough to pick up a club and give it a try. Learn all about the early history of the most frustrating game ever invented.&lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</ns3:encoded>
+      <ns2:episodeType>full</ns2:episodeType>
+      <ns2:author>iHeartPodcasts</ns2:author>
+      <ns2:image href="https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/image.jpg?t=1749759419&amp;size=Large" />
+      <ns4:content url="https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/3074d075-f3ad-4430-a5db-b4d300ea3d18/audio.mp3?utm_source=Podcast&amp;in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e" type="audio/mpeg">
+        <ns4:player url="https://omny.fm/shows/stuff-you-should-know-1/a-good-walk-ruined-the-history-of-golf/embed?media=Audio" />
+      </ns4:content>
+      <ns4:content url="https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/image.jpg?t=1749759419&amp;size=Large" type="image/jpeg" />
+      <guid isPermaLink="false">3074d075-f3ad-4430-a5db-b4d300ea3d18</guid>
+      <ns0:clipId>3074d075-f3ad-4430-a5db-b4d300ea3d18</ns0:clipId>
+      <pubDate>Tue, 29 Sep 2026 09:00:00 +0000</pubDate>
+      <ns2:duration>3013</ns2:duration>
+      <enclosure url="https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/3074d075-f3ad-4430-a5db-b4d300ea3d18/audio.mp3?utm_source=Podcast&amp;in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e" length="48242623" type="audio/mpeg" />
+      <link>https://omny.fm/shows/stuff-you-should-know-1/a-good-walk-ruined-the-history-of-golf</link>
+      <ns5:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/3074d075-f3ad-4430-a5db-b4d300ea3d18/transcript?format=SubRip&amp;t=1790605257" type="application/srt" language="en" />
+      <ns5:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/3074d075-f3ad-4430-a5db-b4d300ea3d18/transcript?format=WebVTT&amp;t=1790605257" type="text/vtt" language="en" />
+      <ns5:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/3074d075-f3ad-4430-a5db-b4d300ea3d18/transcript?format=TextWithTimestamps&amp;t=1790605257" type="text/plain" language="en" />
+    </item>
+    <item>
+      <title>Selects: Wetlands! Wetlands! Wetlands!</title>
+      <ns2:title>Selects: Wetlands! Wetlands! Wetlands!</ns2:title>
+      <description>&lt;p&gt;It&amp;rsquo;s time to get jazzed up for some Earth science of the waterlogged variety. Join Chuck and Josh in this classic episode as they tour some of the most interesting ecosystems on the planet and learn why we need to stop destroying them post haste.&lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</description>
+      <ns3:encoded>&lt;p&gt;It&amp;rsquo;s time to get jazzed up for some Earth science of the waterlogged variety. Join Chuck and Josh in this classic episode as they tour some of the most interesting ecosystems on the planet and learn why we need to stop destroying them post haste.&lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</ns3:encoded>
+      <ns2:episodeType>full</ns2:episodeType>
+      <ns2:author>iHeartPodcasts</ns2:author>
+      <ns2:image href="https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/image.jpg?t=1749759419&amp;size=Large" />
+      <ns4:content url="https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/4857d997-83f5-48ae-a725-b4ce01405add/audio.mp3?utm_source=Podcast&amp;in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e" type="audio/mpeg">
+        <ns4:player url="https://omny.fm/shows/stuff-you-should-know-1/selects-wetlands-wetlands-wetlands/embed?media=Audio" />
+      </ns4:content>
+      <ns4:content url="https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/image.jpg?t=1749759419&amp;size=Large" type="image/jpeg" />
+      <guid isPermaLink="false">4857d997-83f5-48ae-a725-b4ce01405add</guid>
+      <ns0:clipId>4857d997-83f5-48ae-a725-b4ce01405add</ns0:clipId>
+      <pubDate>Sat, 26 Sep 2026 09:00:00 +0000</pubDate>
+      <ns2:duration>2780</ns2:duration>
+      <enclosure url="https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/4857d997-83f5-48ae-a725-b4ce01405add/audio.mp3?utm_source=Podcast&amp;in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e" length="44527801" type="audio/mpeg" />
+      <link>https://omny.fm/shows/stuff-you-should-know-1/selects-wetlands-wetlands-wetlands</link>
+      <ns5:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/4857d997-83f5-48ae-a725-b4ce01405add/transcript?format=SubRip&amp;t=1790191955" type="application/srt" language="en" />
+      <ns5:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/4857d997-83f5-48ae-a725-b4ce01405add/transcript?format=WebVTT&amp;t=1790191955" type="text/vtt" language="en" />
+      <ns5:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/4857d997-83f5-48ae-a725-b4ce01405add/transcript?format=TextWithTimestamps&amp;t=1790191955" type="text/plain" language="en" />
+    </item>
+    <item>
+      <title>Introducing 3 Putt Bogey</title>
+      <ns2:title>Introducing 3 Putt Bogey</ns2:title>
+      <description>&lt;p&gt;3 Putt Bogey is a golf podcast hosted by Chuck Bryant and Adam Pranica, two mid handicappers who are just good enough to know exactly how bad they still are. The name says it all: one great shot, followed immediately by the kind of self-inflicted disaster only a mid-handicap golfer can produce. That's the whole sport, really, and this show lives in that gap.&lt;/p&gt; &lt;p&gt;&lt;br&gt;Every week, Chuck and Adam break down their most recent rounds, dig through the bag, and try to actually get better &amp;mdash; which is harder than it sounds when social media serves up an endless, contradictory firehose of tips, drills, and gear you're told you absolutely need. They'll talk about what's actually working, what's total crap, and what happened when they tried it on the course anyway.&lt;/p&gt; &lt;p&gt;&lt;br&gt;Expect gear talk, course recaps, golf movies and video games, rules debates, questionable gambling picks, and a healthy amount of self-inflicted misery, all in service of two guys trying to shave a few strokes off their game and laugh about it along the way.&lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</description>
+      <ns3:encoded>&lt;p&gt;3 Putt Bogey is a golf podcast hosted by Chuck Bryant and Adam Pranica, two mid handicappers who are just good enough to know exactly how bad they still are. The name says it all: one great shot, followed immediately by the kind of self-inflicted disaster only a mid-handicap golfer can produce. That's the whole sport, really, and this show lives in that gap.&lt;/p&gt; &lt;p&gt;&lt;br&gt;Every week, Chuck and Adam break down their most recent rounds, dig through the bag, and try to actually get better &amp;mdash; which is harder than it sounds when social media serves up an endless, contradictory firehose of tips, drills, and gear you're told you absolutely need. They'll talk about what's actually working, what's total crap, and what happened when they tried it on the course anyway.&lt;/p&gt; &lt;p&gt;&lt;br&gt;Expect gear talk, course recaps, golf movies and video games, rules debates, questionable gambling picks, and a healthy amount of self-inflicted misery, all in service of two guys trying to shave a few strokes off their game and laugh about it along the way.&lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</ns3:encoded>
+      <ns2:episodeType>trailer</ns2:episodeType>
+      <ns2:author>iHeartPodcasts</ns2:author>
+      <ns2:image href="https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/1abdca83-ddaa-43de-abdc-b4d10021cd41/image.jpg?t=1790388316&amp;size=Large" />
+      <ns4:content url="https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/1abdca83-ddaa-43de-abdc-b4d10021cd41/audio.mp3?utm_source=Podcast&amp;in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e" type="audio/mpeg">
+        <ns4:player url="https://omny.fm/shows/stuff-you-should-know-1/introducing-3-putt-bogey/embed?media=Audio" />
+      </ns4:content>
+      <ns4:content url="https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/1abdca83-ddaa-43de-abdc-b4d10021cd41/image.jpg?t=1790388316&amp;size=Large" type="image/jpeg" />
+      <guid isPermaLink="false">1abdca83-ddaa-43de-abdc-b4d10021cd41</guid>
+      <ns0:clipId>1abdca83-ddaa-43de-abdc-b4d10021cd41</ns0:clipId>
+      <pubDate>Sat, 26 Sep 2026 02:05:27 +0000</pubDate>
+      <ns2:duration>142</ns2:duration>
+      <enclosure url="https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/1abdca83-ddaa-43de-abdc-b4d10021cd41/audio.mp3?utm_source=Podcast&amp;in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e" length="2322549" type="audio/mpeg" />
+      <link>https://omny.fm/shows/stuff-you-should-know-1/introducing-3-putt-bogey</link>
+      <ns5:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/1abdca83-ddaa-43de-abdc-b4d10021cd41/transcript?format=SubRip&amp;t=1790388232" type="application/srt" language="en" />
+      <ns5:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/1abdca83-ddaa-43de-abdc-b4d10021cd41/transcript?format=WebVTT&amp;t=1790388232" type="text/vtt" language="en" />
+      <ns5:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/1abdca83-ddaa-43de-abdc-b4d10021cd41/transcript?format=TextWithTimestamps&amp;t=1790388232" type="text/plain" language="en" />
+    </item>
+    <item>
+      <title>Emily Post: Ettiquette Queen</title>
+      <ns2:title>Emily Post: Ettiquette Queen</ns2:title>
+      <description>&lt;p&gt;In today's episode, we detail the life and times of ettiquette queen Emily Post.&lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</description>
+      <ns3:encoded>&lt;p&gt;In today's episode, we detail the life and times of ettiquette queen Emily Post.&lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</ns3:encoded>
+      <ns2:episodeType>full</ns2:episodeType>
+      <ns2:author>iHeartPodcasts</ns2:author>
+      <ns2:image href="https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/image.jpg?t=1749759419&amp;size=Large" />
+      <ns4:content url="https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/9c65a2b6-5710-4ffe-863a-b4cc01219456/audio.mp3?utm_source=Podcast&amp;in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e" type="audio/mpeg">
+        <ns4:player url="https://omny.fm/shows/stuff-you-should-know-1/emily-post-ettiquette-queen/embed?media=Audio" />
+      </ns4:content>
+      <ns4:content url="https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/image.jpg?t=1749759419&amp;size=Large" type="image/jpeg" />
+      <guid isPermaLink="false">9c65a2b6-5710-4ffe-863a-b4cc01219456</guid>
+      <ns0:clipId>9c65a2b6-5710-4ffe-863a-b4cc01219456</ns0:clipId>
+      <pubDate>Thu, 24 Sep 2026 09:00:00 +0000</pubDate>
+      <ns2:duration>2497</ns2:duration>
+      <enclosure url="https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/9c65a2b6-5710-4ffe-863a-b4cc01219456/audio.mp3?utm_source=Podcast&amp;in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e" length="39991262" type="audio/mpeg" />
+      <link>https://omny.fm/shows/stuff-you-should-know-1/emily-post-ettiquette-queen</link>
+      <ns5:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/9c65a2b6-5710-4ffe-863a-b4cc01219456/transcript?format=SubRip&amp;t=1790012347" type="application/srt" language="en" />
+      <ns5:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/9c65a2b6-5710-4ffe-863a-b4cc01219456/transcript?format=WebVTT&amp;t=1790012347" type="text/vtt" language="en" />
+      <ns5:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/9c65a2b6-5710-4ffe-863a-b4cc01219456/transcript?format=TextWithTimestamps&amp;t=1790012347" type="text/plain" language="en" />
+    </item>
+    <item>
+      <title>Short Stuff: Mabon</title>
+      <ns2:title>Short Stuff: Mabon</ns2:title>
+      <description>&lt;p&gt;Mabon is often called the Pagan Thanksgiving &amp;nbsp;but though it seems like it&amp;rsquo;s as ancient as Halloween, it&amp;rsquo;s actually only around 50 years old. But, pagan or not, it&amp;rsquo;s a great chance to really feel the fall and thank Mother Earth.&lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</description>
+      <ns3:encoded>&lt;p&gt;Mabon is often called the Pagan Thanksgiving &amp;nbsp;but though it seems like it&amp;rsquo;s as ancient as Halloween, it&amp;rsquo;s actually only around 50 years old. But, pagan or not, it&amp;rsquo;s a great chance to really feel the fall and thank Mother Earth.&lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</ns3:encoded>
+      <ns2:episodeType>full</ns2:episodeType>
+      <ns2:author>iHeartPodcasts</ns2:author>
+      <ns2:image href="https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/129204ba-0422-4ccc-8c91-b4cd01501379/image.jpg?t=1790108765&amp;size=Large" />
+      <ns4:content url="https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/129204ba-0422-4ccc-8c91-b4cd01501379/audio.mp3?utm_source=Podcast&amp;in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e" type="audio/mpeg">
+        <ns4:player url="https://omny.fm/shows/stuff-you-should-know-1/short-stuff-mabon/embed?media=Audio" />
+      </ns4:content>
+      <ns4:content url="https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/129204ba-0422-4ccc-8c91-b4cd01501379/image.jpg?t=1790108765&amp;size=Large" type="image/jpeg" />
+      <guid isPermaLink="false">129204ba-0422-4ccc-8c91-b4cd01501379</guid>
+      <ns0:clipId>129204ba-0422-4ccc-8c91-b4cd01501379</ns0:clipId>
+      <pubDate>Wed, 23 Sep 2026 09:00:00 +0000</pubDate>
+      <ns2:duration>705</ns2:duration>
+      <enclosure url="https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/129204ba-0422-4ccc-8c91-b4cd01501379/audio.mp3?utm_source=Podcast&amp;in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e" length="11319341" type="audio/mpeg" />
+      <link>https://omny.fm/shows/stuff-you-should-know-1/short-stuff-mabon</link>
+      <ns6:chapters>
+        <ns6:chapter start="00:00:00" title="Short Stuff: Mabon" />
+        <ns6:chapter start="00:06:24" title="ad break" />
+      </ns6:chapters>
+      <ns5:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/129204ba-0422-4ccc-8c91-b4cd01501379/transcript?format=SubRip&amp;t=1790108971" type="application/srt" language="en" />
+      <ns5:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/129204ba-0422-4ccc-8c91-b4cd01501379/transcript?format=WebVTT&amp;t=1790108971" type="text/vtt" language="en" />
+      <ns5:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/129204ba-0422-4ccc-8c91-b4cd01501379/transcript?format=TextWithTimestamps&amp;t=1790108971" type="text/plain" language="en" />
+    </item>
+    <item>
+      <title>Our Big Fat Dream Episode</title>
+      <ns2:title>Our Big Fat Dream Episode</ns2:title>
+      <description>&lt;p&gt;No you&amp;rsquo;re no dreaming &amp;ndash; go ahead, pinch yourself &amp;ndash; we&amp;rsquo;ve finally made an episode on dreams! We&amp;rsquo;ve done episodes on lucid dreaming, night terrors, sleepwalking, sleep paralysis &amp;ndash; basically everything but dreams themselves. Well, at long last here it is!&lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</description>
+      <ns3:encoded>&lt;p&gt;No you&amp;rsquo;re no dreaming &amp;ndash; go ahead, pinch yourself &amp;ndash; we&amp;rsquo;ve finally made an episode on dreams! We&amp;rsquo;ve done episodes on lucid dreaming, night terrors, sleepwalking, sleep paralysis &amp;ndash; basically everything but dreams themselves. Well, at long last here it is!&lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</ns3:encoded>
+      <ns2:episodeType>full</ns2:episodeType>
+      <ns2:author>iHeartPodcasts</ns2:author>
+      <ns2:image href="https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/image.jpg?t=1749759419&amp;size=Large" />
+      <ns4:content url="https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/36c5b3c7-10ea-4e3d-a762-b4cc011ba2f6/audio.mp3?utm_source=Podcast&amp;in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e" type="audio/mpeg">
+        <ns4:player url="https://omny.fm/shows/stuff-you-should-know-1/our-big-fat-dream-episode/embed?media=Audio" />
+      </ns4:content>
+      <ns4:content url="https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/image.jpg?t=1749759419&amp;size=Large" type="image/jpeg" />
+      <guid isPermaLink="false">36c5b3c7-10ea-4e3d-a762-b4cc011ba2f6</guid>
+      <ns0:clipId>36c5b3c7-10ea-4e3d-a762-b4cc011ba2f6</ns0:clipId>
+      <pubDate>Tue, 22 Sep 2026 09:00:00 +0000</pubDate>
+      <ns2:duration>2942</ns2:duration>
+      <enclosure url="https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/36c5b3c7-10ea-4e3d-a762-b4cc011ba2f6/audio.mp3?utm_source=Podcast&amp;in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e" length="47109942" type="audio/mpeg" />
+      <link>https://omny.fm/shows/stuff-you-should-know-1/our-big-fat-dream-episode</link>
+      <ns5:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/36c5b3c7-10ea-4e3d-a762-b4cc011ba2f6/transcript?format=SubRip&amp;t=1790102178" type="application/srt" language="en" />
+      <ns5:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/36c5b3c7-10ea-4e3d-a762-b4cc011ba2f6/transcript?format=WebVTT&amp;t=1790102178" type="text/vtt" language="en" />
+      <ns5:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/36c5b3c7-10ea-4e3d-a762-b4cc011ba2f6/transcript?format=TextWithTimestamps&amp;t=1790102178" type="text/plain" language="en" />
+    </item>
+    <item>
+      <title>Selects: Fallout Shelters: Probably Useless (Let’s Never Find Out)</title>
+      <ns2:title>Selects: Fallout Shelters: Probably Useless (Let’s Never Find Out)</ns2:title>
+      <description>&lt;p&gt;The advent of nuclear weapons and the Cold War kicked off a craze in the US for building rec rooms with foot-thick reinforced walls and outfitted with survival rations and board games. Would they work? Probably not. Find out (but not really) in this classic episode.&lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</description>
+      <ns3:encoded>&lt;p&gt;The advent of nuclear weapons and the Cold War kicked off a craze in the US for building rec rooms with foot-thick reinforced walls and outfitted with survival rations and board games. Would they work? Probably not. Find out (but not really) in this classic episode.&lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</ns3:encoded>
+      <ns2:episodeType>full</ns2:episodeType>
+      <ns2:author>iHeartPodcasts</ns2:author>
+      <ns2:image href="https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/image.jpg?t=1749759419&amp;size=Large" />
+      <ns4:content url="https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/01a42f07-7277-43f5-91f1-b4c8012fd1c7/audio.mp3?utm_source=Podcast&amp;in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e" type="audio/mpeg">
+        <ns4:player url="https://omny.fm/shows/stuff-you-should-know-1/selects-fallout-shelters-probably-useless-let-s-never-find-out/embed?media=Audio" />
+      </ns4:content>
+      <ns4:content url="https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/image.jpg?t=1749759419&amp;size=Large" type="image/jpeg" />
+      <guid isPermaLink="false">01a42f07-7277-43f5-91f1-b4c8012fd1c7</guid>
+      <ns0:clipId>01a42f07-7277-43f5-91f1-b4c8012fd1c7</ns0:clipId>
+      <pubDate>Sat, 19 Sep 2026 09:00:00 +0000</pubDate>
+      <ns2:duration>2870</ns2:duration>
+      <enclosure url="https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/01a42f07-7277-43f5-91f1-b4c8012fd1c7/audio.mp3?utm_source=Podcast&amp;in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e" length="45957252" type="audio/mpeg" />
+      <link>https://omny.fm/shows/stuff-you-should-know-1/selects-fallout-shelters-probably-useless-let-s-never-find-out</link>
+      <ns5:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/01a42f07-7277-43f5-91f1-b4c8012fd1c7/transcript?format=SubRip&amp;t=1789669877" type="application/srt" language="en" />
+      <ns5:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/01a42f07-7277-43f5-91f1-b4c8012fd1c7/transcript?format=WebVTT&amp;t=1789669877" type="text/vtt" language="en" />
+      <ns5:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/01a42f07-7277-43f5-91f1-b4c8012fd1c7/transcript?format=TextWithTimestamps&amp;t=1789669877" type="text/plain" language="en" />
+    </item>
+    <item>
+      <title>SYSK Gets Weird Playlist: What is Collective Hysteria?</title>
+      <ns2:title>SYSK Gets Weird Playlist: What is Collective Hysteria?</ns2:title>
+      <description>&lt;p&gt;Throughout the history of the world, there have been many cases of what is known as collective hysteria - groups of people, usually young women, who all exhibit the same physical symptoms of non-existent conditions. Is it psychosomatic? Is it group think?&lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</description>
+      <ns3:encoded>&lt;p&gt;Throughout the history of the world, there have been many cases of what is known as collective hysteria - groups of people, usually young women, who all exhibit the same physical symptoms of non-existent conditions. Is it psychosomatic? Is it group think?&lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</ns3:encoded>
+      <ns2:episodeType>full</ns2:episodeType>
+      <ns2:author>iHeartPodcasts</ns2:author>
+      <ns2:image href="https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/d1b0b5cd-6fde-4d2a-bc2d-b4c8014ce349/image.jpg?t=1789679785&amp;size=Large" />
+      <ns4:content url="https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/d1b0b5cd-6fde-4d2a-bc2d-b4c8014ce349/audio.mp3?utm_source=Podcast&amp;in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e" type="audio/mpeg">
+        <ns4:player url="https://omny.fm/shows/stuff-you-should-know-1/sysk-gets-weird-playlist-what-is-collective-hysteria/embed?media=Audio" />
+      </ns4:content>
+      <ns4:content url="https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/d1b0b5cd-6fde-4d2a-bc2d-b4c8014ce349/image.jpg?t=1789679785&amp;size=Large" type="image/jpeg" />
+      <guid isPermaLink="false">d1b0b5cd-6fde-4d2a-bc2d-b4c8014ce349</guid>
+      <ns0:clipId>d1b0b5cd-6fde-4d2a-bc2d-b4c8014ce349</ns0:clipId>
+      <pubDate>Fri, 18 Sep 2026 09:10:00 +0000</pubDate>
+      <ns2:duration>2524</ns2:duration>
+      <enclosure url="https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/d1b0b5cd-6fde-4d2a-bc2d-b4c8014ce349/audio.mp3?utm_source=Podcast&amp;in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e" length="40433945" type="audio/mpeg" />
+      <link>https://omny.fm/shows/stuff-you-should-know-1/sysk-gets-weird-playlist-what-is-collective-hysteria</link>
+      <ns5:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/d1b0b5cd-6fde-4d2a-bc2d-b4c8014ce349/transcript?format=SubRip&amp;t=1789676749" type="application/srt" language="en" />
+      <ns5:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/d1b0b5cd-6fde-4d2a-bc2d-b4c8014ce349/transcript?format=WebVTT&amp;t=1789676749" type="text/vtt" language="en" />
+      <ns5:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/d1b0b5cd-6fde-4d2a-bc2d-b4c8014ce349/transcript?format=TextWithTimestamps&amp;t=1789676749" type="text/plain" language="en" />
+    </item>
+    <item>
+      <title>SYSK Gets Weird Playlist: What was the Philadelphia Experiment?</title>
+      <ns2:title>SYSK Gets Weird Playlist: What was the Philadelphia Experiment?</ns2:title>
+      <description>&lt;p&gt;The Philadelphia Experiment is a bad movie from the 1980s, and also the conspiracy theory that refuses to die, despite virtually zero evidence of its occurrence. Learn all about this strange non-event in today's show.&lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</description>
+      <ns3:encoded>&lt;p&gt;The Philadelphia Experiment is a bad movie from the 1980s, and also the conspiracy theory that refuses to die, despite virtually zero evidence of its occurrence. Learn all about this strange non-event in today's show.&lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</ns3:encoded>
+      <ns2:episodeType>full</ns2:episodeType>
+      <ns2:author>iHeartPodcasts</ns2:author>
+      <ns2:image href="https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/c736e655-1b03-4f28-932a-b4c8014ce349/image.jpg?t=1789679857&amp;size=Large" />
+      <ns4:content url="https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/c736e655-1b03-4f28-932a-b4c8014ce349/audio.mp3?utm_source=Podcast&amp;in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e" type="audio/mpeg">
+        <ns4:player url="https://omny.fm/shows/stuff-you-should-know-1/sysk-gets-weird-playlist-what-was-the-philadelphia-experiment/embed?media=Audio" />
+      </ns4:content>
+      <ns4:content url="https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/c736e655-1b03-4f28-932a-b4c8014ce349/image.jpg?t=1789679857&amp;size=Large" type="image/jpeg" />
+      <guid isPermaLink="false">c736e655-1b03-4f28-932a-b4c8014ce349</guid>
+      <ns0:clipId>c736e655-1b03-4f28-932a-b4c8014ce349</ns0:clipId>
+      <pubDate>Fri, 18 Sep 2026 09:09:00 +0000</pubDate>
+      <ns2:duration>2897</ns2:duration>
+      <enclosure url="https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/c736e655-1b03-4f28-932a-b4c8014ce349/audio.mp3?utm_source=Podcast&amp;in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e" length="46412443" type="audio/mpeg" />
+      <link>https://omny.fm/shows/stuff-you-should-know-1/sysk-gets-weird-playlist-what-was-the-philadelphia-experiment</link>
+      <ns5:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/c736e655-1b03-4f28-932a-b4c8014ce349/transcript?format=SubRip&amp;t=1789676755" type="application/srt" language="en" />
+      <ns5:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/c736e655-1b03-4f28-932a-b4c8014ce349/transcript?format=WebVTT&amp;t=1789676755" type="text/vtt" language="en" />
+      <ns5:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/c736e655-1b03-4f28-932a-b4c8014ce349/transcript?format=TextWithTimestamps&amp;t=1789676755" type="text/plain" language="en" />
+    </item>
+    <item>
+      <title>SYSK Gets Weird Playlist: Mermaids: Not a real thing</title>
+      <ns2:title>SYSK Gets Weird Playlist: Mermaids: Not a real thing</ns2:title>
+      <description>&lt;p&gt;Mermaids aren't real. That much we know. But the history and lore of these magical and sometimes menacing creatures of the sea is pretty interesting stuff. Learn all about these half women/half fish today.&lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</description>
+      <ns3:encoded>&lt;p&gt;Mermaids aren't real. That much we know. But the history and lore of these magical and sometimes menacing creatures of the sea is pretty interesting stuff. Learn all about these half women/half fish today.&lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</ns3:encoded>
+      <ns2:episodeType>full</ns2:episodeType>
+      <ns2:author>iHeartPodcasts</ns2:author>
+      <ns2:image href="https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/bea82e4f-32e5-4668-a2ea-b4c8014ce34f/image.jpg?t=1789679675&amp;size=Large" />
+      <ns4:content url="https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/bea82e4f-32e5-4668-a2ea-b4c8014ce34f/audio.mp3?utm_source=Podcast&amp;in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e" type="audio/mpeg">
+        <ns4:player url="https://omny.fm/shows/stuff-you-should-know-1/sysk-gets-weird-playlist-mermaids-not-a-real-thing/embed?media=Audio" />
+      </ns4:content>
+      <ns4:content url="https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/bea82e4f-32e5-4668-a2ea-b4c8014ce34f/image.jpg?t=1789679675&amp;size=Large" type="image/jpeg" />
+      <guid isPermaLink="false">bea82e4f-32e5-4668-a2ea-b4c8014ce34f</guid>
+      <ns0:clipId>bea82e4f-32e5-4668-a2ea-b4c8014ce34f</ns0:clipId>
+      <pubDate>Fri, 18 Sep 2026 09:07:00 +0000</pubDate>
+      <ns2:duration>2468</ns2:duration>
+      <enclosure url="https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/bea82e4f-32e5-4668-a2ea-b4c8014ce34f/audio.mp3?utm_source=Podcast&amp;in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e" length="39550796" type="audio/mpeg" />
+      <link>https://omny.fm/shows/stuff-you-should-know-1/sysk-gets-weird-playlist-mermaids-not-a-real-thing</link>
+      <ns5:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/bea82e4f-32e5-4668-a2ea-b4c8014ce34f/transcript?format=SubRip&amp;t=1789676733" type="application/srt" language="en" />
+      <ns5:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/bea82e4f-32e5-4668-a2ea-b4c8014ce34f/transcript?format=WebVTT&amp;t=1789676733" type="text/vtt" language="en" />
+      <ns5:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/bea82e4f-32e5-4668-a2ea-b4c8014ce34f/transcript?format=TextWithTimestamps&amp;t=1789676733" type="text/plain" language="en" />
+    </item>
+    </channel>
+</rss>

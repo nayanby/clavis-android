@@ -1,0 +1,1 @@
+<resources><style name="ClavisScreenMotion"><item name="android:activityOpenEnterAnimation">@anim/screen_fade_in</item><item name="android:activityOpenExitAnimation">@anim/screen_fade_out</item><item name="android:activityCloseEnterAnimation">@anim/screen_fade_in</item><item name="android:activityCloseExitAnimation">@anim/screen_fade_out</item></style></resources>

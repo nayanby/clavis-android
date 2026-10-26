@@ -1,0 +1,2209 @@
+{
+  "snapshot": "2026-10-26",
+  "ebookRanking": "Gutenberg downloads, previous 30 days",
+  "audioRankingSource": "https://archive.org/details/librivoxaudio?sort=-downloads",
+  "audioRanking": "Internet Archive LibriVox downloads, English",
+  "ebookRankingSource": "https://www.gutenberg.org/browse/scores/top.html#books-last30",
+  "items": [
+    {
+      "title": "Pride and Prejudice",
+      "evidence": "https://www.gutenberg.org/cache/epub/1342/pg1342.rdf",
+      "rank": 1,
+      "countries": [
+        "US"
+      ],
+      "bytes": 0,
+      "source": "https://www.gutenberg.org/ebooks/1342",
+      "author": "Austen, Jane",
+      "rightsUrl": "https://www.gutenberg.org/policy/license",
+      "kind": "EPUB",
+      "id": "pg-1342",
+      "rights": "Public domain in the USA.",
+      "download": "https://www.gutenberg.org/ebooks/1342.epub3.images"
+    },
+    {
+      "title": "Frankenstein; or, The modern Prometheus",
+      "evidence": "https://www.gutenberg.org/cache/epub/84/pg84.rdf",
+      "rank": 2,
+      "countries": [
+        "US"
+      ],
+      "bytes": 0,
+      "source": "https://www.gutenberg.org/ebooks/84",
+      "author": "Shelley, Mary Wollstonecraft",
+      "rightsUrl": "https://www.gutenberg.org/policy/license",
+      "kind": "EPUB",
+      "id": "pg-84",
+      "rights": "Public domain in the USA.",
+      "download": "https://www.gutenberg.org/ebooks/84.epub3.images"
+    },
+    {
+      "title": "Moby Dick; Or, The Whale",
+      "evidence": "https://www.gutenberg.org/cache/epub/2701/pg2701.rdf",
+      "rank": 3,
+      "countries": [
+        "US"
+      ],
+      "bytes": 0,
+      "source": "https://www.gutenberg.org/ebooks/2701",
+      "author": "Melville, Herman",
+      "rightsUrl": "https://www.gutenberg.org/policy/license",
+      "kind": "EPUB",
+      "id": "pg-2701",
+      "rights": "Public domain in the USA.",
+      "download": "https://www.gutenberg.org/ebooks/2701.epub3.images"
+    },
+    {
+      "title": "Alice's Adventures in Wonderland",
+      "evidence": "https://www.gutenberg.org/cache/epub/11/pg11.rdf",
+      "rank": 4,
+      "countries": [
+        "US"
+      ],
+      "bytes": 0,
+      "source": "https://www.gutenberg.org/ebooks/11",
+      "author": "Carroll, Lewis",
+      "rightsUrl": "https://www.gutenberg.org/policy/license",
+      "kind": "EPUB",
+      "id": "pg-11",
+      "rights": "Public domain in the USA.",
+      "download": "https://www.gutenberg.org/ebooks/11.epub3.images"
+    },
+    {
+      "title": "The Adventures of Sherlock Holmes",
+      "evidence": "https://www.gutenberg.org/cache/epub/1661/pg1661.rdf",
+      "rank": 5,
+      "countries": [
+        "US"
+      ],
+      "bytes": 0,
+      "source": "https://www.gutenberg.org/ebooks/1661",
+      "author": "Doyle, Arthur Conan",
+      "rightsUrl": "https://www.gutenberg.org/policy/license",
+      "kind": "EPUB",
+      "id": "pg-1661",
+      "rights": "Public domain in the USA.",
+      "download": "https://www.gutenberg.org/ebooks/1661.epub3.images"
+    },
+    {
+      "title": "Chambers's Twentieth Century Dictionary (part 1 of 4: A-D)",
+      "evidence": "https://www.gutenberg.org/cache/epub/37683/pg37683.rdf",
+      "rank": 6,
+      "countries": [
+        "US"
+      ],
+      "bytes": 0,
+      "source": "https://www.gutenberg.org/ebooks/37683",
+      "author": "",
+      "rightsUrl": "https://www.gutenberg.org/policy/license",
+      "kind": "EPUB",
+      "id": "pg-37683",
+      "rights": "Public domain in the USA.",
+      "download": "https://www.gutenberg.org/ebooks/37683.epub3.images"
+    },
+    {
+      "title": "Dracula",
+      "evidence": "https://www.gutenberg.org/cache/epub/345/pg345.rdf",
+      "rank": 7,
+      "countries": [
+        "US"
+      ],
+      "bytes": 0,
+      "source": "https://www.gutenberg.org/ebooks/345",
+      "author": "Stoker, Bram",
+      "rightsUrl": "https://www.gutenberg.org/policy/license",
+      "kind": "EPUB",
+      "id": "pg-345",
+      "rights": "Public domain in the USA.",
+      "download": "https://www.gutenberg.org/ebooks/345.epub3.images"
+    },
+    {
+      "title": "The Complete Works of William Shakespeare",
+      "evidence": "https://www.gutenberg.org/cache/epub/100/pg100.rdf",
+      "rank": 8,
+      "countries": [
+        "US"
+      ],
+      "bytes": 0,
+      "source": "https://www.gutenberg.org/ebooks/100",
+      "author": "Shakespeare, William",
+      "rightsUrl": "https://www.gutenberg.org/policy/license",
+      "kind": "EPUB",
+      "id": "pg-100",
+      "rights": "Public domain in the USA.",
+      "download": "https://www.gutenberg.org/ebooks/100.epub3.images"
+    },
+    {
+      "title": "Romeo and Juliet",
+      "evidence": "https://www.gutenberg.org/cache/epub/1513/pg1513.rdf",
+      "rank": 9,
+      "countries": [
+        "US"
+      ],
+      "bytes": 0,
+      "source": "https://www.gutenberg.org/ebooks/1513",
+      "author": "Shakespeare, William",
+      "rightsUrl": "https://www.gutenberg.org/policy/license",
+      "kind": "EPUB",
+      "id": "pg-1513",
+      "rights": "Public domain in the USA.",
+      "download": "https://www.gutenberg.org/ebooks/1513.epub3.images"
+    },
+    {
+      "title": "Middlemarch",
+      "evidence": "https://www.gutenberg.org/cache/epub/145/pg145.rdf",
+      "rank": 10,
+      "countries": [
+        "US"
+      ],
+      "bytes": 0,
+      "source": "https://www.gutenberg.org/ebooks/145",
+      "author": "Eliot, George",
+      "rightsUrl": "https://www.gutenberg.org/policy/license",
+      "kind": "EPUB",
+      "id": "pg-145",
+      "rights": "Public domain in the USA.",
+      "download": "https://www.gutenberg.org/ebooks/145.epub3.images"
+    },
+    {
+      "title": "A Tale of Two Cities",
+      "evidence": "https://www.gutenberg.org/cache/epub/98/pg98.rdf",
+      "rank": 11,
+      "countries": [
+        "US"
+      ],
+      "bytes": 0,
+      "source": "https://www.gutenberg.org/ebooks/98",
+      "author": "Dickens, Charles",
+      "rightsUrl": "https://www.gutenberg.org/policy/license",
+      "kind": "EPUB",
+      "id": "pg-98",
+      "rights": "Public domain in the USA.",
+      "download": "https://www.gutenberg.org/ebooks/98.epub3.images"
+    },
+    {
+      "title": "The strange case of Dr. Jekyll and Mr. Hyde",
+      "evidence": "https://www.gutenberg.org/cache/epub/43/pg43.rdf",
+      "rank": 12,
+      "countries": [
+        "US"
+      ],
+      "bytes": 0,
+      "source": "https://www.gutenberg.org/ebooks/43",
+      "author": "Stevenson, Robert Louis",
+      "rightsUrl": "https://www.gutenberg.org/policy/license",
+      "kind": "EPUB",
+      "id": "pg-43",
+      "rights": "Public domain in the USA.",
+      "download": "https://www.gutenberg.org/ebooks/43.epub3.images"
+    },
+    {
+      "title": "The Picture of Dorian Gray",
+      "evidence": "https://www.gutenberg.org/cache/epub/174/pg174.rdf",
+      "rank": 13,
+      "countries": [
+        "US"
+      ],
+      "bytes": 0,
+      "source": "https://www.gutenberg.org/ebooks/174",
+      "author": "Wilde, Oscar",
+      "rightsUrl": "https://www.gutenberg.org/policy/license",
+      "kind": "EPUB",
+      "id": "pg-174",
+      "rights": "Public domain in the USA.",
+      "download": "https://www.gutenberg.org/ebooks/174.epub3.images"
+    },
+    {
+      "title": "Jane Eyre: An Autobiography",
+      "evidence": "https://www.gutenberg.org/cache/epub/1260/pg1260.rdf",
+      "rank": 14,
+      "countries": [
+        "US"
+      ],
+      "bytes": 0,
+      "source": "https://www.gutenberg.org/ebooks/1260",
+      "author": "Brontë, Charlotte",
+      "rightsUrl": "https://www.gutenberg.org/policy/license",
+      "kind": "EPUB",
+      "id": "pg-1260",
+      "rights": "Public domain in the USA.",
+      "download": "https://www.gutenberg.org/ebooks/1260.epub3.images"
+    },
+    {
+      "title": "Crime and Punishment",
+      "evidence": "https://www.gutenberg.org/cache/epub/2554/pg2554.rdf",
+      "rank": 15,
+      "countries": [
+        "US"
+      ],
+      "bytes": 0,
+      "source": "https://www.gutenberg.org/ebooks/2554",
+      "author": "Dostoyevsky, Fyodor",
+      "rightsUrl": "https://www.gutenberg.org/policy/license",
+      "kind": "EPUB",
+      "id": "pg-2554",
+      "rights": "Public domain in the USA.",
+      "download": "https://www.gutenberg.org/ebooks/2554.epub3.images"
+    },
+    {
+      "title": "The Great Gatsby",
+      "evidence": "https://www.gutenberg.org/cache/epub/64317/pg64317.rdf",
+      "rank": 16,
+      "countries": [
+        "US"
+      ],
+      "bytes": 0,
+      "source": "https://www.gutenberg.org/ebooks/64317",
+      "author": "Fitzgerald, F. Scott (Francis Scott)",
+      "rightsUrl": "https://www.gutenberg.org/policy/license",
+      "kind": "EPUB",
+      "id": "pg-64317",
+      "rights": "Public domain in the USA.",
+      "download": "https://www.gutenberg.org/ebooks/64317.epub3.images"
+    },
+    {
+      "title": "The Works of William Shakespeare [Cambridge Edition] [Vol. 5 of 9]",
+      "evidence": "https://www.gutenberg.org/cache/epub/49297/pg49297.rdf",
+      "rank": 17,
+      "countries": [
+        "US"
+      ],
+      "bytes": 0,
+      "source": "https://www.gutenberg.org/ebooks/49297",
+      "author": "Shakespeare, William",
+      "rightsUrl": "https://www.gutenberg.org/policy/license",
+      "kind": "EPUB",
+      "id": "pg-49297",
+      "rights": "Public domain in the USA.",
+      "download": "https://www.gutenberg.org/ebooks/49297.epub3.images"
+    },
+    {
+      "title": "A Room with a View",
+      "evidence": "https://www.gutenberg.org/cache/epub/2641/pg2641.rdf",
+      "rank": 18,
+      "countries": [
+        "US"
+      ],
+      "bytes": 0,
+      "source": "https://www.gutenberg.org/ebooks/2641",
+      "author": "Forster, E. M. (Edward Morgan)",
+      "rightsUrl": "https://www.gutenberg.org/policy/license",
+      "kind": "EPUB",
+      "id": "pg-2641",
+      "rights": "Public domain in the USA.",
+      "download": "https://www.gutenberg.org/ebooks/2641.epub3.images"
+    },
+    {
+      "title": "The Prince",
+      "evidence": "https://www.gutenberg.org/cache/epub/1232/pg1232.rdf",
+      "rank": 19,
+      "countries": [
+        "US"
+      ],
+      "bytes": 0,
+      "source": "https://www.gutenberg.org/ebooks/1232",
+      "author": "Machiavelli, Niccolò",
+      "rightsUrl": "https://www.gutenberg.org/policy/license",
+      "kind": "EPUB",
+      "id": "pg-1232",
+      "rights": "Public domain in the USA.",
+      "download": "https://www.gutenberg.org/ebooks/1232.epub3.images"
+    },
+    {
+      "title": "The Count of Monte Cristo",
+      "evidence": "https://www.gutenberg.org/cache/epub/1184/pg1184.rdf",
+      "rank": 20,
+      "countries": [
+        "US"
+      ],
+      "bytes": 0,
+      "source": "https://www.gutenberg.org/ebooks/1184",
+      "author": "Dumas, Alexandre; Maquet, Auguste",
+      "rightsUrl": "https://www.gutenberg.org/policy/license",
+      "kind": "EPUB",
+      "id": "pg-1184",
+      "rights": "Public domain in the USA.",
+      "download": "https://www.gutenberg.org/ebooks/1184.epub3.images"
+    },
+    {
+      "title": "Meditations",
+      "evidence": "https://www.gutenberg.org/cache/epub/2680/pg2680.rdf",
+      "rank": 21,
+      "countries": [
+        "US"
+      ],
+      "bytes": 0,
+      "source": "https://www.gutenberg.org/ebooks/2680",
+      "author": "Marcus Aurelius, Emperor of Rome",
+      "rightsUrl": "https://www.gutenberg.org/policy/license",
+      "kind": "EPUB",
+      "id": "pg-2680",
+      "rights": "Public domain in the USA.",
+      "download": "https://www.gutenberg.org/ebooks/2680.epub3.images"
+    },
+    {
+      "title": "Little Women; Or, Meg, Jo, Beth, and Amy",
+      "evidence": "https://www.gutenberg.org/cache/epub/37106/pg37106.rdf",
+      "rank": 22,
+      "countries": [
+        "US"
+      ],
+      "bytes": 0,
+      "source": "https://www.gutenberg.org/ebooks/37106",
+      "author": "Alcott, Louisa May",
+      "rightsUrl": "https://www.gutenberg.org/policy/license",
+      "kind": "EPUB",
+      "id": "pg-37106",
+      "rights": "Public domain in the USA.",
+      "download": "https://www.gutenberg.org/ebooks/37106.epub3.images"
+    },
+    {
+      "title": "Metamorphosis",
+      "evidence": "https://www.gutenberg.org/cache/epub/5200/pg5200.rdf",
+      "rank": 23,
+      "countries": [
+        "US"
+      ],
+      "bytes": 0,
+      "source": "https://www.gutenberg.org/ebooks/5200",
+      "author": "Kafka, Franz",
+      "rightsUrl": "https://www.gutenberg.org/policy/license",
+      "kind": "EPUB",
+      "id": "pg-5200",
+      "rights": "Copyrighted. Read the copyright notice inside this book for details.",
+      "download": "https://www.gutenberg.org/ebooks/5200.epub3.images"
+    },
+    {
+      "title": "The Yellow Wallpaper",
+      "evidence": "https://www.gutenberg.org/cache/epub/1952/pg1952.rdf",
+      "rank": 24,
+      "countries": [
+        "US"
+      ],
+      "bytes": 0,
+      "source": "https://www.gutenberg.org/ebooks/1952",
+      "author": "Gilman, Charlotte Perkins",
+      "rightsUrl": "https://www.gutenberg.org/policy/license",
+      "kind": "EPUB",
+      "id": "pg-1952",
+      "rights": "Public domain in the USA.",
+      "download": "https://www.gutenberg.org/ebooks/1952.epub3.images"
+    },
+    {
+      "title": "Great Expectations",
+      "evidence": "https://www.gutenberg.org/cache/epub/1400/pg1400.rdf",
+      "rank": 25,
+      "countries": [
+        "US"
+      ],
+      "bytes": 0,
+      "source": "https://www.gutenberg.org/ebooks/1400",
+      "author": "Dickens, Charles",
+      "rightsUrl": "https://www.gutenberg.org/policy/license",
+      "kind": "EPUB",
+      "id": "pg-1400",
+      "rights": "Public domain in the USA.",
+      "download": "https://www.gutenberg.org/ebooks/1400.epub3.images"
+    },
+    {
+      "kind": "Audio",
+      "downloads": 24462746,
+      "title": "The Art of War",
+      "bytes": 34706755,
+      "source": "https://librivox.org/the-art-of-war-by-sun-tzu/",
+      "rank": 1,
+      "id": "lv-art_of_war_librivox",
+      "rightsUrl": "https://librivox.org/pages/public-domain/",
+      "evidence": "https://archive.org/metadata/art_of_war_librivox",
+      "recordingLicense": "http://creativecommons.org/licenses/publicdomain/",
+      "download": "https://archive.org/download/art_of_war_librivox/art_of_war_librivox_64kb_mp3.zip",
+      "countries": [
+        "US"
+      ],
+      "rights": "LibriVox recording; source text and recording public domain in the United States",
+      "author": "Sun Tzu"
+    },
+    {
+      "kind": "Audio",
+      "downloads": 24118450,
+      "title": "Alice's Adventures in Wonderland, by Lewis Carroll",
+      "bytes": 85864874,
+      "source": "https://librivox.org/alices-adventures-in-wonderland-by-lewis-carroll/",
+      "rank": 2,
+      "id": "lv-alice_in_wonderland_librivox",
+      "rightsUrl": "https://librivox.org/pages/public-domain/",
+      "evidence": "https://archive.org/metadata/alice_in_wonderland_librivox",
+      "recordingLicense": "",
+      "download": "https://archive.org/download/alice_in_wonderland_librivox/alice_in_wonderland_librivox_64kb_mp3.zip",
+      "countries": [
+        "US"
+      ],
+      "rights": "LibriVox recording; source text and recording public domain in the United States",
+      "author": "Lewis Carroll"
+    },
+    {
+      "kind": "Audio",
+      "downloads": 18386751,
+      "title": "The Adventures of Tom Sawyer",
+      "bytes": 195068223,
+      "source": "https://librivox.org/tom-sawyer-by-mark-twain/",
+      "rank": 3,
+      "id": "lv-tom_sawyer_librivox",
+      "rightsUrl": "https://librivox.org/pages/public-domain/",
+      "evidence": "https://archive.org/metadata/tom_sawyer_librivox",
+      "recordingLicense": "http://creativecommons.org/licenses/publicdomain/",
+      "download": "https://archive.org/download/tom_sawyer_librivox/tom_sawyer_librivox_64kb_mp3.zip",
+      "countries": [
+        "US"
+      ],
+      "rights": "LibriVox recording; source text and recording public domain in the United States",
+      "author": "Mark Twain"
+    },
+    {
+      "kind": "Audio",
+      "downloads": 17670450,
+      "title": "The Adventures of Sherlock Holmes",
+      "bytes": 296685057,
+      "source": "https://librivox.org/the-adventures-of-sherlock-holmes/",
+      "rank": 4,
+      "id": "lv-adventures_holmes",
+      "rightsUrl": "https://librivox.org/pages/public-domain/",
+      "evidence": "https://archive.org/metadata/adventures_holmes",
+      "recordingLicense": "http://creativecommons.org/licenses/publicdomain/",
+      "download": "https://archive.org/download/adventures_holmes/adventures_holmes_64kb_mp3.zip",
+      "countries": [
+        "US"
+      ],
+      "rights": "LibriVox recording; source text and recording public domain in the United States",
+      "author": "Sir Arthur Conan Doyle"
+    },
+    {
+      "kind": "Audio",
+      "downloads": 12523506,
+      "title": "Moby Dick, or the Whale",
+      "bytes": 709549150,
+      "source": "https://librivox.org/moby-dick-by-herman-melville",
+      "rank": 5,
+      "id": "lv-moby_dick_librivox",
+      "rightsUrl": "https://librivox.org/pages/public-domain/",
+      "evidence": "https://archive.org/metadata/moby_dick_librivox",
+      "recordingLicense": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "download": "https://archive.org/download/moby_dick_librivox/moby_dick_librivox_64kb_mp3.zip",
+      "countries": [
+        "US"
+      ],
+      "rights": "LibriVox recording; source text and recording public domain in the United States",
+      "author": "Herman Melville"
+    },
+    {
+      "kind": "Audio",
+      "downloads": 11622048,
+      "title": "Adventures of Huckleberry Finn",
+      "bytes": 308392434,
+      "source": "https://librivox.org/the-adventures-of-huckleberry-finn-by-mark-twain/",
+      "rank": 6,
+      "id": "lv-huck_finn_librivox",
+      "rightsUrl": "https://librivox.org/pages/public-domain/",
+      "evidence": "https://archive.org/metadata/huck_finn_librivox",
+      "recordingLicense": "http://creativecommons.org/licenses/publicdomain/",
+      "download": "https://archive.org/download/huck_finn_librivox/huck_finn_librivox_64kb_mp3.zip",
+      "countries": [
+        "US"
+      ],
+      "rights": "LibriVox recording; source text and recording public domain in the United States",
+      "author": "Mark Twain"
+    },
+    {
+      "kind": "Audio",
+      "downloads": 10307618,
+      "title": "Pride and Prejudice",
+      "bytes": 377786808,
+      "source": "https://librivox.org/pride-and-prejudice-by-jane-austen/",
+      "rank": 7,
+      "id": "lv-pride_and_prejudice_librivox",
+      "rightsUrl": "https://librivox.org/pages/public-domain/",
+      "evidence": "https://archive.org/metadata/pride_and_prejudice_librivox",
+      "recordingLicense": "http://creativecommons.org/licenses/publicdomain/",
+      "download": "https://archive.org/download/pride_and_prejudice_librivox/pride_and_prejudice_librivox_64kb_mp3.zip",
+      "countries": [
+        "US"
+      ],
+      "rights": "LibriVox recording; source text and recording public domain in the United States",
+      "author": "Jane Austen"
+    },
+    {
+      "kind": "Audio",
+      "downloads": 9589237,
+      "title": "Dracula",
+      "bytes": 475868942,
+      "source": "https://librivox.org/dracula-by-bram-stoker/",
+      "rank": 8,
+      "id": "lv-dracula_librivox",
+      "rightsUrl": "https://librivox.org/pages/public-domain/",
+      "evidence": "https://archive.org/metadata/dracula_librivox",
+      "recordingLicense": "http://creativecommons.org/licenses/publicdomain/",
+      "download": "https://archive.org/download/dracula_librivox/dracula_librivox_64kb_mp3.zip",
+      "countries": [
+        "US"
+      ],
+      "rights": "LibriVox recording; source text and recording public domain in the United States",
+      "author": "Bram Stoker"
+    },
+    {
+      "kind": "Audio",
+      "downloads": 8760822,
+      "title": "The Adventures of Sherlock Holmes",
+      "bytes": 323899663,
+      "source": "https://librivox.org/the-adventures-of-sherlock-holmes-by-sir-arthur-conan-doyle-2/",
+      "rank": 9,
+      "id": "lv-adventures_sherlockholmes_1007_librivox",
+      "rightsUrl": "https://librivox.org/pages/public-domain/",
+      "evidence": "https://archive.org/metadata/adventures_sherlockholmes_1007_librivox",
+      "recordingLicense": "http://creativecommons.org/licenses/publicdomain/",
+      "download": "https://archive.org/download/adventures_sherlockholmes_1007_librivox/adventures_sherlockholmes_1007_librivox_64kb_mp3.zip",
+      "countries": [
+        "US"
+      ],
+      "rights": "LibriVox recording; source text and recording public domain in the United States",
+      "author": "Sir Arthur Conan Doyle"
+    },
+    {
+      "kind": "Audio",
+      "downloads": 7935249,
+      "title": "The Count of Monte Cristo",
+      "bytes": 1442244546,
+      "source": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+      "rank": 10,
+      "id": "lv-count_monte_cristo_0711_librivox",
+      "rightsUrl": "https://librivox.org/pages/public-domain/",
+      "evidence": "https://archive.org/metadata/count_monte_cristo_0711_librivox",
+      "recordingLicense": "http://creativecommons.org/licenses/publicdomain/",
+      "download": "https://archive.org/download/count_monte_cristo_0711_librivox/count_monte_cristo_0711_librivox_64kb_mp3.zip",
+      "countries": [
+        "US"
+      ],
+      "rights": "LibriVox recording; source text and recording public domain in the United States",
+      "author": "Alexandre Dumas"
+    },
+    {
+      "kind": "Audio",
+      "downloads": 7370665,
+      "title": "Pride and Prejudice (version 3)",
+      "bytes": 313970176,
+      "source": "https://librivox.org/pride-and-prejudice-by-jane-austen-2/",
+      "rank": 11,
+      "id": "lv-pride_prejudice_krs_librivox",
+      "rightsUrl": "https://librivox.org/pages/public-domain/",
+      "evidence": "https://archive.org/metadata/pride_prejudice_krs_librivox",
+      "recordingLicense": "http://creativecommons.org/licenses/publicdomain/",
+      "download": "https://archive.org/download/pride_prejudice_krs_librivox/pride_prejudice_krs_librivox_64kb_mp3.zip",
+      "countries": [
+        "US"
+      ],
+      "rights": "LibriVox recording; source text and recording public domain in the United States",
+      "author": "Jane Austen"
+    },
+    {
+      "kind": "Audio",
+      "downloads": 6854245,
+      "title": "Peter Pan",
+      "bytes": 146055394,
+      "source": "https://librivox.org/peter-pan-by-j-m-barrie",
+      "rank": 12,
+      "id": "lv-peter_pan_0707_librivox",
+      "rightsUrl": "https://librivox.org/pages/public-domain/",
+      "evidence": "https://archive.org/metadata/peter_pan_0707_librivox",
+      "recordingLicense": "http://creativecommons.org/licenses/publicdomain/",
+      "download": "https://archive.org/download/peter_pan_0707_librivox/peter_pan_0707_librivox_64kb_mp3.zip",
+      "countries": [
+        "US"
+      ],
+      "rights": "LibriVox recording; source text and recording public domain in the United States",
+      "author": "J. M. Barrie"
+    },
+    {
+      "kind": "Audio",
+      "downloads": 6743609,
+      "title": "The Secret Garden",
+      "bytes": 263369555,
+      "source": "https://librivox.org/the-secret-garden-by-frances-hodgson-burnett/",
+      "rank": 13,
+      "id": "lv-secret_garden_librivox",
+      "rightsUrl": "https://librivox.org/pages/public-domain/",
+      "evidence": "https://archive.org/metadata/secret_garden_librivox",
+      "recordingLicense": "http://creativecommons.org/licenses/publicdomain/",
+      "download": "https://archive.org/download/secret_garden_librivox/secret_garden_librivox_64kb_mp3.zip",
+      "countries": [
+        "US"
+      ],
+      "rights": "LibriVox recording; source text and recording public domain in the United States",
+      "author": "Frances Hodgson Burnett"
+    },
+    {
+      "kind": "Audio",
+      "downloads": 6270522,
+      "title": "Pride and Prejudice (version 2)",
+      "bytes": 386450021,
+      "source": "https://librivox.org/pride-and-prejudice-by-jane-austen-solo-project/",
+      "rank": 14,
+      "id": "lv-solo_pride_librivox",
+      "rightsUrl": "https://librivox.org/pages/public-domain/",
+      "evidence": "https://archive.org/metadata/solo_pride_librivox",
+      "recordingLicense": "",
+      "download": "https://archive.org/download/solo_pride_librivox/solo_pride_librivox_64kb_mp3.zip",
+      "countries": [
+        "US"
+      ],
+      "rights": "LibriVox recording; source text and recording public domain in the United States",
+      "author": "Jane Austen"
+    },
+    {
+      "kind": "Audio",
+      "downloads": 6135422,
+      "title": "The Odyssey",
+      "bytes": 340986772,
+      "source": "https://librivox.org/the-odyssey-by-homer/",
+      "rank": 15,
+      "id": "lv-odyssey_butler_librivox",
+      "rightsUrl": "https://librivox.org/pages/public-domain/",
+      "evidence": "https://archive.org/metadata/odyssey_butler_librivox",
+      "recordingLicense": "http://creativecommons.org/licenses/publicdomain/",
+      "download": "https://archive.org/download/odyssey_butler_librivox/odyssey_butler_librivox_64kb_mp3.zip",
+      "countries": [
+        "US"
+      ],
+      "rights": "LibriVox recording; source text and recording public domain in the United States",
+      "author": "Homer"
+    },
+    {
+      "kind": "Audio",
+      "downloads": 5629078,
+      "title": "Grimms' Fairy Tales",
+      "bytes": 303701606,
+      "source": "https://librivox.org/fairy-tales-by-the-brothers-grimm/",
+      "rank": 16,
+      "id": "lv-grimms_english_librivox",
+      "rightsUrl": "https://librivox.org/pages/public-domain/",
+      "evidence": "https://archive.org/metadata/grimms_english_librivox",
+      "recordingLicense": "http://creativecommons.org/licenses/publicdomain/",
+      "download": "https://archive.org/download/grimms_english_librivox/grimms_english_librivox_64kb_mp3.zip",
+      "countries": [
+        "US"
+      ],
+      "rights": "LibriVox recording; source text and recording public domain in the United States",
+      "author": "Jacob and Wilhelm Grimm"
+    },
+    {
+      "kind": "Audio",
+      "downloads": 5534128,
+      "title": "1891 Collection",
+      "bytes": 168632320,
+      "source": "https://librivox.org/1891-collection-by-various/",
+      "rank": 17,
+      "id": "lv-1891_collection_bt_librivox",
+      "rightsUrl": "https://librivox.org/pages/public-domain/",
+      "evidence": "https://archive.org/metadata/1891_collection_bt_librivox",
+      "recordingLicense": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "download": "https://archive.org/download/1891_collection_bt_librivox/1891_collection_bt_librivox_64kb_mp3.zip",
+      "countries": [
+        "US"
+      ],
+      "rights": "LibriVox recording; source text and recording public domain in the United States",
+      "author": "Various"
+    },
+    {
+      "kind": "Audio",
+      "downloads": 5471661,
+      "title": "Pride and Prejudice (version 4)",
+      "bytes": 321587918,
+      "source": "https://librivox.org/pride-and-prejudice-solo-version-3-by-jane-austen/",
+      "rank": 18,
+      "id": "lv-prideandprejudice_1005_librivox",
+      "rightsUrl": "https://librivox.org/pages/public-domain/",
+      "evidence": "https://archive.org/metadata/prideandprejudice_1005_librivox",
+      "recordingLicense": "http://creativecommons.org/licenses/publicdomain/",
+      "download": "https://archive.org/download/prideandprejudice_1005_librivox/prideandprejudice_1005_librivox_64kb_mp3.zip",
+      "countries": [
+        "US"
+      ],
+      "rights": "LibriVox recording; source text and recording public domain in the United States",
+      "author": "Jane Austen"
+    },
+    {
+      "kind": "Audio",
+      "downloads": 5369561,
+      "title": "Alice's Adventures in Wonderland",
+      "bytes": 80375524,
+      "source": "https://librivox.org/alices-adventures-in-wonderland-by-lewis-carroll-4/",
+      "rank": 19,
+      "id": "lv-alices_adventures_1003",
+      "rightsUrl": "https://librivox.org/pages/public-domain/",
+      "evidence": "https://archive.org/metadata/alices_adventures_1003",
+      "recordingLicense": "http://creativecommons.org/licenses/publicdomain/",
+      "download": "https://archive.org/download/alices_adventures_1003/alices_adventures_1003_64kb_mp3.zip",
+      "countries": [
+        "US"
+      ],
+      "rights": "LibriVox recording; source text and recording public domain in the United States",
+      "author": "Lewis Carroll"
+    },
+    {
+      "kind": "Audio",
+      "downloads": 5122775,
+      "title": "Uncle Tom's Cabin",
+      "bytes": 521756054,
+      "source": "https://librivox.org/uncle-toms-cabin-by-harriet-beecher-stowe/",
+      "rank": 20,
+      "id": "lv-uncle_toms_cabin_librivox",
+      "rightsUrl": "https://librivox.org/pages/public-domain/",
+      "evidence": "https://archive.org/metadata/uncle_toms_cabin_librivox",
+      "recordingLicense": "http://creativecommons.org/licenses/publicdomain/",
+      "download": "https://archive.org/download/uncle_toms_cabin_librivox/uncle_toms_cabin_librivox_64kb_mp3.zip",
+      "countries": [
+        "US"
+      ],
+      "rights": "LibriVox recording; source text and recording public domain in the United States",
+      "author": "Harriet Beecher Stowe"
+    },
+    {
+      "kind": "Audio",
+      "downloads": 5087870,
+      "title": "A Tale of Two Cities",
+      "bytes": 432005328,
+      "source": "https://librivox.org/a-tale-of-two-cities-by-charles-dickens/",
+      "rank": 21,
+      "id": "lv-tale_two_cities_librivox",
+      "rightsUrl": "https://librivox.org/pages/public-domain/",
+      "evidence": "https://archive.org/metadata/tale_two_cities_librivox",
+      "recordingLicense": "http://creativecommons.org/licenses/publicdomain/",
+      "download": "https://archive.org/download/tale_two_cities_librivox/tale_two_cities_librivox_64kb_mp3.zip",
+      "countries": [
+        "US"
+      ],
+      "rights": "LibriVox recording; source text and recording public domain in the United States",
+      "author": "Charles Dickens"
+    },
+    {
+      "kind": "Audio",
+      "downloads": 5081535,
+      "title": "The Adventures of Sherlock Holmes (Version 2)",
+      "bytes": 388663296,
+      "source": "https://librivox.org/the-adventures-of-sherlock-holmes-by-sir-arthur-conan-doyle/",
+      "rank": 22,
+      "id": "lv-adventures_sherlock_holmes_rg_librivox",
+      "rightsUrl": "https://librivox.org/pages/public-domain/",
+      "evidence": "https://archive.org/metadata/adventures_sherlock_holmes_rg_librivox",
+      "recordingLicense": "http://creativecommons.org/licenses/publicdomain/",
+      "download": "https://archive.org/download/adventures_sherlock_holmes_rg_librivox/adventures_sherlock_holmes_rg_librivox_64kb_mp3.zip",
+      "countries": [
+        "US"
+      ],
+      "rights": "LibriVox recording; source text and recording public domain in the United States",
+      "author": "Sir Arthur Conan Doyle"
+    },
+    {
+      "kind": "Audio",
+      "downloads": 4958543,
+      "title": "The Adventures of Pinocchio",
+      "bytes": 132430663,
+      "source": "https://librivox.org/adventures-of-pinocchio-by-c-collodi/",
+      "rank": 23,
+      "id": "lv-adventures_pinocchio_librivox",
+      "rightsUrl": "https://librivox.org/pages/public-domain/",
+      "evidence": "https://archive.org/metadata/adventures_pinocchio_librivox",
+      "recordingLicense": "http://creativecommons.org/licenses/publicdomain/",
+      "download": "https://archive.org/download/adventures_pinocchio_librivox/adventures_pinocchio_librivox_64kb_mp3.zip",
+      "countries": [
+        "US"
+      ],
+      "rights": "LibriVox recording; source text and recording public domain in the United States",
+      "author": "C. Collodi"
+    },
+    {
+      "kind": "Audio",
+      "downloads": 4939475,
+      "title": "Treasure Island",
+      "bytes": 219552768,
+      "source": "https://librivox.org/treasure-island-by-robert-louis-stevenson-2",
+      "rank": 24,
+      "id": "lv-treasure_island_ap_librivox",
+      "rightsUrl": "https://librivox.org/pages/public-domain/",
+      "evidence": "https://archive.org/metadata/treasure_island_ap_librivox",
+      "recordingLicense": "http://creativecommons.org/licenses/publicdomain/",
+      "download": "https://archive.org/download/treasure_island_ap_librivox/treasure_island_ap_librivox_64kb_mp3.zip",
+      "countries": [
+        "US"
+      ],
+      "rights": "LibriVox recording; source text and recording public domain in the United States",
+      "author": "Robert Louis Stevenson"
+    },
+    {
+      "kind": "Audio",
+      "downloads": 4895469,
+      "title": "Emma",
+      "bytes": 519853458,
+      "source": "https://librivox.org/emma-by-jane-austen-solo/",
+      "rank": 25,
+      "id": "lv-emma_solo_librivox",
+      "rightsUrl": "https://librivox.org/pages/public-domain/",
+      "evidence": "https://archive.org/metadata/emma_solo_librivox",
+      "recordingLicense": "http://creativecommons.org/licenses/publicdomain/",
+      "download": "https://archive.org/download/emma_solo_librivox/emma_solo_librivox_64kb_mp3.zip",
+      "countries": [
+        "US"
+      ],
+      "rights": "LibriVox recording; source text and recording public domain in the United States",
+      "author": "Jane Austen"
+    },
+    {
+      "kind": "Audio",
+      "downloads": 4837122,
+      "title": "Adventures of Huckleberry Finn (version 02)",
+      "bytes": 336035328,
+      "source": "https://librivox.org/the-adventures-of-huckleberry-finn-by-mark-twain-version-2/",
+      "rank": 26,
+      "id": "lv-huckleberry_mfs_librivox",
+      "rightsUrl": "https://librivox.org/pages/public-domain/",
+      "evidence": "https://archive.org/metadata/huckleberry_mfs_librivox",
+      "recordingLicense": "http://creativecommons.org/licenses/publicdomain/",
+      "download": "https://archive.org/download/huckleberry_mfs_librivox/huckleberry_mfs_librivox_64kb_mp3.zip",
+      "countries": [
+        "US"
+      ],
+      "rights": "LibriVox recording; source text and recording public domain in the United States",
+      "author": "Mark Twain"
+    },
+    {
+      "kind": "Audio",
+      "downloads": 4825921,
+      "title": "The Memoirs of Sherlock Holmes",
+      "bytes": 247037828,
+      "source": "https://librivox.org/the-memoirs-of-sherlock-holmes-by-sir-arthur-conan-doyle/",
+      "rank": 27,
+      "id": "lv-memoirs_holmes_0709_librivox",
+      "rightsUrl": "https://librivox.org/pages/public-domain/",
+      "evidence": "https://archive.org/metadata/memoirs_holmes_0709_librivox",
+      "recordingLicense": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "download": "https://archive.org/download/memoirs_holmes_0709_librivox/memoirs_holmes_0709_librivox_64kb_mp3.zip",
+      "countries": [
+        "US"
+      ],
+      "rights": "LibriVox recording; source text and recording public domain in the United States",
+      "author": "Sir Arthur Conan Doyle"
+    },
+    {
+      "kind": "Audio",
+      "downloads": 4747718,
+      "title": "Aesop's Fables, Volume 1 (Fables 1-25)",
+      "bytes": 22188114,
+      "source": "https://librivox.org/aesops-fables-volume-1-fables-1-25/",
+      "rank": 28,
+      "id": "lv-aesop_fables_volume_one_librivox",
+      "rightsUrl": "https://librivox.org/pages/public-domain/",
+      "evidence": "https://archive.org/metadata/aesop_fables_volume_one_librivox",
+      "recordingLicense": "",
+      "download": "https://archive.org/download/aesop_fables_volume_one_librivox/aesop_fables_volume_one_librivox_64kb_mp3.zip",
+      "countries": [
+        "US"
+      ],
+      "rights": "LibriVox recording; source text and recording public domain in the United States",
+      "author": "Aesop"
+    },
+    {
+      "kind": "Audio",
+      "downloads": 4710153,
+      "title": "Andersen's Fairy Tales (Version 2)",
+      "bytes": 167717888,
+      "source": "https://librivox.org/andersens-fairy-tales-version-2-by-hans-christian-andersen/",
+      "rank": 29,
+      "id": "lv-andersensfairy_1307_librivox",
+      "rightsUrl": "https://librivox.org/pages/public-domain/",
+      "evidence": "https://archive.org/metadata/andersensfairy_1307_librivox",
+      "recordingLicense": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "download": "https://archive.org/download/andersensfairy_1307_librivox/andersensfairy_1307_librivox_64kb_mp3.zip",
+      "countries": [
+        "US"
+      ],
+      "rights": "LibriVox recording; source text and recording public domain in the United States",
+      "author": "Hans Christian Andersen"
+    },
+    {
+      "kind": "Audio",
+      "downloads": 4648589,
+      "title": "Jane Eyre (version 3)",
+      "bytes": 536010902,
+      "source": "https://librivox.org/jane-eyre-version-3-by-charlotte-bronte/",
+      "rank": 30,
+      "id": "lv-jane_eyre_ver03_0809_librivox",
+      "rightsUrl": "https://librivox.org/pages/public-domain/",
+      "evidence": "https://archive.org/metadata/jane_eyre_ver03_0809_librivox",
+      "recordingLicense": "http://creativecommons.org/licenses/publicdomain/",
+      "download": "https://archive.org/download/jane_eyre_ver03_0809_librivox/jane_eyre_ver03_0809_librivox_64kb_mp3.zip",
+      "countries": [
+        "US"
+      ],
+      "rights": "LibriVox recording; source text and recording public domain in the United States",
+      "author": "Charlotte Brontë"
+    },
+    {
+      "kind": "Audio",
+      "downloads": 4341545,
+      "title": "The Swiss Family Robinson",
+      "bytes": 369132637,
+      "source": "https://librivox.org/the-swiss-family-robinson-by-johann-david-wyss/",
+      "rank": 31,
+      "id": "lv-swiss_family_robinson_librivox",
+      "rightsUrl": "https://librivox.org/pages/public-domain/",
+      "evidence": "https://archive.org/metadata/swiss_family_robinson_librivox",
+      "recordingLicense": "http://creativecommons.org/licenses/publicdomain/",
+      "download": "https://archive.org/download/swiss_family_robinson_librivox/swiss_family_robinson_librivox_64kb_mp3.zip",
+      "countries": [
+        "US"
+      ],
+      "rights": "LibriVox recording; source text and recording public domain in the United States",
+      "author": "Johann David Wyss"
+    },
+    {
+      "kind": "Audio",
+      "downloads": 4267662,
+      "title": "Andersen's Fairy Tales",
+      "bytes": 168917423,
+      "source": "https://librivox.org/andersens-fairy-tales-by-hc-andersen/",
+      "rank": 32,
+      "id": "lv-andersens_fairytales_librivox",
+      "rightsUrl": "https://librivox.org/pages/public-domain/",
+      "evidence": "https://archive.org/metadata/andersens_fairytales_librivox",
+      "recordingLicense": "",
+      "download": "https://archive.org/download/andersens_fairytales_librivox/andersens_fairytales_librivox_64kb_mp3.zip",
+      "countries": [
+        "US"
+      ],
+      "rights": "LibriVox recording; source text and recording public domain in the United States",
+      "author": "Hans Christian Andersen"
+    },
+    {
+      "kind": "Audio",
+      "downloads": 4222026,
+      "title": "The Return of Sherlock Holmes",
+      "bytes": 320273982,
+      "source": "https://librivox.org/the-return-of-sherlock-holmes-by-sir-arthur-conan-doyle/",
+      "rank": 33,
+      "id": "lv-return_holmes_0708_librivox",
+      "rightsUrl": "https://librivox.org/pages/public-domain/",
+      "evidence": "https://archive.org/metadata/return_holmes_0708_librivox",
+      "recordingLicense": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "download": "https://archive.org/download/return_holmes_0708_librivox/return_holmes_0708_librivox_64kb_mp3.zip",
+      "countries": [
+        "US"
+      ],
+      "rights": "LibriVox recording; source text and recording public domain in the United States",
+      "author": "Sir Arthur Conan Doyle"
+    },
+    {
+      "kind": "Audio",
+      "downloads": 3979507,
+      "title": "Great Expectations",
+      "bytes": 590105027,
+      "source": "https://librivox.org/great-expectations-by-charles-dickens/",
+      "rank": 34,
+      "id": "lv-great_expectations_mfs_0812_librivox",
+      "rightsUrl": "https://librivox.org/pages/public-domain/",
+      "evidence": "https://archive.org/metadata/great_expectations_mfs_0812_librivox",
+      "recordingLicense": "http://creativecommons.org/licenses/publicdomain/",
+      "download": "https://archive.org/download/great_expectations_mfs_0812_librivox/great_expectations_mfs_0812_librivox_64kb_mp3.zip",
+      "countries": [
+        "US"
+      ],
+      "rights": "LibriVox recording; source text and recording public domain in the United States",
+      "author": "Charles Dickens"
+    },
+    {
+      "kind": "Audio",
+      "downloads": 3972877,
+      "title": "The Life and Strange Surprising Adventures of Robinson Crusoe of York, Mariner",
+      "bytes": 400927994,
+      "source": "https://librivox.org/robinson-crusoe-by-daniel-defoe/",
+      "rank": 35,
+      "id": "lv-robinson_crusoe_librivox",
+      "rightsUrl": "https://librivox.org/pages/public-domain/",
+      "evidence": "https://archive.org/metadata/robinson_crusoe_librivox",
+      "recordingLicense": "http://creativecommons.org/licenses/publicdomain/",
+      "download": "https://archive.org/download/robinson_crusoe_librivox/robinson_crusoe_librivox_64kb_mp3.zip",
+      "countries": [
+        "US"
+      ],
+      "rights": "LibriVox recording; source text and recording public domain in the United States",
+      "author": "Daniel Defoe"
+    },
+    {
+      "kind": "Audio",
+      "downloads": 3871743,
+      "title": "The Game of Life and How to Play It",
+      "bytes": 77388755,
+      "source": "https://librivox.org/the-game-of-life-and-how-to-play-it-by-florence-scovel-shinn/",
+      "rank": 36,
+      "id": "lv-game_of_life_0911_librivox",
+      "rightsUrl": "https://librivox.org/pages/public-domain/",
+      "evidence": "https://archive.org/metadata/game_of_life_0911_librivox",
+      "recordingLicense": "http://creativecommons.org/licenses/publicdomain/",
+      "download": "https://archive.org/download/game_of_life_0911_librivox/game_of_life_0911_librivox_64kb_mp3.zip",
+      "countries": [
+        "US"
+      ],
+      "rights": "LibriVox recording; source text and recording public domain in the United States",
+      "author": "Florence Scovel Shinn"
+    },
+    {
+      "kind": "Audio",
+      "downloads": 3819709,
+      "title": "Bleak House",
+      "bytes": 1253238593,
+      "source": "https://librivox.org/bleak-house-by-charles-dickens/",
+      "rank": 37,
+      "id": "lv-bleak_house_cl_librivox",
+      "rightsUrl": "https://librivox.org/pages/public-domain/",
+      "evidence": "https://archive.org/metadata/bleak_house_cl_librivox",
+      "recordingLicense": "http://creativecommons.org/licenses/publicdomain/",
+      "download": "https://archive.org/download/bleak_house_cl_librivox/bleak_house_cl_librivox_64kb_mp3.zip",
+      "countries": [
+        "US"
+      ],
+      "rights": "LibriVox recording; source text and recording public domain in the United States",
+      "author": "Charles Dickens"
+    },
+    {
+      "kind": "Audio",
+      "downloads": 3794030,
+      "title": "Anthem",
+      "bytes": 63367969,
+      "source": "https://librivox.org/anthem-by-ayn-rand/",
+      "rank": 38,
+      "id": "lv-anthem_librivox",
+      "rightsUrl": "https://librivox.org/pages/public-domain/",
+      "evidence": "https://archive.org/metadata/anthem_librivox",
+      "recordingLicense": "http://creativecommons.org/licenses/publicdomain/",
+      "download": "https://archive.org/download/anthem_librivox/anthem_librivox_64kb_mp3.zip",
+      "countries": [
+        "US"
+      ],
+      "rights": "LibriVox recording; source text and recording public domain in the United States",
+      "author": "Ayn Rand"
+    },
+    {
+      "kind": "Audio",
+      "downloads": 3683137,
+      "title": "Anne of Green Gables (version 3)",
+      "bytes": 248623315,
+      "source": "https://librivox.org/anne-of-avonlea-by-lucy-maud-montgomery-2/",
+      "rank": 39,
+      "id": "lv-anne_greengables_librivox",
+      "rightsUrl": "https://librivox.org/pages/public-domain/",
+      "evidence": "https://archive.org/metadata/anne_greengables_librivox",
+      "recordingLicense": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "download": "https://archive.org/download/anne_greengables_librivox/anne_greengables_librivox_64kb_mp3.zip",
+      "countries": [
+        "US"
+      ],
+      "rights": "LibriVox recording; source text and recording public domain in the United States",
+      "author": "Lucy Maud Montgomery"
+    },
+    {
+      "kind": "Audio",
+      "downloads": 3671218,
+      "title": "Romeo and Juliet",
+      "bytes": 87394063,
+      "source": "https://librivox.org/romeo-and-juliet-by-william-shakespeare/",
+      "rank": 40,
+      "id": "lv-romeo_and_juliet_librivox",
+      "rightsUrl": "https://librivox.org/pages/public-domain/",
+      "evidence": "https://archive.org/metadata/romeo_and_juliet_librivox",
+      "recordingLicense": "http://creativecommons.org/licenses/publicdomain/",
+      "download": "https://archive.org/download/romeo_and_juliet_librivox/romeo_and_juliet_librivox_64kb_mp3.zip",
+      "countries": [
+        "US"
+      ],
+      "rights": "LibriVox recording; source text and recording public domain in the United States",
+      "author": "William Shakespeare"
+    },
+    {
+      "kind": "Audio",
+      "downloads": 3637844,
+      "title": "The Invisible Man",
+      "bytes": 141221101,
+      "source": "https://librivox.org/invisible-man-by-h-g-wells/",
+      "rank": 41,
+      "id": "lv-invisible_man_librivox",
+      "rightsUrl": "https://librivox.org/pages/public-domain/",
+      "evidence": "https://archive.org/metadata/invisible_man_librivox",
+      "recordingLicense": "http://creativecommons.org/licenses/publicdomain/",
+      "download": "https://archive.org/download/invisible_man_librivox/invisible_man_librivox_64kb_mp3.zip",
+      "countries": [
+        "US"
+      ],
+      "rights": "LibriVox recording; source text and recording public domain in the United States",
+      "author": "H.G. Wells"
+    },
+    {
+      "kind": "Audio",
+      "downloads": 3620631,
+      "title": "Grimm's Fairy Tales (version 2)",
+      "bytes": 320697052,
+      "source": "https://librivox.org/grimms-fairy-tales-version-2-by-jacob-wilhelm-grimm/",
+      "rank": 42,
+      "id": "lv-grimm_fairy_tales_1202_librivox",
+      "rightsUrl": "https://librivox.org/pages/public-domain/",
+      "evidence": "https://archive.org/metadata/grimm_fairy_tales_1202_librivox",
+      "recordingLicense": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "download": "https://archive.org/download/grimm_fairy_tales_1202_librivox/grimm_fairy_tales_1202_librivox_64kb_mp3.zip",
+      "countries": [
+        "US"
+      ],
+      "rights": "LibriVox recording; source text and recording public domain in the United States",
+      "author": "Jacob & Wilhelm Grimm"
+    },
+    {
+      "kind": "Audio",
+      "downloads": 3590560,
+      "title": "Walden",
+      "bytes": 411880713,
+      "source": "https://librivox.org/walden-by-henry-david-thoreau/",
+      "rank": 43,
+      "id": "lv-walden_librivox",
+      "rightsUrl": "https://librivox.org/pages/public-domain/",
+      "evidence": "https://archive.org/metadata/walden_librivox",
+      "recordingLicense": "http://creativecommons.org/licenses/publicdomain/",
+      "download": "https://archive.org/download/walden_librivox/walden_librivox_64kb_mp3.zip",
+      "countries": [
+        "US"
+      ],
+      "rights": "LibriVox recording; source text and recording public domain in the United States",
+      "author": "Henry David Thoreau"
+    },
+    {
+      "kind": "Audio",
+      "downloads": 3562890,
+      "title": "The Time Machine (version 3)",
+      "bytes": 105501021,
+      "source": "https://librivox.org/the-time-machine-v3-by-h-g-wells/",
+      "rank": 44,
+      "id": "lv-timemachine_sjm_librivox",
+      "rightsUrl": "https://librivox.org/pages/public-domain/",
+      "evidence": "https://archive.org/metadata/timemachine_sjm_librivox",
+      "recordingLicense": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "download": "https://archive.org/download/timemachine_sjm_librivox/timemachine_sjm_librivox_64kb_mp3.zip",
+      "countries": [
+        "US"
+      ],
+      "rights": "LibriVox recording; source text and recording public domain in the United States",
+      "author": "H. G. Wells"
+    },
+    {
+      "kind": "Audio",
+      "downloads": 3526748,
+      "title": "The Wonderful Wizard of Oz",
+      "bytes": 107995701,
+      "source": "https://librivox.org/the-wonderful-wizard-of-oz/",
+      "rank": 45,
+      "id": "lv-wizard_of_oz",
+      "rightsUrl": "https://librivox.org/pages/public-domain/",
+      "evidence": "https://archive.org/metadata/wizard_of_oz",
+      "recordingLicense": "http://creativecommons.org/licenses/publicdomain/",
+      "download": "https://archive.org/download/wizard_of_oz/wizard_of_oz_64kb_mp3.zip",
+      "countries": [
+        "US"
+      ],
+      "rights": "LibriVox recording; source text and recording public domain in the United States",
+      "author": "L. Frank Baum"
+    },
+    {
+      "kind": "Audio",
+      "downloads": 3521496,
+      "title": "Jane Eyre",
+      "bytes": 593779834,
+      "source": "https://librivox.org/jane-eyre-by-charlotte-bront/",
+      "rank": 46,
+      "id": "lv-jane_eyre_librivox",
+      "rightsUrl": "https://librivox.org/pages/public-domain/",
+      "evidence": "https://archive.org/metadata/jane_eyre_librivox",
+      "recordingLicense": "http://creativecommons.org/licenses/publicdomain/",
+      "download": "https://archive.org/download/jane_eyre_librivox/jane_eyre_librivox_64kb_mp3.zip",
+      "countries": [
+        "US"
+      ],
+      "rights": "LibriVox recording; source text and recording public domain in the United States",
+      "author": "Charlotte Brontë"
+    },
+    {
+      "kind": "Audio",
+      "downloads": 3451407,
+      "title": "English Fairy Tales",
+      "bytes": 161248397,
+      "source": "https://librivox.org/english-fairy-tales-collected-by-joseph-jacobs/",
+      "rank": 47,
+      "id": "lv-english_fairy_tales_joy_librivox",
+      "rightsUrl": "https://librivox.org/pages/public-domain/",
+      "evidence": "https://archive.org/metadata/english_fairy_tales_joy_librivox",
+      "recordingLicense": "http://creativecommons.org/licenses/publicdomain/",
+      "download": "https://archive.org/download/english_fairy_tales_joy_librivox/english_fairy_tales_joy_librivox_64kb_mp3.zip",
+      "countries": [
+        "US"
+      ],
+      "rights": "LibriVox recording; source text and recording public domain in the United States",
+      "author": "Joseph Jacobs"
+    },
+    {
+      "kind": "Audio",
+      "downloads": 3434816,
+      "title": "Anne of Green Gables",
+      "bytes": 303478182,
+      "source": "https://librivox.org/anne-of-green-gables-by-lucy-maud-montgomery/",
+      "rank": 48,
+      "id": "lv-anne_of_green_gables_librivox",
+      "rightsUrl": "https://librivox.org/pages/public-domain/",
+      "evidence": "https://archive.org/metadata/anne_of_green_gables_librivox",
+      "recordingLicense": "http://creativecommons.org/licenses/publicdomain/",
+      "download": "https://archive.org/download/anne_of_green_gables_librivox/anne_of_green_gables_librivox_64kb_mp3.zip",
+      "countries": [
+        "US"
+      ],
+      "rights": "LibriVox recording; source text and recording public domain in the United States",
+      "author": "Lucy Maud Montgomery"
+    },
+    {
+      "kind": "Audio",
+      "downloads": 3375807,
+      "title": "Penguin Island",
+      "bytes": 261685928,
+      "source": "https://librivox.org/penguin-island-by-anatole-france/",
+      "rank": 49,
+      "id": "lv-penguin_island_ms_librivox",
+      "rightsUrl": "https://librivox.org/pages/public-domain/",
+      "evidence": "https://archive.org/metadata/penguin_island_ms_librivox",
+      "recordingLicense": "http://creativecommons.org/licenses/publicdomain/",
+      "download": "https://archive.org/download/penguin_island_ms_librivox/penguin_island_ms_librivox_64kb_mp3.zip",
+      "countries": [
+        "US"
+      ],
+      "rights": "LibriVox recording; source text and recording public domain in the United States",
+      "author": "Anatole France"
+    },
+    {
+      "kind": "Audio",
+      "downloads": 3292311,
+      "title": "Beyond Good and Evil",
+      "bytes": 231481801,
+      "source": "https://librivox.org/beyond-good-and-evil-by-friedrich-nietzsche/",
+      "rank": 50,
+      "id": "lv-beyond_good_and_evil_librivox",
+      "rightsUrl": "https://librivox.org/pages/public-domain/",
+      "evidence": "https://archive.org/metadata/beyond_good_and_evil_librivox",
+      "recordingLicense": "http://creativecommons.org/licenses/publicdomain/",
+      "download": "https://archive.org/download/beyond_good_and_evil_librivox/beyond_good_and_evil_librivox_64kb_mp3.zip",
+      "countries": [
+        "US"
+      ],
+      "rights": "LibriVox recording; source text and recording public domain in the United States",
+      "author": "Friedrich Nietzsche (transl. Helen Zimmern)"
+    },
+    {
+      "kind": "Audio",
+      "downloads": 3280160,
+      "title": "Romeo and Juliet",
+      "bytes": 93808702,
+      "source": "https://librivox.org/romeo-and-juliet-version-3-by-william-shakespeare-0901/",
+      "rank": 51,
+      "id": "lv-romeoandjuliet_ss_0901_librivox",
+      "rightsUrl": "https://librivox.org/pages/public-domain/",
+      "evidence": "https://archive.org/metadata/romeoandjuliet_ss_0901_librivox",
+      "recordingLicense": "http://creativecommons.org/licenses/publicdomain/",
+      "download": "https://archive.org/download/romeoandjuliet_ss_0901_librivox/romeoandjuliet_ss_0901_librivox_64kb_mp3.zip",
+      "countries": [
+        "US"
+      ],
+      "rights": "LibriVox recording; source text and recording public domain in the United States",
+      "author": "William Shakespeare"
+    },
+    {
+      "kind": "Audio",
+      "downloads": 3224317,
+      "title": "1601: Conversation, as it was by the Social Fireside, in the Time of the Tudors",
+      "bytes": 9433863,
+      "source": "https://librivox.org/1601-by-mark-twain/",
+      "rank": 52,
+      "id": "lv-1601_0903_librivox",
+      "rightsUrl": "https://librivox.org/pages/public-domain/",
+      "evidence": "https://archive.org/metadata/1601_0903_librivox",
+      "recordingLicense": "http://creativecommons.org/licenses/publicdomain/",
+      "download": "https://archive.org/download/1601_0903_librivox/1601_0903_librivox_64kb_mp3.zip",
+      "countries": [
+        "US"
+      ],
+      "rights": "LibriVox recording; source text and recording public domain in the United States",
+      "author": "Mark Twain"
+    },
+    {
+      "kind": "Audio",
+      "downloads": 3206176,
+      "title": "Railway Children",
+      "bytes": 144600679,
+      "source": "https://librivox.org/railway-children-by-e-nesbit/",
+      "rank": 53,
+      "id": "lv-railway_children_librivox",
+      "rightsUrl": "https://librivox.org/pages/public-domain/",
+      "evidence": "https://archive.org/metadata/railway_children_librivox",
+      "recordingLicense": "http://creativecommons.org/licenses/publicdomain/",
+      "download": "https://archive.org/download/railway_children_librivox/railway_children_librivox_64kb_mp3.zip",
+      "countries": [
+        "US"
+      ],
+      "rights": "LibriVox recording; source text and recording public domain in the United States",
+      "author": "E. Nesbit"
+    },
+    {
+      "kind": "Audio",
+      "downloads": 3142740,
+      "title": "The Divine Comedy",
+      "bytes": 356927098,
+      "source": "https://librivox.org/the-divine-comedy-by-dante-alighieri/",
+      "rank": 54,
+      "id": "lv-divine_comedy_librivox",
+      "rightsUrl": "https://librivox.org/pages/public-domain/",
+      "evidence": "https://archive.org/metadata/divine_comedy_librivox",
+      "recordingLicense": "http://creativecommons.org/licenses/publicdomain/",
+      "download": "https://archive.org/download/divine_comedy_librivox/divine_comedy_librivox_64kb_mp3.zip",
+      "countries": [
+        "US"
+      ],
+      "rights": "LibriVox recording; source text and recording public domain in the United States",
+      "author": "Dante Alighieri"
+    },
+    {
+      "kind": "Audio",
+      "downloads": 3129205,
+      "title": "Frankenstein",
+      "bytes": 238556544,
+      "source": "https://librivox.org/frankenstein-or-modern-prometheus-by-mary-w-shelley/",
+      "rank": 55,
+      "id": "lv-frankenstein_shelley",
+      "rightsUrl": "https://librivox.org/pages/public-domain/",
+      "evidence": "https://archive.org/metadata/frankenstein_shelley",
+      "recordingLicense": "http://creativecommons.org/licenses/publicdomain/",
+      "download": "https://archive.org/download/frankenstein_shelley/frankenstein_shelley_64kb_mp3.zip",
+      "countries": [
+        "US"
+      ],
+      "rights": "LibriVox recording; source text and recording public domain in the United States",
+      "author": "Mary W. Shelley"
+    },
+    {
+      "kind": "Audio",
+      "downloads": 3124609,
+      "title": "Heart of Darkness",
+      "bytes": 120117283,
+      "source": "https://librivox.org/heart-of-darkness-by-joseph-conrad",
+      "rank": 56,
+      "id": "lv-heart_of_darkness",
+      "rightsUrl": "https://librivox.org/pages/public-domain/",
+      "evidence": "https://archive.org/metadata/heart_of_darkness",
+      "recordingLicense": "http://creativecommons.org/licenses/publicdomain/",
+      "download": "https://archive.org/download/heart_of_darkness/heart_of_darkness_64kb_mp3.zip",
+      "countries": [
+        "US"
+      ],
+      "rights": "LibriVox recording; source text and recording public domain in the United States",
+      "author": "Joseph Conrad"
+    },
+    {
+      "kind": "Audio",
+      "downloads": 3121531,
+      "title": "The Adventures of Sherlock Holmes (version 4)",
+      "bytes": 314958848,
+      "source": "https://librivox.org/the-adventures-of-sherlock-holmes-version-4-by-sir-arthur-conan-doyle/",
+      "rank": 57,
+      "id": "lv-adventuressherlockholmes_v4_1501_librivox",
+      "rightsUrl": "https://librivox.org/pages/public-domain/",
+      "evidence": "https://archive.org/metadata/adventuressherlockholmes_v4_1501_librivox",
+      "recordingLicense": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "download": "https://archive.org/download/adventuressherlockholmes_v4_1501_librivox/adventuressherlockholmes_v4_1501_librivox_64kb_mp3.zip",
+      "countries": [
+        "US"
+      ],
+      "rights": "LibriVox recording; source text and recording public domain in the United States",
+      "author": "Sir Arthur Conan Doyle"
+    },
+    {
+      "kind": "Audio",
+      "downloads": 3120830,
+      "title": "Letters of Two Brides",
+      "bytes": 263949903,
+      "source": "https://librivox.org/letters-of-two-brides-by-honore-de-balzac/",
+      "rank": 58,
+      "id": "lv-letters_brides_0709_librivox",
+      "rightsUrl": "https://librivox.org/pages/public-domain/",
+      "evidence": "https://archive.org/metadata/letters_brides_0709_librivox",
+      "recordingLicense": "http://creativecommons.org/licenses/publicdomain/",
+      "download": "https://archive.org/download/letters_brides_0709_librivox/letters_brides_0709_librivox_64kb_mp3.zip",
+      "countries": [
+        "US"
+      ],
+      "rights": "LibriVox recording; source text and recording public domain in the United States",
+      "author": "Honore de Balzac"
+    },
+    {
+      "kind": "Audio",
+      "downloads": 2983672,
+      "title": "Beowulf",
+      "bytes": 80936448,
+      "source": "https://librivox.org/beowulf-by-unknown/",
+      "rank": 59,
+      "id": "lv-beowulf_te_librivox",
+      "rightsUrl": "https://librivox.org/pages/public-domain/",
+      "evidence": "https://archive.org/metadata/beowulf_te_librivox",
+      "recordingLicense": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "download": "https://archive.org/download/beowulf_te_librivox/beowulf_te_librivox_64kb_mp3.zip",
+      "countries": [
+        "US"
+      ],
+      "rights": "LibriVox recording; source text and recording public domain in the United States",
+      "author": "Unknown"
+    },
+    {
+      "kind": "Audio",
+      "downloads": 2938137,
+      "title": "Your Invisible Power",
+      "bytes": 48171377,
+      "source": "https://librivox.org/your-invisible-power-by-genevieve-behrend/",
+      "rank": 60,
+      "id": "lv-your_invisible_power_2104_librivox",
+      "rightsUrl": "https://librivox.org/pages/public-domain/",
+      "evidence": "https://archive.org/metadata/your_invisible_power_2104_librivox",
+      "recordingLicense": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "download": "https://archive.org/download/your_invisible_power_2104_librivox/your_invisible_power_2104_librivox_64kb_mp3.zip",
+      "countries": [
+        "US"
+      ],
+      "rights": "LibriVox recording; source text and recording public domain in the United States",
+      "author": "Genevieve Behrend"
+    },
+    {
+      "kind": "Audio",
+      "downloads": 2883420,
+      "title": "Alexander the Great",
+      "bytes": 171588608,
+      "source": "https://librivox.org/alexander-the-great-by-jacob-abbott/",
+      "rank": 61,
+      "id": "lv-alexander_great_ld_librivox",
+      "rightsUrl": "https://librivox.org/pages/public-domain/",
+      "evidence": "https://archive.org/metadata/alexander_great_ld_librivox",
+      "recordingLicense": "http://creativecommons.org/licenses/publicdomain/",
+      "download": "https://archive.org/download/alexander_great_ld_librivox/alexander_great_ld_librivox_64kb_mp3.zip",
+      "countries": [
+        "US"
+      ],
+      "rights": "LibriVox recording; source text and recording public domain in the United States",
+      "author": "Jacob Abbott"
+    },
+    {
+      "kind": "Audio",
+      "downloads": 2764463,
+      "title": "The Secret Garden",
+      "bytes": 200496015,
+      "source": "https://librivox.org/the-secret-garden-by-frances-hodgson-burnett-version-2/",
+      "rank": 62,
+      "id": "lv-secret_garden_version2_librivox",
+      "rightsUrl": "https://librivox.org/pages/public-domain/",
+      "evidence": "https://archive.org/metadata/secret_garden_version2_librivox",
+      "recordingLicense": "http://creativecommons.org/licenses/publicdomain/",
+      "download": "https://archive.org/download/secret_garden_version2_librivox/secret_garden_version2_librivox_64kb_mp3.zip",
+      "countries": [
+        "US"
+      ],
+      "rights": "LibriVox recording; source text and recording public domain in the United States",
+      "author": "Frances Hodgson Burnett"
+    },
+    {
+      "kind": "Audio",
+      "downloads": 2728443,
+      "title": "The City at World's End",
+      "bytes": 204770681,
+      "source": "https://librivox.org/the-city-at-worlds-end-by-edmond-hamilton/",
+      "rank": 63,
+      "id": "lv-city_worlds_end_1203_librivox",
+      "rightsUrl": "https://librivox.org/pages/public-domain/",
+      "evidence": "https://archive.org/metadata/city_worlds_end_1203_librivox",
+      "recordingLicense": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "download": "https://archive.org/download/city_worlds_end_1203_librivox/city_worlds_end_1203_librivox_64kb_mp3.zip",
+      "countries": [
+        "US"
+      ],
+      "rights": "LibriVox recording; source text and recording public domain in the United States",
+      "author": "Edmond Hamilton"
+    },
+    {
+      "kind": "Audio",
+      "downloads": 2677621,
+      "title": "King Solomon's Mines",
+      "bytes": 283861191,
+      "source": "https://librivox.org/king-solomons-mines-by-haggard/",
+      "rank": 64,
+      "id": "lv-king_solomon_librivox",
+      "rightsUrl": "https://librivox.org/pages/public-domain/",
+      "evidence": "https://archive.org/metadata/king_solomon_librivox",
+      "recordingLicense": "http://creativecommons.org/licenses/publicdomain/",
+      "download": "https://archive.org/download/king_solomon_librivox/king_solomon_librivox_64kb_mp3.zip",
+      "countries": [
+        "US"
+      ],
+      "rights": "LibriVox recording; source text and recording public domain in the United States",
+      "author": "H. Rider Haggard"
+    },
+    {
+      "kind": "Audio",
+      "downloads": 2580255,
+      "title": "The Count of Monte Cristo",
+      "bytes": 1563613184,
+      "source": "https://librivox.org/the-count-of-monte-cristo-version-3-by-alexandre-dumas/",
+      "rank": 65,
+      "id": "lv-count_montecristo_1308_librivox",
+      "rightsUrl": "https://librivox.org/pages/public-domain/",
+      "evidence": "https://archive.org/metadata/count_montecristo_1308_librivox",
+      "recordingLicense": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "download": "https://archive.org/download/count_montecristo_1308_librivox/count_montecristo_1308_librivox_64kb_mp3.zip",
+      "countries": [
+        "US"
+      ],
+      "rights": "LibriVox recording; source text and recording public domain in the United States",
+      "author": "Alexandre Dumas"
+    },
+    {
+      "kind": "Audio",
+      "downloads": 2556786,
+      "title": "12 Creepy Tales by Edgar Allan Poe",
+      "bytes": 148275261,
+      "source": "https://librivox.org/12-creepy-tales-by-edgar-allan-poe/",
+      "rank": 66,
+      "id": "lv-12_creepytales_1206_librivox",
+      "rightsUrl": "https://librivox.org/pages/public-domain/",
+      "evidence": "https://archive.org/metadata/12_creepytales_1206_librivox",
+      "recordingLicense": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "download": "https://archive.org/download/12_creepytales_1206_librivox/12_creepytales_1206_librivox_64kb_mp3.zip",
+      "countries": [
+        "US"
+      ],
+      "rights": "LibriVox recording; source text and recording public domain in the United States",
+      "author": "Edgar Allan Poe"
+    },
+    {
+      "kind": "Audio",
+      "downloads": 2536096,
+      "title": "Dracula (version 2)",
+      "bytes": 519664171,
+      "source": "https://librivox.org/newcatalog/people_public.php?peopleid=1492",
+      "rank": 67,
+      "id": "lv-dracula_1006_librivox",
+      "rightsUrl": "https://librivox.org/pages/public-domain/",
+      "evidence": "https://archive.org/metadata/dracula_1006_librivox",
+      "recordingLicense": "http://creativecommons.org/licenses/publicdomain/",
+      "download": "https://archive.org/download/dracula_1006_librivox/dracula_1006_librivox_64kb_mp3.zip",
+      "countries": [
+        "US"
+      ],
+      "rights": "LibriVox recording; source text and recording public domain in the United States",
+      "author": "Bram Stoker"
+    },
+    {
+      "kind": "Audio",
+      "downloads": 2530900,
+      "title": "Tales of Terror and Mystery",
+      "bytes": 220606850,
+      "source": "https://librivox.org/tales-of-terror-and-mystery-by-sir-arthur-conan-doyle/",
+      "rank": 68,
+      "id": "lv-terror_mystery_0707_librivox",
+      "rightsUrl": "https://librivox.org/pages/public-domain/",
+      "evidence": "https://archive.org/metadata/terror_mystery_0707_librivox",
+      "recordingLicense": "http://creativecommons.org/licenses/publicdomain/",
+      "download": "https://archive.org/download/terror_mystery_0707_librivox/terror_mystery_0707_librivox_64kb_mp3.zip",
+      "countries": [
+        "US"
+      ],
+      "rights": "LibriVox recording; source text and recording public domain in the United States",
+      "author": "Sir Arthur Conan Doyle"
+    },
+    {
+      "kind": "Audio",
+      "downloads": 2524470,
+      "title": "Ghost Story Collection 001",
+      "bytes": 134266368,
+      "source": "https://librivox.org/ghost-story-collection-001/",
+      "rank": 69,
+      "id": "lv-ghost_stories_001_librivox",
+      "rightsUrl": "https://librivox.org/pages/public-domain/",
+      "evidence": "https://archive.org/metadata/ghost_stories_001_librivox",
+      "recordingLicense": "http://creativecommons.org/licenses/publicdomain/",
+      "download": "https://archive.org/download/ghost_stories_001_librivox/ghost_stories_001_librivox_64kb_mp3.zip",
+      "countries": [
+        "US"
+      ],
+      "rights": "LibriVox recording; source text and recording public domain in the United States",
+      "author": "Various"
+    },
+    {
+      "kind": "Audio",
+      "downloads": 2518981,
+      "title": "Beowulf",
+      "bytes": 87283508,
+      "source": "https://librivox.org/beowulf/",
+      "rank": 70,
+      "id": "lv-beowulf",
+      "rightsUrl": "https://librivox.org/pages/public-domain/",
+      "evidence": "https://archive.org/metadata/beowulf",
+      "recordingLicense": "http://creativecommons.org/licenses/publicdomain/",
+      "download": "https://archive.org/download/beowulf/beowulf_64kb_mp3.zip",
+      "countries": [
+        "US"
+      ],
+      "rights": "LibriVox recording; source text and recording public domain in the United States",
+      "author": "Anonymous"
+    },
+    {
+      "kind": "Audio",
+      "downloads": 2511690,
+      "title": "The $30,000 Bequest and Other Stories",
+      "bytes": 297790813,
+      "source": "https://librivox.org/the-30000-bequest-and-other-stories-by-mark-twain/",
+      "rank": 71,
+      "id": "lv-bequest_jg_librivox",
+      "rightsUrl": "https://librivox.org/pages/public-domain/",
+      "evidence": "https://archive.org/metadata/bequest_jg_librivox",
+      "recordingLicense": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "download": "https://archive.org/download/bequest_jg_librivox/bequest_jg_librivox_64kb_mp3.zip",
+      "countries": [
+        "US"
+      ],
+      "rights": "LibriVox recording; source text and recording public domain in the United States",
+      "author": "Mark Twain"
+    },
+    {
+      "kind": "Audio",
+      "downloads": 2477737,
+      "title": "Love and Freindship",
+      "bytes": 33483431,
+      "source": "https://librivox.org/love-and-freindship-by-jane-austen/",
+      "rank": 72,
+      "id": "lv-love_freindship_cs_librivox",
+      "rightsUrl": "https://librivox.org/pages/public-domain/",
+      "evidence": "https://archive.org/metadata/love_freindship_cs_librivox",
+      "recordingLicense": "http://creativecommons.org/licenses/publicdomain/",
+      "download": "https://archive.org/download/love_freindship_cs_librivox/love_freindship_cs_librivox_64kb_mp3.zip",
+      "countries": [
+        "US"
+      ],
+      "rights": "LibriVox recording; source text and recording public domain in the United States",
+      "author": "Jane Austen"
+    },
+    {
+      "kind": "Audio",
+      "downloads": 2474781,
+      "title": "The Call of the Wild",
+      "bytes": 98058752,
+      "source": "https://librivox.org/call-of-the-wild-by-jack-london/",
+      "rank": 73,
+      "id": "lv-call_of_the_wild",
+      "rightsUrl": "https://librivox.org/pages/public-domain/",
+      "evidence": "https://archive.org/metadata/call_of_the_wild",
+      "recordingLicense": "http://creativecommons.org/licenses/publicdomain/",
+      "download": "https://archive.org/download/call_of_the_wild/call_of_the_wild_64kb_mp3.zip",
+      "countries": [
+        "US"
+      ],
+      "rights": "LibriVox recording; source text and recording public domain in the United States",
+      "author": "Jack London"
+    },
+    {
+      "kind": "Audio",
+      "downloads": 2435472,
+      "title": "A Little Princess",
+      "bytes": 163809514,
+      "source": "https://librivox.org/a-little-princess-by-frances-hodgson-burnett-2/",
+      "rank": 74,
+      "id": "lv-little_princess_krs",
+      "rightsUrl": "https://librivox.org/pages/public-domain/",
+      "evidence": "https://archive.org/metadata/little_princess_krs",
+      "recordingLicense": "http://creativecommons.org/licenses/publicdomain/",
+      "download": "https://archive.org/download/little_princess_krs/little_princess_krs_64kb_mp3.zip",
+      "countries": [
+        "US"
+      ],
+      "rights": "LibriVox recording; source text and recording public domain in the United States",
+      "author": "Frances Hodgson Burnett"
+    },
+    {
+      "kind": "Audio",
+      "downloads": 2391342,
+      "title": "Les Misérables, Vol. 1",
+      "bytes": 396731986,
+      "source": "https://librivox.org/les-miserables-vol-1-by-victor-hugo/",
+      "rank": 75,
+      "id": "lv-les_mis_vol01_0810_librivox",
+      "rightsUrl": "https://librivox.org/pages/public-domain/",
+      "evidence": "https://archive.org/metadata/les_mis_vol01_0810_librivox",
+      "recordingLicense": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "download": "https://archive.org/download/les_mis_vol01_0810_librivox/les_mis_vol01_0810_librivox_64kb_mp3.zip",
+      "countries": [
+        "US"
+      ],
+      "rights": "LibriVox recording; source text and recording public domain in the United States",
+      "author": "Victor Hugo"
+    },
+    {
+      "kind": "Audio",
+      "downloads": 2331408,
+      "title": "As a Man Thinketh",
+      "bytes": 26013456,
+      "source": "https://librivox.org/as-a-man-thinketh-by-james-allen/",
+      "rank": 76,
+      "id": "lv-as_a_man_thinketh_mc_librivox",
+      "rightsUrl": "https://librivox.org/pages/public-domain/",
+      "evidence": "https://archive.org/metadata/as_a_man_thinketh_mc_librivox",
+      "recordingLicense": "http://creativecommons.org/licenses/publicdomain/",
+      "download": "https://archive.org/download/as_a_man_thinketh_mc_librivox/as_a_man_thinketh_mc_librivox_64kb_mp3.zip",
+      "countries": [
+        "US"
+      ],
+      "rights": "LibriVox recording; source text and recording public domain in the United States",
+      "author": "James Allen"
+    },
+    {
+      "kind": "Audio",
+      "downloads": 2309287,
+      "title": "The Prince",
+      "bytes": 172108288,
+      "source": "https://librivox.org/the-prince-by-niccolo-machiavelli/",
+      "rank": 77,
+      "id": "lv-prince_librivox",
+      "rightsUrl": "https://librivox.org/pages/public-domain/",
+      "evidence": "https://archive.org/metadata/prince_librivox",
+      "recordingLicense": "http://creativecommons.org/licenses/publicdomain/",
+      "download": "https://archive.org/download/prince_librivox/prince_librivox_64kb_mp3.zip",
+      "countries": [
+        "US"
+      ],
+      "rights": "LibriVox recording; source text and recording public domain in the United States",
+      "author": "Nicolo Machiavelli; translated by W. K. Marriott"
+    },
+    {
+      "kind": "Audio",
+      "downloads": 2242573,
+      "title": "The Reluctant Dragon",
+      "bytes": 27219297,
+      "source": "https://librivox.org/the-reluctant-dragon-by-kenneth-grahame/",
+      "rank": 78,
+      "id": "lv-reluctant_dragon_librivox",
+      "rightsUrl": "https://librivox.org/pages/public-domain/",
+      "evidence": "https://archive.org/metadata/reluctant_dragon_librivox",
+      "recordingLicense": "http://creativecommons.org/licenses/publicdomain/",
+      "download": "https://archive.org/download/reluctant_dragon_librivox/reluctant_dragon_librivox_64kb_mp3.zip",
+      "countries": [
+        "US"
+      ],
+      "rights": "LibriVox recording; source text and recording public domain in the United States",
+      "author": "Kenneth Grahame"
+    },
+    {
+      "kind": "Audio",
+      "downloads": 2233819,
+      "title": "Fanny Hill: Memoirs of a Woman of Pleasure",
+      "bytes": 272457847,
+      "source": "https://librivox.org/fanny-hill-memoirs-of-a-woman-of-pleasure-by-john-cleland/",
+      "rank": 79,
+      "id": "lv-fanny_hill_librivox",
+      "rightsUrl": "https://librivox.org/pages/public-domain/",
+      "evidence": "https://archive.org/metadata/fanny_hill_librivox",
+      "recordingLicense": "http://creativecommons.org/licenses/publicdomain/",
+      "download": "https://archive.org/download/fanny_hill_librivox/fanny_hill_librivox_64kb_mp3.zip",
+      "countries": [
+        "US"
+      ],
+      "rights": "LibriVox recording; source text and recording public domain in the United States",
+      "author": "John Cleland"
+    },
+    {
+      "kind": "Audio",
+      "downloads": 2225555,
+      "title": "The Amateur Cracksman",
+      "bytes": 156239201,
+      "source": "https://librivox.org/the-amateur-cracksman-by-ew-hornung/",
+      "rank": 80,
+      "id": "lv-amateur_cracksman_librivox",
+      "rightsUrl": "https://librivox.org/pages/public-domain/",
+      "evidence": "https://archive.org/metadata/amateur_cracksman_librivox",
+      "recordingLicense": "http://creativecommons.org/licenses/publicdomain/",
+      "download": "https://archive.org/download/amateur_cracksman_librivox/amateur_cracksman_librivox_64kb_mp3.zip",
+      "countries": [
+        "US"
+      ],
+      "rights": "LibriVox recording; source text and recording public domain in the United States",
+      "author": "E.W. Hornung"
+    },
+    {
+      "kind": "Audio",
+      "downloads": 2225344,
+      "title": "2 B R 0 2 B",
+      "bytes": 10727024,
+      "source": "https://librivox.org/2-b-r-0-2-b-by-kurt-vonnegut/",
+      "rank": 81,
+      "id": "lv-2br02b_0801_librivox",
+      "rightsUrl": "https://librivox.org/pages/public-domain/",
+      "evidence": "https://archive.org/metadata/2br02b_0801_librivox",
+      "recordingLicense": "http://creativecommons.org/licenses/publicdomain/",
+      "download": "https://archive.org/download/2br02b_0801_librivox/2br02b_0801_librivox_64kb_mp3.zip",
+      "countries": [
+        "US"
+      ],
+      "rights": "LibriVox recording; source text and recording public domain in the United States",
+      "author": "Kurt Vonnegut"
+    },
+    {
+      "kind": "Audio",
+      "downloads": 2209790,
+      "title": "The Art of War",
+      "bytes": 54611132,
+      "source": "https://librivox.org/the-art-of-war-by-sun-tzu-2/",
+      "rank": 82,
+      "id": "lv-art_war_ps_librivox",
+      "rightsUrl": "https://librivox.org/pages/public-domain/",
+      "evidence": "https://archive.org/metadata/art_war_ps_librivox",
+      "recordingLicense": "http://creativecommons.org/licenses/publicdomain/",
+      "download": "https://archive.org/download/art_war_ps_librivox/art_war_ps_librivox_64kb_mp3.zip",
+      "countries": [
+        "US"
+      ],
+      "rights": "LibriVox recording; source text and recording public domain in the United States",
+      "author": "Sun Tzu"
+    },
+    {
+      "kind": "Audio",
+      "downloads": 2184259,
+      "title": "Sense and Sensibility (Version 3)",
+      "bytes": 319926784,
+      "source": "https://librivox.org/sense-and-sensibility-version-03-by-jane-austen/",
+      "rank": 83,
+      "id": "lv-sense_sensibility_ver3_ek",
+      "rightsUrl": "https://librivox.org/pages/public-domain/",
+      "evidence": "https://archive.org/metadata/sense_sensibility_ver3_ek",
+      "recordingLicense": "http://creativecommons.org/licenses/publicdomain/",
+      "download": "https://archive.org/download/sense_sensibility_ver3_ek/sense_sensibility_ver3_ek_64kb_mp3.zip",
+      "countries": [
+        "US"
+      ],
+      "rights": "LibriVox recording; source text and recording public domain in the United States",
+      "author": "Jane Austen"
+    },
+    {
+      "kind": "Audio",
+      "downloads": 2150645,
+      "title": "Alice's Adventures in Wonderland (dramatic reading)",
+      "bytes": 76486946,
+      "source": "https://librivox.org/alices-adventures-in-wonderland-dramatic-reading-by-lewis-carroll/",
+      "rank": 84,
+      "id": "lv-aliceinwonderland_1102_librivox",
+      "rightsUrl": "https://librivox.org/pages/public-domain/",
+      "evidence": "https://archive.org/metadata/aliceinwonderland_1102_librivox",
+      "recordingLicense": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "download": "https://archive.org/download/aliceinwonderland_1102_librivox/aliceinwonderland_1102_librivox_64kb_mp3.zip",
+      "countries": [
+        "US"
+      ],
+      "rights": "LibriVox recording; source text and recording public domain in the United States",
+      "author": "Lewis Carroll"
+    },
+    {
+      "kind": "Audio",
+      "downloads": 2095198,
+      "title": "The Mysterious Island",
+      "bytes": 632884758,
+      "source": "https://librivox.org/the-mysterious-island-by-jules-verne/",
+      "rank": 85,
+      "id": "lv-mysterious_island_ms_librivox",
+      "rightsUrl": "https://librivox.org/pages/public-domain/",
+      "evidence": "https://archive.org/metadata/mysterious_island_ms_librivox",
+      "recordingLicense": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "download": "https://archive.org/download/mysterious_island_ms_librivox/mysterious_island_ms_librivox_64kb_mp3.zip",
+      "countries": [
+        "US"
+      ],
+      "rights": "LibriVox recording; source text and recording public domain in the United States",
+      "author": "Jules Verne"
+    },
+    {
+      "kind": "Audio",
+      "downloads": 2032838,
+      "title": "American Indian Fairy Tales",
+      "bytes": 81224293,
+      "source": "https://librivox.org/american-indian-fairy-tales-by-william-trowbridge-larned/",
+      "rank": 86,
+      "id": "lv-american_indian_tales_librivox",
+      "rightsUrl": "https://librivox.org/pages/public-domain/",
+      "evidence": "https://archive.org/metadata/american_indian_tales_librivox",
+      "recordingLicense": "http://creativecommons.org/licenses/publicdomain/",
+      "download": "https://archive.org/download/american_indian_tales_librivox/american_indian_tales_librivox_64kb_mp3.zip",
+      "countries": [
+        "US"
+      ],
+      "rights": "LibriVox recording; source text and recording public domain in the United States",
+      "author": "William Trowbridge Larned"
+    },
+    {
+      "kind": "Audio",
+      "downloads": 2017128,
+      "title": "The Autobiography of Benjamin Franklin",
+      "bytes": 216406045,
+      "source": "https://librivox.org/the-autobigraphy-of-benjamin-franklin-ed-by-frank-woodworth-pine/",
+      "rank": 87,
+      "id": "lv-franklin_autobio_gg_librivox",
+      "rightsUrl": "https://librivox.org/pages/public-domain/",
+      "evidence": "https://archive.org/metadata/franklin_autobio_gg_librivox",
+      "recordingLicense": "http://creativecommons.org/licenses/publicdomain/",
+      "download": "https://archive.org/download/franklin_autobio_gg_librivox/franklin_autobio_gg_librivox_64kb_mp3.zip",
+      "countries": [
+        "US"
+      ],
+      "rights": "LibriVox recording; source text and recording public domain in the United States",
+      "author": "Benjamin Franklin, ed. Frank Woodworth Pine"
+    },
+    {
+      "kind": "Audio",
+      "downloads": 2015303,
+      "title": "Sense and Sensibility",
+      "bytes": 351148802,
+      "source": "https://librivox.org/sense-and-sensibility-by-jane-austen/",
+      "rank": 88,
+      "id": "lv-0_sense_and_sensibility_librivox",
+      "rightsUrl": "https://librivox.org/pages/public-domain/",
+      "evidence": "https://archive.org/metadata/0_sense_and_sensibility_librivox",
+      "recordingLicense": "http://creativecommons.org/licenses/publicdomain/",
+      "download": "https://archive.org/download/0_sense_and_sensibility_librivox/0_sense_and_sensibility_librivox_64kb_mp3.zip",
+      "countries": [
+        "US"
+      ],
+      "rights": "LibriVox recording; source text and recording public domain in the United States",
+      "author": "Jane Austen"
+    },
+    {
+      "kind": "Audio",
+      "downloads": 1980798,
+      "title": "The Gods of Mars",
+      "bytes": 221772583,
+      "source": "https://librivox.org/a-princess-of-mars-by-edgar-rice-burroughs/",
+      "rank": 89,
+      "id": "lv-gods_of_mars_librivox",
+      "rightsUrl": "https://librivox.org/pages/public-domain/",
+      "evidence": "https://archive.org/metadata/gods_of_mars_librivox",
+      "recordingLicense": "http://creativecommons.org/licenses/publicdomain/",
+      "download": "https://archive.org/download/gods_of_mars_librivox/gods_of_mars_librivox_64kb_mp3.zip",
+      "countries": [
+        "US"
+      ],
+      "rights": "LibriVox recording; source text and recording public domain in the United States",
+      "author": "Edgar Rice Burroughs"
+    },
+    {
+      "kind": "Audio",
+      "downloads": 1961142,
+      "title": "The Science of Getting Rich",
+      "bytes": 61584514,
+      "source": "https://librivox.org/the-science-of-getting-rich-by-wallace-d-wattles/",
+      "rank": 90,
+      "id": "lv-science_gettingrich_1005_librivox",
+      "rightsUrl": "https://librivox.org/pages/public-domain/",
+      "evidence": "https://archive.org/metadata/science_gettingrich_1005_librivox",
+      "recordingLicense": "http://creativecommons.org/licenses/publicdomain/",
+      "download": "https://archive.org/download/science_gettingrich_1005_librivox/science_gettingrich_1005_librivox_64kb_mp3.zip",
+      "countries": [
+        "US"
+      ],
+      "rights": "LibriVox recording; source text and recording public domain in the United States",
+      "author": "Wallace D. Wattles"
+    },
+    {
+      "kind": "Audio",
+      "downloads": 1949246,
+      "title": "Wuthering Heights (Solo Version)",
+      "bytes": 426729692,
+      "source": "https://librivox.org/wuthering-heights-by-emily-bronte-2/",
+      "rank": 91,
+      "id": "lv-wuthering_heights_rg_librivox",
+      "rightsUrl": "https://librivox.org/pages/public-domain/",
+      "evidence": "https://archive.org/metadata/wuthering_heights_rg_librivox",
+      "recordingLicense": "http://creativecommons.org/licenses/publicdomain/",
+      "download": "https://archive.org/download/wuthering_heights_rg_librivox/wuthering_heights_rg_librivox_64kb_mp3.zip",
+      "countries": [
+        "US"
+      ],
+      "rights": "LibriVox recording; source text and recording public domain in the United States",
+      "author": "Emily Bronte"
+    },
+    {
+      "kind": "Audio",
+      "downloads": 1948774,
+      "title": "The Importance of Being Earnest",
+      "bytes": 66257844,
+      "source": "https://librivox.org/the-importance-of-being-earnest-by-oscar-wilde/",
+      "rank": 92,
+      "id": "lv-being_earnest_librivox",
+      "rightsUrl": "https://librivox.org/pages/public-domain/",
+      "evidence": "https://archive.org/metadata/being_earnest_librivox",
+      "recordingLicense": "http://creativecommons.org/licenses/publicdomain/",
+      "download": "https://archive.org/download/being_earnest_librivox/being_earnest_librivox_64kb_mp3.zip",
+      "countries": [
+        "US"
+      ],
+      "rights": "LibriVox recording; source text and recording public domain in the United States",
+      "author": "Oscar Wilde"
+    },
+    {
+      "kind": "Audio",
+      "downloads": 1946309,
+      "title": "War of the Worlds",
+      "bytes": 190003036,
+      "source": "https://librivox.org/war-of-the-worlds-solo-by-h-g-wells/",
+      "rank": 93,
+      "id": "lv-war_worlds_solo_librivox",
+      "rightsUrl": "https://librivox.org/pages/public-domain/",
+      "evidence": "https://archive.org/metadata/war_worlds_solo_librivox",
+      "recordingLicense": "http://creativecommons.org/licenses/publicdomain/",
+      "download": "https://archive.org/download/war_worlds_solo_librivox/war_worlds_solo_librivox_64kb_mp3.zip",
+      "countries": [
+        "US"
+      ],
+      "rights": "LibriVox recording; source text and recording public domain in the United States",
+      "author": "H.G. Wells"
+    },
+    {
+      "kind": "Audio",
+      "downloads": 1859303,
+      "title": "Alice's Adventures in Wonderland",
+      "bytes": 79524742,
+      "source": "https://librivox.org/alices-adventures-in-wonderland-by-lewis-carroll-3/",
+      "rank": 94,
+      "id": "lv-alice_wonderland_0711_librivox",
+      "rightsUrl": "https://librivox.org/pages/public-domain/",
+      "evidence": "https://archive.org/metadata/alice_wonderland_0711_librivox",
+      "recordingLicense": "http://creativecommons.org/licenses/publicdomain/",
+      "download": "https://archive.org/download/alice_wonderland_0711_librivox/alice_wonderland_0711_librivox_64kb_mp3.zip",
+      "countries": [
+        "US"
+      ],
+      "rights": "LibriVox recording; source text and recording public domain in the United States",
+      "author": "Lewis Carroll"
+    },
+    {
+      "kind": "Audio",
+      "downloads": 1851123,
+      "title": "Gulliver's Travels",
+      "bytes": 328102847,
+      "source": "https://librivox.org/gullivers-travels-by-jonathan-swift/",
+      "rank": 95,
+      "id": "lv-gulliver_ld_librivox",
+      "rightsUrl": "https://librivox.org/pages/public-domain/",
+      "evidence": "https://archive.org/metadata/gulliver_ld_librivox",
+      "recordingLicense": "http://creativecommons.org/licenses/publicdomain/",
+      "download": "https://archive.org/download/gulliver_ld_librivox/gulliver_ld_librivox_64kb_mp3.zip",
+      "countries": [
+        "US"
+      ],
+      "rights": "LibriVox recording; source text and recording public domain in the United States",
+      "author": "Jonathan Swift"
+    },
+    {
+      "kind": "Audio",
+      "downloads": 1839025,
+      "title": "The Memoirs of Sherlock Holmes",
+      "bytes": 255988736,
+      "source": "https://librivox.org/the-memoirs-of-sherlock-holmes-by-sir-arthur-conan-doyle-2/",
+      "rank": 96,
+      "id": "lv-memoirsofsherlockholmesv3_1502_librivox",
+      "rightsUrl": "https://librivox.org/pages/public-domain/",
+      "evidence": "https://archive.org/metadata/memoirsofsherlockholmesv3_1502_librivox",
+      "recordingLicense": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "download": "https://archive.org/download/memoirsofsherlockholmesv3_1502_librivox/memoirsofsherlockholmesv3_1502_librivox_64kb_mp3.zip",
+      "countries": [
+        "US"
+      ],
+      "rights": "LibriVox recording; source text and recording public domain in the United States",
+      "author": "Sir Arthur Conan Doyle"
+    },
+    {
+      "kind": "Audio",
+      "downloads": 1837096,
+      "title": "The Girl on the Boat",
+      "bytes": 207472711,
+      "source": "https://librivox.org/the-girl-on-the-boat-by-p-g-wodehouse/",
+      "rank": 97,
+      "id": "lv-girl_boat_1109_librivox",
+      "rightsUrl": "https://librivox.org/pages/public-domain/",
+      "evidence": "https://archive.org/metadata/girl_boat_1109_librivox",
+      "recordingLicense": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "download": "https://archive.org/download/girl_boat_1109_librivox/girl_boat_1109_librivox_64kb_mp3.zip",
+      "countries": [
+        "US"
+      ],
+      "rights": "LibriVox recording; source text and recording public domain in the United States",
+      "author": "P.G. Wodehouse"
+    },
+    {
+      "kind": "Audio",
+      "downloads": 1806191,
+      "title": "Little Women",
+      "bytes": 547199340,
+      "source": "https://librivox.org/little-women-by-louisa-may-alcott/",
+      "rank": 98,
+      "id": "lv-little_women_0711_librivox",
+      "rightsUrl": "https://librivox.org/pages/public-domain/",
+      "evidence": "https://archive.org/metadata/little_women_0711_librivox",
+      "recordingLicense": "http://creativecommons.org/licenses/publicdomain/",
+      "download": "https://archive.org/download/little_women_0711_librivox/little_women_0711_librivox_64kb_mp3.zip",
+      "countries": [
+        "US"
+      ],
+      "rights": "LibriVox recording; source text and recording public domain in the United States",
+      "author": "Louisa May Alcott"
+    },
+    {
+      "kind": "Audio",
+      "downloads": 1792050,
+      "title": "Treasure Island",
+      "bytes": 215730728,
+      "source": "https://librivox.org/treasure-island-by-robert-louis-stevenson/",
+      "rank": 99,
+      "id": "lv-treasureisland_librivox",
+      "rightsUrl": "https://librivox.org/pages/public-domain/",
+      "evidence": "https://archive.org/metadata/treasureisland_librivox",
+      "recordingLicense": "http://creativecommons.org/licenses/publicdomain/",
+      "download": "https://archive.org/download/treasureisland_librivox/treasureisland_librivox_64kb_mp3.zip",
+      "countries": [
+        "US"
+      ],
+      "rights": "LibriVox recording; source text and recording public domain in the United States",
+      "author": "Robert Louis Stevenson"
+    },
+    {
+      "kind": "Audio",
+      "downloads": 1788982,
+      "title": "The Power of Concentration",
+      "bytes": 122765285,
+      "source": "https://librivox.org/the-power-of-concentration-by-theron-q-dumont/",
+      "rank": 100,
+      "id": "lv-power_concentration_0810_librivox",
+      "rightsUrl": "https://librivox.org/pages/public-domain/",
+      "evidence": "https://archive.org/metadata/power_concentration_0810_librivox",
+      "recordingLicense": "http://creativecommons.org/licenses/publicdomain/",
+      "download": "https://archive.org/download/power_concentration_0810_librivox/power_concentration_0810_librivox_64kb_mp3.zip",
+      "countries": [
+        "US"
+      ],
+      "rights": "LibriVox recording; source text and recording public domain in the United States",
+      "author": "Theron Q. Dumont"
+    }
+  ]
+}

@@ -1,0 +1,443 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns2="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>NYT &gt; Top Stories</title>
+    <link>https://www.nytimes.com</link>
+    <ns0:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" rel="self" type="application/rss+xml" />
+    <description />
+    <language>en-us</language>
+    <copyright>Copyright 2026 The New York Times Company</copyright>
+    <lastBuildDate>Fri, 16 Oct 2026 07:38:45 +0000</lastBuildDate>
+    <pubDate>Fri, 16 Oct 2026 07:02:16 +0000</pubDate>
+    <image>
+      <title>NYT &gt; Top Stories</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>https://www.nytimes.com</link>
+    </image>
+    <item>
+      <title>School Shooting in Oregon Adds Silver Rail Elementary to Grim List</title>
+      <link>https://www.nytimes.com/2026/10/15/us/school-shootings-usa-oregon-silver-rail.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/15/us/school-shootings-usa-oregon-silver-rail.html</guid>
+      <ns0:link href="https://www.nytimes.com/2026/10/15/us/school-shootings-usa-oregon-silver-rail.html" rel="standout" />
+      <description>A long string of school shootings have stricken the nation over the last three decades.</description>
+      <dc:creator>Bernard Mokam</dc:creator>
+      <pubDate>Fri, 16 Oct 2026 01:55:49 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">School Shootings and Armed Attacks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Oregon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bend (Ore)</category>
+      <ns2:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/15/multimedia/15bend-shooting-school-shootings-lmbf/15bend-shooting-school-shootings-lmbf-mediumSquareAt3X.jpg" width="1800" />
+      <ns2:credit>Joe Kline/Associated Press</ns2:credit>
+      <ns2:description>A police officer outside of Silver Rail Elementary school on Thursday.</ns2:description>
+    </item>
+    <item>
+      <title>Elon Musk Spends Heavily to Back Ken Paxton’s Senate Bid in Texas</title>
+      <link>https://www.nytimes.com/2026/10/16/us/politics/elon-musk-ken-paxton-texas-senate-race.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/16/us/politics/elon-musk-ken-paxton-texas-senate-race.html</guid>
+      <ns0:link href="https://www.nytimes.com/2026/10/16/us/politics/elon-musk-ken-paxton-texas-senate-race.html" rel="standout" />
+      <description>The world’s richest person, who has become the biggest known midterm donor, gave $158 million to a group that quickly spent that much to help Mr. Paxton’s Senate bid in Texas.</description>
+      <dc:creator>Theodore Schleifer</dc:creator>
+      <pubDate>Fri, 16 Oct 2026 04:51:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Paxton, Ken</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Action Committees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate Leadership Fund</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <ns2:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/15/multimedia/15pol-musk-paxton-pkhj/15pol-musk-paxton-pkhj-mediumSquareAt3X-v2.jpg" width="1800" />
+      <ns2:credit>Mark Schiefelbein/Associated Press</ns2:credit>
+      <ns2:description>Elon Musk lives in Austin and has major business interests in Texas.</ns2:description>
+    </item>
+    <item>
+      <title>Paxton Partied in Dubai With Fugitives Charged With Fraud, Lawsuit Says</title>
+      <link>https://www.nytimes.com/2026/10/15/us/paxton-dubai-fugitive-fraud-allegations-texas.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/15/us/paxton-dubai-fugitive-fraud-allegations-texas.html</guid>
+      <ns0:link href="https://www.nytimes.com/2026/10/15/us/paxton-dubai-fugitive-fraud-allegations-texas.html" rel="standout" />
+      <description>Ken Paxton celebrated New Year’s Eve in 2024 with two men wanted on federal charges, one of whom donated at least $190,000 to his campaigns. The extent of his ties to the men was unclear.</description>
+      <dc:creator>Lauren McGaughy</dc:creator>
+      <pubDate>Thu, 15 Oct 2026 23:41:02 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics and Official Misconduct</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Paxton, Ken</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Buzbee, Tony G</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Dubai (United Arab Emirates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Illinois</category>
+    </item>
+    <item>
+      <title>Trump’s Deal With Russia Inflames Ukraine War He Vowed to End</title>
+      <link>https://www.nytimes.com/2026/10/15/us/politics/trump-russia-ukraine.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/15/us/politics/trump-russia-ukraine.html</guid>
+      <ns0:link href="https://www.nytimes.com/2026/10/15/us/politics/trump-russia-ukraine.html" rel="standout" />
+      <description>The Ukrainian president’s defiant decision to continue attacking Russian refineries underscores President Trump’s inability to end a war he had promised to resolve.</description>
+      <dc:creator>Anton Troianovski and Luke Broadwater</dc:creator>
+      <pubDate>Fri, 16 Oct 2026 01:02:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2024</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <ns2:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/15/multimedia/15dc-trump-ukraine-pmfg/15dc-trump-ukraine-pmfg-mediumSquareAt3X.jpg" width="1800" />
+      <ns2:credit>Doug Mills/The New York Times</ns2:credit>
+      <ns2:description>President Trump during a campaign stop in Alaska on Tuesday. He has not delivered on his promises to end the war in Ukraine, or to lower prices, and recent deals with Russia could complicate both issues.</ns2:description>
+    </item>
+    <item>
+      <title>How U.S. Support to Ukraine Has Evolved Under Trump</title>
+      <link>https://www.nytimes.com/2026/10/15/us/politics/ukraine-us-aid-trump.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/15/us/politics/ukraine-us-aid-trump.html</guid>
+      <ns0:link href="https://www.nytimes.com/2026/10/15/us/politics/ukraine-us-aid-trump.html" rel="standout" />
+      <description>President Trump’s latest push to end the war in Ukraine has raised questions about the future of U.S. support.</description>
+      <dc:creator>Julian E. Barnes, John Ismay and Edward Wong</dc:creator>
+      <pubDate>Thu, 15 Oct 2026 22:37:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Aid</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arms Trade</category>
+      <ns2:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/15/multimedia/15dc-ukraine-support-cvfl/15dc-ukraine-support-cvfl-mediumSquareAt3X-v3.jpg" width="1800" />
+      <ns2:credit>Tierney L. Cross/The New York Times</ns2:credit>
+      <ns2:description>President Trump with President Volodymyr Zelensky of Ukraine last December.</ns2:description>
+    </item>
+    <item>
+      <title>Senators Demand Investigation Into Ukraine Satellite Disruption</title>
+      <link>https://www.nytimes.com/2026/10/15/us/politics/ukraine-satellite-intelligence-investigation-senate.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/15/us/politics/ukraine-satellite-intelligence-investigation-senate.html</guid>
+      <ns0:link href="https://www.nytimes.com/2026/10/15/us/politics/ukraine-satellite-intelligence-investigation-senate.html" rel="standout" />
+      <description>Republicans joined Democrats in calling on the Pentagon’s inspector general to look into whether the Trump administration was responsible for the interruption.</description>
+      <dc:creator>Robert Jimison</dc:creator>
+      <pubDate>Thu, 15 Oct 2026 21:13:45 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Satellites</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Space Exploration Technologies Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Starlink Satellite Constellation (SpaceX)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Space Force</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Shaheen, Jeanne</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Reed, Jack</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tillis, Thomas R</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <ns2:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/15/multimedia/15dc-cong-ukraine-wvbq/15dc-cong-ukraine-wvbq-mediumSquareAt3X.jpg" width="1800" />
+      <ns2:credit>Tyler Hicks/The New York Times</ns2:credit>
+      <ns2:description>A Ukrainian drone operator prepares for a strike on a house in Russian-occupied Ukraine in July.</ns2:description>
+    </item>
+    <item>
+      <title>5 Takeaways From the Senate Debate in Maine</title>
+      <link>https://www.nytimes.com/2026/10/15/us/politics/maine-senate-debate-collins-jackson.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/15/us/politics/maine-senate-debate-collins-jackson.html</guid>
+      <ns0:link href="https://www.nytimes.com/2026/10/15/us/politics/maine-senate-debate-collins-jackson.html" rel="standout" />
+      <description>The race’s fourth and final debate centered around whether Senator Susan Collins, the Republican incumbent, was as independent as she claimed to be from President Trump.</description>
+      <dc:creator>Emily Davies</dc:creator>
+      <pubDate>Fri, 16 Oct 2026 03:05:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Maine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Debates (Political)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Collins, Susan M</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jackson, Troy</category>
+      <ns2:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/15/multimedia/15pol-maine-debate-takeaways-hvmg/15pol-maine-debate-takeaways-hvmg-mediumSquareAt3X.jpg" width="1800" />
+      <ns2:credit>Pool photo by Gregory Rec</ns2:credit>
+      <ns2:description>Troy Jackson answering a question during a debate with Senator Susan Collins at Husson University in Bangor, Maine, on Thursday.</ns2:description>
+    </item>
+    <item>
+      <title>At High-Powered Dinner, Lots of Love for Tisch, Less for Mayor</title>
+      <link>https://www.nytimes.com/2026/10/15/nyregion/tisch-mamdani-alfred-e-smith-dinner.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/15/nyregion/tisch-mamdani-alfred-e-smith-dinner.html</guid>
+      <ns0:link href="https://www.nytimes.com/2026/10/15/nyregion/tisch-mamdani-alfred-e-smith-dinner.html" rel="standout" />
+      <description>Police Commissioner Jessica Tisch received a standing ovation at the Alfred E. Smith dinner and joked about calls for Mayor Zohran Mamdani to fire her.</description>
+      <dc:creator>Maria Cramer</dc:creator>
+      <pubDate>Fri, 16 Oct 2026 03:53:43 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Crime and Criminals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Actions in US Cities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Socialists of America</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Immigration and Customs Enforcement (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Smith, Alfred E, Memorial Foundation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Waldorf Astoria New York (Manhattan, NY, Hotel)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Belgal, Oscar</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mamdani, Zohran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Park Avenue (Manhattan, NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tisch, Jessica (1981- )</category>
+      <ns2:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/15/multimedia/15met-tisch-mamdani-hvgq/15met-tisch-mamdani-hvgq-mediumSquareAt3X.jpg" width="1800" />
+      <ns2:credit>Bing Guan/Reuters</ns2:credit>
+      <ns2:description>Police Commissioner Jessica Tisch was welcomed by Archbishop Ronald Hicks at the 81st annual Alfred E. Smith Memorial Foundation dinner.</ns2:description>
+    </item>
+    <item>
+      <title>In Michigan Senate Race, Ocasio-Cortez Joins El-Sayed on Trail in Trump Country</title>
+      <link>https://www.nytimes.com/2026/10/15/us/politics/ocasio-cortez-el-sayed-michigan-vance-trump-senate.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/15/us/politics/ocasio-cortez-el-sayed-michigan-vance-trump-senate.html</guid>
+      <ns0:link href="https://www.nytimes.com/2026/10/15/us/politics/ocasio-cortez-el-sayed-michigan-vance-trump-senate.html" rel="standout" />
+      <description>Representative Alexandria Ocasio-Cortez campaigned with Dr. Abdul El-Sayed in a swath of Michigan including areas won by President Trump, making a progressive pitch in a key Senate race.</description>
+      <dc:creator>Tim Balk</dc:creator>
+      <pubDate>Fri, 16 Oct 2026 03:16:51 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ocasio-Cortez, Alexandria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">El-Sayed, Abdul</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Vance, J D</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rogers, Michael J (1963- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Michigan</category>
+      <ns2:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/15/multimedia/15pol-michigan-senate-aoc-wczb/15pol-michigan-senate-aoc-wczb-mediumSquareAt3X.jpg" width="1800" />
+      <ns2:credit>Zbigniew Bzdak for The New York Times</ns2:credit>
+      <ns2:description>Dr. Abdul El-Sayed, the Democratic nominee for the Senate in Michigan, campaigned with Representative Alexandria Ocasio-Cortez on Thursday, including in areas won by President Trump. </ns2:description>
+    </item>
+    <item>
+      <title>El Niño Threatens Global Sugar Supply</title>
+      <link>https://www.nytimes.com/2026/10/16/climate/india-sugarcane-production-sugar-prices.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/16/climate/india-sugarcane-production-sugar-prices.html</guid>
+      <ns0:link href="https://www.nytimes.com/2026/10/16/climate/india-sugarcane-production-sugar-prices.html" rel="standout" />
+      <description>A poor sugarcane crop in India, the world’s second-largest producer, is hurting consumers and farmers — plus undermining the country’s energy security goals.</description>
+      <dc:creator>Somini Sengupta, Suhasini Raj and Anindito Mukherjee</dc:creator>
+      <pubDate>Fri, 16 Oct 2026 04:00:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sugar</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Maharashtra (India)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drought</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Monsoons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethanol</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">El Nino Southern Oscillation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Water</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shortages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <ns2:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/05/multimedia/05-INT-INDIA-SUGAR-01-jbfv/05-INT-INDIA-SUGAR-01-jbfv-mediumSquareAt3X.jpg" width="1800" />
+      <ns2:description>A worker tending to a sugarcane crop in Maharashtra, India, in September.</ns2:description>
+    </item>
+    <item>
+      <title>ICE Agents Who Rammed a Worker in Houston Were Chasing a Dead Man, Family Says</title>
+      <link>https://www.nytimes.com/2026/10/15/us/ice-pursuit-houston-dead-man.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/15/us/ice-pursuit-houston-dead-man.html</guid>
+      <ns0:link href="https://www.nytimes.com/2026/10/15/us/ice-pursuit-houston-dead-man.html" rel="standout" />
+      <description>ICE agents rammed a man during a pursuit in Houston, leaving him with a shattered leg. But a bulletin of the target shows a man who died in 2017, his daughter said.</description>
+      <dc:creator>Jazmine Ulloa</dc:creator>
+      <pubDate>Thu, 15 Oct 2026 22:21:55 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deportation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Immigration and Customs Enforcement (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Homeland Security Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Houston (Tex)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
+      <ns2:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/10/15/multimedia/15nat-immig-dead-man-1-bzjf/15nat-immig-dead-man-1-bzjf-mediumSquareAt3X.jpg" width="1800" />
+      <ns2:credit>Brandon Bell/Getty Images</ns2:credit>
+      <ns2:description>Federal immigration agents struck and injured a Mexican man in Houston on Saturday while conducting an operation. </ns2:description>
+    </item>
+    <item>
+      <title>Judge Dismisses Trump Lawsuit That Sought to Block N.Y.C. Sanctuary Laws</title>
+      <link>https://www.nytimes.com/2026/10/15/nyregion/nyc-sanctuary-law-ice-judge-ruling.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/15/nyregion/nyc-sanctuary-law-ice-judge-ruling.html</guid>
+      <ns0:link href="https://www.nytimes.com/2026/10/15/nyregion/nyc-sanctuary-law-ice-judge-ruling.html" rel="standout" />
+      <description>The ruling was the latest defeat for the administration as it continues a mass deportation campaign.</description>
+      <dc:creator>Luis Ferré-Sadurní</dc:creator>
+      <pubDate>Fri, 16 Oct 2026 01:12:51 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deportation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal-State Relations (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration Detention</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Actions in US Cities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mayors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Government Employees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Courts (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Courts and the Judiciary</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Homeland Security Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Immigration and Customs Enforcement (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Belgal, Oscar</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Adams, Eric L</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">de Blasio, Bill</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mamdani, Zohran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York State</category>
+      <ns2:content height="1800" medium="image" url="https://static01.nyt.com/images/2025/11/20/multimedia/15met-sanctuary-nyc/20DC-IMMIG-FINES-bzth-mediumSquareAt3X.jpg" width="1800" />
+      <ns2:credit>Victor J. Blue for The New York Times</ns2:credit>
+      <ns2:description>Immigration and Customs Enforcement agents seeking to take migrants into custody rarely receive help from New York City officials.</ns2:description>
+    </item>
+    <item>
+      <title>Warsh Vows Price Stability as A.I. Delivers ‘Shock’ to Economy</title>
+      <link>https://www.nytimes.com/2026/10/16/business/warsh-fed-imf-bangkok.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/16/business/warsh-fed-imf-bangkok.html</guid>
+      <ns0:link href="https://www.nytimes.com/2026/10/16/business/warsh-fed-imf-bangkok.html" rel="standout" />
+      <description>The Federal Reserve chairman said technological change was complicating the outlook for central banks as policymakers grapple with persistent inflation risks.</description>
+      <dc:creator>Patricia Cohen</dc:creator>
+      <pubDate>Fri, 16 Oct 2026 06:11:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Warsh, Kevin M</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Reserve System</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Interest Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Monetary Fund</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">World Bank</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bangkok (Thailand)</category>
+      <ns2:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/16/multimedia/16biz-warsh-vbgk/16biz-warsh-vbgk-mediumSquareAt3X.jpg" width="1800" />
+      <ns2:credit>Athit Perawongmetha/Reuters</ns2:credit>
+      <ns2:description>Federal Reserve Chairman Kevin Warsh speaking at an event during the IMF and World Bank annual meetings in Bangkok, Thailand, on Friday.</ns2:description>
+    </item>
+    <item>
+      <title>Why Bad News in the Bond Market May Be Good News for Investors</title>
+      <link>https://www.nytimes.com/2026/10/16/business/bonds-investors-interest-rates.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/16/business/bonds-investors-interest-rates.html</guid>
+      <ns0:link href="https://www.nytimes.com/2026/10/16/business/bonds-investors-interest-rates.html" rel="standout" />
+      <description>In the contrarian logic of investing, rising interest rates have made bonds much more attractive, our columnist says.</description>
+      <dc:creator>Jeff Sommer</dc:creator>
+      <pubDate>Fri, 16 Oct 2026 05:07:20 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Government Bonds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Interest Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Recession and Depression</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Personal Finances</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jones, Kathy A (Financial Executive)</category>
+      <ns2:content height="1500" medium="image" url="https://static01.nyt.com/images/2026/10/18/business/18bizsun-strategies-illo/18bizsun-strategies-illo-mediumSquareAt3X.jpg" width="1500" />
+      <ns2:credit>Carlos Miranda</ns2:credit>
+    </item>
+    <item>
+      <title>Katie Zacharia Admits Failing Bar, but Defends Calling Herself a Lawyer</title>
+      <link>https://www.nytimes.com/2026/10/15/us/katie-zacharia-lawyer-attorney-bar.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/15/us/katie-zacharia-lawyer-attorney-bar.html</guid>
+      <ns0:link href="https://www.nytimes.com/2026/10/15/us/katie-zacharia-lawyer-attorney-bar.html" rel="standout" />
+      <description>In an interview with a right-wing influencer, the new White House press secretary also described the harried process that led to her hiring.</description>
+      <dc:creator>Shawn McCreesh</dc:creator>
+      <pubDate>Fri, 16 Oct 2026 02:17:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legal Profession</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Pepperdine University</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Real America's Voice LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Johansson, Scarlett</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zacharia, Katie</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Posobiec, Jack</category>
+      <ns2:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/15/multimedia/15dc-zacharia-vtpc/15dc-zacharia-vtpc-mediumSquareAt3X.jpg" width="1800" />
+      <ns2:credit>Doug Mills/The New York Times</ns2:credit>
+      <ns2:description>Katie Zacharia, the White House press secretary, aboard Air Force One on Wednesday. “I woke up at 3 in the morning on Tuesday to prepare with what I had,” she said of her first press briefing.</ns2:description>
+    </item>
+    <item>
+      <title>The Sexual Abuse Crisis in Paris’s Public Schools</title>
+      <link>https://www.nytimes.com/2026/10/16/world/europe/paris-schools-abuse-crisis.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/16/world/europe/paris-schools-abuse-crisis.html</guid>
+      <ns0:link href="https://www.nytimes.com/2026/10/16/world/europe/paris-schools-abuse-crisis.html" rel="standout" />
+      <description>A surge of abuse accusations has led Parisian authorities to acknowledge a “collective failure” to prevent sexual offenders from working in schools.</description>
+      <dc:creator>Ségolène Le Stradic</dc:creator>
+      <pubDate>Fri, 16 Oct 2026 04:01:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Abuse and Neglect</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics and Official Misconduct</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hidalgo, Anne (1959- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Paris (France)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <ns2:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/22/multimedia/00int-france-abuse-01-lzgh/00int-france-abuse-01-lzgh-mediumSquareAt3X.jpg" width="1800" />
+      <ns2:credit>Dimitar Dilkoff/Agence France-Presse — Getty Images</ns2:credit>
+      <ns2:description>The entrance to St.-Dominique, a kindergarten in Paris where 16 current and former employees were arrested following accusations of child abuse.</ns2:description>
+    </item>
+    <item>
+      <title>‘You Can See Everything’ Review: The Slippery Mind of Elizabeth Holmes</title>
+      <link>https://www.nytimes.com/2026/10/15/movies/you-can-see-everything-review-elizabeth-holmes.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/15/movies/you-can-see-everything-review-elizabeth-holmes.html</guid>
+      <ns0:link href="https://www.nytimes.com/2026/10/15/movies/you-can-see-everything-review-elizabeth-holmes.html" rel="standout" />
+      <description>The disgraced tech entrepreneur and the comic Nathan Fielder chat and joust in a dizzying movie about truth, reality and the contours of knowledge.</description>
+      <dc:creator>Manohla Dargis</dc:creator>
+      <pubDate>Thu, 15 Oct 2026 16:19:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Theranos Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fielder, Nathan (1983- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Holmes, Elizabeth (1984- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">You Can See Everything (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Oppenheim, Lance</category>
+    </item>
+    <item>
+      <title>Is the Fox Collie the Perfect Dog for Our Aimless Era?</title>
+      <link>https://www.nytimes.com/2026/10/15/style/fox-collie-mcnab-dog-breed.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/15/style/fox-collie-mcnab-dog-breed.html</guid>
+      <ns0:link href="https://www.nytimes.com/2026/10/15/style/fox-collie-mcnab-dog-breed.html" rel="standout" />
+      <description>A winemaker in Northern California is convinced that a dog once bred to herd sheep in the Scottish Highlands is the ideal pet for our uncertain times.</description>
+      <dc:creator>Lauren Markham</dc:creator>
+      <pubDate>Thu, 15 Oct 2026 09:00:41 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pets</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dogs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Breeding of Animals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Boonville (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
+      <ns2:content height="1491" medium="image" url="https://static01.nyt.com/images/2026/10/15/multimedia/15ST-BEST-DOGS-ckqf/15ST-BEST-DOGS-ckqf-mediumSquareAt3X.jpg" width="1491" />
+      <ns2:credit>Kelsey McClellan for The New York Times</ns2:credit>
+    </item>
+    <item>
+      <title>Trump’s Democracy-for-Diesel Deal Shames Us All</title>
+      <link>https://www.nytimes.com/2026/10/15/opinion/trump-russia-oil-putin.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/15/opinion/trump-russia-oil-putin.html</guid>
+      <ns0:link href="https://www.nytimes.com/2026/10/15/opinion/trump-russia-oil-putin.html" rel="standout" />
+      <description>The president’s arrangement to import Russian diesel fuel is one more example of how he has sold out American democracy.</description>
+      <dc:creator>Thomas L. Friedman</dc:creator>
+      <pubDate>Fri, 16 Oct 2026 04:30:00 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Democracy (Theory and Philosophy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diesel Power</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cotton, Tom</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <ns2:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/17/multimedia/15friedman-qblt/15friedman-qblt-mediumSquareAt3X.jpg" width="1800" />
+      <ns2:credit>Photo illustration by Kim Hoeckele for The New York Times</ns2:credit>
+    </item>
+    <item>
+      <title>He’s the Most Influential Podcaster in Silicon Valley. He Thinks We’re Getting This Wrong.</title>
+      <link>https://www.nytimes.com/2026/10/15/opinion/interesting-times-dwarkes-patel-tyler-cowen.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/15/opinion/interesting-times-dwarkes-patel-tyler-cowen.html</guid>
+      <ns0:link href="https://www.nytimes.com/2026/10/15/opinion/interesting-times-dwarkes-patel-tyler-cowen.html" rel="standout" />
+      <description>Dwarkesh Patel on what the public doesn’t know about A.I.</description>
+      <dc:creator>Tyler Cowen and Sophia Muniz</dc:creator>
+      <pubDate>Thu, 15 Oct 2026 19:33:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">audio-neutral-informative</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economics (Theory and Philosophy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Innovation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">San Francisco (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Dwarkesh Podcast (Radio Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-audio</category>
+      <ns2:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/15/opinion/15itpod-patel-image/15itpod-patel-mediumSquareAt3X.jpg" width="1800" />
+      <ns2:credit>The New York Times</ns2:credit>
+    </item>
+    </channel>
+</rss>

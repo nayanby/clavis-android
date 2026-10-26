@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- The AI settings bar: the explanation of the providers, the keys and the
+     models, with the address each key comes from. -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/cortex_action_whats_this"
+        android:icon="@drawable/cortex_ic_help"
+        android:title="@string/cortex_help_whats_this"
+        app:showAsAction="ifRoom" />
+</menu>

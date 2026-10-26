@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/cortex_action_search"
+        android:icon="@drawable/cortex_ic_search"
+        android:title="@string/cortex_search_hint"
+        app:actionViewClass="androidx.appcompat.widget.SearchView"
+        app:showAsAction="ifRoom|collapseActionView" />
+    <item
+        android:id="@+id/cortex_action_create_folder"
+        android:icon="@drawable/cortex_ic_add"
+        android:title="@string/cortex_action_create_folder"
+        android:visible="false"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/cortex_action_sync"
+        android:title="@string/cortex_menu_sync"
+        android:visible="false"
+        app:showAsAction="never" />
+</menu>

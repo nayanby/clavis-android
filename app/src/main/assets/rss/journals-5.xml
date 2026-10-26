@@ -1,0 +1,579 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns1="http://purl.org/rss/1.0/" xmlns:ns2="http://purl.org/rss/1.0/modules/prism/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<ns1:channel rdf:about="http://bmjopen.bmj.com">
+<ns1:title>BMJ Open Current Issue</ns1:title>
+<ns1:link>http://bmjopen.bmj.com</ns1:link>
+<ns1:description>BMJ Open RSS feed -- current issue</ns1:description>
+<ns2:coverDisplayDate>October 2026</ns2:coverDisplayDate>
+<ns2:publicationName>BMJ Open</ns2:publicationName>
+<ns2:issn>2044-6055</ns2:issn>
+<ns1:items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e125302?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e126249?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e126300?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e115677?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e115706?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e116039?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e116419?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e117563?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e118486?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e119475?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e119597?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e120190?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e121660?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e122907?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e123003?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e123559?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e123607?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e123975?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e124543?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e109127?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e110901?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e114379?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e116279?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e117576?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e119026?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e119702?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e120519?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e121108?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e121518?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e121942?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e123303?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e123592?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e123693?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e125795?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e126924?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e114754?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e116033?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e116503?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e118828?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e119871?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e120993?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e122193?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e122232?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e123025?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e123196?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e123927?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e124379?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e124531?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e124852?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e125229?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e125280?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e125507?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e126415?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e124947?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e124995?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e125558?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e125586?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e125834?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e114814?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e117143?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e118256?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e118632?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e119606?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e119791?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e119962?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e122336?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e122442?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e122691?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e122701?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e122867?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e122906?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e123684?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e123804?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e123877?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e124163?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e124929?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e113002?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e117895?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e118134?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e118258?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e118334?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e118768?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e118844?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e119355?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e120070?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e120211?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e120316?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e120763?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e120792?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e121183?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e121251?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e121392?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e122216?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e122747?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e123343?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e123930?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e124661?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e124788?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e126880?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e102146?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e109964?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e112023?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e115108?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e115420?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e115528?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e116527?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e116726?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e118938?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e119908?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e121354?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e121882?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e122080?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e122263?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e122274?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e122378?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e123437?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e126650?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e127044?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e127270?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e107159?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e110180?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e110528?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e112780?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e114746?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e118211?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e118516?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e118578?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e119261?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e119605?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e120181?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e120245?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e120511?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e120742?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e121471?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e121899?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e122246?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e122521?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e123062?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e123419?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e123629?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e123698?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e123802?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e123988?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e124197?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e124622?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e125736?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e126143?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e116331?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e117789?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e118147?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e119072?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e119495?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e120252?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e120615?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e120830?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e121117?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e121190?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e121377?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e121585?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e122444?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e122832?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e123547?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e123926?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e125163?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e125419?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e118301?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e120036?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e120874?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e120909?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e120948?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e120953?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e121061?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e121139?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e121606?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e122205?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e122446?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e122819?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e123955?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e124637?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e124662?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e125092?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e099069?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e110099?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e110307?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e110925?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e114263?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e115052?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e115160?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e119707?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e120507?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e120892?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e122154?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e122224?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e123528?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e124182?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e124868?rss=1" />
+  <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e111751?rss=1" />
+ </rdf:Seq>
+</ns1:items>
+<ns1:image rdf:resource="http://bmjopen.bmj.com/site/homepage/BMJOPEN_95x60.gif" />
+</ns1:channel>
+<ns1:image rdf:about="http://bmjopen.bmj.com/site/homepage/BMJOPEN_95x60.gif">
+<ns1:title>BMJ Open</ns1:title>
+<ns1:url>http://bmjopen.bmj.com/site/homepage/BMJOPEN_95x60.gif</ns1:url>
+<ns1:link>http://bmjopen.bmj.com</ns1:link>
+</ns1:image>
+<ns1:item rdf:about="http://bmjopen.bmj.com/cgi/content/short/16/10/e125302?rss=1">
+<ns1:title>Prevalence and correlates of sexual harassment among female nursing students in Tanzanian higher educational institutions: a cross-sectional survey</ns1:title>
+<ns1:link>http://bmjopen.bmj.com/cgi/content/short/16/10/e125302?rss=1</ns1:link>
+<ns1:description> &lt;p&gt;&lt;textbox id="BX1"&gt;&lt;caption&gt;&lt;p&gt;STRENGTHS AND LIMITATIONS OF THIS STUDY&lt;/p&gt; &lt;/caption&gt; &lt;p&gt;&lt;l type="unord"&gt;&lt;li&gt;&lt;p&gt;The inclusion of participants from both public and private universities enabled comparisons across different institutional contexts.&lt;/p&gt; &lt;/li&gt;&lt;li&gt; &lt;p&gt;The questionnaire, adapted from previously published instruments, underwent expert review for content validity, was piloted among nursing students and demonstrated high internal consistency reliability (Cronbach&amp;rsquo;s alpha=0.891), indicating high internal consistency of the adapted measure in this study population.&lt;/p&gt; &lt;/li&gt;&lt;li&gt; &lt;p&gt;The cross-sectional design precludes establishing causality.&lt;/p&gt; &lt;/li&gt;&lt;li&gt; &lt;p&gt;Self-reported data are susceptible to recall and social desirability biases.&lt;/p&gt; &lt;/li&gt;&lt;li&gt; &lt;p&gt;Data collection across different academic years may have introduced unmeasured temporal or institutional influences.&lt;/p&gt; &lt;/li&gt;&lt;/l&gt;&lt;/p&gt;&lt;/textbox&gt;&lt;/p&gt; &lt;sec id="s1"&gt;&lt;st&gt;Introduction&lt;/st&gt; &lt;p&gt;Higher education is widely recognised as a cornerstone of societal development, offering significant economic and social benefits, including enhanced living standards and individual well-being.&lt;cross-ref type="bib" refid="R1"&gt;1&lt;/cross-ref&gt; Beyond career preparation and economic mobility, higher education also promotes personal development, critical thinking and social engagement.&lt;cross-ref type="bib" refid="R2"&gt;2&lt;/cross-ref&gt; While access to higher...</ns1:description>
+<dc:creator>Ambikile, J. S., Mbao, E., Mawi, N., Kagoma, P.</dc:creator>
+<dc:date>2026-10-15T04:19:58-07:00</dc:date>
+<dc:identifier>info:doi/10.1136/bmjopen-2026-125302</dc:identifier>
+<dc:identifier>hwp:master-id:bmjopen;bmjopen-2026-125302</dc:identifier>
+<dc:publisher>British Medical Journal Publishing Group</dc:publisher>
+<dc:subject>Open access, Nursing</dc:subject>
+<dc:title>Prevalence and correlates of sexual harassment among female nursing students in Tanzanian higher educational institutions: a cross-sectional survey</dc:title>
+<ns2:publicationDate>2026-10-15</ns2:publicationDate>
+<ns2:section>Nursing</ns2:section>
+<ns2:volume>16</ns2:volume>
+<ns2:number>10</ns2:number>
+<ns2:startingPage>e125302</ns2:startingPage>
+<ns2:endingPage>e125302</ns2:endingPage>
+</ns1:item>
+<ns1:item rdf:about="http://bmjopen.bmj.com/cgi/content/short/16/10/e126249?rss=1">
+<ns1:title>Protecting mothers and their infants through screening and comprehensive management of sexually transmitted infections in antenatal care in Zimbabwe (PROMISE): study protocol for an open label individually randomised controlled trial</ns1:title>
+<ns1:link>http://bmjopen.bmj.com/cgi/content/short/16/10/e126249?rss=1</ns1:link>
+<ns1:description> &lt;p&gt;&lt;textbox id="BX1"&gt;&lt;caption&gt;&lt;p&gt;STRENGTHS AND LIMITATIONS OF THIS STUDY&lt;/p&gt; &lt;/caption&gt; &lt;p&gt;&lt;l type="unord"&gt;&lt;li&gt;&lt;p&gt;This is a large individually randomised trial powered for each individual outcome of the composite primary outcome that, unlike previous sexually transmitted infection (STI) screening trials in low-resource settings, includes stillbirth alongside preterm birth and low birth weight in its primary composite outcome.&lt;/p&gt; &lt;/li&gt;&lt;li&gt; &lt;p&gt;The intervention is embedded within routine antenatal care across 14 public sector clinics in a high HIV/STI prevalence urban setting, so trial procedures and findings should be directly relevant to comparable low-resource settings where syndromic management remains the standard of care.&lt;/p&gt; &lt;/li&gt;&lt;li&gt; &lt;p&gt;Gestational age at birth is ascertained using a validated artificial intelligence-supported ultrasound tool, standardising a key outcome measure across a multi-clinic recruitment network.&lt;/p&gt; &lt;/li&gt;&lt;li&gt; &lt;p&gt;Because the trial evaluates an antenatal care pathway rather than a drug or device, participants and clinical staff cannot be blinded to allocation, although outcome analyses will be conducted by...</ns1:description>
+<dc:creator>Larsson, L., Kabongo, J., Murewanhema, G., Simms, V., Dauya, E., Bandason, T., Mackworth-Young, C. R. S., Bozzani, F. M., Butcher, R., Machiha, A., Low, N., Sturgeon, J. P., Blencowe, H., Dziva Chikwari, C., Stranix-Chibanda, L., Juru, A., Sisya, L., Bernays, S., Kranzer, K., Marks, M., Ferrand, R. A., PROMISE trial consortium</dc:creator>
+<dc:date>2026-10-15T04:19:58-07:00</dc:date>
+<dc:identifier>info:doi/10.1136/bmjopen-2026-126249</dc:identifier>
+<dc:identifier>hwp:master-id:bmjopen;bmjopen-2026-126249</dc:identifier>
+<dc:publisher>British Medical Journal Publishing Group</dc:publisher>
+<dc:subject>Open access, Global health</dc:subject>
+<dc:title>Protecting mothers and their infants through screening and comprehensive management of sexually transmitted infections in antenatal care in Zimbabwe (PROMISE): study protocol for an open label individually randomised controlled trial</dc:title>
+<ns2:publicationDate>2026-10-15</ns2:publicationDate>
+<ns2:section>Global health</ns2:section>
+<ns2:volume>16</ns2:volume>
+<ns2:number>10</ns2:number>
+<ns2:startingPage>e126249</ns2:startingPage>
+<ns2:endingPage>e126249</ns2:endingPage>
+</ns1:item>
+<ns1:item rdf:about="http://bmjopen.bmj.com/cgi/content/short/16/10/e126300?rss=1">
+<ns1:title>Protocol for the development of a paediatric core outcome set for arthrogryposis multiplex congenita: an international multi-interest-holder consensus study</ns1:title>
+<ns1:link>http://bmjopen.bmj.com/cgi/content/short/16/10/e126300?rss=1</ns1:link>
+<ns1:description> &lt;p&gt;&lt;textbox id="BX1"&gt;&lt;caption&gt;&lt;p&gt;STRENGTHS AND LIMITATIONS OF THIS STUDY&lt;/p&gt; &lt;/caption&gt; &lt;p&gt;&lt;l type="unord"&gt;&lt;li&gt;&lt;p&gt;An international advisory panel, including clinicians and individuals with lived experience, is supporting the ongoing core outcome set (COS) development process to identify outcome measures relevant to arthrogryposis.&lt;/p&gt; &lt;/li&gt;&lt;li&gt; &lt;p&gt;Representation from diverse healthcare and cultural contexts across Canada, the USA, Poland, Australia and India provides global perspectives on assessment priorities and the applicability of the COS across different settings.&lt;/p&gt; &lt;/li&gt;&lt;li&gt; &lt;p&gt;Engagement of clinicians and individuals with lived experience throughout the COS development process supports the inclusion of outcomes that are meaningful to the broader arthrogryposis community.&lt;/p&gt; &lt;/li&gt;&lt;li&gt; &lt;p&gt;Purposive and snowball sampling, as well as the availability of consensus-building materials only in French and English, may influence the diversity of perspectives captured.&lt;/p&gt; &lt;/li&gt;&lt;/l&gt;&lt;/p&gt;&lt;/textbox&gt;&lt;/p&gt; &lt;sec id="s1"&gt;&lt;st&gt;Introduction&lt;/st&gt; &lt;p&gt;Three hundred million people are affected by 1 of approximately 7000 rare diseases around the world.&lt;cross-ref type="bib" refid="R1"&gt;1&lt;/cross-ref&gt; Despite this staggering statistic, the input of individuals...</ns1:description>
+<dc:creator>Zukerman, N., Darsaklis, V. B., Araujo, C., Cachecho, S., Costa, C., Donlevie, K., Fafara, A., Kasar, U., Krakie, C., Lacombe, F., Pacey, V., Sions, J. M., Dahan-Oliel, N.</dc:creator>
+<dc:date>2026-10-15T04:19:58-07:00</dc:date>
+<dc:identifier>info:doi/10.1136/bmjopen-2026-126300</dc:identifier>
+<dc:identifier>hwp:master-id:bmjopen;bmjopen-2026-126300</dc:identifier>
+<dc:publisher>British Medical Journal Publishing Group</dc:publisher>
+<dc:subject>Open access, Rehabilitation medicine</dc:subject>
+<dc:title>Protocol for the development of a paediatric core outcome set for arthrogryposis multiplex congenita: an international multi-interest-holder consensus study</dc:title>
+<ns2:publicationDate>2026-10-15</ns2:publicationDate>
+<ns2:section>Rehabilitation medicine</ns2:section>
+<ns2:volume>16</ns2:volume>
+<ns2:number>10</ns2:number>
+<ns2:startingPage>e126300</ns2:startingPage>
+<ns2:endingPage>e126300</ns2:endingPage>
+</ns1:item>
+<ns1:item rdf:about="http://bmjopen.bmj.com/cgi/content/short/16/10/e115677?rss=1">
+<ns1:title>Trends in diversity of scientific authorship by ethnicity, sex and age of authors in a National Institute for Health and Care Research Biomedical Research Centre in England: a retrospective longitudinal bibliometric study</ns1:title>
+<ns1:link>http://bmjopen.bmj.com/cgi/content/short/16/10/e115677?rss=1</ns1:link>
+<ns1:description> &lt;p&gt;&lt;textbox id="BX1"&gt;&lt;caption&gt;&lt;p&gt;STRENGTHS AND LIMITATIONS OF THIS STUDY&lt;/p&gt; &lt;/caption&gt; &lt;p&gt;&lt;l type="unord"&gt;&lt;li&gt;&lt;p&gt;In this baseline feasibility study, we examined authorship diversity by exploring the influence of the author&amp;rsquo;s three protected characteristics, that is, ethnicity, sex and age, on three important publication metrics, that is, authorship positions, publication outputs and citation counts within the context of a National Institute for Health and Care Research Biomedical Research Centre (NIHR BRC) in England.&lt;/p&gt; &lt;/li&gt;&lt;li&gt; &lt;p&gt;Benchmarking of protected characteristics data at the individual author level is not routinely available or collected, and completion of this data is self-reported and not mandatory; and hence it is incomplete.&lt;/p&gt; &lt;/li&gt;&lt;li&gt; &lt;p&gt;We used novel data capture techniques, which included research publication data captured via the Symplectic Elements research database and linked it with the University of Oxford&amp;rsquo;s core human resources data on self-reported protected characteristics data of researchers affiliated with the NIHR Oxford BRC.&lt;/p&gt; &lt;/li&gt;&lt;li&gt; &lt;p&gt;Although our innovative approach provides...</ns1:description>
+<dc:creator>Henderson, L. R., Barrio, F. E., Saunders, D., Coxall, O., Kiparoglou, V., Kalpazidou Schmidt, E., Shah, S. G. S.</dc:creator>
+<dc:date>2026-10-15T04:19:57-07:00</dc:date>
+<dc:identifier>info:doi/10.1136/bmjopen-2025-115677</dc:identifier>
+<dc:identifier>hwp:master-id:bmjopen;bmjopen-2025-115677</dc:identifier>
+<dc:publisher>British Medical Journal Publishing Group</dc:publisher>
+<dc:subject>Open access, Health policy</dc:subject>
+<dc:title>Trends in diversity of scientific authorship by ethnicity, sex and age of authors in a National Institute for Health and Care Research Biomedical Research Centre in England: a retrospective longitudinal bibliometric study</dc:title>
+<ns2:publicationDate>2026-10-15</ns2:publicationDate>
+<ns2:section>Health policy</ns2:section>
+<ns2:volume>16</ns2:volume>
+<ns2:number>10</ns2:number>
+<ns2:startingPage>e115677</ns2:startingPage>
+<ns2:endingPage>e115677</ns2:endingPage>
+</ns1:item>
+<ns1:item rdf:about="http://bmjopen.bmj.com/cgi/content/short/16/10/e115706?rss=1">
+<ns1:title>Mixed-methods evaluation of a rights-based intervention to reduce long-term segregation in mental health services: the HOPE(S) National Programme in England</ns1:title>
+<ns1:link>http://bmjopen.bmj.com/cgi/content/short/16/10/e115706?rss=1</ns1:link>
+<ns1:description> &lt;p&gt;&lt;textbox id="BX1"&gt;&lt;caption&gt;&lt;p&gt;STRENGTHS AND LIMITATIONS OF THIS STUDY&lt;/p&gt; &lt;/caption&gt; &lt;p&gt;&lt;l type="unord"&gt;&lt;li&gt;&lt;p&gt;This is the first study to explore long-term segregation in depth, using a mixed-methods approach that integrates routine quantitative outcomes and validated self-report measures with qualitative data from multiple stakeholder groups.&lt;/p&gt; &lt;/li&gt;&lt;li&gt; &lt;p&gt;The study was embedded within real-world service delivery across diverse mental health inpatient settings, enhancing ecological validity but resulting in variability in data completeness and follow-up timing.&lt;/p&gt; &lt;/li&gt;&lt;li&gt; &lt;p&gt;Meaningful patient and public involvement, including lived experience co-production and sense-checking, strengthened the relevance and credibility of the study design and interpretation.&lt;/p&gt; &lt;/li&gt;&lt;li&gt; &lt;p&gt;The pre-post, single-group design without a comparator limits causal inference and missing pre-post pairs reduced sample sizes for some quantitative analyses; some findings, particularly Mini-MANS-LD quality-of-life outcomes, should therefore be interpreted cautiously.&lt;/p&gt; &lt;/li&gt;&lt;li&gt; &lt;p&gt;The programme was implemented nationally, but the evaluation sample should not be interpreted as nationally representative; ethical and practical constraints precluded experimental designs or...</ns1:description>
+<dc:creator>Haines-Delmont, A., Fradley, K., Rajan, D. G., Cavanagh, D.</dc:creator>
+<dc:date>2026-10-15T04:19:57-07:00</dc:date>
+<dc:identifier>info:doi/10.1136/bmjopen-2025-115706</dc:identifier>
+<dc:identifier>hwp:master-id:bmjopen;bmjopen-2025-115706</dc:identifier>
+<dc:publisher>British Medical Journal Publishing Group</dc:publisher>
+<dc:subject>Open access, Mental health</dc:subject>
+<dc:title>Mixed-methods evaluation of a rights-based intervention to reduce long-term segregation in mental health services: the HOPE(S) National Programme in England</dc:title>
+<ns2:publicationDate>2026-10-15</ns2:publicationDate>
+<ns2:section>Mental health</ns2:section>
+<ns2:volume>16</ns2:volume>
+<ns2:number>10</ns2:number>
+<ns2:startingPage>e115706</ns2:startingPage>
+<ns2:endingPage>e115706</ns2:endingPage>
+</ns1:item>
+<ns1:item rdf:about="http://bmjopen.bmj.com/cgi/content/short/16/10/e116039?rss=1">
+<ns1:title>Evaluation and performance of the {beta}-hCG discriminatory zone and targeted ultrasound findings for early pregnancy diagnosis in a high-risk population: a retrospective cohort study at a US safety-net hospital</ns1:title>
+<ns1:link>http://bmjopen.bmj.com/cgi/content/short/16/10/e116039?rss=1</ns1:link>
+<ns1:description> &lt;p&gt;&lt;textbox id="BX1"&gt;&lt;caption&gt;&lt;p&gt;STRENGTHS AND LIMITATIONS OF THIS STUDY&lt;/p&gt; &lt;/caption&gt; &lt;p&gt;&lt;l type="unord"&gt;&lt;li&gt;&lt;p&gt;This study uses data from a predominantly low-resource, high-risk population at a single safety-net hospital.&lt;/p&gt; &lt;/li&gt;&lt;li&gt; &lt;p&gt;We found that the American College of Obstetricians and Gynecologists-recommended beta-human chorionic gonadotropin discriminatory zone of 3500 mIU/mL demonstrated excellent diagnostic performance for identifying hallmarks of early intrauterine pregnancy, but performed poorly for identifying ectopic pregnancy.&lt;/p&gt; &lt;/li&gt;&lt;li&gt; &lt;p&gt;For research and policy, the study underscores the importance of validating diagnostic thresholds in socially vulnerable populations.&lt;/p&gt; &lt;/li&gt;&lt;li&gt; &lt;p&gt;Limitations include the retrospective design, the single-centre setting and possible variability in ultrasound interpretation despite specialist review.&lt;/p&gt; &lt;/li&gt;&lt;/l&gt;&lt;/p&gt;&lt;/textbox&gt;&lt;/p&gt; &lt;sec id="s1"&gt;&lt;st&gt;Introduction&lt;/st&gt; &lt;p&gt;Early and accurate diagnosis of pregnancy location and viability is essential for guiding timely and appropriate management, particularly in preventing morbidity and mortality associated with ectopic pregnancy&amp;mdash;the leading cause of first-trimester maternal death in developed countries.&lt;cross-ref type="bib" refid="R1"&gt;1&lt;/cross-ref&gt; Transvaginal ultrasonography (TVUS), in combination with quantitative measurement of serum beta-human...</ns1:description>
+<dc:creator>Cherouveim, P., Tuli, S., Cetin, E., Garner, J., Fayyaz, T., Soylu, M., Lachance, J., Merida Reyes, M. A., Kobold, R., Akinpeloye, A.</dc:creator>
+<dc:date>2026-10-15T04:19:57-07:00</dc:date>
+<dc:identifier>info:doi/10.1136/bmjopen-2025-116039</dc:identifier>
+<dc:identifier>hwp:master-id:bmjopen;bmjopen-2025-116039</dc:identifier>
+<dc:publisher>British Medical Journal Publishing Group</dc:publisher>
+<dc:subject>Open access, Obstetrics &amp; Gynaecology</dc:subject>
+<dc:title>Evaluation and performance of the {beta}-hCG discriminatory zone and targeted ultrasound findings for early pregnancy diagnosis in a high-risk population: a retrospective cohort study at a US safety-net hospital</dc:title>
+<ns2:publicationDate>2026-10-15</ns2:publicationDate>
+<ns2:section>Obstetrics and gynaecology</ns2:section>
+<ns2:volume>16</ns2:volume>
+<ns2:number>10</ns2:number>
+<ns2:startingPage>e116039</ns2:startingPage>
+<ns2:endingPage>e116039</ns2:endingPage>
+</ns1:item>
+<ns1:item rdf:about="http://bmjopen.bmj.com/cgi/content/short/16/10/e116419?rss=1">
+<ns1:title>Experiences during medical internship in Bangladesh: a multicentre cross-sectional study</ns1:title>
+<ns1:link>http://bmjopen.bmj.com/cgi/content/short/16/10/e116419?rss=1</ns1:link>
+<ns1:description> &lt;p&gt;&lt;textbox id="BX1"&gt;&lt;caption&gt;&lt;p&gt;STRENGTHS AND LIMITATIONS OF THIS STUDY&lt;/p&gt; &lt;/caption&gt; &lt;p&gt;&lt;l type="unord"&gt;&lt;li&gt;&lt;p&gt;A validated instrument (Medical Internship Experience Scale) was used to assess internship experiences.&lt;/p&gt; &lt;/li&gt;&lt;li&gt; &lt;p&gt;The multicentre design included both public and private medical colleges.&lt;/p&gt; &lt;/li&gt;&lt;li&gt; &lt;p&gt;Self-reported responses may be subject to reporting bias.&lt;/p&gt; &lt;/li&gt;&lt;li&gt; &lt;p&gt;Convenience sampling may limit the generalisability of the findings.&lt;/p&gt; &lt;/li&gt;&lt;/l&gt;&lt;/p&gt;&lt;/textbox&gt;&lt;/p&gt; &lt;sec id="s1"&gt;&lt;st&gt;Background&lt;/st&gt; &lt;p&gt;An internship is the period when medical graduates transition from structured, classroom-based training to real-world clinical responsibilities under supervision.&lt;cross-ref type="bib" refid="R1"&gt;1&lt;/cross-ref&gt; In most countries, completion of a supervised internship following undergraduate medical education is a mandatory requirement before physicians can obtain full licensure and registration with the national medical regulatory authority.&lt;cross-ref type="bib" refid="R2"&gt;2&lt;/cross-ref&gt;&lt;/p&gt; &lt;p&gt;Globally, the internship period is reported as one of the toughest stages of medical training. During this period, they face a difficult transition from medical student to doctor, taking on new clinical responsibilities while still developing confidence and competence.&lt;cross-ref type="bib" refid="R3"&gt;3&amp;ndash;5&lt;/cross-ref&gt;&lt;cross-ref...</ns1:description>
+<dc:creator>Hasan, M. J., Ray, S. K., Islam, S., Chowdhury, M. A. I., Mahmud, S., Zhao, Y., Nazim, A. Y. M., Chowdhury, N., Chowdhury, F. I., Islam, M. K., Zaman, M. S., Yasmeen, S.</dc:creator>
+<dc:date>2026-10-15T04:19:57-07:00</dc:date>
+<dc:identifier>info:doi/10.1136/bmjopen-2026-116419</dc:identifier>
+<dc:identifier>hwp:master-id:bmjopen;bmjopen-2026-116419</dc:identifier>
+<dc:publisher>British Medical Journal Publishing Group</dc:publisher>
+<dc:subject>Open access, Medical education and training</dc:subject>
+<dc:title>Experiences during medical internship in Bangladesh: a multicentre cross-sectional study</dc:title>
+<ns2:publicationDate>2026-10-15</ns2:publicationDate>
+<ns2:section>Medical education and training</ns2:section>
+<ns2:volume>16</ns2:volume>
+<ns2:number>10</ns2:number>
+<ns2:startingPage>e116419</ns2:startingPage>
+<ns2:endingPage>e116419</ns2:endingPage>
+</ns1:item>
+<ns1:item rdf:about="http://bmjopen.bmj.com/cgi/content/short/16/10/e117563?rss=1">
+<ns1:title>Return to work and work abandonment in female breast cancer survivors: systematic review and meta-analysis protocol</ns1:title>
+<ns1:link>http://bmjopen.bmj.com/cgi/content/short/16/10/e117563?rss=1</ns1:link>
+<ns1:description> &lt;p&gt;&lt;textbox id="BX1"&gt;&lt;caption&gt;&lt;p&gt;STRENGTHS AND LIMITATIONS OF THIS STUDY&lt;/p&gt; &lt;/caption&gt; &lt;p&gt;&lt;l type="unord"&gt;&lt;li&gt;&lt;p&gt;The study will synthesise real-world data from observational cohorts and cross-sectional studies, capturing the true, unsimulated clinical and occupational landscape of breast cancer survivors.&lt;/p&gt; &lt;/li&gt;&lt;li&gt; &lt;p&gt;Methodological rigour is ensured by conducting dual-independent screening/extraction and searching multiple databases, including grey literature.&lt;/p&gt; &lt;/li&gt;&lt;li&gt; &lt;p&gt;The expected high heterogeneity in methodologies, definitions of &amp;lsquo;return to work&amp;rsquo; and follow-up periods across primary observational studies may challenge direct comparison and data pooling.&lt;/p&gt; &lt;/li&gt;&lt;li&gt; &lt;p&gt;Excluding non-peer-reviewed publications and standalone qualitative studies might omit useful contextual or contemporary data regarding work rehabilitation experiences.&lt;/p&gt; &lt;/li&gt;&lt;/l&gt;&lt;/p&gt;&lt;/textbox&gt;&lt;/p&gt; &lt;sec id="s1"&gt;&lt;st&gt;Introduction&lt;/st&gt; &lt;p&gt;Breast cancer is the most common cancer among women worldwide, although prognosis has improved significantly in early stages owing to advances in the early diagnosis and treatment.&lt;cross-ref type="bib" refid="R1"&gt;1&lt;/cross-ref&gt; As the number of women surviving breast cancer increases, so too does the importance of understanding quality-of-life outcomes, including employment status.&lt;cross-ref type="bib" refid="R2"&gt;2&lt;/cross-ref&gt;...</ns1:description>
+<dc:creator>Vanzo, A. A. F., Gutierres, I. G., Xavier-Neto, A. G., Laperche-Santos, D., Resende, H., Mendes, G. O., Oliveira, S. C. S., Araujo, M. L., Medeiros, K. S. d., Cunha, A. A. C. C. d., Assad-Suzuki, D.</dc:creator>
+<dc:date>2026-10-15T04:19:57-07:00</dc:date>
+<dc:identifier>info:doi/10.1136/bmjopen-2026-117563</dc:identifier>
+<dc:identifier>hwp:master-id:bmjopen;bmjopen-2026-117563</dc:identifier>
+<dc:publisher>British Medical Journal Publishing Group</dc:publisher>
+<dc:subject>Open access, Oncology</dc:subject>
+<dc:title>Return to work and work abandonment in female breast cancer survivors: systematic review and meta-analysis protocol</dc:title>
+<ns2:publicationDate>2026-10-15</ns2:publicationDate>
+<ns2:section>Oncology</ns2:section>
+<ns2:volume>16</ns2:volume>
+<ns2:number>10</ns2:number>
+<ns2:startingPage>e117563</ns2:startingPage>
+<ns2:endingPage>e117563</ns2:endingPage>
+</ns1:item>
+<ns1:item rdf:about="http://bmjopen.bmj.com/cgi/content/short/16/10/e118486?rss=1">
+<ns1:title>Randomised, double-blind, placebo-controlled trial of faecal microbiota transplantation in patients with decompensated cirrhosis: the Livergut protocol</ns1:title>
+<ns1:link>http://bmjopen.bmj.com/cgi/content/short/16/10/e118486?rss=1</ns1:link>
+<ns1:description> &lt;p&gt;&lt;textbox id="BX1"&gt;&lt;caption&gt;&lt;p&gt;STRENGTHS AND LIMITATIONS OF THIS STUDY&lt;/p&gt; &lt;/caption&gt; &lt;p&gt;&lt;l type="unord"&gt;&lt;li&gt;&lt;p&gt;The LiverGut trial is a publicly funded, investigator-initiated, independent study designed to determine whether faecal microbiota transplantation (FMT) reduces the risk of new decompensation events and improves transplant-free survival in patients with decompensated cirrhosis.&lt;/p&gt; &lt;/li&gt;&lt;li&gt; &lt;p&gt;Extensive biological sampling&amp;mdash;including blood, urine, saliva and stool&amp;mdash;combined with mechanistic assessments (portal pressure measurement, immunological profiling and microbiome analysis) will allow detailed exploration of pathways underlying the effects of FMT.&lt;/p&gt; &lt;/li&gt;&lt;li&gt; &lt;p&gt;FMT material is produced from rigorously screened healthy donors under Good Manufacturing Practice conditions; although donor selection is not personalised, this approach supports an unbiased investigation of microbiome signatures associated with treatment response.&lt;/p&gt; &lt;/li&gt;&lt;li&gt; &lt;p&gt;This nationwide multicentre study, conducted across tertiary hospitals in Spain, reflects real-world clinical practice and facilitates rapid implementation; although limited to one country, similar trials are ongoing internationally, and the results will contribute to the emerging global evidence base on...</ns1:description>
+<dc:creator>Juanola, A., Moreta, M. J., Sole, C., Sanchez, J., Albillos, A., Martinez Gonzalez, J., Poca Sans, M., Alvarado, E., Campos-Varela, I., Cespedes, C., Alonso, S., Banares, R., Fortea, J. I., Puente, A., Llop, E., Fernandez-Carrillo, C., Moya, A., Ruiz-Ruiz, S., Fernandez-Real, J. M., Mayneris-Perxachs, J., Bonfill, E., Rivera, C., Pich, J., Piano, S., Sola, E., Torres, F., Iavarone, S., Perez-Guasch, M., Casanova, N. C., Gonzalez-Suarez, B., Fabrellas, N., Graupera, I., Pose, E., Gines, P.</dc:creator>
+<dc:date>2026-10-15T04:19:57-07:00</dc:date>
+<dc:identifier>info:doi/10.1136/bmjopen-2026-118486</dc:identifier>
+<dc:identifier>hwp:master-id:bmjopen;bmjopen-2026-118486</dc:identifier>
+<dc:publisher>British Medical Journal Publishing Group</dc:publisher>
+<dc:subject>Open access, Gastroenterology and hepatology</dc:subject>
+<dc:title>Randomised, double-blind, placebo-controlled trial of faecal microbiota transplantation in patients with decompensated cirrhosis: the Livergut protocol</dc:title>
+<ns2:publicationDate>2026-10-15</ns2:publicationDate>
+<ns2:section>Gastroenterology and hepatology</ns2:section>
+<ns2:volume>16</ns2:volume>
+<ns2:number>10</ns2:number>
+<ns2:startingPage>e118486</ns2:startingPage>
+<ns2:endingPage>e118486</ns2:endingPage>
+</ns1:item>
+<ns1:item rdf:about="http://bmjopen.bmj.com/cgi/content/short/16/10/e119475?rss=1">
+<ns1:title>Incidence of diabetes remission and association with microvascular and macrovascular complications in patients with newly diagnosed type 2 diabetes mellitus: a retrospective cohort study using real-world data in Thailand</ns1:title>
+<ns1:link>http://bmjopen.bmj.com/cgi/content/short/16/10/e119475?rss=1</ns1:link>
+<ns1:description> &lt;p&gt;&lt;textbox id="BX1"&gt;&lt;caption&gt;&lt;p&gt;STRENGTHS AND LIMITATIONS OF THIS STUDY&lt;/p&gt; &lt;/caption&gt; &lt;p&gt;&lt;l type="unord"&gt;&lt;li&gt;&lt;p&gt;Long-term follow-up (up to 14 years) in a large real-world Asian cohort.&lt;/p&gt; &lt;/li&gt;&lt;li&gt; &lt;p&gt;Use of a multistate model with a clock-reset approach as a key methodological strength.&lt;/p&gt; &lt;/li&gt;&lt;li&gt; &lt;p&gt;Outcomes verified using objective laboratory and clinical markers rather than International Classification of Diseases, 10&lt;sup&gt;th&lt;/sup&gt; Revision (ICD-10) codes alone.&lt;/p&gt; &lt;/li&gt;&lt;li&gt; &lt;p&gt;Routine clinical data collection limited the capture of detailed lifestyle factors.&lt;/p&gt; &lt;/li&gt;&lt;li&gt; &lt;p&gt;Limited generalisability beyond East Asian populations with distinct metabolic phenotypes.&lt;/p&gt; &lt;/li&gt;&lt;/l&gt;&lt;/p&gt;&lt;/textbox&gt;&lt;/p&gt; &lt;sec id="s1"&gt;&lt;st&gt;Introduction&lt;/st&gt; &lt;p&gt;Diabetes mellitus (DM) is a significant public health problem and a leading cause of death worldwide.&lt;cross-ref type="bib" refid="R1"&gt;1&lt;/cross-ref&gt; Among its various forms, type 2 diabetes mellitus (T2DM) is the most prevalent&lt;cross-ref type="bib" refid="R2"&gt;2&lt;/cross-ref&gt; and is strongly linked to an increased risk of both microvascular and macrovascular complications, including chronic kidney disease (CKD) and cardiovascular disease (CVD).&lt;cross-ref type="bib" refid="R3"&gt;3&lt;/cross-ref&gt;&lt;/p&gt; &lt;p&gt;DM is a lifelong progressive disease because insulin resistance,...</ns1:description>
+<dc:creator>Janram, A., Chanajarunwit, O., Anothaisintawee, T., Yang, J., Looareesuwan, P., Siriyotha, S., Thakkinstian, A.</dc:creator>
+<dc:date>2026-10-15T04:19:57-07:00</dc:date>
+<dc:identifier>info:doi/10.1136/bmjopen-2026-119475</dc:identifier>
+<dc:identifier>hwp:master-id:bmjopen;bmjopen-2026-119475</dc:identifier>
+<dc:publisher>British Medical Journal Publishing Group</dc:publisher>
+<dc:subject>Open access, Diabetes and Endocrinology</dc:subject>
+<dc:title>Incidence of diabetes remission and association with microvascular and macrovascular complications in patients with newly diagnosed type 2 diabetes mellitus: a retrospective cohort study using real-world data in Thailand</dc:title>
+<ns2:publicationDate>2026-10-15</ns2:publicationDate>
+<ns2:section>Diabetes and endocrinology</ns2:section>
+<ns2:volume>16</ns2:volume>
+<ns2:number>10</ns2:number>
+<ns2:startingPage>e119475</ns2:startingPage>
+<ns2:endingPage>e119475</ns2:endingPage>
+</ns1:item>
+<ns1:item rdf:about="http://bmjopen.bmj.com/cgi/content/short/16/10/e119597?rss=1">
+<ns1:title>Local food system-related predictors of food security among lactating women in rural central Oromia, Ethiopia: a cross-sectional study</ns1:title>
+<ns1:link>http://bmjopen.bmj.com/cgi/content/short/16/10/e119597?rss=1</ns1:link>
+<ns1:description> &lt;p&gt;&lt;textbox id="BX1"&gt;&lt;caption&gt;&lt;p&gt;STRENGTHS AND LIMITATIONS OF THIS STUDY&lt;/p&gt; &lt;/caption&gt; &lt;p&gt;&lt;l type="unord"&gt;&lt;li&gt;&lt;p&gt;A community-based cross-sectional study was conducted among lactating women in rural areas.&lt;/p&gt; &lt;/li&gt;&lt;li&gt; &lt;p&gt;Data were collected using interviewer-administered questionnaires to collect information from the study participants.&lt;/p&gt; &lt;/li&gt;&lt;li&gt; &lt;p&gt;The study is subject to recall and social desirability biases, which have influenced the accuracy of self-reported information.&lt;/p&gt; &lt;/li&gt;&lt;li&gt; &lt;p&gt;The cross-sectional nature of the study limits its ability to establish causal relationships between independent variables and outcome variables.&lt;/p&gt; &lt;/li&gt;&lt;li&gt; &lt;p&gt;Integrate agriculture and maternal nutrition programmes across sectors to strengthen rural women&amp;rsquo;s livelihoods and improve food security and nutrition.&lt;/p&gt; &lt;/li&gt;&lt;/l&gt;&lt;/p&gt;&lt;/textbox&gt;&lt;/p&gt; &lt;sec id="s1"&gt;&lt;st&gt;Introduction&lt;/st&gt; &lt;p&gt;Globally, women experience higher levels of food insecurity compared with men,&lt;cross-ref type="bib" refid="R1"&gt;1&lt;/cross-ref&gt; and they are disproportionately vulnerable to food insecurity triggered by shocks.&lt;cross-ref type="bib" refid="R2"&gt;2&lt;/cross-ref&gt; The World Food Programme reported that approximately 783 million people faced chronic hunger in 2023,&lt;cross-ref type="bib" refid="R3"&gt;3&lt;/cross-ref&gt; with 47.8 million more women than men affected by...</ns1:description>
+<dc:creator>Yazew, T., Lali, D. G., Beressa, G., Gemede, H. F., Dinagde, D. D.</dc:creator>
+<dc:date>2026-10-15T04:19:57-07:00</dc:date>
+<dc:identifier>info:doi/10.1136/bmjopen-2026-119597</dc:identifier>
+<dc:identifier>hwp:master-id:bmjopen;bmjopen-2026-119597</dc:identifier>
+<dc:publisher>British Medical Journal Publishing Group</dc:publisher>
+<dc:subject>Open access, Nutrition and metabolism</dc:subject>
+<dc:title>Local food system-related predictors of food security among lactating women in rural central Oromia, Ethiopia: a cross-sectional study</dc:title>
+<ns2:publicationDate>2026-10-15</ns2:publicationDate>
+<ns2:section>Nutrition and metabolism</ns2:section>
+<ns2:volume>16</ns2:volume>
+<ns2:number>10</ns2:number>
+<ns2:startingPage>e119597</ns2:startingPage>
+<ns2:endingPage>e119597</ns2:endingPage>
+</ns1:item>
+<ns1:item rdf:about="http://bmjopen.bmj.com/cgi/content/short/16/10/e120190?rss=1">
+<ns1:title>Multiplex molecular respiratory diagnostic panels and antimicrobial use in paediatric respiratory infections: a systematic review and meta-analysis protocol</ns1:title>
+<ns1:link>http://bmjopen.bmj.com/cgi/content/short/16/10/e120190?rss=1</ns1:link>
+<ns1:description> &lt;p&gt;&lt;textbox id="BX1"&gt;&lt;caption&gt;&lt;p&gt;STRENGTHS AND LIMITATIONS OF THIS STUDY&lt;/p&gt; &lt;/caption&gt; &lt;p&gt;&lt;l type="unord"&gt;&lt;li&gt;&lt;p&gt;Randomised and non-randomised studies are analysed as separate, design-specific evidence streams, appraised with the Cochrane Risk of Bias 2 and Risk of Bias in Non-randomized Studies&amp;ndash;of Interventions tools and rated with Grading of Recommendations, Assessment, Development, and Evaluation within each stream, avoiding the inappropriate combination of trial and observational evidence.&lt;/p&gt; &lt;/li&gt;&lt;li&gt; &lt;p&gt;Prespecified, operationally defined outcomes are applied across study designs, with the most fully adjusted effect estimates.&lt;/p&gt; &lt;/li&gt;&lt;li&gt; &lt;p&gt;A comprehensive, sensitivity-oriented search of five databases, trial registries and grey literature is paired with random-effects meta-analysis (restricted maximum likelihood estimation with Hartung-Knapp CIs) and prespecified subgroup and sensitivity analyses.&lt;/p&gt; &lt;/li&gt;&lt;li&gt; &lt;p&gt;Heterogeneity in diagnostic platforms, panel composition and outcome definitions, together with an anticipated small number of studies per outcome, may limit quantitative pooling, meta-regression and formal publication bias assessment.&lt;/p&gt; &lt;/li&gt;&lt;li&gt; &lt;p&gt;The review is restricted to English language reports, which may introduce...</ns1:description>
+<dc:creator>Bajaj, R., Mehta, P., Gopi, A., Mehta, P., Neelambike, S. M., Pandey, A.</dc:creator>
+<dc:date>2026-10-15T04:19:57-07:00</dc:date>
+<dc:identifier>info:doi/10.1136/bmjopen-2026-120190</dc:identifier>
+<dc:identifier>hwp:master-id:bmjopen;bmjopen-2026-120190</dc:identifier>
+<dc:publisher>British Medical Journal Publishing Group</dc:publisher>
+<dc:subject>Open access, Respiratory medicine</dc:subject>
+<dc:title>Multiplex molecular respiratory diagnostic panels and antimicrobial use in paediatric respiratory infections: a systematic review and meta-analysis protocol</dc:title>
+<ns2:publicationDate>2026-10-15</ns2:publicationDate>
+<ns2:section>Respiratory medicine</ns2:section>
+<ns2:volume>16</ns2:volume>
+<ns2:number>10</ns2:number>
+<ns2:startingPage>e120190</ns2:startingPage>
+<ns2:endingPage>e120190</ns2:endingPage>
+</ns1:item>
+<ns1:item rdf:about="http://bmjopen.bmj.com/cgi/content/short/16/10/e121660?rss=1">
+<ns1:title>Photobiomodulation therapy combined with a static magnetic field in critically ill patients receiving invasive mechanical ventilation: protocol for a multicentre randomised triple-blind placebo-controlled trial</ns1:title>
+<ns1:link>http://bmjopen.bmj.com/cgi/content/short/16/10/e121660?rss=1</ns1:link>
+<ns1:description> &lt;p&gt;&lt;textbox id="BX1"&gt;&lt;caption&gt;&lt;p&gt;STRENGTHS AND LIMITATIONS OF THIS STUDY&lt;/p&gt; &lt;/caption&gt; &lt;p&gt;&lt;l type="unord"&gt;&lt;li&gt;&lt;p&gt;The randomised, triple-blind, placebo-controlled design minimises the risk of bias and strengthens the methodological rigour of the study.&lt;/p&gt; &lt;/li&gt;&lt;li&gt; &lt;p&gt;The study evaluates both clinical outcomes and physiological mechanisms, including ultrasonographic assessment of diaphragm thickness performed by blinded assessors.&lt;/p&gt; &lt;/li&gt;&lt;li&gt; &lt;p&gt;The intervention protocol is standardised and delivered using a sham device identical in appearance and operation, ensuring rigorous blinding of participants, therapists and outcome assessors.&lt;/p&gt; &lt;/li&gt;&lt;li&gt; &lt;p&gt;The multicentre design conducted in real-world intensive care units may improve the generalisability of the findings to routine clinical practice.&lt;/p&gt; &lt;/li&gt;&lt;li&gt; &lt;p&gt;Variability in clinical management and ventilatory strategies across participating intensive care units may introduce heterogeneity that cannot be fully controlled.&lt;/p&gt; &lt;/li&gt;&lt;/l&gt;&lt;/p&gt;&lt;/textbox&gt;&lt;/p&gt; &lt;sec id="s1"&gt;&lt;st&gt;Introduction&lt;/st&gt; &lt;p&gt;Invasive mechanical ventilation is a fundamental life-support intervention used to provide respiratory support in critically ill patients who are unable to maintain adequate spontaneous ventilation. It is commonly required in patients...</ns1:description>
+<dc:creator>Leal-Junior, E. C. P., Pereira, A. L., Casalechi, H. L., Schardong, J., Della Mea Plentz, R., De Marchi, T., Johnson, D. S., Tomazoni, S. S.</dc:creator>
+<dc:date>2026-10-15T04:19:57-07:00</dc:date>
+<dc:identifier>info:doi/10.1136/bmjopen-2026-121660</dc:identifier>
+<dc:identifier>hwp:master-id:bmjopen;bmjopen-2026-121660</dc:identifier>
+<dc:publisher>British Medical Journal Publishing Group</dc:publisher>
+<dc:subject>Open access, Rehabilitation medicine</dc:subject>
+<dc:title>Photobiomodulation therapy combined with a static magnetic field in critically ill patients receiving invasive mechanical ventilation: protocol for a multicentre randomised triple-blind placebo-controlled trial</dc:title>
+<ns2:publicationDate>2026-10-15</ns2:publicationDate>
+<ns2:section>Rehabilitation medicine</ns2:section>
+<ns2:volume>16</ns2:volume>
+<ns2:number>10</ns2:number>
+<ns2:startingPage>e121660</ns2:startingPage>
+<ns2:endingPage>e121660</ns2:endingPage>
+</ns1:item>
+<ns1:item rdf:about="http://bmjopen.bmj.com/cgi/content/short/16/10/e122907?rss=1">
+<ns1:title>Web-based resources supporting a public health approach to preventing and responding to problematic and harmful sexual behaviour in children and young people: protocol for a grey literature scoping review</ns1:title>
+<ns1:link>http://bmjopen.bmj.com/cgi/content/short/16/10/e122907?rss=1</ns1:link>
+<ns1:description> &lt;p&gt;&lt;textbox id="BX1"&gt;&lt;caption&gt;&lt;p&gt;STRENGTHS AND LIMITATIONS OF THIS STUDY&lt;/p&gt; &lt;/caption&gt; &lt;p&gt;&lt;l type="unord"&gt;&lt;li&gt;&lt;p&gt;This scoping review protocol follows the Joanna Briggs Institute (JBI) methodology and the Arksey and O&amp;rsquo;Malley framework, with reporting following the Preferred Reporting Items for Systematic Reviews and Meta-Analyses extension for Scoping Reviews (PRISMA-ScR).&lt;/p&gt; &lt;/li&gt;&lt;li&gt; &lt;p&gt;The protocol has been developed based on previous grey literature scoping reviews with similar research aims.&lt;/p&gt; &lt;/li&gt;&lt;li&gt; &lt;p&gt;The review focuses exclusively on web-based resources available in Australia.&lt;/p&gt; &lt;/li&gt;&lt;li&gt; &lt;p&gt;Four complementary search strategies will be used to maximise the reach and depth of the review.&lt;/p&gt; &lt;/li&gt;&lt;li&gt; &lt;p&gt;Quantitative and qualitative analyses will be conducted to identify strengths and limitations of the resource landscape.&lt;/p&gt; &lt;/li&gt;&lt;/l&gt;&lt;/p&gt;&lt;/textbox&gt;&lt;/p&gt; &lt;sec id="s1"&gt;&lt;st&gt;Introduction&lt;/st&gt; &lt;p&gt;Problematic and harmful sexual behaviour (PHSB) can have significant impacts on victim-survivors, the child or young person responsible and their families and communities. Yet, public awareness of PHSB remains limited, as do the resources available to support professionals to prevent, identify,...</ns1:description>
+<dc:creator>Kor, K., Gillfeather-Spetere, S., Goodbourn, R., Finlay, S. M., Cameron, J., Knezevic, A.</dc:creator>
+<dc:date>2026-10-15T04:19:57-07:00</dc:date>
+<dc:identifier>info:doi/10.1136/bmjopen-2026-122907</dc:identifier>
+<dc:identifier>hwp:master-id:bmjopen;bmjopen-2026-122907</dc:identifier>
+<dc:publisher>British Medical Journal Publishing Group</dc:publisher>
+<dc:subject>Open access, Public health</dc:subject>
+<dc:title>Web-based resources supporting a public health approach to preventing and responding to problematic and harmful sexual behaviour in children and young people: protocol for a grey literature scoping review</dc:title>
+<ns2:publicationDate>2026-10-15</ns2:publicationDate>
+<ns2:section>Public health</ns2:section>
+<ns2:volume>16</ns2:volume>
+<ns2:number>10</ns2:number>
+<ns2:startingPage>e122907</ns2:startingPage>
+<ns2:endingPage>e122907</ns2:endingPage>
+</ns1:item>
+<ns1:item rdf:about="http://bmjopen.bmj.com/cgi/content/short/16/10/e123003?rss=1">
+<ns1:title>Gateway to belonging? A mixed-methods study exploring the experiences of widening participation students in a UK medical school</ns1:title>
+<ns1:link>http://bmjopen.bmj.com/cgi/content/short/16/10/e123003?rss=1</ns1:link>
+<ns1:description> &lt;p&gt;&lt;textbox id="BX1"&gt;&lt;caption&gt;&lt;p&gt;STRENGTHS AND LIMITATIONS OF THIS STUDY&lt;/p&gt; &lt;/caption&gt; &lt;p&gt;&lt;l type="unord"&gt;&lt;li&gt;&lt;p&gt;Multiple dimensions of the student experience linked to institutional integration and retention were examined.&lt;/p&gt; &lt;/li&gt;&lt;li&gt; &lt;p&gt;The mixed-methods design enabled triangulation of quantitative and qualitative findings, increasing interpretive depth.&lt;/p&gt; &lt;/li&gt;&lt;li&gt; &lt;p&gt;All participants were in Year 2 of the MBBS programme, allowing comparison at a similar stage of training.&lt;/p&gt; &lt;/li&gt;&lt;li&gt; &lt;p&gt;Evaluating at Year 2 offers key early insights but limits conclusions about longer-term impacts.&lt;/p&gt; &lt;/li&gt;&lt;li&gt; &lt;p&gt;The study was conducted at a single institution with a relatively small sample size, which may limit generalisability.&lt;/p&gt; &lt;/li&gt;&lt;/l&gt;&lt;/p&gt;&lt;/textbox&gt;&lt;/p&gt; &lt;sec id="s1"&gt;&lt;st&gt;Introduction&lt;/st&gt; &lt;p&gt;Patients want, and have better rapport with, doctors who are from a similar background.&lt;cross-ref type="bib" refid="R1"&gt;1&amp;ndash;4&lt;/cross-ref&gt;&lt;cross-ref type="bib" refid="R2"&gt;&lt;/cross-ref&gt;&lt;cross-ref type="bib" refid="R3"&gt;&lt;/cross-ref&gt;&lt;cross-ref type="bib" refid="R4"&gt;&lt;/cross-ref&gt; There is a UK-wide drive to recruit more medical students from widening participation (WP) backgrounds.&lt;cross-ref type="bib" refid="R5"&gt;5&lt;/cross-ref&gt; Broadly, WP encompasses students from traditionally low-participation backgrounds in higher education.&lt;cross-ref type="bib" refid="R5"&gt;5&lt;/cross-ref&gt; In the context of...</ns1:description>
+<dc:creator>Graham, A. I., Hubbard, K., Boland, J. W.</dc:creator>
+<dc:date>2026-10-15T04:19:57-07:00</dc:date>
+<dc:identifier>info:doi/10.1136/bmjopen-2026-123003</dc:identifier>
+<dc:identifier>hwp:master-id:bmjopen;bmjopen-2026-123003</dc:identifier>
+<dc:publisher>British Medical Journal Publishing Group</dc:publisher>
+<dc:subject>Open access, Medical education and training</dc:subject>
+<dc:title>Gateway to belonging? A mixed-methods study exploring the experiences of widening participation students in a UK medical school</dc:title>
+<ns2:publicationDate>2026-10-15</ns2:publicationDate>
+<ns2:section>Medical education and training</ns2:section>
+<ns2:volume>16</ns2:volume>
+<ns2:number>10</ns2:number>
+<ns2:startingPage>e123003</ns2:startingPage>
+<ns2:endingPage>e123003</ns2:endingPage>
+</ns1:item>
+<ns1:item rdf:about="http://bmjopen.bmj.com/cgi/content/short/16/10/e123559?rss=1">
+<ns1:title>Accessibility of essential medicines and vaccines among fisherfolk, artisanal miners and pastoralists in Mainland Tanzania: a qualitative study of barriers and strategies from the perspectives of healthcare professionals and community leaders</ns1:title>
+<ns1:link>http://bmjopen.bmj.com/cgi/content/short/16/10/e123559?rss=1</ns1:link>
+<ns1:description> &lt;p&gt;&lt;textbox id="BX1"&gt;&lt;caption&gt;&lt;p&gt;STRENGTHS AND LIMITATIONS OF THIS STUDY&lt;/p&gt; &lt;/caption&gt; &lt;p&gt;&lt;l type="unord"&gt;&lt;li&gt;&lt;p&gt;The qualitative exploratory design enabled in-depth exploration of contextual factors influencing accessibility to essential medicines and vaccines.&lt;/p&gt; &lt;/li&gt;&lt;li&gt; &lt;p&gt;Purposive sampling across national, regional, district and community levels enabled the study to capture perspectives from participants with different roles in health service delivery.&lt;/p&gt; &lt;/li&gt;&lt;li&gt; &lt;p&gt;Triangulation of perspectives across health-system professionals and community leaders, together with reflexivity and an audit trail, strengthened the credibility and confirmability of the analysis.&lt;/p&gt; &lt;/li&gt;&lt;li&gt; &lt;p&gt;The purposive selection of three regions and participants representing specific hard-to-reach populations may limit the transferability of findings to other regions and population groups in mainland Tanzania.&lt;/p&gt; &lt;/li&gt;&lt;li&gt; &lt;p&gt;The study did not include direct interviews with patients or community members, thus the findings may not fully capture service users&amp;rsquo; lived experiences, preferences and perceived barriers to accessibility.&lt;/p&gt; &lt;/li&gt;&lt;/l&gt;&lt;/p&gt;&lt;/textbox&gt;&lt;/p&gt; &lt;sec id="s1"&gt;&lt;st&gt;Introduction&lt;/st&gt; &lt;p&gt;Access to essential medicines and vaccines is a cornerstone of primary healthcare...</ns1:description>
+<dc:creator>Mushi, L. D., Otieno, N. O.</dc:creator>
+<dc:date>2026-10-15T04:19:57-07:00</dc:date>
+<dc:identifier>info:doi/10.1136/bmjopen-2026-123559</dc:identifier>
+<dc:identifier>hwp:master-id:bmjopen;bmjopen-2026-123559</dc:identifier>
+<dc:publisher>British Medical Journal Publishing Group</dc:publisher>
+<dc:subject>Open access, Health services research</dc:subject>
+<dc:title>Accessibility of essential medicines and vaccines among fisherfolk, artisanal miners and pastoralists in Mainland Tanzania: a qualitative study of barriers and strategies from the perspectives of healthcare professionals and community leaders</dc:title>
+<ns2:publicationDate>2026-10-15</ns2:publicationDate>
+<ns2:section>Health services research</ns2:section>
+<ns2:volume>16</ns2:volume>
+<ns2:number>10</ns2:number>
+<ns2:startingPage>e123559</ns2:startingPage>
+<ns2:endingPage>e123559</ns2:endingPage>
+</ns1:item>
+<ns1:item rdf:about="http://bmjopen.bmj.com/cgi/content/short/16/10/e123607?rss=1">
+<ns1:title>Beyond non-adherence: qualitative insights into how patients strategically navigate pluralistic chronic care in West Africa</ns1:title>
+<ns1:link>http://bmjopen.bmj.com/cgi/content/short/16/10/e123607?rss=1</ns1:link>
+<ns1:description> &lt;p&gt;&lt;textbox id="BX1"&gt;&lt;caption&gt;&lt;p&gt;STRENGTHS AND LIMITATIONS OF THIS STUDY&lt;/p&gt; &lt;/caption&gt; &lt;p&gt;&lt;l type="unord"&gt;&lt;li&gt;&lt;p&gt;This multicountry qualitative study drew on 84 semistructured interviews across Burkina Faso, Ghana and Niger, purposively sampling patients, biomedical providers, traditional and spiritual healers, caregivers and policy makers to allow comparison across roles and settings.&lt;/p&gt; &lt;/li&gt;&lt;li&gt; &lt;p&gt;Interviews were conducted in seven languages, with translation and bilingual checking of technical and culture-specific terms, though some loss of nuance in translation is possible.&lt;/p&gt; &lt;/li&gt;&lt;li&gt; &lt;p&gt;Analysis was abductive and theory-informed, combining Kleinman&amp;rsquo;s healthcare-sectors model, a theory of agency and the therapeutic itineraries framework.&lt;/p&gt; &lt;/li&gt;&lt;li&gt; &lt;p&gt;The design was largely cross-sectional, so care trajectories were reconstructed from participants&amp;rsquo; retrospective accounts rather than observed prospectively.&lt;/p&gt; &lt;/li&gt;&lt;/l&gt;&lt;/p&gt;&lt;/textbox&gt;&lt;/p&gt; &lt;sec id="s1"&gt;&lt;st&gt;Introduction&lt;/st&gt; &lt;p&gt;Across West Africa, chronic non-communicable diseases (NCDs) are rising faster than health systems can respond. Nearly half a million deaths were attributed to hypertension in 2019,&lt;cross-ref type="bib" refid="R1"&gt;1&lt;/cross-ref&gt; and estimated treatment discontinuation rates reach 42.7% for hypertension and...</ns1:description>
+<dc:creator>Abdul-Samed, A.-B., Mamadou, O. T., Kabore, A. T., Amarteyfio, K. N. A. A., Yamba, S. A. K., Diarra, A., Yaogo, M., Owusu-Ansah, A., McKee, M., Mirzoev, T., Agyepong, I. A., Yevoo, L., Spicer, N., Koduah, A., Balabanova, D.</dc:creator>
+<dc:date>2026-10-15T04:19:57-07:00</dc:date>
+<dc:identifier>info:doi/10.1136/bmjopen-2026-123607</dc:identifier>
+<dc:identifier>hwp:master-id:bmjopen;bmjopen-2026-123607</dc:identifier>
+<dc:publisher>British Medical Journal Publishing Group</dc:publisher>
+<dc:subject>Open access, Global health</dc:subject>
+<dc:title>Beyond non-adherence: qualitative insights into how patients strategically navigate pluralistic chronic care in West Africa</dc:title>
+<ns2:publicationDate>2026-10-15</ns2:publicationDate>
+<ns2:section>Global health</ns2:section>
+<ns2:volume>16</ns2:volume>
+<ns2:number>10</ns2:number>
+<ns2:startingPage>e123607</ns2:startingPage>
+<ns2:endingPage>e123607</ns2:endingPage>
+</ns1:item>
+<ns1:item rdf:about="http://bmjopen.bmj.com/cgi/content/short/16/10/e123975?rss=1">
+<ns1:title>Components of service delivery for the detection, care and management of children with cerebral visual impairment: a scoping review</ns1:title>
+<ns1:link>http://bmjopen.bmj.com/cgi/content/short/16/10/e123975?rss=1</ns1:link>
+<ns1:description> &lt;p&gt;&lt;textbox id="BX1"&gt;&lt;caption&gt;&lt;p&gt;STRENGTHS AND LIMITATIONS OF THIS STUDY&lt;/p&gt; &lt;/caption&gt; &lt;p&gt;&lt;l type="unord"&gt;&lt;li&gt;&lt;p&gt;The review presents a comprehensive assessment of the literature on factors influencing cerebral visual impairment service provision and encompasses a range of viewpoints including healthcare, education and family.&lt;/p&gt; &lt;/li&gt;&lt;li&gt; &lt;p&gt;As per scoping review methods, quality appraisal of studies was not conducted; therefore, only scope and direction of study findings are reported.&lt;/p&gt; &lt;/li&gt;&lt;li&gt; &lt;p&gt;The review was limited to studies published in English.&lt;/p&gt; &lt;/li&gt;&lt;/l&gt;&lt;/p&gt;&lt;/textbox&gt;&lt;/p&gt; &lt;sec id="s1"&gt;&lt;st&gt;Background&lt;/st&gt; &lt;p&gt;Cerebral visual impairment (CVI) is widely recognised as the leading cause of childhood visual impairment in high-income countries, reflecting improved survival following preterm birth and neonatal brain injury alongside advances in neonatal and paediatric care.&lt;cross-ref type="bib" refid="R1"&gt;1&amp;ndash;3&lt;/cross-ref&gt;&lt;cross-ref type="bib" refid="R2"&gt;&lt;/cross-ref&gt;&lt;cross-ref type="bib" refid="R3"&gt;&lt;/cross-ref&gt; Unlike ocular visual impairment (OVI), CVI arises from disruption to post-chiasmatic visual pathways and visual processing networks, resulting in highly heterogeneous functional visual difficulties that often coexist with motor, cognitive, communicative and sensory impairments.&lt;cross-ref type="bib"...</ns1:description>
+<dc:creator>Hepworth, L. R., Riley, A., Labinjo, T., Ravenscroft, J., Williams, C., Helliwell, B., Curtis, F., Maden, M., Croft, C., Gc, V. S., Hill, A., Hill, R. A., Robinson, S., Tudur-Smith, C., Rowe, F. J.</dc:creator>
+<dc:date>2026-10-15T04:19:57-07:00</dc:date>
+<dc:identifier>info:doi/10.1136/bmjopen-2026-123975</dc:identifier>
+<dc:identifier>hwp:master-id:bmjopen;bmjopen-2026-123975</dc:identifier>
+<dc:publisher>British Medical Journal Publishing Group</dc:publisher>
+<dc:subject>Open access, Ophthalmology</dc:subject>
+<dc:title>Components of service delivery for the detection, care and management of children with cerebral visual impairment: a scoping review</dc:title>
+<ns2:publicationDate>2026-10-15</ns2:publicationDate>
+<ns2:section>Ophthalmology</ns2:section>
+<ns2:volume>16</ns2:volume>
+<ns2:number>10</ns2:number>
+<ns2:startingPage>e123975</ns2:startingPage>
+<ns2:endingPage>e123975</ns2:endingPage>
+</ns1:item>
+<ns1:item rdf:about="http://bmjopen.bmj.com/cgi/content/short/16/10/e124543?rss=1">
+<ns1:title>Role and values of Swedish community hospitals through the eyes of general hospital doctors: a qualitative interview study</ns1:title>
+<ns1:link>http://bmjopen.bmj.com/cgi/content/short/16/10/e124543?rss=1</ns1:link>
+<ns1:description> &lt;p&gt;&lt;textbox id="BX1"&gt;&lt;caption&gt;&lt;p&gt;STRENGTHS AND LIMITATIONS OF THIS STUDY&lt;/p&gt; &lt;/caption&gt; &lt;p&gt;&lt;l type="unord"&gt;&lt;li&gt;&lt;p&gt;The interviewer had limited prior experience of the study subject, reducing bias beforehand, which was combined with strong clinical and qualitative expertise among the other researchers. Prior backgrounds within medicine and the studied context bring strength to the analysis while also influencing assumptions.&lt;/p&gt; &lt;/li&gt;&lt;li&gt; &lt;p&gt;Three general hospitals were included, together collaborating with 10 out of the 13 Swedish CHs.&lt;/p&gt; &lt;/li&gt;&lt;li&gt; &lt;p&gt;Although the number of doctors was small, the interviews were considered rich and provided sufficient data for the study.&lt;/p&gt; &lt;/li&gt;&lt;li&gt; &lt;p&gt;Transparency, contextual detail and consistency with prior Swedish research support transferability, though international comparisons require caution.&lt;/p&gt; &lt;/li&gt;&lt;/l&gt;&lt;/p&gt;&lt;/textbox&gt;&lt;/p&gt; &lt;sec id="s1"&gt;&lt;st&gt;Introduction&lt;/st&gt; &lt;p&gt;Community hospitals (CHs) have been an established component in providing healthcare in northern rural Sweden. Internationally, there is no single definition of a CH nor what services they provide. This varies between and within countries.&lt;cross-ref type="bib" refid="R1"&gt;1&lt;/cross-ref&gt; Common for many CHs...</ns1:description>
+<dc:creator>San Sebastian Hurtig, E., Asklund, I., Bra&amp;#x0308;nnstro&amp;#x0308;m, M., Hedman, M.</dc:creator>
+<dc:date>2026-10-15T04:19:57-07:00</dc:date>
+<dc:identifier>info:doi/10.1136/bmjopen-2026-124543</dc:identifier>
+<dc:identifier>hwp:master-id:bmjopen;bmjopen-2026-124543</dc:identifier>
+<dc:publisher>British Medical Journal Publishing Group</dc:publisher>
+<dc:subject>Open access, Health services research</dc:subject>
+<dc:title>Role and values of Swedish community hospitals through the eyes of general hospital doctors: a qualitative interview study</dc:title>
+<ns2:publicationDate>2026-10-15</ns2:publicationDate>
+<ns2:section>Health services research</ns2:section>
+<ns2:volume>16</ns2:volume>
+<ns2:number>10</ns2:number>
+<ns2:startingPage>e124543</ns2:startingPage>
+<ns2:endingPage>e124543</ns2:endingPage>
+</ns1:item>
+<ns1:item rdf:about="http://bmjopen.bmj.com/cgi/content/short/16/10/e109127?rss=1">
+<ns1:title>Comparative risk of injury among users of benzodiazepines and related drugs concomitantly with clarithromycin versus azithromycin: a retrospective cohort study of US Medicaid enrollees</ns1:title>
+<ns1:link>http://bmjopen.bmj.com/cgi/content/short/16/10/e109127?rss=1</ns1:link>
+<ns1:description> &lt;p&gt;&lt;textbox id="BX1"&gt;&lt;caption&gt;&lt;p&gt;STRENGTHS AND LIMITATIONS OF THIS STUDY&lt;/p&gt; &lt;/caption&gt; &lt;p&gt;&lt;l type="unord"&gt;&lt;li&gt;&lt;p&gt;Conducted in a population that may be especially susceptible to clinically relevant drug interactions.&lt;/p&gt; &lt;/li&gt;&lt;li&gt; &lt;p&gt;Active comparator, new user design attempted to mitigate potential confounding by indication.&lt;/p&gt; &lt;/li&gt;&lt;li&gt; &lt;p&gt;Somewhat dated dataset may reflect an era of clinical prescribing trends that differ from present-day.&lt;/p&gt; &lt;/li&gt;&lt;li&gt; &lt;p&gt;Did not consider post-baseline use of other medications that could have affected the rate of injury.&lt;/p&gt; &lt;/li&gt;&lt;/l&gt;&lt;/p&gt;&lt;/textbox&gt;&lt;/p&gt; &lt;sec id="s1"&gt;&lt;st&gt;Introduction&lt;/st&gt; &lt;p&gt;Benzodiazepines (BZDs) and related drugs (collectively referred to within as BZDs) are among the most used prescription drugs in the United States (USA). Approximately 31 million American adults use one of these drugs at any given time. Due to their hypnotic, anxiolytic and sedative effects, indications for BZDs include the treatment of insomnia, anxiety, panic and/or seizure disorders,&lt;cross-ref type="bib" refid="R1"&gt;1 2&lt;/cross-ref&gt;&lt;cross-ref type="bib" refid="R2"&gt;&lt;/cross-ref&gt; as well as muscle spasms and spasticity.&lt;cross-ref type="bib" refid="R3"&gt;3&lt;/cross-ref&gt; BZDs&lt;cross-ref type="bib" refid="R4"&gt;4&lt;/cross-ref&gt; act as positive...</ns1:description>
+<dc:creator>Bogar, K., Chen, C., Brensinger, C., Wang, F., Hennessy, S., Pham Nguyen, T. P., Bilker, W. B., Miano, T. A., Chung, S., Dublin, S., Horn, J., Bressi, J., Leonard, C. E.</dc:creator>
+<dc:date>2026-10-14T23:48:07-07:00</dc:date>
+<dc:identifier>info:doi/10.1136/bmjopen-2025-109127</dc:identifier>
+<dc:identifier>hwp:master-id:bmjopen;bmjopen-2025-109127</dc:identifier>
+<dc:publisher>British Medical Journal Publishing Group</dc:publisher>
+<dc:subject>Open access, Pharmacology and therapeutics</dc:subject>
+<dc:title>Comparative risk of injury among users of benzodiazepines and related drugs concomitantly with clarithromycin versus azithromycin: a retrospective cohort study of US Medicaid enrollees</dc:title>
+<ns2:publicationDate>2026-10-14</ns2:publicationDate>
+<ns2:section>Pharmacology and therapeutics</ns2:section>
+<ns2:volume>16</ns2:volume>
+<ns2:number>10</ns2:number>
+<ns2:startingPage>e109127</ns2:startingPage>
+<ns2:endingPage>e109127</ns2:endingPage>
+</ns1:item>
+</rdf:RDF>

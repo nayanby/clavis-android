@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- The home screen's own menu: the search over every note's headings and the
+     kept snapshots, and the shared library's row in the overflow. A folder is
+     made from the library itself, not from here. -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/cortex_action_search"
+        android:icon="@drawable/cortex_ic_search"
+        android:title="@string/cortex_home_search_hint"
+        app:actionViewClass="androidx.appcompat.widget.SearchView"
+        app:showAsAction="ifRoom|collapseActionView" />
+    <item
+        android:id="@+id/cortex_action_sync"
+        android:title="@string/cortex_menu_sync"
+        android:visible="false"
+        app:showAsAction="never" />
+</menu>

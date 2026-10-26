@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/cortex_action_create_notebook"
+        android:icon="@drawable/cortex_ic_add"
+        android:title="@string/cortex_action_create_notebook"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/cortex_action_paper_sort"
+        android:title="@string/cortex_action_paper_sort"
+        app:showAsAction="never">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/cortex_action_paper_sort_name"
+                    android:title="@string/cortex_sort_name" />
+                <item
+                    android:id="@+id/cortex_action_paper_sort_date"
+                    android:title="@string/cortex_sort_date" />
+                <item
+                    android:id="@+id/cortex_action_paper_sort_custom"
+                    android:title="@string/cortex_sort_custom" />
+            </group>
+        </menu>
+    </item>
+    <item
+        android:id="@+id/cortex_action_paper_rearrange"
+        android:checkable="true"
+        android:title="@string/cortex_action_paper_rearrange"
+        app:showAsAction="never" />
+</menu>

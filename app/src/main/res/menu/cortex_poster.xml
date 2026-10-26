@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  The snapshot's corner menu. The type keeps the shape it shares with the reader
+  and stays on the bar as a plain Aa, opening the one sheet that steps the size
+  and both spacings; the rest fold into the overflow. The id of the type row is
+  the reader's, so one handler serves both and steps whichever of the two
+  settings is on screen. Making and saving the snapshot are rows here rather
+  than buttons under the sheet, and both are held back until a snapshot is on
+  screen to act on.
+-->
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/cortex_action_text_size"
+        android:title="@string/cortex_action_type_bar"
+        android:orderInCategory="10"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/cortex_action_pen"
+        android:icon="@drawable/cortex_ic_pen"
+        android:title="@string/cortex_menu_pen"
+        android:orderInCategory="20"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/cortex_action_highlighter"
+        android:icon="@drawable/cortex_ic_highlighter"
+        android:title="@string/cortex_menu_highlighter"
+        android:orderInCategory="21"
+        app:iconTint="@color/cortex_ink"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/cortex_action_underliner"
+        android:icon="@drawable/cortex_ic_underliner"
+        android:title="@string/cortex_menu_underliner"
+        android:orderInCategory="22"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/cortex_action_cursor"
+        android:icon="@drawable/cortex_ic_cursor"
+        android:title="@string/cortex_menu_cursor"
+        android:orderInCategory="23"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/cortex_action_stylus"
+        android:checkable="true"
+        android:title="@string/cortex_menu_stylus"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/cortex_action_poster_make_new"
+        android:title="@string/cortex_poster_make_new"
+        android:visible="false"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/cortex_action_poster_save"
+        android:enabled="false"
+        android:title="@string/cortex_poster_save"
+        android:visible="false"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/cortex_action_poster_share_pdf"
+        android:title="@string/cortex_poster_share_pdf"
+        android:visible="false"
+        app:showAsAction="never" />
+</menu>

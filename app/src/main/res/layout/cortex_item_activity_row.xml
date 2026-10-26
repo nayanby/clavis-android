@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- One heading the reader or a study tool touched today: what it is called,
+     the note it lives in, and the icon of the kind of activity. -->
+<com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/cortex_card"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="5dp"
+    android:layout_marginBottom="5dp"
+    app:cardBackgroundColor="@color/cortex_card_background"
+    app:cardCornerRadius="18dp"
+    app:cardElevation="0dp"
+    app:strokeColor="@color/cortex_line"
+    app:strokeWidth="0dp">
+
+    <LinearLayout
+        android:id="@+id/cortex_activityRowBody"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:padding="14dp">
+
+        <FrameLayout
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:background="@drawable/cortex_bg_subject_tile">
+
+            <ImageView
+                android:id="@+id/cortex_activityIcon"
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:layout_gravity="center"
+                android:contentDescription="@null"
+                android:src="@drawable/cortex_ic_schedule"
+                app:tint="@color/cortex_muted" />
+        </FrameLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="14dp"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/cortex_activityTitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:ellipsize="end"
+                android:maxLines="2"
+                android:textColor="@color/cortex_ink"
+                android:textSize="14sp"
+                android:textStyle="bold"
+                app:fontFamily="@font/cortex_averia_serif_libre" />
+
+            <TextView
+                android:id="@+id/cortex_activitySub"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="2dp"
+                android:ellipsize="end"
+                android:maxLines="1"
+                android:textColor="@color/cortex_muted"
+                android:textSize="12sp"
+                app:fontFamily="@font/cortex_averia_serif_libre" />
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/cortex_activityDelete"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
+            android:background="?attr/selectableItemBackgroundBorderless"
+            android:contentDescription="@string/cortex_edit_delete"
+            android:padding="6dp"
+            android:src="@drawable/cortex_ic_close"
+            android:visibility="gone"
+            app:tint="@color/cortex_muted" />
+
+        <ImageView
+            android:id="@+id/cortex_activityDrag"
+            android:layout_width="24dp"
+            android:layout_height="40dp"
+            android:contentDescription="@string/cortex_action_paper_rearrange"
+            android:paddingStart="8dp"
+            android:src="@drawable/cortex_ic_drag"
+            android:visibility="gone"
+            app:tint="@color/cortex_muted" />
+    </LinearLayout>
+</com.google.android.material.card.MaterialCardView>

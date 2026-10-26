@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:id="@+id/cortex_paperPdfImage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:adjustViewBounds="false"
+        android:contentDescription="@string/cortex_home_pdfs"
+        android:scaleType="fitXY" />
+
+    <com.clavis.reader.notebook.RuledPaperView
+        android:id="@+id/cortex_paperNotebook"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="gone" />
+
+    <com.clavis.reader.notebook.NotebookImageLayer
+        android:id="@+id/cortex_paperImages"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <com.clavis.reader.notebook.InkCanvas
+        android:id="@+id/cortex_paperHighlight"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <com.clavis.reader.notebook.InkCanvas
+        android:id="@+id/cortex_paperPen"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+</FrameLayout>
