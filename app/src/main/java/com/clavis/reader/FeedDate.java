@@ -22,6 +22,3 @@ final class FeedDate {
   try{return LocalDate.parse(value).format(DateTimeFormatter.ofPattern("d MMM yyyy",locale));}catch(Exception ignored){}return "";
  }
 }
-
-
-

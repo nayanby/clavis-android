@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>PLOS Pathogens</title>
+  <link rel="alternate" href="https://journals.plos.org/plospathogens/" />
+  <author>
+    <name>PLOS</name>
+    <uri>https://journals.plos.org/plospathogens/</uri>
+    <email>customercare@plos.org</email>
+  </author>
+  <subtitle type="text">A Peer-Reviewed Open-Access Journal</subtitle>
+  <id>https://journals.plos.org/plospathogens/feed/atom</id>
+  <rights>All PLOS articles are Open Access.</rights>
+  <icon>https://journals.plos.org/plospathogens/resource/img/favicon.ico</icon>
+  <logo>https://journals.plos.org/plospathogens/resource/img/favicon.ico</logo>
+  <updated>2026-10-26T22:05:10Z</updated>
+  <entry>
+    <title>Removal of VirD2 from a synthetic T-DNA complex of &lt;i&gt;Agrobacterium&lt;/i&gt; by the host DNA repair protein TDP2</title>
+    <link rel="alternate" href="https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1014750" title="Removal of VirD2 from a synthetic T-DNA complex of &lt;i&gt;Agrobacterium&lt;/i&gt; by the host DNA repair protein TDP2" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plospathogens/article/asset?id=10.1371/journal.ppat.1014750.PDF" title="(PDF) Removal of VirD2 from a synthetic T-DNA complex of &lt;i&gt;Agrobacterium&lt;/i&gt; by the host DNA repair protein TDP2" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plospathogens/article/asset?id=10.1371/journal.ppat.1014750.XML" title="(XML) Removal of VirD2 from a synthetic T-DNA complex of &lt;i&gt;Agrobacterium&lt;/i&gt; by the host DNA repair protein TDP2" />
+    <author>
+      <name>Benoît Lacroix</name>
+    </author>
+    <author>
+      <name>Vitaly Citovsky</name>
+    </author>
+    <id>10.1371/journal.ppat.1014750</id>
+    <updated>2026-10-26T14:00:00Z</updated>
+    <published>2026-10-26T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Benoît Lacroix, Vitaly Citovsky&lt;/p&gt;
+
+During plant genetic transformation, &lt;i&gt;Agrobacterium&lt;/i&gt; transfers to its host cell a single-stranded segment of DNA (T-DNA), as a covalent complex with the virulence protein VirD2, which is ultimately integrated into the plant genome. The covalently bound VirD2 molecule is an obstacle to the ligation of the T-DNA 5’-end to host genomic DNA; therefore, VirD2 must be cleaved from the VirD2-T-DNA complex (T-complex) before the integration is completed. An interesting idea was raised that TDP2 (tyrosine phosphodiesterase 2), a protein known to resolve protein-DNA adducts, could represent a pathway for VirD2 removal from the T-complex; however, this function has not been proven directly. Here, we developed a simple technique to generate fluorescently labeled VirD2-ssDNA complexes &lt;i&gt;in vitro&lt;/i&gt; and explored the DNA substrate requirements for the VirD2-mediated formation of these complexes, establishing a tractable experimental system for studying VirD2 removal from synthetic T-complexes. Using this system, we demonstrated that TDP2, from mammalian or plant origin, can specifically cleave VirD2 from these synthetic T-complexes; this activity was Mg&lt;sup&gt;2+&lt;/sup&gt;-dependent and required a conserved C-terminal histidine residue of TDP2. Our results strongly support the hypothesis that plant TDP2 can remove VirD2 from the T-DNA before its integration into the plant genome.</content>
+  </entry>
+  <entry>
+    <title>Hydrophobic remodeling of the SARS-CoV-2 RBD large loop attenuates ACE2 engagement and viral fitness</title>
+    <link rel="alternate" href="https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1014742" title="Hydrophobic remodeling of the SARS-CoV-2 RBD large loop attenuates ACE2 engagement and viral fitness" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plospathogens/article/asset?id=10.1371/journal.ppat.1014742.PDF" title="(PDF) Hydrophobic remodeling of the SARS-CoV-2 RBD large loop attenuates ACE2 engagement and viral fitness" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plospathogens/article/asset?id=10.1371/journal.ppat.1014742.XML" title="(XML) Hydrophobic remodeling of the SARS-CoV-2 RBD large loop attenuates ACE2 engagement and viral fitness" />
+    <author>
+      <name>Aojie Wang</name>
+    </author>
+    <author>
+      <name>Huimin Guo</name>
+    </author>
+    <author>
+      <name>Haonan Yang</name>
+    </author>
+    <author>
+      <name>Haojin Chen</name>
+    </author>
+    <author>
+      <name>Anna Imojara</name>
+    </author>
+    <author>
+      <name>Bin Ju</name>
+    </author>
+    <author>
+      <name>Zheng Zhang</name>
+    </author>
+    <author>
+      <name>Renhong Yan</name>
+    </author>
+    <id>10.1371/journal.ppat.1014742</id>
+    <updated>2026-10-26T14:00:00Z</updated>
+    <published>2026-10-26T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Aojie Wang, Huimin Guo, Haonan Yang, Haojin Chen, Anna Imojara, Bin Ju, Zheng Zhang, Renhong Yan&lt;/p&gt;
+
+The SARS-CoV-2 Omicron subvariant JN.4 harbors a unique A475V substitution within the receptor binding domain (RBD) but exhibits limited expansion compared to its parallel descendant JN.1. Here, we investigate how hydrophobic remodeling within RBD large loop (residues 475–490) modulates receptor engagement and spike function. Cryo-electron microscopy reveals that A475V induces local remodeling of the receptor-binding motif (RBM) and alters the RBD–ACE2 interaction geometry. Local refinement revealed that the bulky valine substitution disrupts the local interaction network surrounding residue 475, resulting in a 3.5-fold reduction in ACE2-binding affinity compared with BA.2.86. In contrast to the L455S substitution in JN.1, which primarily alters the receptor-binding interface, A475V within the flexible large loop influences both local loop conformation and global spike conformational properties. Systematic mutagenesis identifies A475 and F486 as functionally constrained hydrophobic residues that preserve the structural framework of ACE2 engagement despite extensive sequence variation within the surrounding loop. Together with molecular dynamics simulations and functional assays, our findings establish the RBD 475–490 large loop as a structurally plastic yet functionally constrained element that balances receptor recognition, conformational stability, and antigenic diversification. These results provide a mechanistic framework for understanding region-specific evolutionary constraints that shape SARS-CoV-2 RBD adaptation.</content>
+  </entry>
+  <entry>
+    <title>The &lt;i&gt;Trichomonas vaginalis&lt;/i&gt; pseudocyst is a viable cell stage with a distinct transcriptome and an intact membrane</title>
+    <link rel="alternate" href="https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1014739" title="The &lt;i&gt;Trichomonas vaginalis&lt;/i&gt; pseudocyst is a viable cell stage with a distinct transcriptome and an intact membrane" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plospathogens/article/asset?id=10.1371/journal.ppat.1014739.PDF" title="(PDF) The &lt;i&gt;Trichomonas vaginalis&lt;/i&gt; pseudocyst is a viable cell stage with a distinct transcriptome and an intact membrane" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plospathogens/article/asset?id=10.1371/journal.ppat.1014739.XML" title="(XML) The &lt;i&gt;Trichomonas vaginalis&lt;/i&gt; pseudocyst is a viable cell stage with a distinct transcriptome and an intact membrane" />
+    <author>
+      <name>Mari Shiratori</name>
+    </author>
+    <author>
+      <name>Francisco Callejas-Hernández</name>
+    </author>
+    <author>
+      <name>Jordan C. Orosco</name>
+    </author>
+    <author>
+      <name>Steven A. Sullivan</name>
+    </author>
+    <author>
+      <name>Carlos Carmona Fontaine</name>
+    </author>
+    <author>
+      <name>Jane M. Carlton</name>
+    </author>
+    <id>10.1371/journal.ppat.1014739</id>
+    <updated>2026-10-26T14:00:00Z</updated>
+    <published>2026-10-26T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Mari Shiratori, Francisco Callejas-Hernández, Jordan C. Orosco, Steven A. Sullivan, Carlos Carmona Fontaine, Jane M. Carlton&lt;/p&gt;
+
+&lt;i&gt;Trichomonas vaginalis&lt;/i&gt; is the causative agent of trichomoniasis, the most common non-viral sexually transmitted infection (STI). Despite its prevalence, low levels of public knowledge and research funding and the absence of &lt;i&gt;T. vaginalis&lt;/i&gt; screening or control programs have led to its categorization as a “neglected” STI. Unlike other STIs in the USA, prevalence increases with age, peaking among individuals in their 40s. Both a motile trophozoite stage and a non-motile pseudocyst state have been described for the parasite, although it was long debated whether the latter is a quiescent stage or a degenerate form on its way to cell death. Here we characterize the &lt;i&gt;T. vaginalis&lt;/i&gt; pseudocyst by flow cytometry, membrane integrity assays, transcriptomics, and reversion studies. Pseudocysts were induced by culturing trophozoites in acidic media or in iron depleted media, with a variety of resulting survival rates. Flow cytometry studies showed that pseudocysts have intact cell membranes and express phosphatidylserine on their cell surface. Fluorescence-activated cell sorting studies also identified distinct sub-populations of parasites, revealing the importance of using pure live pseudocyst cultures in reversion studies. Pseudocysts were transcriptionally active for several days and had consistent subsets of genes with increased expression compared to trophozoites, although decreased transcription of genes involved in metabolism. Comparative transcriptomics of pseudocysts and trophozoites of two &lt;i&gt;T. vaginalis&lt;/i&gt; strains revealed distinct cell states. Combined, our results provide evidence that the pseudocyst cell state is a stress-induced stage of &lt;i&gt;T. vaginalis&lt;/i&gt; that can remain viable for days, with implications for a role in persistent infections.</content>
+  </entry>
+  <entry>
+    <title>Comparative S-acyl-proteomics reveals post-translational modulation of fungal purine metabolism for Verticillium wilt</title>
+    <link rel="alternate" href="https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1014730" title="Comparative S-acyl-proteomics reveals post-translational modulation of fungal purine metabolism for Verticillium wilt" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plospathogens/article/asset?id=10.1371/journal.ppat.1014730.PDF" title="(PDF) Comparative S-acyl-proteomics reveals post-translational modulation of fungal purine metabolism for Verticillium wilt" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plospathogens/article/asset?id=10.1371/journal.ppat.1014730.XML" title="(XML) Comparative S-acyl-proteomics reveals post-translational modulation of fungal purine metabolism for Verticillium wilt" />
+    <author>
+      <name>Chi Li</name>
+    </author>
+    <author>
+      <name>Wenyang Zhang</name>
+    </author>
+    <author>
+      <name>Shuaifei Cui</name>
+    </author>
+    <author>
+      <name>Jian Zhang</name>
+    </author>
+    <author>
+      <name>Yuzhen Li</name>
+    </author>
+    <author>
+      <name>Xiaoshi Liu</name>
+    </author>
+    <author>
+      <name>Yang Li</name>
+    </author>
+    <author>
+      <name>Zhiying Wang</name>
+    </author>
+    <author>
+      <name>Wenjie Huang</name>
+    </author>
+    <author>
+      <name>Gongda Li</name>
+    </author>
+    <author>
+      <name>Chengwei Yang</name>
+    </author>
+    <author>
+      <name>Shijuan Yan</name>
+    </author>
+    <author>
+      <name>Jianbin Lai</name>
+    </author>
+    <id>10.1371/journal.ppat.1014730</id>
+    <updated>2026-10-26T14:00:00Z</updated>
+    <published>2026-10-26T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Chi Li, Wenyang Zhang, Shuaifei Cui, Jian Zhang, Yuzhen Li, Xiaoshi Liu, Yang Li, Zhiying Wang, Wenjie Huang, Gongda Li, Chengwei Yang, Shijuan Yan, Jianbin Lai&lt;/p&gt;
+
+Verticillium wilt, caused by the fungus &lt;i&gt;Verticillium dahliae&lt;/i&gt;, is a devastating plant disease leading to severe global agricultural losses. Although the interaction between &lt;i&gt;V. dahliae&lt;/i&gt; and host plants has been extensively investigated, the role of metabolic regulation in fungal development and pathogenicity remains poorly understood. Fatty acids serve as metabolic substrates for S-acylation, a post-translational modification that modulates protein properties and functions, yet this process has not been characterized in &lt;i&gt;V. dahliae&lt;/i&gt;. Here, our systematic analysis revealed that the protein S-acyltransferase VdERF2 is essential for the development and pathogenicity of &lt;i&gt;V. dahliae&lt;/i&gt;. Through comparative S-acyl-proteomic analyses, we found that VdERF2-dependent S-acylation is significantly enriched in metabolic pathways, especially purine metabolism. Among the identified substrates, VdHIUH, an enzyme involved in converting uric acid to allantoin in purine metabolism, requires S-acylation for its full function in fungal development and virulence. VdERF2-mediated S-acylation enhances the activity of VdHIUH, thereby reducing uric acid accumulation. Furthermore, allantoin reduces reactive oxygen species elevated by the VdHIUH S-acylation defect, partially alleviating the fungal developmental impairment. Collectively, our findings reveal a critical mechanism by which S-acylation modulates purine metabolism in &lt;i&gt;V. dahliae&lt;/i&gt;, providing new insights into the molecular basis of fungal pathogenicity and offering potential targets for improving crop resistance to Verticillium wilt.</content>
+  </entry>
+  <entry>
+    <title>L-Histidine resensitizes multidrug-resistant bacteria to carbapenems by inhibiting New Delhi metallo-β-lactamase activity</title>
+    <link rel="alternate" href="https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1014728" title="L-Histidine resensitizes multidrug-resistant bacteria to carbapenems by inhibiting New Delhi metallo-β-lactamase activity" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plospathogens/article/asset?id=10.1371/journal.ppat.1014728.PDF" title="(PDF) L-Histidine resensitizes multidrug-resistant bacteria to carbapenems by inhibiting New Delhi metallo-β-lactamase activity" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plospathogens/article/asset?id=10.1371/journal.ppat.1014728.XML" title="(XML) L-Histidine resensitizes multidrug-resistant bacteria to carbapenems by inhibiting New Delhi metallo-β-lactamase activity" />
+    <author>
+      <name>Yanqing Yin</name>
+    </author>
+    <author>
+      <name>Sulan Hu</name>
+    </author>
+    <author>
+      <name>Dan Fang</name>
+    </author>
+    <author>
+      <name>Yanhu Huang</name>
+    </author>
+    <author>
+      <name>Miaomiao Huang</name>
+    </author>
+    <author>
+      <name>Suhong Liu</name>
+    </author>
+    <author>
+      <name>Zhiqiang Wang</name>
+    </author>
+    <author>
+      <name>Yuan Liu</name>
+    </author>
+    <id>10.1371/journal.ppat.1014728</id>
+    <updated>2026-10-26T14:00:00Z</updated>
+    <published>2026-10-26T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Yanqing Yin, Sulan Hu, Dan Fang, Yanhu Huang, Miaomiao Huang, Suhong Liu, Zhiqiang Wang, Yuan Liu&lt;/p&gt;
+
+Plasmid-mediated New Delhi metallo-β-lactamase (NDM)-producing Gram-negative pathogens have severely undermined the clinical utility of carbapenems, the last-resort antibiotics for multidrug-resistant infections. Given the limited pipeline of novel antibiotics, there is an urgent need for more effective anti-infective strategies. Through untargeted metabolomics and function screening, we find that L-histidine (L-His), a key downregulated metabolite in NDM-positive bacteria, remarkably restores carbapenem susceptibility. Mechanistically, L‑His acts through two complementary pathways: (i) direct competitive inhibition of NDM enzymatic activity via zinc chelation at the active site, and (ii) upregulation of the nickel ion transport gene cluster &lt;i&gt;nikABCDE&lt;/i&gt;, which increases intracellular Ni&lt;sup&gt;2+&lt;/sup&gt; accumulation and further suppresses NDM function through non‑competitive inhibition. Overexpression of &lt;i&gt;nikA&lt;/i&gt; potentiates the bactericidal activity of meropenem, whereas deletion of &lt;i&gt;nikAB&lt;/i&gt; attenuates the synergistic effect of L‑His and meropenem. In a murine peritonitis‑sepsis model, co‑administration of L‑His with meropenem significantly improves survival and reduces bacterial burden, with a favorable safety profile. Collectively, our findings reveal L‑His as a multi‑mechanistic metabolic adjuvant that combines direct enzyme inhibition with disruption of metal homeostasis, positioning it as a promising therapeutic strategy against NDM‑positive carbapenem‑resistant infections.</content>
+  </entry>
+  <entry>
+    <title>Vaccinia virus growth factor induces divergent signaling programs and biological outcomes from cellular epidermal growth factor</title>
+    <link rel="alternate" href="https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1014725" title="Vaccinia virus growth factor induces divergent signaling programs and biological outcomes from cellular epidermal growth factor" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plospathogens/article/asset?id=10.1371/journal.ppat.1014725.PDF" title="(PDF) Vaccinia virus growth factor induces divergent signaling programs and biological outcomes from cellular epidermal growth factor" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plospathogens/article/asset?id=10.1371/journal.ppat.1014725.XML" title="(XML) Vaccinia virus growth factor induces divergent signaling programs and biological outcomes from cellular epidermal growth factor" />
+    <author>
+      <name>Anil Pant</name>
+    </author>
+    <author>
+      <name>Lara Dsouza</name>
+    </author>
+    <author>
+      <name>Zhilong Yang</name>
+    </author>
+    <id>10.1371/journal.ppat.1014725</id>
+    <updated>2026-10-26T14:00:00Z</updated>
+    <published>2026-10-26T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Anil Pant, Lara Dsouza, Zhilong Yang&lt;/p&gt;
+
+Epidermal growth factor receptor (EGFR) signaling is a major pathway that controls cellular growth, survival, proliferation, and differentiation. Viruses often hijack this pathway to create a favorable environment to support their replication. Vaccinia virus (the prototype member of &lt;i&gt;poxviridae&lt;/i&gt;) encodes its own viral growth factor (VGF). VGF is a secreted viral polypeptide with sequence and structural homology to the cellular EGF, which binds to and activates EGFR signaling. Studies from our lab and others have shown that VGF promotes metabolic reprogramming, cell motility, virulence, and spread during VACV infection. However, it remains unclear whether VGF fully mimics EGF signaling or selectively rewires downstream pathways to meet the specific demands of viral replication. To address this question, we used quantitative global phosphoproteomics to systematically compare signaling programs induced by EGF and VGF in primary human foreskin fibroblasts. By analyzing global phosphorylation patterns, kinase activity inference, and motif enrichment, we found that although both peptides engage the same EGFR receptor, EGF and VGF induce distinct downstream phosphorylation and bias downstream kinase activities. Transcriptomic analysis provided a complementary view of the cellular responses to the ligand treatment. Moreover, we found that VGF is more effective at promoting VACV plaque formation than EGF, thereby providing functional support to the VGF-biased EGFR signaling nodes important for viral spread. These findings highlight differences in how viral and cellular growth factors activate EGFR signaling and position poxviral growth factors as powerful tools for examining the fundamental principles of cellular signaling.</content>
+  </entry>
+  <entry>
+    <title>Rebuilding the gut: Decoding enteric pathogenesis using next-generation human &lt;i&gt;in vitro&lt;/i&gt; models</title>
+    <link rel="alternate" href="https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1014718" title="Rebuilding the gut: Decoding enteric pathogenesis using next-generation human &lt;i&gt;in vitro&lt;/i&gt; models" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plospathogens/article/asset?id=10.1371/journal.ppat.1014718.PDF" title="(PDF) Rebuilding the gut: Decoding enteric pathogenesis using next-generation human &lt;i&gt;in vitro&lt;/i&gt; models" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plospathogens/article/asset?id=10.1371/journal.ppat.1014718.XML" title="(XML) Rebuilding the gut: Decoding enteric pathogenesis using next-generation human &lt;i&gt;in vitro&lt;/i&gt; models" />
+    <author>
+      <name>Linus H. Schweizer</name>
+    </author>
+    <author>
+      <name>Ashley Gilliland</name>
+    </author>
+    <author>
+      <name>Yan Chen</name>
+    </author>
+    <author>
+      <name>Artemis Melville-Bowser</name>
+    </author>
+    <author>
+      <name>Bruce A. Vallance</name>
+    </author>
+    <id>10.1371/journal.ppat.1014718</id>
+    <updated>2026-10-26T14:00:00Z</updated>
+    <published>2026-10-26T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Linus H. Schweizer, Ashley Gilliland, Yan Chen, Artemis Melville-Bowser, Bruce A. Vallance&lt;/p&gt;
+
+Traditional &lt;i&gt;in vitro&lt;/i&gt; and &lt;i&gt;in vivo&lt;/i&gt; models often fail to replicate the complex physiology of the human gastrointestinal (GI) tract, and consequently, do not fully capture how this environment influences the infective strategies employed by enteric pathogens. Here, we evaluate air-liquid interface (ALI) cultures and gut-on-a-chip (GoC) microfluidic systems as next-generation &lt;i&gt;in vitro&lt;/i&gt; models (NGIMs) that recreate critical features of the human GI mucosal surface, including the mucus layer, crypt-villus architecture, and biomechanical forces that modulate enteric pathogenesis. We review their application towards bacterial, fungal, viral, and parasitic infections, highlighting novel mechanisms that were previously undetected using traditional models. Comparing the two approaches, we outline how ALI excels for studies involving mucus and for cost-effective implementation, whereas GoC systems uniquely capture peristalsis and luminal flow, revealing dynamic pathogen-host interactions. Notably, both platforms enable complex co-culturing, allowing pathogen-host-commensal dynamics to be studied in a reductionist manner. Lastly, we discuss how future efforts aimed at better mimicking the human GI tract could incorporate stromal, immune, and enteric nervous system components, while also improving accessibility and standardization. Taken together, both ALI and GoC systems offer significant opportunities to provide new insights into infection biology, while also serving as effective preclinical platforms for precision medicine and the evaluation of next-generation antimicrobial therapies.</content>
+  </entry>
+  <entry>
+    <title>Evidence for holocentric centromeres in the early branching apicomplexan parasite &lt;i&gt;Cryptosporidium parvum&lt;/i&gt;</title>
+    <link rel="alternate" href="https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1014708" title="Evidence for holocentric centromeres in the early branching apicomplexan parasite &lt;i&gt;Cryptosporidium parvum&lt;/i&gt;" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plospathogens/article/asset?id=10.1371/journal.ppat.1014708.PDF" title="(PDF) Evidence for holocentric centromeres in the early branching apicomplexan parasite &lt;i&gt;Cryptosporidium parvum&lt;/i&gt;" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plospathogens/article/asset?id=10.1371/journal.ppat.1014708.XML" title="(XML) Evidence for holocentric centromeres in the early branching apicomplexan parasite &lt;i&gt;Cryptosporidium parvum&lt;/i&gt;" />
+    <author>
+      <name>Abigail Kimball</name>
+    </author>
+    <author>
+      <name>Wanyi Huang</name>
+    </author>
+    <author>
+      <name>Melanie Key</name>
+    </author>
+    <author>
+      <name>Rui Xu</name>
+    </author>
+    <author>
+      <name>Lisa Funkhouser-Jones</name>
+    </author>
+    <author>
+      <name>L. David Sibley</name>
+    </author>
+    <id>10.1371/journal.ppat.1014708</id>
+    <updated>2026-10-26T14:00:00Z</updated>
+    <published>2026-10-26T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Abigail Kimball, Wanyi Huang, Melanie Key, Rui Xu, Lisa Funkhouser-Jones, L. David Sibley&lt;/p&gt;
+
+During its asexual cycle, &lt;i&gt;Cryptosporidium parvum&lt;/i&gt; (&lt;i&gt;C. parvum&lt;/i&gt;) amplifies through three rounds of nuclear division before undergoing cytokinesis to form infectious merozoites. However, chromosome organization and segregation during nuclear division remain poorly studied. Here, we visualized H3-histones, including the centromeric histone H3 (CENH3), telomeres, and centrosomes during mitosis. Nuclear division was accompanied by centrosome duplication and elongated microtubules that spanned the dividing nuclei. Surprisingly, &lt;i&gt;C. parvum&lt;/i&gt; centromeres detected by CENH3 showed diffuse staining throughout nuclear division and overlapped with telomeres in the apical nucleus. Analysis of centromeres based on CENH3 capture and DNA sequencing revealed numerous distinct binding sites scattered across all eight chromosomes, including both coding regions and intergenic regions, which were typified by GA rich repeat sequences. The unique holocentric chromosome structure of &lt;i&gt;C. parvum&lt;/i&gt; is unlike the single regional centromeres found in related apicomplexans, suggesting it arose independently from other known examples in plants, insects and worms.</content>
+  </entry>
+  <entry>
+    <title>Newly developed monoclonal antibodies for marmoset immunosuppression enable KSHV lytic replication and salivary shedding: A promising model for KSHV pathogenesis studies</title>
+    <link rel="alternate" href="https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1014698" title="Newly developed monoclonal antibodies for marmoset immunosuppression enable KSHV lytic replication and salivary shedding: A promising model for KSHV pathogenesis studies" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plospathogens/article/asset?id=10.1371/journal.ppat.1014698.PDF" title="(PDF) Newly developed monoclonal antibodies for marmoset immunosuppression enable KSHV lytic replication and salivary shedding: A promising model for KSHV pathogenesis studies" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plospathogens/article/asset?id=10.1371/journal.ppat.1014698.XML" title="(XML) Newly developed monoclonal antibodies for marmoset immunosuppression enable KSHV lytic replication and salivary shedding: A promising model for KSHV pathogenesis studies" />
+    <author>
+      <name>Li Han</name>
+    </author>
+    <author>
+      <name>Esther Rodriguez</name>
+    </author>
+    <author>
+      <name>Caitlin Shaw</name>
+    </author>
+    <author>
+      <name>Joe Kurian</name>
+    </author>
+    <author>
+      <name>Saverio Capuano</name>
+    </author>
+    <author>
+      <name>Gabriela M. Escalante</name>
+    </author>
+    <author>
+      <name>Murali Muniraju</name>
+    </author>
+    <author>
+      <name>Kyle Jung</name>
+    </author>
+    <author>
+      <name>Lorraine Z. Mutsvunguma</name>
+    </author>
+    <author>
+      <name>Kathleen Engelman</name>
+    </author>
+    <author>
+      <name>Jae Jung</name>
+    </author>
+    <author>
+      <name>Corinna N. Ross</name>
+    </author>
+    <author>
+      <name>Ivana G. Reidel</name>
+    </author>
+    <author>
+      <name>Javier Gordon Ogembo</name>
+    </author>
+    <id>10.1371/journal.ppat.1014698</id>
+    <updated>2026-10-26T14:00:00Z</updated>
+    <published>2026-10-26T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Li Han, Esther Rodriguez, Caitlin Shaw, Joe Kurian, Saverio Capuano, Gabriela M. Escalante, Murali Muniraju, Kyle Jung, Lorraine Z. Mutsvunguma, Kathleen Engelman, Jae Jung, Corinna N. Ross, Ivana G. Reidel, Javier Gordon Ogembo&lt;/p&gt;
+
+Kaposi sarcoma-associated herpesvirus (KSHV) is the causative agent of Kaposi sarcoma, a malignancy that primarily affects immunocompromised individuals, and is also linked to multiple other diseases. Progress in understanding KSHV pathogenesis and developing effective vaccines or therapies has been severely limited by the lack of a reliable &lt;i&gt;in vivo&lt;/i&gt; model that recapitulates infection, persistence, and disease. Previous work suggested that the common marmoset (&lt;i&gt;Callithrix jacchus&lt;/i&gt;), a small New World primate, can support KSHV infection and pathogenesis, but the reproducibility and utility of this model has not been rigorously established. Here, we sought to validate the common marmoset as a non-human primate model for KSHV studies by evaluating viral infection under both immunocompetent and immunosuppressed conditions. We first tested the use of intravenous and oral tacrolimus-based immunosuppression, confirming infection in challenged marmosets but also encountering tacrolimus dosing inconsistencies and toxicity. To overcome these limitations, we developed and validated a targeted immunosuppression approach using two novel mouse–marmoset chimeric monoclonal antibodies, anti-CD4 [TAWA] and anti-CD8 [OCHO], to selectively deplete T cell subsets. Altogether, we demonstrated across four independent experiments that KSHV can establish systemic infection in both immunocompetent and immunosuppressed conditions marmosets, evidenced by viremia in peripheral blood mononuclear cells, detectable seroconversion, and tissue persistence. The chimeric antibodies mediated efficient, subset‑specific depletion of CD4&lt;sup&gt;+&lt;/sup&gt; and CD8&lt;sup&gt;+&lt;/sup&gt; T cells and enabled a quantifiable, well‑tolerated immunosuppressive regimen. Moreover, we showed for the first time that monoclonal antibody-treated marmosets exhibit KSHV shedding in saliva and lytic replication, indicating that infection in this model is not merely latent but supports a full, human‑like replication cycle. Together these findings validate the common marmoset as a susceptible and translationally relevant non-human primate for studying KSHV infection and introduce a practical immunosuppressive tool for dissecting viral pathogenesis and immunity &lt;i&gt;in vivo&lt;/i&gt;, providing a platform for testing vaccine and therapeutics.</content>
+  </entry>
+  <entry>
+    <title>Type I interferon signaling promotes early innate control of &lt;i&gt;Borrelia burgdorferi&lt;/i&gt; infection</title>
+    <link rel="alternate" href="https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013996" title="Type I interferon signaling promotes early innate control of &lt;i&gt;Borrelia burgdorferi&lt;/i&gt; infection" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plospathogens/article/asset?id=10.1371/journal.ppat.1013996.PDF" title="(PDF) Type I interferon signaling promotes early innate control of &lt;i&gt;Borrelia burgdorferi&lt;/i&gt; infection" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plospathogens/article/asset?id=10.1371/journal.ppat.1013996.XML" title="(XML) Type I interferon signaling promotes early innate control of &lt;i&gt;Borrelia burgdorferi&lt;/i&gt; infection" />
+    <author>
+      <name>Raj Priya</name>
+    </author>
+    <author>
+      <name>Sajith Raghunandanan</name>
+    </author>
+    <author>
+      <name>Darko Mihaljica</name>
+    </author>
+    <author>
+      <name>Nada S. Alakhras</name>
+    </author>
+    <author>
+      <name>Mark H. Kaplan</name>
+    </author>
+    <author>
+      <name>X. Frank Yang</name>
+    </author>
+    <id>10.1371/journal.ppat.1013996</id>
+    <updated>2026-10-26T14:00:00Z</updated>
+    <published>2026-10-26T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Raj Priya, Sajith Raghunandanan, Darko Mihaljica, Nada S. Alakhras, Mark H. Kaplan, X. Frank Yang&lt;/p&gt;
+
+&lt;i&gt;Borrelia burgdorferi&lt;/i&gt;, the causative agent of Lyme disease, elicits a robust type I interferon (IFN-I) response that has been strongly associated with chronic inflammatory manifestations such as Lyme arthritis. Although IFN-I is known to be induced early during infection, its functional role in the initial stages of &lt;i&gt;B. burgdorferi&lt;/i&gt; infection remains unclear. Here, we identify a protective role for IFN-I signaling in the early control of &lt;i&gt;B. burgdorferi&lt;/i&gt;. At 5 days post-challenge, mice lacking the type I interferon receptor (IFNAR1) exhibited markedly elevated spirochetal burdens at the site of inoculation, indicating that IFN-I signaling contributes to restricting early bacterial expansion. By 10 days post-challenge, IFNAR1 deficiency resulted in significantly increased bacterial loads in the skin and a trend toward higher loads in heart tissues, while joint burdens remained unaffected. Mechanistically, IFN-I signaling enhanced macrophage uptake of &lt;i&gt;B. burgdorferi&lt;/i&gt;, phagosomal processing, and intracellular killing, while also modulating inflammatory cytokine responses and promoting macrophage recruitment to the inoculation site. Conversely, pharmacological activation of IFN-I signaling augmented macrophage antimicrobial function and improved bacterial clearance. Together, these findings establish IFN-I as a key component of early host defense against &lt;i&gt;B. burgdorferi&lt;/i&gt; and reveal a time-dependent role for IFN-I signaling in Lyme disease pathogenesis, with protective functions during early infection that contrast with its pathogenic effects at later stages.</content>
+  </entry>
+</feed>

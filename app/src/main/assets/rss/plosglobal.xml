@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>PLOS Global Public Health</title>
+  <link rel="alternate" href="https://journals.plos.org/globalpublichealth/" />
+  <author>
+    <name>PLOS</name>
+    <uri>https://journals.plos.org/globalpublichealth/</uri>
+    <email>customercare@plos.org</email>
+  </author>
+  <subtitle type="text">A Peer-Reviewed Open-Access Journal</subtitle>
+  <id>https://journals.plos.org/globalpublichealth/feed/atom</id>
+  <rights>All PLOS articles are Open Access.</rights>
+  <icon>https://journals.plos.org/globalpublichealth/resource/img/favicon.ico</icon>
+  <logo>https://journals.plos.org/globalpublichealth/resource/img/favicon.ico</logo>
+  <updated>2026-10-26T22:03:13Z</updated>
+  <entry>
+    <title>Factors associated with socioeconomic inequalities in the prevalence of chronic NCD risk factors in the DIMAMO surveillance site, South Africa</title>
+    <link rel="alternate" href="https://journals.plos.org/globalpublichealth/article?id=10.1371/journal.pgph.0007483" title="Factors associated with socioeconomic inequalities in the prevalence of chronic NCD risk factors in the DIMAMO surveillance site, South Africa" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/globalpublichealth/article/asset?id=10.1371/journal.pgph.0007483.PDF" title="(PDF) Factors associated with socioeconomic inequalities in the prevalence of chronic NCD risk factors in the DIMAMO surveillance site, South Africa" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/globalpublichealth/article/asset?id=10.1371/journal.pgph.0007483.XML" title="(XML) Factors associated with socioeconomic inequalities in the prevalence of chronic NCD risk factors in the DIMAMO surveillance site, South Africa" />
+    <author>
+      <name>Khuliso Goodman Ravhuhali</name>
+    </author>
+    <author>
+      <name>Cairo Bruce Ntimana</name>
+    </author>
+    <author>
+      <name>Eric Maimela</name>
+    </author>
+    <id>10.1371/journal.pgph.0007483</id>
+    <updated>2026-10-26T14:00:00Z</updated>
+    <published>2026-10-26T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Khuliso Goodman Ravhuhali, Cairo Bruce Ntimana, Eric Maimela&lt;/p&gt;
+
+Non-communicable diseases (NCDs) are a leading cause of morbidity and mortality globally, with a disproportionate burden in low- and middle-income countries and among socioeconomically disadvantaged populations. Understanding socioeconomic inequalities in NCD risk factors is important for developing targeted prevention strategies. This study assessed factors associated with socioeconomic inequalities in chronic NCD risk factors among adults in the DIMAMO Health and Demographic Surveillance System (HDSS) in rural South Africa. A cross-sectional survey was conducted among 398 adults aged ≥18 years attending primary healthcare facilities within the DIMAMO HDSS catchment area. SES was measured using an asset-based wealth index derived through principal component analysis and categorized into quintiles. Data on tobacco use, harmful alcohol use, physical inactivity, low fruit and vegetable intake, high salt intake, self-reported hypertension, and diabetes, were collected using adapted WHO STEPS and SAGE questionnaires. Crude and adjusted prevalence ratios (PRs and aPRs) were estimated using modified Poisson regression with robust standard errors. SES was not significantly associated with hypertension after adjustment. Participants in the richer (aPR = 1.58; 95% CI: 1.03–2.41) and richest (aPR = 1.78; 95% CI: 1.11–2.85) SES quintiles had a higher prevalence of harmful alcohol use than those in the poorest quintile. Physical inactivity was less prevalent among participants in the middle, richer, and richest quintiles. Tobacco use was less prevalent among females and participants with secondary or tertiary education. Self-reported diabetes tended to be more prevalent among richest quintile, although the association was not statistically significant. Age, sex, educational attainment, and employment status were associated with several NCD risk factors. Socioeconomic inequalities in NCD risk factors were evident in this rural population. Higher SES was associated with harmful alcohol use and a lower physical inactivity. These findings highlight complex socioeconomic patterning of NCD risk factors and support context-specific interventions and longitudinal research.</content>
+  </entry>
+  <entry>
+    <title>National assessment of trauma care system capacity in Ecuador: Evaluating institutional resources and practitioner KAPS domains</title>
+    <link rel="alternate" href="https://journals.plos.org/globalpublichealth/article?id=10.1371/journal.pgph.0007065" title="National assessment of trauma care system capacity in Ecuador: Evaluating institutional resources and practitioner KAPS domains" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/globalpublichealth/article/asset?id=10.1371/journal.pgph.0007065.PDF" title="(PDF) National assessment of trauma care system capacity in Ecuador: Evaluating institutional resources and practitioner KAPS domains" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/globalpublichealth/article/asset?id=10.1371/journal.pgph.0007065.XML" title="(XML) National assessment of trauma care system capacity in Ecuador: Evaluating institutional resources and practitioner KAPS domains" />
+    <author>
+      <name>Doris Sarmiento-Altamirano</name>
+    </author>
+    <author>
+      <name>Edison Angamarca-Angamarca</name>
+    </author>
+    <author>
+      <name>Juan Carlos Salamea</name>
+    </author>
+    <author>
+      <name>Edgar B. Rodas</name>
+    </author>
+    <author>
+      <name>Luz María Moyano-Vidal</name>
+    </author>
+    <id>10.1371/journal.pgph.0007065</id>
+    <updated>2026-10-26T14:00:00Z</updated>
+    <published>2026-10-26T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Doris Sarmiento-Altamirano, Edison Angamarca-Angamarca, Juan Carlos Salamea, Edgar B. Rodas, Luz María Moyano-Vidal&lt;/p&gt;
+
+We evaluated Ecuador’s trauma care system capacity by analyzing the discrepancy between hospital infrastructure and the individual dimensions of the Knowledge, Attitudes, Practices, and Safety (KAPS) framework among medical specialists. A nationwide, multicomponent cross-sectional study was conducted (2025–2026), comprising a complete structural audit of 49 eligible public hospitals (Levels II and III) and a KAPS survey of 215 trauma-facing specialists representing 36 institutions (73.5% institutional participation rate). Spatial workflow efficiency was assessed via Emergency Department-to-Computed Tomography (ED-CT) transit distances. Independent multivariable Poisson regression models evaluated each KAPS dimension separately, reporting adjusted Incidence Rate Ratios (IRR)accounting for institutional clustering and professional seniority. The institutional audit revealed significant operational constraints: 51.0% of hospitals lacked 24/7 radiological coverage, and 16.3% experienced CT scanner downtime. Spatial ED-to-CT distances were significantly greater in Level III tertiary centers, reaching up to 300 meters (p = 0.006). Among specialists (N = 215 across 36 hospitals), ecological associations with provincial trauma volume yielded wide confidence intervals spanning the null value across domains (Knowledge: rho = 0.113, 95% CI: -0.39–0.61; Reported Practice: rho = -0.160, 95% CI: -0.66–0.34), reflecting low statistical precision from macro-level aggregation. Dimension-specific multivariable models revealed marked inter-specialty divergence: Emergency Physicians exhibited lower Knowledge (aIRR = 0.61; 95% CI: 0.50–0.74), but higher rate ratios in Reported Practices (aIRR = 1.48; 95% CI: 1.34–1.65), Attitudes (aIRR = 1.12; 95% CI: 1.09–1.16), and Safety (aIRR = 1.18; 95% CI: 1.12–1.25) relative to General Surgery. Ecuador’s trauma network exhibits a measurable discrepancy between nominal infrastructure and operational availability. System capacity is constrained by physical architectural barriers and a divergence between practitioners’ subjective perceptions and objective decision-making skills. Strategic priorities must include a unified National Trauma Registry, integrated teleradiology, and continuous scenario-based training.</content>
+  </entry>
+  <entry>
+    <title>Creating order in the uncertainty of childbirth: A qualitative study of obstetric admission and triage practices in rural Malawi</title>
+    <link rel="alternate" href="https://journals.plos.org/globalpublichealth/article?id=10.1371/journal.pgph.0006312" title="Creating order in the uncertainty of childbirth: A qualitative study of obstetric admission and triage practices in rural Malawi" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/globalpublichealth/article/asset?id=10.1371/journal.pgph.0006312.PDF" title="(PDF) Creating order in the uncertainty of childbirth: A qualitative study of obstetric admission and triage practices in rural Malawi" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/globalpublichealth/article/asset?id=10.1371/journal.pgph.0006312.XML" title="(XML) Creating order in the uncertainty of childbirth: A qualitative study of obstetric admission and triage practices in rural Malawi" />
+    <author>
+      <name>Emily Bundy</name>
+    </author>
+    <author>
+      <name>Bianca Kandeya</name>
+    </author>
+    <author>
+      <name>Wanangwa Chimwaza</name>
+    </author>
+    <author>
+      <name>Claudia Hanson</name>
+    </author>
+    <author>
+      <name>Effie Chipeta</name>
+    </author>
+    <author>
+      <name>Helle Mölsted Alvesson</name>
+    </author>
+    <id>10.1371/journal.pgph.0006312</id>
+    <updated>2026-10-26T14:00:00Z</updated>
+    <published>2026-10-26T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Emily Bundy, Bianca Kandeya, Wanangwa Chimwaza, Claudia Hanson, Effie Chipeta, Helle Mölsted Alvesson&lt;/p&gt;
+
+Maternal and neonatal mortality continues to be a concern in sub-Saharan Africa. Although standardized obstetric triage improves clinical outcomes, little is known about how locally developed admission practices function in low-resource settings where national obstetric triage guidelines are absent. This study explored how hospital-based obstetric admission procedures in rural Malawi were experienced by maternity care providers, laboring women, and companions. We used qualitative methods including in-depth interviews with mothers and maternity care providers, focus group discussions with companions and maternity care providers, and observations of two labor wards. Study participants were chosen purposively to represent diverse birth outcomes and professionals. Data analysis followed reflexive thematic analysis, concentrating on obstetric admissions. Mary Douglas’ concepts of purity, danger, and risk informed interpretation during theme development. Obstetric admissions were organized through standardized admission forms that structured assessment and enabled providers to classify women according to visible danger signs and labor progression. Although the forms were not formal triage tools, they functioned as the primary mechanism for prioritizing care, organizing patient movement through maternity spaces, and managing high patient volumes. Shared recognition of danger signs among providers, women, and companions reinforced the legitimacy of risk-based decision making. At the same time, communication was selectively restricted, limiting patient and companion participation while reinforcing professional authority and hierarchical relationships. Standardized admission procedures created order by classifying obstetric risk and prioritizing clinical efficiency, but they also reinforced hierarchical relationships that limited communication and patient participation. Efforts to strengthen obstetric admissions should preserve the benefits of standardized risk assessment while incorporating more person-centered communication and companion engagement.</content>
+  </entry>
+  <entry>
+    <title>The science of child and adolescent mental health in Mozambique: A systematic review of prevalence estimates, measurement tools, and interventions</title>
+    <link rel="alternate" href="https://journals.plos.org/globalpublichealth/article?id=10.1371/journal.pgph.0007513" title="The science of child and adolescent mental health in Mozambique: A systematic review of prevalence estimates, measurement tools, and interventions" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/globalpublichealth/article/asset?id=10.1371/journal.pgph.0007513.PDF" title="(PDF) The science of child and adolescent mental health in Mozambique: A systematic review of prevalence estimates, measurement tools, and interventions" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/globalpublichealth/article/asset?id=10.1371/journal.pgph.0007513.XML" title="(XML) The science of child and adolescent mental health in Mozambique: A systematic review of prevalence estimates, measurement tools, and interventions" />
+    <author>
+      <name>Helena Mutede Cutótua Daniel</name>
+    </author>
+    <author>
+      <name>Lauro Estivalete Marchionatti</name>
+    </author>
+    <author>
+      <name>Jessica Azevedo Veronesi</name>
+    </author>
+    <author>
+      <name>André Cardoso Campello</name>
+    </author>
+    <author>
+      <name>Luis Augusto Rohde</name>
+    </author>
+    <author>
+      <name>Caio Borba Casella</name>
+    </author>
+    <author>
+      <name>Peter Raucci</name>
+    </author>
+    <author>
+      <name>Afonso Mazine Tiago Fumo</name>
+    </author>
+    <author>
+      <name>Jair Mari</name>
+    </author>
+    <author>
+      <name>Giovanni Abrahão Salum</name>
+    </author>
+    <author>
+      <name>Lidia Gouveia</name>
+    </author>
+    <author>
+      <name>Zeina Mneimneh</name>
+    </author>
+    <id>10.1371/journal.pgph.0007513</id>
+    <updated>2026-10-23T14:00:00Z</updated>
+    <published>2026-10-23T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Helena Mutede Cutótua Daniel, Lauro Estivalete Marchionatti, Jessica Azevedo Veronesi, André Cardoso Campello, Luis Augusto Rohde, Caio Borba Casella, Peter Raucci, Afonso Mazine Tiago Fumo, Jair Mari, Giovanni Abrahão Salum, Lidia Gouveia, Zeina Mneimneh&lt;/p&gt;
+
+Mozambique is home to 18 million children and adolescents largely underrepresented in mental health research. We conducted a systematic review of evidence-based resources (prevalence estimates, assessment instruments, and interventions) on mental health-related outcomes addressing individuals aged 0–19 years in Mozambique. We searched PubMed, Web of Science, PsycINFO, CINAHL, Google Scholar, African Index Medicus, and local catalogues. Extraction followed COSMIN and Cochrane manuals (PROSPERO registration: CRD420251016208). The search yielded 81 unique publications, including 61 reports presenting prevalence estimates from 25 studies, 29 reports providing data on 42 assessment instruments, and 9 intervention reports describing 8 intervention trials. The clinical prevalence of mental disorders were estimated in two surveys, conducted in Nampula (ADHD: 13·4%; N = 748, 6–18 years) and Maputo (any mental diagnosis: 23%, anxiety disorders: 17·5%; major depression episode: 8·5%; disruptive behavior disorder: 6·6%; substance use disorders: 4·5%; ADHD: 3·3%; PTSD: 1·2%; N = 486, 12–19 years). Most research focused on psychosocial adversities, with nationally representative adolescent surveys reporting significant exposure to violence (physical/emotional violence annually: 24·86%; girls suffering intimate partner violence: 21·11%; lifetime sexual abuse: 16·55%). National suicide rates were highest among 15–19-year-olds (1·53 per 100,000). Only four instruments were cross-culturally adapted and showed reliable psychometrics (MINI-KID, GAD-7, PHQ-A, and SDQ), whilst unadapted tools performed poorly. There was a single randomized clinical trial which reported a cost-effective intervention for neurodevelopment among high-poverty preschoolers. Children and adolescents in Mozambique face significant psychosocial adversity, and available evidence suggests a substantial burden of mental disorders according to limited clinical data. There are few available instruments assessing mental conditions, and culturally sensitive approaches are warranted for strengthening local research.</content>
+  </entry>
+  <entry>
+    <title>Changes in attitudes toward the HPV vaccine in Kenya</title>
+    <link rel="alternate" href="https://journals.plos.org/globalpublichealth/article?id=10.1371/journal.pgph.0007508" title="Changes in attitudes toward the HPV vaccine in Kenya" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/globalpublichealth/article/asset?id=10.1371/journal.pgph.0007508.PDF" title="(PDF) Changes in attitudes toward the HPV vaccine in Kenya" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/globalpublichealth/article/asset?id=10.1371/journal.pgph.0007508.XML" title="(XML) Changes in attitudes toward the HPV vaccine in Kenya" />
+    <author>
+      <name>Corrina Moucheraud</name>
+    </author>
+    <author>
+      <name>Jinghong Miao</name>
+    </author>
+    <author>
+      <name>Eric Ochieng</name>
+    </author>
+    <author>
+      <name>Suyanpeng Zhang</name>
+    </author>
+    <author>
+      <name>George Ganda</name>
+    </author>
+    <author>
+      <name>Ginger Golub</name>
+    </author>
+    <author>
+      <name>Risa M. Hoffman</name>
+    </author>
+    <author>
+      <name>Peter G. Szilagyi</name>
+    </author>
+    <author>
+      <name>Sze-Chuan Suen</name>
+    </author>
+    <id>10.1371/journal.pgph.0007508</id>
+    <updated>2026-10-23T14:00:00Z</updated>
+    <published>2026-10-23T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Corrina Moucheraud, Jinghong Miao, Eric Ochieng, Suyanpeng Zhang, George Ganda, Ginger Golub, Risa M. Hoffman, Peter G. Szilagyi, Sze-Chuan Suen&lt;/p&gt;
+
+Globally, attitudes about vaccines and vaccination are changing rapidly, but few studies have examined within-person shifts over time. We use a longitudinal survey in Kenya to assess how respondents’ attitudes about the human papillomavirus (HPV) vaccine changed between 2022 and 2024. In 2022, we conducted a random digit-dialed phone survey of 1405 Kenyan parents/caregivers of girls age-eligible for the HPV vaccine; respondents were re-contacted in 2024, and 1093 people (78%) were successfully re-surveyed. Each survey included identical questions about HPV vaccine and vaccination attitudes (adapted from the Vaccine Hesitancy Scale-HPV). We estimate direction and degree of each person’s change in attitude, overall and by construct/question, and explore associations between these changes and respondent demographics, and baseline knowledge about HPV and HPV vaccination. Attitudes about the HPV vaccine changed substantially from 2022 to 2024. Although perceptions of the vaccine’s importance and effectiveness were relatively stable (only 25% of respondents reported any attitude change), there were significantly more changes among respondents with lower educational attainment and who were unemployed. Safety perceptions changed substantially over this period: two-thirds of respondents changed their beliefs around the vaccine’s side effects and riskiness. Approximately one-quarter of respondents developed a worse safety attitudes, while 18.9% of respondents improved their safety attitude. Among individuals with lower socioeconomic status, attitudes about following a clinician’s HPV vaccination recommendation and riskiness of the HPV vaccine significantly worsened over this period. We found that, in this population of Kenyan adults and over a two-year period, attitudes about the HPV vaccine have changed both positively and negatively. Targeted interventions may be needed, particularly with less socioeconomically-advantaged groups, to reinforce messages about the vaccine’s importance, effectiveness, and safety. Further research is needed about reasons for the large changes in safety perceptions, both toward more and less favorable views.</content>
+  </entry>
+  <entry>
+    <title>Risky sexual behaviors and associated factors among adolescent girls and young women in the context of HIV prevention pre-exposure prophylaxis in Tanzania: Analysis of the Tanzania HIV Impact Survey 2022–2023</title>
+    <link rel="alternate" href="https://journals.plos.org/globalpublichealth/article?id=10.1371/journal.pgph.0007311" title="Risky sexual behaviors and associated factors among adolescent girls and young women in the context of HIV prevention pre-exposure prophylaxis in Tanzania: Analysis of the Tanzania HIV Impact Survey 2022–2023" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/globalpublichealth/article/asset?id=10.1371/journal.pgph.0007311.PDF" title="(PDF) Risky sexual behaviors and associated factors among adolescent girls and young women in the context of HIV prevention pre-exposure prophylaxis in Tanzania: Analysis of the Tanzania HIV Impact Survey 2022–2023" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/globalpublichealth/article/asset?id=10.1371/journal.pgph.0007311.XML" title="(XML) Risky sexual behaviors and associated factors among adolescent girls and young women in the context of HIV prevention pre-exposure prophylaxis in Tanzania: Analysis of the Tanzania HIV Impact Survey 2022–2023" />
+    <author>
+      <name>Magreth Thadei Mwakilasa</name>
+    </author>
+    <author>
+      <name>Deodatus Kakoko</name>
+    </author>
+    <author>
+      <name>John Gilmore</name>
+    </author>
+    <author>
+      <name>Brynne Gilmore</name>
+    </author>
+    <id>10.1371/journal.pgph.0007311</id>
+    <updated>2026-10-23T14:00:00Z</updated>
+    <published>2026-10-23T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Magreth Thadei Mwakilasa, Deodatus Kakoko, John Gilmore, Brynne Gilmore&lt;/p&gt;
+
+Risky sexual behavior contributes to HIV acquisition among adolescent girls and young women (AGYW) in Sub-Saharan Africa (SSA), including Tanzania. However, nationally representative evidence on its prevalence and associated factors remains limited. This study examines the prevalence and associated factors of risky sexual behavior among AGYW aged 15–24 years in Tanzania, in the context of the expanding Pre-Exposure Prophylaxis (PrEP) provision. A secondary analysis of nationally representative data from the 2022–2023 Tanzania HIV Impact Survey (THIS) was conducted among 3,669 sexually active AGYW aged 15–24 who answered PrEP-related questions. Survey-weighted descriptive statistics, chi-square tests, and multivariable logistic regression were carried out. Adjusted odds ratios (AORs) with 95% confidence intervals (CIs) were reported, and statistical significance was set at p &lt; 0.05.The survey-weighted prevalence of risky sexual behaviors was 38.29%, higher among those aged 15–17 years than 18–24 years (61.57% versus 35.63%). Not being in a union was associated with increased odds of risky sexual behaviors among participants aged 15–17 years (AOR = 8.72, 95% CI: 4.33-17.55; p &lt; 0.001) and 18–24 years (AOR = 15.13, 95% CI: 11.40-20.08; p &lt; 0.001). Alcohol use was also associated with increased odds in both age groups (15–17 years: AOR = 13.38, 95% CI: 1.53-116.64; p = 0.019; 18–24 years: AOR = 2.47, 95% CI: 1.57-3.89; p &lt; 0.001). Among young women aged 18–24 years, health facility attendance, family planning use and willingness to use PrEP were associated with higher odds, whereas secondary or higher education, parent or guardian communication about sex or HIV, and prior HIV testing were associated with lower odds. Risky sexual behavior remains common among Tanzanian AGYW, particularly those aged 15–17 years. Age-responsive prevention programmes need to integrate behavioral and biomedical interventions, prioritizing AGYW who are not in a union and who use alcohol or have limited access to PrEP.</content>
+  </entry>
+  <entry>
+    <title>Common mental health problems experienced by adolescents living with HIV in sub-Saharan Africa: A scoping review</title>
+    <link rel="alternate" href="https://journals.plos.org/globalpublichealth/article?id=10.1371/journal.pgph.0006832" title="Common mental health problems experienced by adolescents living with HIV in sub-Saharan Africa: A scoping review" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/globalpublichealth/article/asset?id=10.1371/journal.pgph.0006832.PDF" title="(PDF) Common mental health problems experienced by adolescents living with HIV in sub-Saharan Africa: A scoping review" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/globalpublichealth/article/asset?id=10.1371/journal.pgph.0006832.XML" title="(XML) Common mental health problems experienced by adolescents living with HIV in sub-Saharan Africa: A scoping review" />
+    <author>
+      <name>Celumusa Ndlangamandla</name>
+    </author>
+    <author>
+      <name>Musa Mamba</name>
+    </author>
+    <id>10.1371/journal.pgph.0006832</id>
+    <updated>2026-10-23T14:00:00Z</updated>
+    <published>2026-10-23T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Celumusa Ndlangamandla, Musa Mamba&lt;/p&gt;
+
+Adolescents living with HIV (ALWH) carry a substantial burden of mental health problems, yet summary data remain limited. Previous reviews, particularly systematic reviews, have focused mainly on diagnosed disorders among adults or broader populations of young people living with HIV, while substance use and emotional and behavioural symptoms remain understudied and often underreported. This scoping review synthesized existing evidence on common mental health problems among ALWH aged 10–19 years in sub-Saharan Africa (SSA). We searched five electronic databases (PubMed, PsycINFO, CINAHL, Embase, and Open Access for Africa) and Google Scholar, and screened the bibliographic references of selected articles for additional studies. Search terms were combined using Boolean operators and organized into four concept categories: HIV, age, mental health, and region. Eligible studies were original, peer-reviewed research published in English between 2020 and 2026, conducted in SSA, and reporting on mental health among ALWH aged 10–19 years. The search yielded 427 records, of which 29 duplicates were removed. Of the 398 articles screened, 317 were excluded at the abstract stage and a further 57 after full-text review, leaving 24 articles for inclusion. The review identified six common mental health problems among ALWH in SSA: depressive disorders and symptoms, generalized anxiety, suicidality, emotional and behavioural problems, posttraumatic stress, and substance use problems. Depression and suicidality were the most frequently reported, whereas substance use, generalized anxiety, posttraumatic stress, and emotional and behavioural problems were less frequently reported. ALWH in SSA experience a range of mental health problems that may affect their well-being and engagement in HIV care. Routine mental health screening, prevention, and psychosocial support should be integrated into HIV care for this population. Strengthening integrated mental health and HIV services may help address unmet needs and improve health outcomes among ALWH in SSA.</content>
+  </entry>
+  <entry>
+    <title>Impact of a phased transition model on Advanced HIV Disease outcomes: A pre- and post-implementation evaluation study in Malawi</title>
+    <link rel="alternate" href="https://journals.plos.org/globalpublichealth/article?id=10.1371/journal.pgph.0006348" title="Impact of a phased transition model on Advanced HIV Disease outcomes: A pre- and post-implementation evaluation study in Malawi" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/globalpublichealth/article/asset?id=10.1371/journal.pgph.0006348.PDF" title="(PDF) Impact of a phased transition model on Advanced HIV Disease outcomes: A pre- and post-implementation evaluation study in Malawi" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/globalpublichealth/article/asset?id=10.1371/journal.pgph.0006348.XML" title="(XML) Impact of a phased transition model on Advanced HIV Disease outcomes: A pre- and post-implementation evaluation study in Malawi" />
+    <author>
+      <name>Thulani Maphosa</name>
+    </author>
+    <author>
+      <name>Rhoderick Machekano</name>
+    </author>
+    <author>
+      <name>Lise Denoeud Ndam</name>
+    </author>
+    <author>
+      <name>Lucky Makonokaya</name>
+    </author>
+    <author>
+      <name>Lloyd Chilikutali</name>
+    </author>
+    <author>
+      <name>Louiser Upile Kalitera</name>
+    </author>
+    <author>
+      <name>Eddington Matiya</name>
+    </author>
+    <author>
+      <name>Allan Mayi</name>
+    </author>
+    <author>
+      <name>Reuben Musarandega</name>
+    </author>
+    <author>
+      <name>Bilal Wilson Matola</name>
+    </author>
+    <author>
+      <name>Aida Yemane Berhan</name>
+    </author>
+    <author>
+      <name>Allan Ahimbisibwe</name>
+    </author>
+    <author>
+      <name>Appolinaire Tiam</name>
+    </author>
+    <id>10.1371/journal.pgph.0006348</id>
+    <updated>2026-10-23T14:00:00Z</updated>
+    <published>2026-10-23T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Thulani Maphosa, Rhoderick Machekano, Lise Denoeud Ndam, Lucky Makonokaya, Lloyd Chilikutali, Louiser Upile Kalitera, Eddington Matiya, Allan Mayi, Reuben Musarandega, Bilal Wilson Matola, Aida Yemane Berhan, Allan Ahimbisibwe, Appolinaire Tiam&lt;/p&gt;
+
+To promote sustainability and strengthen national ownership of Advanced HIV Disease (AHD) services, a transition was implemented across 22 health facilities in Central Malawi. This transition involved shifting responsibility for key AHD program elements from partner-led implementation to full Ministry of Health (MoH) leadership. This evaluation assessed the impact of this transition on diagnostic coverage, TB preventive therapy (TPT) uptake, and 12-month survival outcomes. A retrospective cohort study included all children and adults enrolled in AHD care during the pre-MoH transition (January 2020–December 2021) and post-MoH transition (January 2023–December 2024) periods. Eligibility was defined by national AHD criteria: CD4 count &lt;200 cells/mm³, WHO stage 3 or 4 disease, or age &lt; 5 years. Data were abstracted from clinical records and routine facility registers. Kaplan–Meier survival curves, Cox proportional hazards, and Fine and Gray competing risk models were used to evaluate 6 and 12-month mortality and retention as primary outcomes. A total of 1,044 AHD clients were included (553 pre-transition; 491 post-transition). Median age increased post-transition (35.9 to 38.5 years, p &lt; 0.001). CD4 testing uptake declined (80.7% to 46.0%, p &lt; 0.001), while WHO staging and TB diagnostic coverage improved. TB diagnoses decreased (44.5% to 31.2%, p = 0.002). TPT uptake dropped from 46.4% to 31.6% (p &lt; 0.001). Twelve-month mortality declined significantly from 9.4% to 5.5% (adjusted hazard ratio [aHR] = 0.59, 95% CI: 0.37–0.94, p = 0.026). Retention in care remained stable (HR = 0.86, 95% CI: 0.62–1.20, p = 0.384). Transitioning AHD services to MoH leadership was associated with sustained key program outcomes and a significant reduction in mortality. Continued mentorship and government ownership appeared to support these outcomes, although the pre-post design precludes causal inference. Declines in CD4 testing and TPT coverage highlight the need to strengthen diagnostics and integrate preventive care. These findings support scaling nationally led AHD models in high-burden HIV settings.</content>
+  </entry>
+  <entry>
+    <title>Microscopically detectable maternal schistosomiasis at delivery in Eastern Uganda: Prevalence, microscopy-based species distribution and associated household WASH characteristics in a hospital-based cross-sectional study</title>
+    <link rel="alternate" href="https://journals.plos.org/globalpublichealth/article?id=10.1371/journal.pgph.0006297" title="Microscopically detectable maternal schistosomiasis at delivery in Eastern Uganda: Prevalence, microscopy-based species distribution and associated household WASH characteristics in a hospital-based cross-sectional study" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/globalpublichealth/article/asset?id=10.1371/journal.pgph.0006297.PDF" title="(PDF) Microscopically detectable maternal schistosomiasis at delivery in Eastern Uganda: Prevalence, microscopy-based species distribution and associated household WASH characteristics in a hospital-based cross-sectional study" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/globalpublichealth/article/asset?id=10.1371/journal.pgph.0006297.XML" title="(XML) Microscopically detectable maternal schistosomiasis at delivery in Eastern Uganda: Prevalence, microscopy-based species distribution and associated household WASH characteristics in a hospital-based cross-sectional study" />
+    <author>
+      <name>George Binna Sande</name>
+    </author>
+    <author>
+      <name>Musa Kasujja</name>
+    </author>
+    <author>
+      <name>Emmanuel Okurut</name>
+    </author>
+    <author>
+      <name>Maxwell Okello</name>
+    </author>
+    <author>
+      <name>Marie Pascaline Sabine Ishimwe</name>
+    </author>
+    <author>
+      <name>Theodore Nteziyaremye</name>
+    </author>
+    <author>
+      <name>John Yaweh</name>
+    </author>
+    <author>
+      <name>Daniel Mugabi</name>
+    </author>
+    <author>
+      <name>Sara Liban</name>
+    </author>
+    <author>
+      <name>Geoffrey Okot</name>
+    </author>
+    <author>
+      <name>G. R. Neel</name>
+    </author>
+    <author>
+      <name>Bot Yakubu Sunday</name>
+    </author>
+    <author>
+      <name>Matthew Chibunna Igwe</name>
+    </author>
+    <author>
+      <name>Amos Muhumuza</name>
+    </author>
+    <author>
+      <name>Theoneste Hakizimana</name>
+    </author>
+    <id>10.1371/journal.pgph.0006297</id>
+    <updated>2026-10-23T14:00:00Z</updated>
+    <published>2026-10-23T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by George Binna Sande, Musa Kasujja, Emmanuel Okurut, Maxwell Okello, Marie Pascaline Sabine Ishimwe, Theodore Nteziyaremye, John Yaweh, Daniel Mugabi, Sara Liban, Geoffrey Okot, G. R. Neel, Bot Yakubu Sunday, Matthew Chibunna Igwe, Amos Muhumuza, Theoneste Hakizimana&lt;/p&gt;
+
+Schistosomiasis remains an important but neglected public health problem in Uganda. We estimated its prevalence, microscopy-based species distribution and associated factors among women delivering at Jinja Regional Referral Hospital. A hospital-based analytical cross-sectional study included 392 women from 1 September to 30 December 2025. One stool and one urine specimen per participant were examined microscopically for Schistosoma mansoni and S. haematobium, respectively. Multivariable logistic regression assessed associated factors; parsimonious conventional and Firth penalized models were used in sensitivity analyses. Microscopically detectable schistosomiasis was present in 44/392 women (11.2%; 95% CI: 8.5–14.8). Among microscopy-positive women, S. haematobium accounted for 63.6% of infections (95% CI: 48.2–76.7), S. mansoni for 29.5% (95% CI: 17.7–45.0), and mixed infection for 6.8% (95% CI: 2.1–19.6). Unimproved main water source (adjusted odds ratio [aOR] = 3.11; 95% CI: 1.46–6.64; p = 0.003), unimproved toilet facility (aOR = 4.40; 95% CI: 2.01–9.67; p &lt; 0.001) and absence of a handwashing facility (aOR = 2.12; 95% CI: 1.02–4.41; p = 0.043) remained associated with microscopy-detected infection after adjustment. Women reporting fewer than four antenatal care contacts had higher adjusted odds than those reporting four to seven contacts (aOR = 8.43; 95% CI: 3.21–22.18; p &lt; 0.001). The principal WASH associations remained consistent in sensitivity analyses. S. haematobium predominated among microscopy-classified infections. Household WASH characteristics remained associated with microscopy-detected infection, while the antenatal care association requires cautious interpretation. These cross-sectional findings do not establish causality but support further evaluation of context-appropriate schistosomiasis risk assessment within maternal health services and coordinated WASH and schistosomiasis-control strategies in endemic settings.</content>
+  </entry>
+  <entry>
+    <title>Smart Paper Technology for maternal and newborn health data in The Gambia: A qualitative study of early implementation</title>
+    <link rel="alternate" href="https://journals.plos.org/globalpublichealth/article?id=10.1371/journal.pgph.0006244" title="Smart Paper Technology for maternal and newborn health data in The Gambia: A qualitative study of early implementation" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/globalpublichealth/article/asset?id=10.1371/journal.pgph.0006244.PDF" title="(PDF) Smart Paper Technology for maternal and newborn health data in The Gambia: A qualitative study of early implementation" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/globalpublichealth/article/asset?id=10.1371/journal.pgph.0006244.XML" title="(XML) Smart Paper Technology for maternal and newborn health data in The Gambia: A qualitative study of early implementation" />
+    <author>
+      <name>Oluwatosin Nkereuwem</name>
+    </author>
+    <author>
+      <name>Jana Prauseová</name>
+    </author>
+    <author>
+      <name>Rachel Ford</name>
+    </author>
+    <author>
+      <name>Alpha Omar Jallow</name>
+    </author>
+    <author>
+      <name>Musa Marena</name>
+    </author>
+    <author>
+      <name>Gibril Jarju</name>
+    </author>
+    <author>
+      <name>Sidat Fofana</name>
+    </author>
+    <author>
+      <name>Mamady Cham</name>
+    </author>
+    <author>
+      <name>Buba Manjang</name>
+    </author>
+    <author>
+      <name>Beate Kampmann</name>
+    </author>
+    <author>
+      <name>Joanna Busza</name>
+    </author>
+    <id>10.1371/journal.pgph.0006244</id>
+    <updated>2026-10-23T14:00:00Z</updated>
+    <published>2026-10-23T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Oluwatosin Nkereuwem, Jana Prauseová, Rachel Ford, Alpha Omar Jallow, Musa Marena, Gibril Jarju, Sidat Fofana, Mamady Cham, Buba Manjang, Beate Kampmann, Joanna Busza&lt;/p&gt;
+
+Many low- and middle-income countries rely on paper-based maternal and child health records that are often incomplete, fragmented, and difficult to use for continuity of care and decision-making. Smart Paper Technology (SPT), a hybrid paper–digital documentation system, has been proposed as a practical alternative to fully electronic medical records in resource-constrained settings. This study explored the early implementation of SPT in maternal and infant health services in The Gambia, focusing on feasibility and acceptability. We conducted a qualitative descriptive implementation evaluation guided by Rapid Assessment Procedures (RAP) in two pilot facilities in the Western Region of The Gambia between September and December 2024. Data were collected through 30 semi-structured interviews; four focus group discussions with 30 participants spanning facility-level clinical, management, and administrative staff, Ministry of Health staff, and technical and implementing partners; and non-participant observations across key service delivery areas. Data were analysed thematically using NVivo 14. Participants described SPT as feasible and broadly acceptable because it built on familiar paper-based workflows, was introduced through a participatory process, and offered advantages in reporting, information retrieval, and maternal–infant record linkage. However, these benefits were contingent on the implementation context. Key challenges included uneven training coverage, dual documentation, limited internet connectivity, scanning and data capture errors, storage constraints, and concerns about data governance. Staff adapted through peer mentoring, remote troubleshooting, and local workarounds. Participants emphasised that successful scale-up would require sustained training, clear governance arrangements, adequate human and technical resources, and a phased transition to government ownership. SPT offers a practical pathway towards digitisation in maternal and infant health services in LMICs, but its success depends on strong organisational systems, workforce support, and implementation processes that are responsive to routine service realities.</content>
+  </entry>
+</feed>

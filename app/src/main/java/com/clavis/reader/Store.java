@@ -12,4 +12,3 @@ final class Store {
  static String kind(Book b){return b.author;}
  static String time(long ms){long s=ms/1000;return s>=3600?String.format(java.util.Locale.US,"%d:%02d:%02d",s/3600,s/60%60,s%60):String.format(java.util.Locale.US,"%d:%02d",s/60,s%60);}
 }
-

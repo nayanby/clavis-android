@@ -26,5 +26,3 @@ final class Book {
     String trackTitle(int index){return chapters.isEmpty()?title:chapters.get(index).title;}
     JSONObject json() { JSONObject j=new JSONObject(); try { JSONArray tracks=new JSONArray();for(Chapter c:chapters)tracks.put(c.json());j.put("addedAt",addedAt).put("lastReadAt",lastReadAt).put("uri",uri).put("title",title).put("author",author).put("duration",duration).put("position",position).put("saved",saved).put("chaptersChecked",chaptersChecked).put("coverUri",coverUri).put("epubUri",epubUri).put("chapterIndex",chapterIndex).put("speed",speed).put("chapters",tracks); } catch(Exception ignored) {} return j; }
 }
-
-

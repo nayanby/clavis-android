@@ -45,7 +45,7 @@ public class MainActivity extends Activity {
 
  GradientDrawable bg(int color,int radius){GradientDrawable d=new GradientDrawable();d.setColor(color);d.setCornerRadius(dp(radius));d.setStroke(dp(1),LINE);return d;}
 
- TextView text(String s,int size,int color,boolean heading){TextView t=new TextView(this);t.setText(s);t.setTextSize(size);t.setTextColor(color);t.setTypeface(serif);t.setLineSpacing(dp(2),1.05f);return t;}
+ TextView text(String s,int size,int color,boolean heading){TextView t=new TextView(this);t.setText(s);t.setTextSize(size);t.setTextColor(color);t.setTypeface(serif);t.setLineSpacing(dp(2),1.05f);HindiTypography.apply(t,s);if(heading&&HindiTypography.contains(s))t.setTypeface(HindiTypography.face(this,true));return t;}
 
  LinearLayout column(){LinearLayout l=new LinearLayout(this);l.setOrientation(LinearLayout.VERTICAL);return l;}
 
@@ -55,9 +55,10 @@ public class MainActivity extends Activity {
 
  void space(LinearLayout l,int height){l.addView(new View(this),new LinearLayout.LayoutParams(1,dp(height)));}
 
- private boolean resumedOnce;
- @Override protected void onResume(){super.onResume();if(resumedOnce&&getClass()==MainActivity.class){if(screen.equals("Home"))home();else if(screen.equals("EPUB")||screen.equals("PDF")||screen.equals("Audio"))UiStyle.library(this,screen,bookBrowse);else if(FeedStore.category(screen))FeedScreens.show(this,screen,feedSources);}resumedOnce=true;}
- @Override public void onCreate(Bundle state){AppTheme.configure(this);super.onCreate(state);serif=getResources().getFont(R.font.averia_serif_libre);books=Store.load(this);if(state!=null)importKind=state.getString("importKind","Audio");if(getClass()==MainActivity.class){FeedCatalog.seed(this);home();openNavigation(getIntent());if(getIntent().getBooleanExtra("audioLibrary",false))library("Audio");if(getIntent().getBooleanExtra("player",false)&&PlaybackService.live!=null)openActivePlayer();if(Build.VERSION.SDK_INT>=33&&checkSelfPermission("android.permission.POST_NOTIFICATIONS")!=android.content.pm.PackageManager.PERMISSION_GRANTED)requestPermissions(new String[]{"android.permission.POST_NOTIFICATIONS"},7);}}
+ FeedStore.Feed openFeed;private boolean resumedOnce;
+ @Override protected void onResume(){super.onResume();if(resumedOnce&&getClass()==MainActivity.class){if(screen.equals("Home"))home();else if(screen.equals("EPUB")||screen.equals("PDF")||screen.equals("Audio"))UiStyle.library(this,screen,bookBrowse);else if(FeedStore.category(screen))FeedScreens.show(this,screen,feedSources);}if(getClass()==MainActivity.class){FeedRefresh.observe(this);miniPlayer();}resumedOnce=true;}
+ @Override protected void onPause(){FeedRefresh.forget(this);super.onPause();}
+ @Override public void onCreate(Bundle state){AppTheme.configure(this);super.onCreate(state);serif=getResources().getFont(R.font.averia_serif_libre);books=Store.load(this);if(state!=null)importKind=state.getString("importKind","Audio");if(getClass()==MainActivity.class){FeedCatalog.seed(this);FeedRefresh.schedule(this);home();ArrayList<FeedStore.Feed> initialFeeds=FeedStore.load(this);FeedArtwork.prefetchSources(this,"News",initialFeeds,8);FeedArtwork.prefetchSources(this,"Journals",initialFeeds,8);FeedRefresh.maybe(this,"News");FeedRefresh.maybe(this,"Journals");openNavigation(getIntent());if(getIntent().getBooleanExtra("audioLibrary",false))library("Audio");if(getIntent().getBooleanExtra("player",false)&&PlaybackService.live!=null)openActivePlayer();if(Build.VERSION.SDK_INT>=33&&checkSelfPermission("android.permission.POST_NOTIFICATIONS")!=android.content.pm.PackageManager.PERMISSION_GRANTED)requestPermissions(new String[]{"android.permission.POST_NOTIFICATIONS"},7);}}
 
  void shell(String title){UiStyle.shell(this,title);}
 
@@ -69,7 +70,7 @@ public class MainActivity extends Activity {
 
  void bookRow(Book b){UiStyle.bookRow(this,b);}
 
- void miniPlayer(){PlaybackService s=PlaybackService.live;if(s==null||s.uri.isEmpty())return;LinearLayout.LayoutParams mp=new LinearLayout.LayoutParams(-1,-2);mp.bottomMargin=dp(76);root.addView(new MiniPlayerView(this),mp);}
+ void miniPlayer(){for(int n=root.getChildCount()-1;n>=0;n--)if(root.getChildAt(n) instanceof MiniPlayerView||root.getChildAt(n) instanceof ListenMiniPlayerView)root.removeViewAt(n);PlaybackService s=PlaybackService.live;ListenService narration=ListenService.live;boolean listening=narration!=null&&narration.story!=null&&(s==null||!s.playing());if(!listening&&(s==null||s.uri.isEmpty()))return;LinearLayout.LayoutParams mp=new LinearLayout.LayoutParams(-1,-2);mp.bottomMargin=dp(76);root.addView(listening?new ListenMiniPlayerView(this):new MiniPlayerView(this),mp);}
 
  void pickFile(String kind){importKind=kind;Intent intent=new Intent(Intent.ACTION_OPEN_DOCUMENT);intent.addCategory(Intent.CATEGORY_OPENABLE);intent.setType(kind.equals("Audio")?"audio/*":kind.equals("PDF")?"application/pdf":"application/epub+zip");intent.putExtra(Intent.EXTRA_ALLOW_MULTIPLE,true);intent.addFlags(Intent.FLAG_GRANT_READ_URI_PERMISSION|Intent.FLAG_GRANT_PERSISTABLE_URI_PERMISSION);startActivityForResult(intent,20);}
 
@@ -103,15 +104,3 @@ public class MainActivity extends Activity {
  @Override protected void onSaveInstanceState(Bundle state){state.putString("importKind",importKind);super.onSaveInstanceState(state);}
 
  @Override protected void attachBaseContext(Context base){super.attachBaseContext(AppTheme.themedContext(base));}}
-
-
-
-
-
-
-
-
-
-
-
-

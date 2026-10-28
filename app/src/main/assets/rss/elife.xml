@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>eLife: latest articles</title>
+    <link>https://elifesciences.org</link>
+    <description>All of the latest articles published at eLife, including in-progress POA (publish-on-accept) articles.</description>
+    <atom:link href="https://observer.elifesciences.org/report/latest-articles" rel="self" />
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>observer (using python-feedgen)</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 26 Oct 2026 22:03:14 +0000</lastBuildDate>
+    <webfeeds:analytics id="G-TZ0BM7CV5E" engine="GoogleAnalytics" />
+    <item>
+      <title>Open source laser-scanning photostimulation for neuroscience with Zapit</title>
+      <link>https://elifesciences.org/articles/111872</link>
+      <description>Optogenetic tools are indispensable for understanding the causal neural mechanisms underlying animal behavior, providing millisecond-precision control over genetically defined neural populations. Random-access laser-scanning optogenetics is a powerful and underutilized method for transiently manipulating cortical activity in mice. Despite the utility of this technique, no general-purpose open-source implementation currently exists, and potential users need expertise across optics, real-time hardware control, and programming. This represents a major barrier to adoption, particularly for newly established research groups. Here we present ‘Zapit’, the first open-source general-purpose platform for random-access laser-scanning optogenetic experiments in head-fixed mice. Zapit is fully documented, has a user-friendly GUI, works in stereotaxic coordinates, and comes with easy-to-build hardware options that extend functionality beyond any published system. We validate Zapit’s performance through electrophysiological recordings and cortical photoinhibition in behaving mice. Zapit is a novel and innovative tool with the potential to democratize laser-scanning optogenetics and significantly increase uptake throughout the scientific community.</description>
+      <author>p.coen@ucl.ac.uk (Ainiah Masood)</author>
+      <author>p.coen@ucl.ac.uk (Angela Y Yang)</author>
+      <author>p.coen@ucl.ac.uk (Athena Akrami)</author>
+      <author>p.coen@ucl.ac.uk (Chaofei Bao)</author>
+      <author>p.coen@ucl.ac.uk (Chunyu A Duan)</author>
+      <author>p.coen@ucl.ac.uk (Gerion Nabbefeld)</author>
+      <author>p.coen@ucl.ac.uk (Jeffrey C Erlich)</author>
+      <author>p.coen@ucl.ac.uk (Jingjie Li)</author>
+      <author>p.coen@ucl.ac.uk (Maja T Quigley)</author>
+      <author>p.coen@ucl.ac.uk (Michael Lohse)</author>
+      <author>p.coen@ucl.ac.uk (Nathaniel J Miska)</author>
+      <author>p.coen@ucl.ac.uk (Nikolaos Zervogiannis)</author>
+      <author>p.coen@ucl.ac.uk (Oliver M Gauld)</author>
+      <author>p.coen@ucl.ac.uk (Peter Vincent)</author>
+      <author>p.coen@ucl.ac.uk (Philip Coen)</author>
+      <author>p.coen@ucl.ac.uk (Quentin Pajot-Moric)</author>
+      <author>p.coen@ucl.ac.uk (Robert AA Campbell)</author>
+      <author>p.coen@ucl.ac.uk (Simon Townsend)</author>
+      <author>p.coen@ucl.ac.uk (Sonja B Hofer)</author>
+      <author>p.coen@ucl.ac.uk (Thomas D Mrsic-Flogel)</author>
+      <guid isPermaLink="false">https://dx.doi.org/10.7554/eLife.111872</guid>
+      <category>Neuroscience</category>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+      <dc:date>2026-10-26T00:00:00Z</dc:date>
+      <webfeeds:featuredImage url="https://elife-cdn.s3.amazonaws.com/observer/elife-logo-408x230.svg" height="230" width="408" type="image/svg" />
+    </item>
+    <item>
+      <title>Improved cryo-EM reconstruction of sub-50 kDa complexes using 2D template matching</title>
+      <link>https://elifesciences.org/articles/109790</link>
+      <description>Visualizing the structures of small proteins and complexes has been a longstanding challenge in single-particle cryo-electron microscopy (cryo-EM). Some of these targets have been successfully resolved by binding to antibody fragments (Fabs) or fusing with external scaffolds to increase their size. Recent advances in conventional single-particle techniques have enabled the determination of an increasing number of structures smaller than 100 kDa, achieving resolutions relevant to drug research. Compared to X-ray crystallography, cryo-EM preserves the near-native states of biomolecules, can resolve structural heterogeneity, and has the potential to apply to a wide range of targets. In this work, we demonstrate that the alignment and reconstruction of small macromolecular complexes can be improved using high-resolution structures as priors, combined with 2D template matching. Using this method, we reconstructed a previously intractable ∼43 kDa protein kinase and improved the density of its ligand-binding site. Our theoretical analysis predicts that this method can further extend single-particle cryo-EM to important drug-binding complexes well below 50 kDa.</description>
+      <author>Kexin.Zhang1@umassmed.edu (Kexin Zhang)</author>
+      <author>Kexin.Zhang1@umassmed.edu (Nikolaus Grigorieff)</author>
+      <author>Kexin.Zhang1@umassmed.edu (Timothy Grant)</author>
+      <guid isPermaLink="false">https://dx.doi.org/10.7554/eLife.109790</guid>
+      <category>Structural Biology and Molecular Biophysics</category>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+      <dc:date>2026-10-26T00:00:00Z</dc:date>
+      <webfeeds:featuredImage url="https://elife-cdn.s3.amazonaws.com/observer/elife-logo-408x230.svg" height="230" width="408" type="image/svg" />
+    </item>
+    <item>
+      <title>Small brown planthopper infestation enhances it reproduction and insecticide tolerance by manipulating glucose distribution and levels in rice</title>
+      <link>https://elifesciences.org/articles/110514</link>
+      <description>The evolutionary arms race between plants and insects involves not only direct defense and counter-defense but also sophisticated resource manipulation. However, how herbivorous insects respond to host nutritional signals to modulate their fitness traits remains unclear. This study investigates how the small brown planthopper (SBPH, &lt;i&gt;Laodelphax striatellus&lt;/i&gt;) manipulates host plant carbohydrate allocation, and to elucidate the molecular mechanisms by which the acquired glucose enhances SBPH fecundity and insecticide tolerance. Using molecular, pharmacological, and biochemical approaches, we found that SBPH infestation induced systemic carbohydrate reallocation in rice, elevating whole-plant glucose levels by promoting aerial accumulation while depleting root reserves. Host-derived glucose enhanced SBPH fecundity by activating the target of rapamycin (TOR) pathway, upregulating juvenile hormone (JH) signaling, and increasing vitellogenin production. For imidacloprid tolerance, glucose boosted glutathione S-transferase (GST) activity via two synergistic mechanisms: by upregulating glutamate cysteine ligase (GCL) to increase glutathione synthesis, and transcriptionally via the glucose-TOR-JH axis to induce &lt;i&gt;LsGSTe1&lt;/i&gt; (SBPH epsilon class GST) and &lt;i&gt;LsGSTo1&lt;/i&gt; (SBPH omega class GST) expression. Our findings establish host-derived glucose as a central signaling molecule that SBPH utilizes to modulate conserved pathways for simultaneous optimization of reproduction and insecticide resistance. This reveals a multifaceted nutrient-responsive mechanism in insect pests and identifies the glucose-TOR-JH axis as critical molecular targets for developing nutrient-based pest control strategies, such as disrupting insect nutrient-sensing pathways or modulating host carbohydrate metabolism.</description>
+      <author>gangfenglh@163.com (Hai Li)</author>
+      <author>gangfenglh@163.com (Hainan Zhang)</author>
+      <author>gangfenglh@163.com (Huichen Ge)</author>
+      <author>gangfenglh@163.com (Jianjun Wang)</author>
+      <author>gangfenglh@163.com (Jiaping Wei)</author>
+      <author>gangfenglh@163.com (Kun Qian)</author>
+      <author>gangfenglh@163.com (Qi Zhang)</author>
+      <author>gangfenglh@163.com (Xiaolong Liu)</author>
+      <guid isPermaLink="false">https://dx.doi.org/10.7554/eLife.110514</guid>
+      <category>Cell Biology</category>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+      <dc:date>2026-10-26T00:00:00Z</dc:date>
+      <webfeeds:featuredImage url="https://elife-cdn.s3.amazonaws.com/observer/elife-logo-408x230.svg" height="230" width="408" type="image/svg" />
+    </item>
+    <item>
+      <title>The transcription factor BCL11A restores differentiation potential to aged oligodendrocyte progenitor cells</title>
+      <link>https://elifesciences.org/articles/110038</link>
+      <description>In young animals, oligodendrocyte progenitor cells (OPCs) in the CNS efficiently differentiate into myelinating oligodendrocytes (OLs), whereas ageing reduces this capacity, impairing remyelination following demyelinating injury and adaptive myelination involved in learning. To identify factors that restore resilience in aged OPCs, we developed gSWITCH (&lt;a href="https://altoslabs.shinyapps.io/gSWITCH/"&gt;https://altoslabs.shinyapps.io/gSWITCH/&lt;/a&gt;, &lt;a href="https://github.com/Tanay-math/gSWITCH"&gt;https://github.com/Tanay-math/gSWITCH&lt;/a&gt;), a computational pipeline that captures dynamic gene-expression patterns to identify ‘switch’ genes during lineage progression and ordered biological transitions, including time-series experiments. gSWITCH identified OPC-characteristic switch genes, which we compared between young and aged OPCs to determine whether their regulation is altered with ageing. This revealed several transcription factors with reduced expression in aged OPCs. Transcription-factor binding-site enrichment highlighted &lt;i&gt;Bcl11a&lt;/i&gt; as a potential master-regulator of multiple switch genes. &lt;i&gt;Bcl11a&lt;/i&gt; inhibition reduced OPC differentiation into OLs, whereas its overexpression in aged OPCs significantly enhanced OL differentiation without affecting proliferation. In aged mice subjected to demyelination injury in spinal cord white matter, &lt;i&gt;Bcl11a&lt;/i&gt; overexpression increased OPC differentiation within lesions. We found that &lt;i&gt;Bcl11a&lt;/i&gt; has undergone pervasive purifying selection throughout vertebrate evolution, preserving its amino acid sequence by eliminating deleterious mutations. Our study shows that reversing the age-related decline of this evolutionarily conserved factor in aged OPCs restores their impaired capacity for differentiation.</description>
+      <author>writetotanay@gmail.com (Amar Sharma)</author>
+      <author>writetotanay@gmail.com (András Lakatos)</author>
+      <author>writetotanay@gmail.com (Chao Zhao)</author>
+      <author>writetotanay@gmail.com (Nick Goldman)</author>
+      <author>writetotanay@gmail.com (Robin JM Franklin)</author>
+      <author>writetotanay@gmail.com (Roey Baror)</author>
+      <author>writetotanay@gmail.com (Tanay Ghosh)</author>
+      <author>writetotanay@gmail.com (Wing Hei Au)</author>
+      <guid isPermaLink="false">https://dx.doi.org/10.7554/eLife.110038</guid>
+      <category>Neuroscience</category>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+      <dc:date>2026-10-26T00:00:00Z</dc:date>
+      <webfeeds:featuredImage url="https://elife-cdn.s3.amazonaws.com/observer/elife-logo-408x230.svg" height="230" width="408" type="image/svg" />
+    </item>
+    <item>
+      <title>Genetic canalization of nutrient resorption in the widespread grass &lt;i&gt;Phragmites australis&lt;/i&gt; under salt stress</title>
+      <link>https://elifesciences.org/articles/111792</link>
+      <description>Nutrient resorption is a key plant strategy for nutrient conservation, yet whether it responds plastically to non-nutrient stressors such as salinity remains unresolved. Using a common garden experiment with 110 genotypes of the cosmopolitan grass &lt;i&gt;Phragmites australis&lt;/i&gt;, we first established that the imposed salinity treatment induced strong multilevel stress responses: above-ground biomass declined by &amp;gt;60%, sodium accumulated three- to fivefold across all leaf stages, and 484 metabolites showed significant differential accumulation, including canonical markers of osmotic and oxidative stress. Against this backdrop of confirmed stress, we found that nutrient resorption efficiency (NuRE) remained largely unaffected by salinity. Instead, NuRE was strongly correlated with phylogeographic lineage, ecotype, and latitude of origin, demonstrating evolutionary canalization rather than short-term acclimation. Element-specific regulatory patterns were also evident: while phosphorus resorption followed concentration-dependent control regardless of stress, nitrogen control was disrupted under salinity, and potassium resorption showed no such dependence. Our findings reveal that intraspecific variation in nutrient resorption is predominantly shaped by historical adaptation and geographic context, not by plasticity to salinity. This genetic canalization of a key functional trait implies that predictions of nutrient cycling under global change must account for the phylogeographic composition of plant populations.</description>
+      <author>guowh@email.sdu.edu.cn (Cui Wang)</author>
+      <author>guowh@email.sdu.edu.cn (Huijia Song)</author>
+      <author>guowh@email.sdu.edu.cn (Lele Lin)</author>
+      <author>guowh@email.sdu.edu.cn (Lele Liu)</author>
+      <author>guowh@email.sdu.edu.cn (Na Li)</author>
+      <author>guowh@email.sdu.edu.cn (Ning Du)</author>
+      <author>guowh@email.sdu.edu.cn (Weihua Guo)</author>
+      <author>guowh@email.sdu.edu.cn (Wenyi Sheng)</author>
+      <author>guowh@email.sdu.edu.cn (Yaolin Guo)</author>
+      <guid isPermaLink="false">https://dx.doi.org/10.7554/eLife.111792</guid>
+      <category>Ecology</category>
+      <category>Plant Biology</category>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+      <dc:date>2026-10-26T00:00:00Z</dc:date>
+      <webfeeds:featuredImage url="https://elife-cdn.s3.amazonaws.com/observer/elife-logo-408x230.svg" height="230" width="408" type="image/svg" />
+    </item>
+    <item>
+      <title>SARS-CoV-2 main protease inhibition through dimerization promotion by peptidomimetic inhibitors and disruption by ebselen</title>
+      <link>https://elifesciences.org/articles/109956</link>
+      <description>The SARS-CoV-2 main protease (M&lt;sup&gt;pro&lt;/sup&gt;) is a key antiviral target that equilibrates between an active dimer and inactive monomer, making the dimerization interface a promising therapeutic vulnerability. This study investigates M&lt;sup&gt;pro&lt;/sup&gt; monomer-dimer equilibrium and conformational changes induced by inhibitor binding using &lt;sup&gt;13&lt;/sup&gt;C labeling with native mass spectrometry and hydrogen/deuterium exchange mass spectrometry (HDX-MS). We evaluated how peptidomimetic inhibitors (PF-07321332, PF-00835231, GC376, boceprevir) and non-peptidomimetic inhibitors (carmofur, ebselen, MR6-31-2, AT7519, pelitinib) influence M&lt;sup&gt;pro&lt;/sup&gt; dimerization and subunit exchange. Key findings revealed divergent mechanisms: peptidomimetic inhibitors significantly shifted the equilibrium towards the dimeric state, suppressing subunit exchange dynamics and rigidifying the dimer interface; in contrast, ebselen impaired dimer formation and increased interface flexibility. Notably, tandem mass spectrometry identified a novel covalent binding site for ebselen at C300. Molecular dynamics simulations and mutational analyses demonstrated that this C300 modification allosterically alters the hydrogen bond network of the dimer interface, directly contributing to ebselen-mediated dimer disruption and enzymatic inhibition. Overall, this study clarifies distinct inhibitory modes between peptidomimetics and ebselen, highlighting the therapeutic potential of targeting allosteric sites at the dimer interface for designing next-generation M&lt;sup&gt;pro&lt;/sup&gt; inhibitors.</description>
+      <author>zhongping.yao@polyu.edu.hk (Chang Zhao)</author>
+      <author>zhongping.yao@polyu.edu.hk (Chengxi Liu)</author>
+      <author>zhongping.yao@polyu.edu.hk (Qinyu Jia)</author>
+      <author>zhongping.yao@polyu.edu.hk (Zhong-Ping Yao)</author>
+      <guid isPermaLink="false">https://dx.doi.org/10.7554/eLife.109956</guid>
+      <category>Biochemistry and Chemical Biology</category>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+      <dc:date>2026-10-26T00:00:00Z</dc:date>
+      <webfeeds:featuredImage url="https://elife-cdn.s3.amazonaws.com/observer/elife-logo-408x230.svg" height="230" width="408" type="image/svg" />
+    </item>
+    <item>
+      <title>Correction: Sequentially induced motor neurons from human fibroblasts facilitate locomotor recovery in a rodent spinal cord injury model</title>
+      <link>https://elifesciences.org/articles/113550</link>
+      <guid isPermaLink="false">https://dx.doi.org/10.7554/eLife.113550</guid>
+      <category>Stem Cells and Regenerative Medicine</category>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+      <dc:date>2026-10-26T00:00:00Z</dc:date>
+      <webfeeds:featuredImage url="https://elife-cdn.s3.amazonaws.com/observer/elife-logo-408x230.svg" height="230" width="408" type="image/svg" />
+    </item>
+    <item>
+      <title>Heterogeneous responses to embryonic critical period perturbations within the &lt;i&gt;Drosophila&lt;/i&gt; larval locomotor circuit</title>
+      <link>https://elifesciences.org/articles/108656</link>
+      <description>As developing neural circuits become functional, they undergo a phase of heightened plasticity that facilitates network tuning in response to intrinsic and/or extrinsic stimuli. These developmental windows are termed critical periods (CPs) because perturbations during but not outside the CP can lead to lasting changes, such as the formation of sub-optimal or unstable networks. How separate but connected elements within a network might respond differently to a CP perturbation is not well understood. To study this, we used the locomotor network of the &lt;i&gt;Drosophila&lt;/i&gt; larva as a model and heat stress as a CP stimulus that has ecological relevance. When embryos experienced heat stress, the subsequent development of their locomotor network was changed, creating larvae with reduced crawling speed and decreased network stability. Developing body wall muscles and central neurons are sensitive to heat stress perturbations during distinct, consecutive phases of embryogenesis. Within the CNS, transient embryonic CP perturbation leads to increased synaptic drive from premotor interneurons to motoneurons, which in turn adopt reduced excitability. In contrast, the peripheral neuromuscular junction maintains normal synaptic transmission, despite significant structural changes. Thus, connected elements respond differentially to a CP perturbation, suggesting a sequence, or hierarchy of network adjustment during the CP.</description>
+      <author>Richard.Baines@manchester.ac.uk (Aref A Zarin)</author>
+      <author>Richard.Baines@manchester.ac.uk (Bramwell Coulson)</author>
+      <author>Richard.Baines@manchester.ac.uk (Daniel Sobrido-Cameán)</author>
+      <author>Richard.Baines@manchester.ac.uk (Jacob J Davies)</author>
+      <author>Richard.Baines@manchester.ac.uk (Matthew CW Oswald)</author>
+      <author>Richard.Baines@manchester.ac.uk (Matthias Landgraf)</author>
+      <author>Richard.Baines@manchester.ac.uk (Michael Miller)</author>
+      <author>Richard.Baines@manchester.ac.uk (Niklas Krick)</author>
+      <author>Richard.Baines@manchester.ac.uk (Richard A Baines)</author>
+      <guid isPermaLink="false">https://dx.doi.org/10.7554/eLife.108656</guid>
+      <category>Developmental Biology</category>
+      <category>Neuroscience</category>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+      <dc:date>2026-10-26T00:00:00Z</dc:date>
+      <webfeeds:featuredImage url="https://elife-cdn.s3.amazonaws.com/observer/elife-logo-408x230.svg" height="230" width="408" type="image/svg" />
+    </item>
+    <item>
+      <title>Mid-zone hepatocytes trade proliferation for survival via Atf4-Chop axis in early acute liver injury</title>
+      <link>https://elifesciences.org/articles/108646</link>
+      <description>Hepatocytes undergo extensive proliferation to facilitate liver repair after injury, yet early adaptive changes prior to proliferation remain unclear. Using a mouse model of acetaminophen (APAP)-induced liver injury, we show that hepatocytes undergo transient proliferation suppression that is most pronounced in mid-zone hepatocytes, consistent with zonal APAP metabolism. Although spatial transcriptomics (ST) alone could not independently confirm zonal proliferative restraint, ST analysis identified a unique mid-zone stress-response program centered on the Atf4-Chop axis. By integrating Cut&amp;Run with immunohistochemistry and functional studies, we found that the Atf4-Chop axis suppresses proliferation via the cell-cycle inhibitor Btg2. Together, our findings support a model in which mid-zone hepatocytes transiently prioritize stress adaptation over proliferation, thereby preserving regenerative capacity for subsequent liver repair.</description>
+      <author>chengpeng@ynu.edu.cn (Bo Chen)</author>
+      <author>chengpeng@ynu.edu.cn (Cheng Peng)</author>
+      <author>chengpeng@ynu.edu.cn (Chengxiang Deng)</author>
+      <author>chengpeng@ynu.edu.cn (Jia He)</author>
+      <author>chengpeng@ynu.edu.cn (Shan Lei)</author>
+      <author>chengpeng@ynu.edu.cn (Weiju Lu)</author>
+      <author>chengpeng@ynu.edu.cn (Yanan Liu)</author>
+      <author>chengpeng@ynu.edu.cn (Yaying Zhu)</author>
+      <author>chengpeng@ynu.edu.cn (Zhao Shan)</author>
+      <guid isPermaLink="false">https://dx.doi.org/10.7554/eLife.108646</guid>
+      <category>Medicine</category>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+      <dc:date>2026-10-26T00:00:00Z</dc:date>
+      <webfeeds:featuredImage url="https://elife-cdn.s3.amazonaws.com/observer/elife-logo-408x230.svg" height="230" width="408" type="image/svg" />
+    </item>
+    <item>
+      <title>Morphology and ultrastructure of pharyngeal sense organs of &lt;i&gt;Drosophila&lt;/i&gt; larvae</title>
+      <link>https://elifesciences.org/articles/108036</link>
+      <description>This study provides a comprehensive ultrastructural analysis of the pharyngeal sensory system in &lt;i&gt;Drosophila melanogaster&lt;/i&gt; larvae, focusing on the four major pharyngeal sense organs: the ventral pharyngeal sensilla (VPS), dorsal pharyngeal sensilla (DPS), dorsal pharyngeal organ (DPO), and posterior pharyngeal sensilla (PPS). Our analysis revealed 15 sensilla across these organs, comprising four mechanosensory, nine chemosensory, and two dual-function sensilla. We identified 35 Type I neurons (6 mechanosensory and 29 chemosensory) and 6 Type II neurons with putative chemosensory functions. Additional sensory structures, including papilla sensilla and chordotonal organs in the cephalopharyngeal region, were characterized. This detailed mapping and classification of pharyngeal sensory structures completes their structural characterization and provides a foundation for future anatomical and functional studies of sensory perception in insects. This work represents a significant step toward a complete analysis of the larval sensory system, providing new opportunities for investigating how an organism processes sensory information to navigate and interact with its environment.</description>
+      <author>vincent.richter@uni-leipzig.de (Albert Cardona)</author>
+      <author>vincent.richter@uni-leipzig.de (Andreas S Thum)</author>
+      <author>vincent.richter@uni-leipzig.de (Tilman Triphan)</author>
+      <author>vincent.richter@uni-leipzig.de (Vincent Richter)</author>
+      <guid isPermaLink="false">https://dx.doi.org/10.7554/eLife.108036</guid>
+      <category>Neuroscience</category>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+      <dc:date>2026-10-23T00:00:00Z</dc:date>
+      <webfeeds:featuredImage url="https://elife-cdn.s3.amazonaws.com/observer/elife-logo-408x230.svg" height="230" width="408" type="image/svg" />
+    </item>
+  </channel>
+</rss>

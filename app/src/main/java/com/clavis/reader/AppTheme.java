@@ -17,4 +17,3 @@ final class AppTheme {
  }
  static void setDark(Context c,boolean enabled){c.getSharedPreferences("appearance",0).edit().putBoolean("dark",enabled).apply();}
 }
-

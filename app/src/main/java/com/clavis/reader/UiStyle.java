@@ -24,7 +24,7 @@ final class UiStyle {
   if(Build.VERSION.SDK_INT>=30){WindowInsetsController controller=a.getWindow().getInsetsController();if(controller!=null)controller.setSystemBarsAppearance(AppTheme.dark?0:WindowInsetsController.APPEARANCE_LIGHT_STATUS_BARS|WindowInsetsController.APPEARANCE_LIGHT_NAVIGATION_BARS,WindowInsetsController.APPEARANCE_LIGHT_STATUS_BARS|WindowInsetsController.APPEARANCE_LIGHT_NAVIGATION_BARS);}else if(Build.VERSION.SDK_INT>=27)a.getWindow().getDecorView().setSystemUiVisibility(AppTheme.dark?a.getWindow().getDecorView().getSystemUiVisibility()&~(View.SYSTEM_UI_FLAG_LIGHT_NAVIGATION_BAR|View.SYSTEM_UI_FLAG_LIGHT_STATUS_BAR):a.getWindow().getDecorView().getSystemUiVisibility()|View.SYSTEM_UI_FLAG_LIGHT_NAVIGATION_BAR|View.SYSTEM_UI_FLAG_LIGHT_STATUS_BAR);
   a.bar=a.row();a.bar.setPadding(a.dp(12),0,a.dp(12),0);a.bar.setBackgroundColor(AppTheme.background);
   boolean home=a.screen.equals("Home");ImageButton nav=icon(a,home?R.drawable.ic_menu:R.drawable.ic_arrow_back,home?"Open menu":"Back",()->{if(home)menu(a);else a.home();},34);nav.setPadding(a.dp(5),a.dp(8),a.dp(5),a.dp(8));a.bar.addView(nav,new LinearLayout.LayoutParams(a.dp(34),a.dp(40)));
-  TextView heading=a.text(title,20,MainActivity.INK,true);heading.setTypeface(a.serif,Typeface.BOLD);heading.setGravity(Gravity.CENTER_VERTICAL);heading.setPadding(a.dp(16),0,0,0);heading.setSingleLine();heading.setEllipsize(android.text.TextUtils.TruncateAt.END);a.bar.addView(heading,new LinearLayout.LayoutParams(0,-1,1));
+  TextView heading=a.text(title,20,MainActivity.INK,true);heading.setTypeface(a.serif,Typeface.BOLD);HindiTypography.apply(heading,title);heading.setGravity(Gravity.CENTER_VERTICAL);heading.setPadding(a.dp(16),0,0,0);heading.setSingleLine();heading.setEllipsize(android.text.TextUtils.TruncateAt.END);a.bar.addView(heading,new LinearLayout.LayoutParams(0,-1,1));
   a.bar.addView(icon(a,R.drawable.ic_search,"Search books",()->search(a),48));a.root.addView(a.bar,new LinearLayout.LayoutParams(-1,a.dp(56)));
   a.body=a.column();a.body.setPadding(a.dp(16),a.dp(14),a.dp(16),a.dp(90));ScrollView scroll=new ScrollView(a);scroll.setFillViewport(true);scroll.setClipToPadding(false);scroll.addView(a.body);a.root.addView(scroll,new LinearLayout.LayoutParams(-1,0,1));
   if(!a.screen.equals("Reader")&&!a.screen.equals("Player")&&!a.screen.equals("PodcastPlayer"))bottom(a,frame);
@@ -70,12 +70,3 @@ final class UiStyle {
  }
  static void search(MainActivity a){EditText input=new EditText(a);input.setSingleLine();input.setHint("Book title");new AppDialog.Builder(a).setTitle("Search books").setView(input).setPositiveButton("Search",(d,n)->{ArrayList<Book> found=new ArrayList<>();for(Book b:Store.load(a))if(b.title.toLowerCase(java.util.Locale.ROOT).contains(input.getText().toString().toLowerCase(java.util.Locale.ROOT)))found.add(b);new AppDialog.Builder(a).setTitle(found.size()+" books").setItems(found.stream().map(b->b.title).toArray(String[]::new),(dd,i)->a.open(found.get(i))).setNegativeButton("Close",null).show();}).setNegativeButton("Cancel",null).show();}
 }
-
-
-
-
-
-
-
-
-

@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>PLOS Mental Health</title>
+  <link rel="alternate" href="https://journals.plos.org/mentalhealth/" />
+  <author>
+    <name>PLOS</name>
+    <uri>https://journals.plos.org/mentalhealth/</uri>
+    <email>customercare@plos.org</email>
+  </author>
+  <subtitle type="text">A Peer-Reviewed Open-Access Journal</subtitle>
+  <id>https://journals.plos.org/mentalhealth/feed/atom</id>
+  <rights>All PLOS articles are Open Access.</rights>
+  <icon>https://journals.plos.org/mentalhealth/resource/img/favicon.ico</icon>
+  <logo>https://journals.plos.org/mentalhealth/resource/img/favicon.ico</logo>
+  <updated>2026-10-26T22:05:11Z</updated>
+  <entry>
+    <title>Quality of life and its associated factors among adult PLWHA on ART in Fako Division, South West Region of Cameroon</title>
+    <link rel="alternate" href="https://journals.plos.org/mentalhealth/article?id=10.1371/journal.pmen.0000697" title="Quality of life and its associated factors among adult PLWHA on ART in Fako Division, South West Region of Cameroon" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/mentalhealth/article/asset?id=10.1371/journal.pmen.0000697.PDF" title="(PDF) Quality of life and its associated factors among adult PLWHA on ART in Fako Division, South West Region of Cameroon" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/mentalhealth/article/asset?id=10.1371/journal.pmen.0000697.XML" title="(XML) Quality of life and its associated factors among adult PLWHA on ART in Fako Division, South West Region of Cameroon" />
+    <author>
+      <name>Bombey Mary-Flavie Nkanjo</name>
+    </author>
+    <author>
+      <name>Ayuk Betrand Tambe</name>
+    </author>
+    <author>
+      <name>Achidi Aduni Ufuan</name>
+    </author>
+    <author>
+      <name>Sam Denise Movuh</name>
+    </author>
+    <author>
+      <name>Tendongfor Nicholas</name>
+    </author>
+    <id>10.1371/journal.pmen.0000697</id>
+    <updated>2026-10-26T14:00:00Z</updated>
+    <published>2026-10-26T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Bombey Mary-Flavie Nkanjo, Ayuk Betrand Tambe, Achidi Aduni Ufuan, Sam Denise Movuh, Tendongfor Nicholas&lt;/p&gt;
+
+Human immunodeficiency virus and acquired immunodeficiency syndrome (HIV/AIDS) remain a major global health challenge. This study assessed the quality of life and its associated factors among people living with human immunodeficiency virus and acquired immunodeficiency syndrome (PLWHA) on antiretroviral therapy in two treatment centers in the South West Region of Cameroon. A cross-sectional study was conducted among 464 PLWHA on ART at two treatment centers in the Fako Division, Southwest Region of Cameroon, from June 2024 to August 2024. Quality of life was assessed using the World Health Organization’s Quality of Life brief questionnaire (WHOQOL-BREF). Data was analyzed using the statistical package for the social sciences version 25.0. Statistical significance was set at a p-value &lt;0.05 at a 95% confidence interval. Participants’ mean age was 48.8 ± 11.7 years and 79.5% were female. Most had been on ART for ≥3 years (92.2%) and were virally undetectable (85.8%). Mean domain scores were highest for physical health (72.93 ± 12.79) and psychological health (70.55 ± 13.35), and lowest for social relationships (62.03 ± 16.83) and environmental health (64.24 ± 11.08). The mean overall QOL score was 269.75 ± 42.58. In multivariable analysis, lower overall QOL scores was associated with older age, primary education, and monthly income &lt;100 USD, while higher overall QOL scores was associated with being married/divorced, absence of HIV-related symptoms, and absence of depression. QOL among PLWHA on ART in Fako Division was moderate-to-good, with the social and environmental domains most affected. Socioeconomic vulnerability, aging, depressive symptoms, and clinical symptom burden were key determinants, underscoring the need to integrate mental health screening and support, strengthen symptom management, and address socioeconomic barriers within HIV care.</content>
+  </entry>
+  <entry>
+    <title>“Carrying the burden silently”: A mixed-methods analysis of common mental health disorders among women caregivers living with HIV in Enugu, Nigeria</title>
+    <link rel="alternate" href="https://journals.plos.org/mentalhealth/article?id=10.1371/journal.pmen.0000764" title="“Carrying the burden silently”: A mixed-methods analysis of common mental health disorders among women caregivers living with HIV in Enugu, Nigeria" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/mentalhealth/article/asset?id=10.1371/journal.pmen.0000764.PDF" title="(PDF) “Carrying the burden silently”: A mixed-methods analysis of common mental health disorders among women caregivers living with HIV in Enugu, Nigeria" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/mentalhealth/article/asset?id=10.1371/journal.pmen.0000764.XML" title="(XML) “Carrying the burden silently”: A mixed-methods analysis of common mental health disorders among women caregivers living with HIV in Enugu, Nigeria" />
+    <author>
+      <name>Ugochukwu Uzoechina Nwokoro</name>
+    </author>
+    <author>
+      <name>Ifeyinwa Lilian Ezenwosu</name>
+    </author>
+    <author>
+      <name>Elias Chikee Aniwada</name>
+    </author>
+    <author>
+      <name>Izuchukwu Frank Obi</name>
+    </author>
+    <author>
+      <name>Justus Uchenna Onu</name>
+    </author>
+    <author>
+      <name>Chidiebere Clifford Aniagboso</name>
+    </author>
+    <author>
+      <name>Eunice Enabulele</name>
+    </author>
+    <author>
+      <name>Chinyere Nkiruka Okafor</name>
+    </author>
+    <author>
+      <name>Chijioke Thaddeus Asogwa</name>
+    </author>
+    <author>
+      <name>John Olajide Olawepo</name>
+    </author>
+    <author>
+      <name>Chika N. Onwasigwe</name>
+    </author>
+    <id>10.1371/journal.pmen.0000764</id>
+    <updated>2026-10-23T14:00:00Z</updated>
+    <published>2026-10-23T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Ugochukwu Uzoechina Nwokoro, Ifeyinwa Lilian Ezenwosu, Elias Chikee Aniwada, Izuchukwu Frank Obi, Justus Uchenna Onu, Chidiebere Clifford Aniagboso, Eunice Enabulele, Chinyere Nkiruka Okafor, Chijioke Thaddeus Asogwa, John Olajide Olawepo, Chika N. Onwasigwe&lt;/p&gt;
+
+Women caregivers living with HIV (WCLHIV) face a dual burden of managing their own health while caring for their families, increasing their vulnerability to mental health disorders. This study aimed to ascertain the prevalence and factors associated with common mental health disorders among WCLHIV in Enugu, Nigeria. A cross-sectional study employing a mixed method approach was conducted among 1,011 WCLHIV accessing anti-retroviral therapy in four tertiary health facilities in Enugu State, Nigeria. Quantitative data were obtained face-to-face using pre-tested, validated tools to assess the prevalence of depression, anxiety, stigma, and other psychological characteristics. Multivariate logistic regression identified significant risk factors of mental health disorders at a 95% confidence interval and p &lt; 0.05. Four focus group discussions involving 35 WCLHIV explored factors impacting their mental well-being. Qualitative data were analyzed thematically using an inductive approach. Participants had a mean age of 44.3 (SD ± 8.44) years. The prevalence of depression and anxiety was 25.7% and 19.2%, respectively, while 79.0% reported high perceived stigma. Having primary education (AOR = 1.53; 95% CI: 1.06 –2.22), and low social support (AOR = 2.32; 95% CI: 1.11–5.07) were risk factors while low income (AOR = 0.42; 95% CI: 0.21–0.85), and low perceived stress (AOR = 0.05; 95% CI: 0.02–0.15) were protective of depression. Low perceived stress was protective of anxiety (AOR = 0.07; 95% CI: 0.02–0.22). Qualitative findings converged with quantitative data, highlighting the impact of stigma, poor social support, pill burden, fear of status disclosure, and financial strain on the mental health of WCLHIV.The prevalence of common mental health disorders was high among WCLHIV with a substantial proportion experiencing depression and anxiety, reflecting the significant impact of stigma, low social support, and stress. Targeted multi-level psychosocial interventions and community empowerment programs are needed to strengthen social support and reduce stigma among WCLHIV.</content>
+  </entry>
+  <entry>
+    <title>A comparative analysis of machine learning, deep learning, and ensemble learning models for suicidal ideation detection on social media</title>
+    <link rel="alternate" href="https://journals.plos.org/mentalhealth/article?id=10.1371/journal.pmen.0000721" title="A comparative analysis of machine learning, deep learning, and ensemble learning models for suicidal ideation detection on social media" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/mentalhealth/article/asset?id=10.1371/journal.pmen.0000721.PDF" title="(PDF) A comparative analysis of machine learning, deep learning, and ensemble learning models for suicidal ideation detection on social media" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/mentalhealth/article/asset?id=10.1371/journal.pmen.0000721.XML" title="(XML) A comparative analysis of machine learning, deep learning, and ensemble learning models for suicidal ideation detection on social media" />
+    <author>
+      <name>Andualem Woldegiorgis</name>
+    </author>
+    <author>
+      <name>Mohammed Abebe</name>
+    </author>
+    <author>
+      <name>Durga Prasad Sharma</name>
+    </author>
+    <author>
+      <name>Worku Jimma</name>
+    </author>
+    <id>10.1371/journal.pmen.0000721</id>
+    <updated>2026-10-22T14:00:00Z</updated>
+    <published>2026-10-22T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Andualem Woldegiorgis, Mohammed Abebe, Durga Prasad Sharma, Worku Jimma&lt;/p&gt;
+
+Suicidal ideation is the consideration of self-inflicted death and has emerged as a serious and rising concern for worldwide public health systems, contributing to over 800,000 deaths annually worldwide. Individuals express intentions, distress, and thoughts of self-harm and death, thereby offering a crucial and unprecedented avenue for timely psychological intervention and surveillance. The core problem addressed by this research is the pronounced global insufficiency in detecting and mitigating suicidal ideation across linguistically diverse environments, specifically focusing on low-resource languages. Previous computational studies have primarily focused on English and other widely used languages, leaving a critical research gap for contexts such as Amharic. The main aim of this study was to investigate and to develop a robust and optimal deep learning model for identifying suicidal ideation in Amharic social media content. A total of 5,428 postings from social media such as Facebook and Telegram were carefully collected, manually annotated, and processed to provide the first publicly available dataset on Amharic suicidal ideation. After preprocessing, Word2Vec, GloVe, and FastText were among the word embedding techniques used for feature engineering. Five deep learning models and four machine learning models were then compared in this study. Based on the experimental results, ensemble learning models achieved slightly higher performance than the individual deep learning models in suicidal ideation detection. Specifically, hard voting ensemble learning models achieved the highest accuracy (83.3%) and precision (86.55%). CNN-BiLSTM achieved an accuracy of 81.45%, while the BiLSTM model achieved an accuracy of 81.4%, indicating that bidirectional sequence learning effectively captures contextual information in Amharic texts. Beyond its strong empirical performance, this study contributes a robust detection framework and introduces a public Amharic dataset, thereby establishing a foundational methodological resource for mental health research. Future studies should focus on developing scalable datasets and context-aware deep learning models that effectively handle multimodal data, multilingual transformer models, fusion-based features, and addressing bias in low-resource computational linguistics.</content>
+  </entry>
+  <entry>
+    <title>The association between orthorexia nervosa and social media use: A systematic review and meta-analysis</title>
+    <link rel="alternate" href="https://journals.plos.org/mentalhealth/article?id=10.1371/journal.pmen.0000758" title="The association between orthorexia nervosa and social media use: A systematic review and meta-analysis" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/mentalhealth/article/asset?id=10.1371/journal.pmen.0000758.PDF" title="(PDF) The association between orthorexia nervosa and social media use: A systematic review and meta-analysis" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/mentalhealth/article/asset?id=10.1371/journal.pmen.0000758.XML" title="(XML) The association between orthorexia nervosa and social media use: A systematic review and meta-analysis" />
+    <author>
+      <name>Anna-Marina Nakhl</name>
+    </author>
+    <author>
+      <name>Muhammad Ahmad Barakat</name>
+    </author>
+    <author>
+      <name>Jana Kotaich</name>
+    </author>
+    <author>
+      <name>Elssy Elleik</name>
+    </author>
+    <author>
+      <name>Ahmad Afyouni</name>
+    </author>
+    <author>
+      <name>Linda Abou Abbas</name>
+    </author>
+    <id>10.1371/journal.pmen.0000758</id>
+    <updated>2026-10-21T14:00:00Z</updated>
+    <published>2026-10-21T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Anna-Marina Nakhl, Muhammad Ahmad Barakat, Jana Kotaich, Elssy Elleik, Ahmad Afyouni, Linda Abou Abbas&lt;/p&gt;
+
+Orthorexia nervosa (ON) is a newly described mental disorder characterized by an extreme obsession with the consumption of healthy foods, resulting in anxiety and impaired functionality. This systematic review and meta-analysis aims to synthesize the association between social media use and orthorexic tendencies among adolescents and adults. PubMed, Web of Science, Embase, Scopus, and PsycINFO were searched through January 2026. Original studies assessing the association between social media use and ON were included. Zero-order correlations between social media and orthorexia measures were pooled using Fisher’s z under a random-effects (REML) model; heterogeneity, subgroup and meta-regression, sensitivity and publication-bias analyses were performed; certainty was rated with GRADE. Of 33 included studies, 22 contributed to meta-analysis of the correlation between social media use and ON symptoms, yielding a small positive pooled correlation (r = 0.20, 95% CI 0.15–0.25; I² = 84.3%; very low certainty by GRADE). This association remained stable across leave-one-out, subgroup, and sensitivity analyses (r = 0.18–0.20), and after adjustment for potential publication bias (bias-adjusted r = 0.17). A secondary analysis of two studies with reconstructable 2 × 2 data suggested greater odds of ON among heavier users (OR = 1.57, 95% CI 1.25–1.97). Pooled ON prevalence differed sharply with the diagnostic threshold (39.9% at the ORTO-15 cutoff below 35 versus 65.5% below 40), reflecting extreme heterogeneity (I² &gt; 90%) across studies. Narrative synthesis indicated that the type of content consumed was more consistently associated with ON than platform or duration of use alone Social media use is associated with greater orthorexic tendencies. However, because all included studies were cross-sectional and overall certainty of evidence was very low, causality and directionality cannot be established and reverse causality remains plausible. Longitudinal and experimental research is needed to clarify the direction of this relationship.</content>
+  </entry>
+  <entry>
+    <title>Barriers to substance use disorder treatment among Asian Americans in New York City: A qualitative study of provider perspectives</title>
+    <link rel="alternate" href="https://journals.plos.org/mentalhealth/article?id=10.1371/journal.pmen.0000743" title="Barriers to substance use disorder treatment among Asian Americans in New York City: A qualitative study of provider perspectives" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/mentalhealth/article/asset?id=10.1371/journal.pmen.0000743.PDF" title="(PDF) Barriers to substance use disorder treatment among Asian Americans in New York City: A qualitative study of provider perspectives" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/mentalhealth/article/asset?id=10.1371/journal.pmen.0000743.XML" title="(XML) Barriers to substance use disorder treatment among Asian Americans in New York City: A qualitative study of provider perspectives" />
+    <author>
+      <name>Sueun Hong</name>
+    </author>
+    <author>
+      <name>Megan Sanico</name>
+    </author>
+    <author>
+      <name>Haofan Yang</name>
+    </author>
+    <author>
+      <name>Stella S. Yi</name>
+    </author>
+    <author>
+      <name>Sahnah Lim</name>
+    </author>
+    <author>
+      <name>Charles J. Neighbors</name>
+    </author>
+    <author>
+      <name>Sugy Choi</name>
+    </author>
+    <id>10.1371/journal.pmen.0000743</id>
+    <updated>2026-10-21T14:00:00Z</updated>
+    <published>2026-10-21T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Sueun Hong, Megan Sanico, Haofan Yang, Stella S. Yi, Sahnah Lim, Charles J. Neighbors, Sugy Choi&lt;/p&gt;
+
+Substance use disorders (SUDs) are a major mental health and public health concern in the United States, yet research and services for Asian American populations remain sparse. Although SUD prevalence among Asian Americans is not consistently higher than in other racial groups, treatment utilization is markedly lower, and the aggregation of diverse ethnic groups into a single category and the “model minority” stereotype obscure heterogeneity in needs and contribute to underdiagnosis, undertreatment, and limited culturally competent care. We conducted one-on-one, semi-structured interviews with eight healthcare and community-based providers serving Asian American clients with SUD across clinical and community settings in New York City (NYC) between December 2022 and May 2023. Participants were recruited through purposive sampling. Interviews lasted 45–60 minutes, were audio-recorded and transcribed verbatim, and were analyzed using a combined deductive–inductive thematic approach, alongside multiple researchers independently coding the data and reconciling themes through team-based discussion. Six interrelated themes emerged: types of services provided; substance use trends; barriers to care; community needs; existing interventions tailored to Asian Americans; and client engagement strategies. Providers described a wide spectrum of inpatient, outpatient, and court-mandated services, but identified pervasive shortfalls in cultural and linguistic competence. Substance use patterns differed by age, with growing ketamine use among younger clients and persistent alcohol use among older clients. Key barriers included stigma rooted in cultural beliefs about mental health, limited bilingual capacity, opaque communication from court-mandated treatment pathways, and intersecting socioeconomic pressures including housing instability and food insecurity. Providers also noted that aggregation of Asian American subgroups in data collection obscured distinct needs and impeded program planning. Findings highlight a pressing need for culturally and linguistically tailored SUD treatment, stronger collaboration between treatment programs and the legal system, sustained investment in community-based organizations, and disaggregated data collection across Asian American subgroups.</content>
+  </entry>
+  <entry>
+    <title>Prevalence and correlates of depressive symptoms among Ethiopian and Ethiopian-Descent adults in the Seattle metropolitan area: A cross-sectional study</title>
+    <link rel="alternate" href="https://journals.plos.org/mentalhealth/article?id=10.1371/journal.pmen.0000736" title="Prevalence and correlates of depressive symptoms among Ethiopian and Ethiopian-Descent adults in the Seattle metropolitan area: A cross-sectional study" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/mentalhealth/article/asset?id=10.1371/journal.pmen.0000736.PDF" title="(PDF) Prevalence and correlates of depressive symptoms among Ethiopian and Ethiopian-Descent adults in the Seattle metropolitan area: A cross-sectional study" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/mentalhealth/article/asset?id=10.1371/journal.pmen.0000736.XML" title="(XML) Prevalence and correlates of depressive symptoms among Ethiopian and Ethiopian-Descent adults in the Seattle metropolitan area: A cross-sectional study" />
+    <author>
+      <name>Hiwot Weldemariam</name>
+    </author>
+    <author>
+      <name>Yonathan Dagnew</name>
+    </author>
+    <author>
+      <name>Meron Girma</name>
+    </author>
+    <author>
+      <name>Mehari Worku</name>
+    </author>
+    <author>
+      <name>Daniel A. Enquobahrie</name>
+    </author>
+    <id>10.1371/journal.pmen.0000736</id>
+    <updated>2026-10-21T14:00:00Z</updated>
+    <published>2026-10-21T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Hiwot Weldemariam, Yonathan Dagnew, Meron Girma, Mehari Worku, Daniel A. Enquobahrie&lt;/p&gt;
+
+Depression is a common and disabling condition, yet population-level estimates among Ethiopian and Ethiopian-descendant adults in the Seattle metropolitan area are limited. We conducted a cross-sectional community-based survey from November to December 2024 among adults aged ≥18 years who self-identified as Ethiopian or Ethiopian-descendant. Participants were recruited through social media, community networks, and faith-based organizations and completed anonymous REDCap questionnaires. Clinically significant depressive symptoms were defined as a Patient Health Questionnaire-9 (PHQ-9) score ≥10, a screening threshold rather than a clinical diagnosis. We used logistic regression to examine associations between clinically significant depressive symptoms and the primary exposures of nativity, self-rated physical health, chronic medical conditions, reproductive health history, recreational marijuana or other drug use, and firearm exposure, with adjustment for prespecified sociodemographic covariates. A comprehensive model included the primary full-sample exposures simultaneously, with Benjamini-Hochberg correction for multiple comparisons. Among 474 participants (mean age, 31.6 years; 49.8% male), 178 (37.6%) screened positive for clinically significant depressive symptoms. In the mutually adjusted model, poorer self-rated physical health was associated with higher odds of depressive symptoms: average health (adjusted odds ratio [aOR], 3.83; 95% CI, 2.08–7.36) and poor/somewhat poor health (aOR, 10.73; 95% CI, 4.53–26.80), compared with excellent health. Ever use of recreational marijuana or other drugs (aOR, 3.52; 95% CI, 2.08–6.03) and knowing someone injured or killed by a firearm in the past year (aOR, 2.32; 95% CI, 1.39–3.90) were also associated with higher odds. Among parous women, a history of postpartum depression was associated with current depressive symptoms (aOR, 9.76; 95% CI, 4.31–23.51). Clinically significant depressive symptoms were common in this sample and were associated with poorer physical health, recreational marijuana or other drug use, firearm-related exposure, and prior postpartum depression. Longitudinal research is needed to clarify temporal relationships and inform culturally responsive prevention and care.</content>
+  </entry>
+  <entry>
+    <title>Association of childhood mild traumatic brain injury with mental and behavioral health outcomes later in life among U.S. Veterans: A LIMBIC-CENC study</title>
+    <link rel="alternate" href="https://journals.plos.org/mentalhealth/article?id=10.1371/journal.pmen.0000679" title="Association of childhood mild traumatic brain injury with mental and behavioral health outcomes later in life among U.S. Veterans: A LIMBIC-CENC study" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/mentalhealth/article/asset?id=10.1371/journal.pmen.0000679.PDF" title="(PDF) Association of childhood mild traumatic brain injury with mental and behavioral health outcomes later in life among U.S. Veterans: A LIMBIC-CENC study" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/mentalhealth/article/asset?id=10.1371/journal.pmen.0000679.XML" title="(XML) Association of childhood mild traumatic brain injury with mental and behavioral health outcomes later in life among U.S. Veterans: A LIMBIC-CENC study" />
+    <author>
+      <name>Dana Waltzman</name>
+    </author>
+    <author>
+      <name>Juliet Haarbauer-Krupa</name>
+    </author>
+    <author>
+      <name>Samuel R. Walton</name>
+    </author>
+    <author>
+      <name>Amani Jridi</name>
+    </author>
+    <author>
+      <name>Angela P. Presson</name>
+    </author>
+    <author>
+      <name>William C. Walker</name>
+    </author>
+    <author>
+      <name>David X. Cifu</name>
+    </author>
+    <author>
+      <name>Jessie R. Oldham</name>
+    </author>
+    <author>
+      <name>Landon B. Lempke</name>
+    </author>
+    <id>10.1371/journal.pmen.0000679</id>
+    <updated>2026-10-21T14:00:00Z</updated>
+    <published>2026-10-21T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Dana Waltzman, Juliet Haarbauer-Krupa, Samuel R. Walton, Amani Jridi, Angela P. Presson, William C. Walker, David X. Cifu, Jessie R. Oldham, Landon B. Lempke&lt;/p&gt;
+
+Mild traumatic brain injury (mTBI) is a common injury across all age groups and populations, with a high prevalence among military service members and Veterans. The purpose of this cross-sectional study was to use a large, prospective cohort of Veterans to examine the association between childhood mTBI and multimodal mental and behavioral health outcomes, and among those with childhood mTBI, evaluate sociodemographic characteristics associated with worse outcomes. Data came from the Long-term Impact of Military-relevant Brain Injury Consortium-Chronic Effects of Neurotrauma Consortium (LIMBIC-CENC) prospective longitudinal study. This cohort included 1,286 Veterans, 61.3% of whom sustained a childhood mTBI. After adjustment for demographic, behavioral, and military history factors, Veterans with childhood mTBI had higher PTSD symptom scores (Mean Ratio[MR] = 1.36, 95%CI: 1.22–1.51), higher anger scores (MR = 1.08, 95%CI: 1.05–1.10), higher depression scores (MR = 1.31, 95% CI: 1.17–1.46), higher anxiety scores (mean difference [MD]= 4.3, 95% CI: 2.9-5.6), emotional-behavioral dyscontrol scores (MD = 3.2, 95% CI: 2.2–4.3), worse sleep quality (MD = 1.6, 95% CI: 1.1-2.2), worse neurobehavioral symptoms (MD = 6.8, 95% CI: 5.2-8.5), lower satisfaction with life (MD = -1.2, 95% CI: -2.1 to -0.27), and lower resilience scores (MR = 0.96, 95% CI: 0.94–0.99). There were no significant differences after adjustment for alcohol or drug use scores. Among individuals with a history of childhood mTBI, several mental and behavioral health outcomes were worse among those who sustained multiple mTBIs and better among those who were physically active and had higher education. These findings suggest markers of increased riskpresent before military enlistment that may warrant targeted prevention, screening, and treatment strategies. Increased awareness among healthcare providers may help identify Veterans with childhood mTBI history who would benefit from evidence-based treatment and support.</content>
+  </entry>
+  <entry>
+    <title>Tending The Garden: What organic youth peer support can teach us about building systems that care</title>
+    <link rel="alternate" href="https://journals.plos.org/mentalhealth/article?id=10.1371/journal.pmen.0000678" title="Tending The Garden: What organic youth peer support can teach us about building systems that care" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/mentalhealth/article/asset?id=10.1371/journal.pmen.0000678.PDF" title="(PDF) Tending The Garden: What organic youth peer support can teach us about building systems that care" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/mentalhealth/article/asset?id=10.1371/journal.pmen.0000678.XML" title="(XML) Tending The Garden: What organic youth peer support can teach us about building systems that care" />
+    <author>
+      <name>Ernesto Isaac Lara</name>
+    </author>
+    <author>
+      <name>Rhianen Callahan</name>
+    </author>
+    <author>
+      <name>Leana Cortez</name>
+    </author>
+    <author>
+      <name>Kharylle Rosario</name>
+    </author>
+    <author>
+      <name>Anna Zick</name>
+    </author>
+    <author>
+      <name>Rocio Sanchez</name>
+    </author>
+    <author>
+      <name>Aishwarya Mitra</name>
+    </author>
+    <author>
+      <name>Megha Datta</name>
+    </author>
+    <author>
+      <name>Gabriella Imai</name>
+    </author>
+    <id>10.1371/journal.pmen.0000678</id>
+    <updated>2026-10-21T14:00:00Z</updated>
+    <published>2026-10-21T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Ernesto Isaac Lara, Rhianen Callahan, Leana Cortez, Kharylle Rosario, Anna Zick, Rocio Sanchez, Aishwarya Mitra, Megha Datta, Gabriella Imai&lt;/p&gt;
+
+Youth peer support (YPS) is an evidence-based model of care in which young people with lived experience (YPWLE) provide recovery-oriented support to peers navigating similar challenges. On many college campuses this work already happens informally, without training, compensation, or institutional recognition. This narrative essay examines The Garden, a unit of a student mentor-mentee program at the University of California, San Diego, that organically evolved into de facto YPS, providing students mutual aid spanning acute crisis, identity formation, and navigation of the hidden curriculum of higher education. Drawing on first-person accounts, we show that The Garden often operated in place of institutional mental health and advising systems, providing immediate, person-centered support grounded in shared lived experience and human rights. A competency mapping across these accounts demonstrates that The Garden consistently reflected practices the YPS literature identifies as central and effective. We argue that higher education largely lacks both the infrastructure and the institutional power reflexivity to recognize, train, and sustain this labor, manufacturing an invisible and inequitable burden for students. We call on higher education institutions to meaningfully invest in YPS infrastructure, centering youth leadership and community ownership. When institutions seek to scale YPS without ceding power they risk co-optation, stripping student spaces of the autonomy and trust that make them effective and accessible. Drawing on youth participation scholarship, we distinguish recognition from control and propose recommendations across policy, funding, programming, campus climate, and research to build YPS infrastructure that reflects students’ lived realities.</content>
+  </entry>
+  <entry>
+    <title>Informal carers’ experiences of mental health services regarding supporting those they care for and getting support for their own wellbeing: A systematic umbrella review of qualitative evidence</title>
+    <link rel="alternate" href="https://journals.plos.org/mentalhealth/article?id=10.1371/journal.pmen.0000740" title="Informal carers’ experiences of mental health services regarding supporting those they care for and getting support for their own wellbeing: A systematic umbrella review of qualitative evidence" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/mentalhealth/article/asset?id=10.1371/journal.pmen.0000740.PDF" title="(PDF) Informal carers’ experiences of mental health services regarding supporting those they care for and getting support for their own wellbeing: A systematic umbrella review of qualitative evidence" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/mentalhealth/article/asset?id=10.1371/journal.pmen.0000740.XML" title="(XML) Informal carers’ experiences of mental health services regarding supporting those they care for and getting support for their own wellbeing: A systematic umbrella review of qualitative evidence" />
+    <author>
+      <name>Xiaoye Liu</name>
+    </author>
+    <author>
+      <name>Phoebe Barnett</name>
+    </author>
+    <author>
+      <name>Patrick Nyikavaranda</name>
+    </author>
+    <author>
+      <name>Laura Burley</name>
+    </author>
+    <author>
+      <name>Brynmor Lloyd-Evans</name>
+    </author>
+    <id>10.1371/journal.pmen.0000740</id>
+    <updated>2026-10-15T14:00:00Z</updated>
+    <published>2026-10-15T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Xiaoye Liu, Phoebe Barnett, Patrick Nyikavaranda, Laura Burley, Brynmor Lloyd-Evans&lt;/p&gt;
+
+Informal carers play a vital role in supporting individuals with mental health difficulties. To provide an overarching synthesis of available evidence, this umbrella review aimed to synthesise qualitative review evidence on informal carers’ (including family members, friends, or other unpaid supporters) experiences of mental health services regarding supporting the individuals with mental health difficulties they care for and seeking support for their own wellbeing. Following the Joanna Briggs Institute (JBI) methodology, a meta-aggregative umbrella review was conducted. Five databases were searched up to 9th May 2025: CINAHL, MEDLINE, PsycInfo, the Cochrane Library, and Epistemonikos. The quality of primary systematic reviews was assessed using a framework adapted from the work of SmithBattle and colleagues. Findings were extracted from eligible reviews and aggregated into categories, from which higher-order synthesised findings were developed. Twelve eligible qualitative reviews were identified covering a wide range of mental health service contexts. Six synthesised findings were identified: (1) emotional complexity in the caregiving journey; (2) recognition and coping with their loved ones’ mental health difficulties; (3) multiple barriers to accessing mental health support; (4) persistent responsibilities and roles in supporting service users; (5) complex experiences of engaging with services; and (6) relational strain during the caregiving process. While some carers reported positive experiences, most described exclusion, emotional distress, and structural barriers to support. This review highlights the urgent need for mental health services to recognise, involve, and support informal carers.</content>
+  </entry>
+  <entry>
+    <title>Self-compassion, psychological distress, and mental well-being in a predominantly young student sample: Cross-sectional associations and continuous interaction analysis</title>
+    <link rel="alternate" href="https://journals.plos.org/mentalhealth/article?id=10.1371/journal.pmen.0000653" title="Self-compassion, psychological distress, and mental well-being in a predominantly young student sample: Cross-sectional associations and continuous interaction analysis" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/mentalhealth/article/asset?id=10.1371/journal.pmen.0000653.PDF" title="(PDF) Self-compassion, psychological distress, and mental well-being in a predominantly young student sample: Cross-sectional associations and continuous interaction analysis" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/mentalhealth/article/asset?id=10.1371/journal.pmen.0000653.XML" title="(XML) Self-compassion, psychological distress, and mental well-being in a predominantly young student sample: Cross-sectional associations and continuous interaction analysis" />
+    <author>
+      <name>Ying Shi</name>
+    </author>
+    <author>
+      <name>Zhihui Cheng</name>
+    </author>
+    <id>10.1371/journal.pmen.0000653</id>
+    <updated>2026-10-15T14:00:00Z</updated>
+    <published>2026-10-15T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Ying Shi, Zhihui Cheng&lt;/p&gt;
+
+This study examined the cross-sectional associations of self-compassion and psychological distress with mental well-being in a predominantly young student sample and tested whether self-compassion modifies the association between distress and well-being. The dual-continua framework guided the simultaneous consideration of distress and positive mental health. Participants (N = 278) completed the Self-Compassion Scale–Short Form (SCS-SF), General Health Questionnaire-12 (GHQ-12), and Warwick–Edinburgh Mental Well-Being Scale (WEMWBS). The principal analysis used mean-centred continuous predictors in hierarchical multiple regression, followed by simple-slopes and Johnson–Neyman analyses. Heteroscedasticity-consistent standard errors and sensitivity analyses were used to examine robustness. Secondary analyses comprised a median-split ANOVA examining categorical main and interaction effects and stratified Spearman correlations estimating the self-compassion–well-being association within distress groups. Higher self-compassion was associated with greater well-being, B = 0.230, 95% CI [0.126, 0.334], p &lt; .001, whereas greater distress was associated with lower well-being, B = -1.450, 95% CI [-1.685, -1.214], p &lt; .001. The continuous interaction was small, B = -0.028, 95% CI [-0.055, -0.001], ΔR² = .008, p = .039. The negative coefficient indicated that the positive self-compassion–well-being association weakened as distress increased and ran counter to the hypothesised protective buffering effect. The interaction was also sensitive to influential-case exclusions, alternative GHQ-12 scoring, and bootstrap estimation, while the secondary median-split ANOVA interaction was non-significant, p = .875. Higher self-compassion and lower psychological distress were independently associated with greater well-being. The small, specification-sensitive interaction provided no evidence of the hypothesised protective buffering effect. Parallel assessment of distress and well-being is warranted, while causal, clinical, and structural conclusions require longitudinal, experimental, and latent-variable research.</content>
+  </entry>
+</feed>

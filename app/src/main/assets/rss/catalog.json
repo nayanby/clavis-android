@@ -85,156 +85,1277 @@
   },
   {
     "kind": "News",
-    "title": "BBC News",
-    "url": "https://feeds.bbci.co.uk/news/rss.xml",
-    "asset": "rss/news-0.xml",
-    "preload": true
+    "title": "Global Voices",
+    "url": "https://globalvoices.org/feed/",
+    "tags": [
+      "World",
+      "Politics",
+      "Culture"
+    ],
+    "asset": "rss/globalvoices.xml",
+    "preload": true,
+    "contentMode": "full-feed",
+    "policy": "https://globalvoices.org/about/"
   },
   {
     "kind": "News",
-    "title": "The Guardian World",
-    "url": "https://www.theguardian.com/world/rss",
-    "asset": "rss/news-1.xml",
-    "preload": true
+    "title": "The Conversation",
+    "url": "https://theconversation.com/global/articles.atom",
+    "tags": [
+      "World",
+      "Science",
+      "Education"
+    ],
+    "asset": "rss/conversation.xml",
+    "preload": true,
+    "contentMode": "full-feed",
+    "policy": "https://theconversation.com/republishing-guidelines"
   },
   {
     "kind": "News",
-    "title": "Al Jazeera",
-    "url": "https://www.aljazeera.com/xml/rss/all.xml",
-    "asset": "rss/news-2.xml",
-    "preload": true
+    "title": "NASA News",
+    "url": "https://www.nasa.gov/feed/",
+    "tags": [
+      "Science",
+      "Space"
+    ],
+    "asset": "rss/nasa.xml",
+    "preload": true,
+    "contentMode": "full-feed",
+    "policy": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
   },
   {
     "kind": "News",
-    "title": "NPR News",
-    "url": "https://feeds.npr.org/1001/rss.xml",
-    "asset": "rss/news-3.xml",
-    "preload": true
+    "title": "The Better India",
+    "url": "https://www.thebetterindia.com/feed/",
+    "tags": [
+      "India",
+      "Environment"
+    ],
+    "asset": "rss/defaults-v3/news-3.xml",
+    "preload": true,
+    "contentMode": "full-feed",
+    "policy": "https://www.thebetterindia.com"
   },
   {
     "kind": "News",
-    "title": "The New York Times",
-    "url": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
-    "asset": "rss/news-4.xml",
-    "preload": true
+    "title": "The Logical Indian",
+    "url": "https://thelogicalindian.com/feed/",
+    "tags": [
+      "India",
+      "Politics"
+    ],
+    "asset": "rss/defaults-v3/news-4.xml",
+    "preload": true,
+    "contentMode": "full-feed",
+    "policy": "https://thelogicalindian.com"
   },
   {
     "kind": "News",
-    "title": "The Hindu",
-    "url": "https://www.thehindu.com/news/national/feeder/default.rss",
-    "asset": "rss/news-5.xml",
-    "preload": true
+    "title": "The Federal",
+    "url": "https://thefederal.com/feed",
+    "tags": [
+      "India",
+      "Politics"
+    ],
+    "asset": "rss/defaults-v3/news-5.xml",
+    "preload": true,
+    "contentMode": "full-feed",
+    "policy": "https://thefederal.com"
   },
   {
     "kind": "News",
-    "title": "The Indian Express",
-    "url": "https://indianexpress.com/feed/",
-    "asset": "rss/news-6.xml",
-    "preload": true
+    "title": "Down To Earth",
+    "url": "https://www.downtoearth.org.in/feed",
+    "tags": [
+      "India",
+      "Environment"
+    ],
+    "asset": "rss/defaults-v3/news-6.xml",
+    "preload": true,
+    "contentMode": "full-feed",
+    "policy": "https://www.downtoearth.org.in"
   },
   {
     "kind": "News",
-    "title": "Hindustan Times",
-    "url": "https://www.hindustantimes.com/feeds/rss/india-news/rssfeed.xml",
-    "asset": "rss/news-7.xml",
-    "preload": true
+    "title": "IPS News",
+    "url": "https://www.ipsnews.net/feed/",
+    "tags": [
+      "World",
+      "Environment"
+    ],
+    "asset": "rss/defaults-v3/news-7.xml",
+    "preload": true,
+    "contentMode": "full-feed",
+    "policy": "https://www.ipsnews.net"
   },
   {
     "kind": "News",
-    "title": "Deutsche Welle",
-    "url": "https://rss.dw.com/rdf/rss-en-all",
-    "asset": "rss/news-8.xml",
-    "preload": true
+    "title": "Fair Observer",
+    "url": "https://www.fairobserver.com/feed/",
+    "tags": [
+      "World",
+      "Politics"
+    ],
+    "asset": "rss/defaults-v3/news-8.xml",
+    "preload": true,
+    "contentMode": "full-feed",
+    "policy": "https://www.fairobserver.com"
   },
   {
     "kind": "News",
-    "title": "Sky News",
-    "url": "https://feeds.skynews.com/feeds/rss/home.xml",
-    "asset": "rss/news-9.xml",
-    "preload": true
+    "title": "Rest of World",
+    "url": "https://restofworld.org/feed/",
+    "tags": [
+      "Technology",
+      "World"
+    ],
+    "asset": "rss/defaults-v3/news-9.xml",
+    "preload": true,
+    "contentMode": "full-feed",
+    "policy": "https://restofworld.org"
   },
   {
     "kind": "News",
-    "title": "BBC Science",
-    "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
-    "asset": "rss/news-10.xml",
-    "preload": false
+    "title": "Quanta Magazine",
+    "url": "https://www.quantamagazine.org/feed/",
+    "tags": [
+      "Science",
+      "Mathematics",
+      "Physics"
+    ],
+    "asset": "rss/defaults-v3/news-10.xml",
+    "preload": true,
+    "contentMode": "full-feed",
+    "policy": "https://www.quantamagazine.org"
   },
   {
     "kind": "News",
-    "title": "The Guardian Science",
-    "url": "https://www.theguardian.com/science/rss",
-    "asset": "rss/news-11.xml",
-    "preload": false
+    "title": "The Public Domain Review",
+    "url": "https://publicdomainreview.org/rss.xml",
+    "tags": [
+      "Culture"
+    ],
+    "asset": "rss/defaults-v3/news-11.xml",
+    "preload": true,
+    "contentMode": "full-feed",
+    "policy": "https://publicdomainreview.org"
   },
   {
-    "kind": "Journals",
-    "title": "NEJM",
-    "url": "https://www.nejm.org/action/showFeed?jc=nejm&type=etoc&feed=rss",
-    "asset": "rss/journals-0.xml",
-    "preload": true
+    "kind": "News",
+    "title": "Open Culture",
+    "url": "https://www.openculture.com/feed",
+    "tags": [
+      "Culture",
+      "Education"
+    ],
+    "asset": "rss/defaults-v3/news-12.xml",
+    "preload": true,
+    "contentMode": "full-feed",
+    "policy": "https://www.openculture.com"
   },
   {
-    "kind": "Journals",
-    "title": "JAMA",
-    "url": "https://jamanetwork.com/rss/site_3/67.xml",
-    "asset": "rss/journals-1.xml",
-    "preload": true
+    "kind": "News",
+    "title": "Literary Hub",
+    "url": "https://lithub.com/feed/",
+    "tags": [
+      "Culture"
+    ],
+    "asset": "rss/defaults-v3/news-13.xml",
+    "preload": true,
+    "contentMode": "full-feed",
+    "policy": "https://lithub.com"
   },
   {
-    "kind": "Journals",
-    "title": "The Lancet",
-    "url": "https://www.thelancet.com/rssfeed/lancet_current.xml",
-    "asset": "rss/journals-2.xml",
-    "preload": true
+    "kind": "News",
+    "title": "Electric Literature",
+    "url": "https://electricliterature.com/feed/",
+    "tags": [
+      "Culture"
+    ],
+    "asset": "rss/defaults-v3/news-14.xml",
+    "preload": true,
+    "contentMode": "full-feed",
+    "policy": "https://electricliterature.com"
   },
   {
-    "kind": "Journals",
-    "title": "Nature Medicine",
-    "url": "https://www.nature.com/nm.rss",
-    "asset": "rss/journals-3.xml",
-    "preload": true
+    "kind": "News",
+    "title": "Ars Technica",
+    "url": "https://feeds.arstechnica.com/arstechnica/index",
+    "tags": [
+      "Technology",
+      "Science"
+    ],
+    "asset": "rss/defaults-v3/news-15.xml",
+    "preload": true,
+    "contentMode": "full-feed",
+    "policy": "https://feeds.arstechnica.com"
   },
   {
-    "kind": "Journals",
-    "title": "Annals of Internal Medicine",
-    "url": "https://www.acpjournals.org/action/showFeed?jc=aim&type=etoc&feed=rss",
-    "asset": "rss/journals-4.xml",
-    "preload": true
+    "kind": "News",
+    "title": "Grist",
+    "url": "https://grist.org/feed/",
+    "tags": [
+      "Environment",
+      "World"
+    ],
+    "asset": "rss/defaults-v3/news-16.xml",
+    "preload": true,
+    "contentMode": "full-feed",
+    "policy": "https://grist.org"
   },
   {
-    "kind": "Journals",
-    "title": "BMJ Open",
-    "url": "https://bmjopen.bmj.com/rss/current.xml",
-    "asset": "rss/journals-5.xml",
-    "preload": true
+    "kind": "News",
+    "title": "Mongabay",
+    "url": "https://news.mongabay.com/feed/",
+    "tags": [
+      "Environment",
+      "World"
+    ],
+    "asset": "rss/defaults-v3/news-17.xml",
+    "preload": true,
+    "contentMode": "full-feed",
+    "policy": "https://news.mongabay.com"
+  },
+  {
+    "kind": "News",
+    "title": "Nieman Lab",
+    "url": "https://www.niemanlab.org/feed/",
+    "tags": [
+      "Technology",
+      "Culture"
+    ],
+    "asset": "rss/defaults-v3/news-18.xml",
+    "preload": true,
+    "contentMode": "full-feed",
+    "policy": "https://www.niemanlab.org"
+  },
+  {
+    "kind": "News",
+    "title": "Democracy Now!",
+    "url": "https://www.democracynow.org/democracynow.rss",
+    "tags": [
+      "World",
+      "Politics"
+    ],
+    "asset": "rss/defaults-v3/news-19.xml",
+    "preload": true,
+    "contentMode": "full-feed",
+    "policy": "https://www.democracynow.org"
+  },
+  {
+    "kind": "News",
+    "title": "ProPublica",
+    "url": "https://www.propublica.org/feeds/propublica/main",
+    "tags": [
+      "Politics",
+      "World"
+    ],
+    "asset": "rss/defaults-v3/news-20.xml",
+    "preload": true,
+    "contentMode": "full-feed",
+    "policy": "https://www.propublica.org"
+  },
+  {
+    "kind": "News",
+    "title": "The Intercept",
+    "url": "https://theintercept.com/feed/",
+    "tags": [
+      "World",
+      "Politics"
+    ],
+    "asset": "rss/defaults-v3/news-21.xml",
+    "preload": true,
+    "contentMode": "full-feed",
+    "policy": "https://theintercept.com"
+  },
+  {
+    "kind": "News",
+    "title": "Mother Jones",
+    "url": "https://www.motherjones.com/feed/",
+    "tags": [
+      "Politics",
+      "Environment"
+    ],
+    "asset": "rss/defaults-v3/news-22.xml",
+    "preload": true,
+    "contentMode": "full-feed",
+    "policy": "https://www.motherjones.com"
+  },
+  {
+    "kind": "News",
+    "title": "Texas Observer",
+    "url": "https://www.texasobserver.org/feed/",
+    "tags": [
+      "Politics",
+      "Culture"
+    ],
+    "asset": "rss/defaults-v3/news-23.xml",
+    "preload": true,
+    "contentMode": "full-feed",
+    "policy": "https://www.texasobserver.org"
+  },
+  {
+    "kind": "News",
+    "title": "The 19th",
+    "url": "https://19thnews.org/feed/",
+    "tags": [
+      "Politics",
+      "Social sciences"
+    ],
+    "asset": "rss/defaults-v3/news-24.xml",
+    "preload": true,
+    "contentMode": "full-feed",
+    "policy": "https://19thnews.org"
+  },
+  {
+    "kind": "News",
+    "title": "Reveal",
+    "url": "https://revealnews.org/feed/",
+    "tags": [
+      "World",
+      "Politics"
+    ],
+    "asset": "rss/defaults-v3/news-25.xml",
+    "preload": true,
+    "contentMode": "full-feed",
+    "policy": "https://revealnews.org"
+  },
+  {
+    "kind": "News",
+    "title": "PublicSource",
+    "url": "https://www.publicsource.org/feed/",
+    "tags": [
+      "Politics",
+      "Education"
+    ],
+    "asset": "rss/defaults-v3/news-26.xml",
+    "preload": true,
+    "contentMode": "full-feed",
+    "policy": "https://www.publicsource.org"
+  },
+  {
+    "kind": "News",
+    "title": "THE CITY",
+    "url": "https://www.thecity.nyc/feed/",
+    "tags": [
+      "Politics",
+      "Culture"
+    ],
+    "asset": "rss/defaults-v3/news-27.xml",
+    "preload": true,
+    "contentMode": "full-feed",
+    "policy": "https://www.thecity.nyc"
+  },
+  {
+    "kind": "News",
+    "title": "CalMatters",
+    "url": "https://calmatters.org/feed/",
+    "tags": [
+      "Politics",
+      "Environment"
+    ],
+    "asset": "rss/defaults-v3/news-28.xml",
+    "preload": true,
+    "contentMode": "full-feed",
+    "policy": "https://calmatters.org"
+  },
+  {
+    "kind": "News",
+    "title": "MinnPost",
+    "url": "https://www.minnpost.com/feed/",
+    "tags": [
+      "Politics",
+      "Culture"
+    ],
+    "asset": "rss/defaults-v3/news-29.xml",
+    "preload": true,
+    "contentMode": "full-feed",
+    "policy": "https://www.minnpost.com"
+  },
+  {
+    "kind": "News",
+    "title": "New York Focus",
+    "url": "https://nysfocus.com/feed/",
+    "tags": [
+      "Politics",
+      "Education"
+    ],
+    "asset": "rss/defaults-v3/news-30.xml",
+    "preload": true,
+    "contentMode": "full-feed",
+    "policy": "https://nysfocus.com"
+  },
+  {
+    "kind": "News",
+    "title": "CT Mirror",
+    "url": "https://ctmirror.org/feed/",
+    "tags": [
+      "Politics",
+      "Education"
+    ],
+    "asset": "rss/defaults-v3/news-31.xml",
+    "preload": true,
+    "contentMode": "full-feed",
+    "policy": "https://ctmirror.org"
+  },
+  {
+    "kind": "News",
+    "title": "VTDigger",
+    "url": "https://vtdigger.org/feed/",
+    "tags": [
+      "Politics",
+      "Environment"
+    ],
+    "asset": "rss/defaults-v3/news-32.xml",
+    "preload": true,
+    "contentMode": "full-feed",
+    "policy": "https://vtdigger.org"
+  },
+  {
+    "kind": "News",
+    "title": "Common Dreams",
+    "url": "https://www.commondreams.org/feeds/feed.rss",
+    "tags": [
+      "World",
+      "Politics"
+    ],
+    "asset": "rss/defaults-v3/news-33.xml",
+    "preload": true,
+    "contentMode": "full-feed",
+    "policy": "https://www.commondreams.org"
+  },
+  {
+    "kind": "News",
+    "title": "Truthout",
+    "url": "https://truthout.org/feed/",
+    "tags": [
+      "World",
+      "Politics"
+    ],
+    "asset": "rss/defaults-v3/news-34.xml",
+    "preload": true,
+    "contentMode": "full-feed",
+    "policy": "https://truthout.org"
+  },
+  {
+    "kind": "News",
+    "title": "Science Friday",
+    "url": "https://www.sciencefriday.com/feed/",
+    "tags": [
+      "Science",
+      "Education"
+    ],
+    "asset": "rss/defaults-v3/news-35.xml",
+    "preload": true,
+    "contentMode": "full-feed",
+    "policy": "https://www.sciencefriday.com"
+  },
+  {
+    "kind": "News",
+    "title": "Eos",
+    "url": "https://eos.org/feed",
+    "tags": [
+      "Science",
+      "Environment"
+    ],
+    "asset": "rss/defaults-v3/news-36.xml",
+    "preload": true,
+    "contentMode": "full-feed",
+    "policy": "https://eos.org"
+  },
+  {
+    "kind": "News",
+    "title": "EarthSky",
+    "url": "https://earthsky.org/feed/",
+    "tags": [
+      "Science",
+      "Space"
+    ],
+    "asset": "rss/defaults-v3/news-37.xml",
+    "preload": true,
+    "contentMode": "full-feed",
+    "policy": "https://earthsky.org"
+  },
+  {
+    "kind": "News",
+    "title": "Carbon Brief",
+    "url": "https://www.carbonbrief.org/feed/",
+    "tags": [
+      "Environment",
+      "Science"
+    ],
+    "asset": "rss/defaults-v3/news-38.xml",
+    "preload": true,
+    "contentMode": "full-feed",
+    "policy": "https://www.carbonbrief.org"
+  },
+  {
+    "kind": "News",
+    "title": "DeSmog",
+    "url": "https://www.desmog.com/feed/",
+    "tags": [
+      "Environment",
+      "Politics"
+    ],
+    "asset": "rss/defaults-v3/news-39.xml",
+    "preload": true,
+    "contentMode": "full-feed",
+    "policy": "https://www.desmog.com"
+  },
+  {
+    "kind": "News",
+    "title": "The Markup",
+    "url": "https://themarkup.org/feeds/rss.xml",
+    "tags": [
+      "Technology",
+      "Politics"
+    ],
+    "asset": "rss/defaults-v3/news-40.xml",
+    "preload": true,
+    "contentMode": "full-feed",
+    "policy": "https://themarkup.org"
+  },
+  {
+    "kind": "News",
+    "title": "Krebs on Security",
+    "url": "https://krebsonsecurity.com/feed/",
+    "tags": [
+      "Technology"
+    ],
+    "asset": "rss/defaults-v3/news-41.xml",
+    "preload": true,
+    "contentMode": "full-feed",
+    "policy": "https://krebsonsecurity.com"
+  },
+  {
+    "kind": "News",
+    "title": "The Register",
+    "url": "https://www.theregister.com/headlines.atom",
+    "tags": [
+      "Technology",
+      "Business"
+    ],
+    "asset": "rss/defaults-v3/news-42.xml",
+    "preload": true,
+    "contentMode": "full-feed",
+    "policy": "https://www.theregister.com"
+  },
+  {
+    "kind": "News",
+    "title": "It's FOSS",
+    "url": "https://itsfoss.com/rss/",
+    "tags": [
+      "Technology"
+    ],
+    "asset": "rss/defaults-v3/news-43.xml",
+    "preload": true,
+    "contentMode": "full-feed",
+    "policy": "https://itsfoss.com"
+  },
+  {
+    "kind": "News",
+    "title": "Hackaday",
+    "url": "https://hackaday.com/blog/feed/",
+    "tags": [
+      "Technology",
+      "Engineering"
+    ],
+    "asset": "rss/defaults-v3/news-44.xml",
+    "preload": true,
+    "contentMode": "full-feed",
+    "policy": "https://hackaday.com"
+  },
+  {
+    "kind": "News",
+    "title": "Adafruit",
+    "url": "https://blog.adafruit.com/feed/",
+    "tags": [
+      "Technology",
+      "Engineering"
+    ],
+    "asset": "rss/defaults-v3/news-45.xml",
+    "preload": true,
+    "contentMode": "full-feed",
+    "policy": "https://blog.adafruit.com"
+  },
+  {
+    "kind": "News",
+    "title": "Android Authority",
+    "url": "https://www.androidauthority.com/feed/",
+    "tags": [
+      "Technology"
+    ],
+    "asset": "rss/defaults-v3/news-46.xml",
+    "preload": true,
+    "contentMode": "full-feed",
+    "policy": "https://www.androidauthority.com"
+  },
+  {
+    "kind": "News",
+    "title": "Android Police",
+    "url": "https://www.androidpolice.com/feed/",
+    "tags": [
+      "Technology"
+    ],
+    "asset": "rss/defaults-v3/news-47.xml",
+    "preload": true,
+    "contentMode": "full-feed",
+    "policy": "https://www.androidpolice.com"
+  },
+  {
+    "kind": "News",
+    "title": "XDA",
+    "url": "https://www.xda-developers.com/feed/",
+    "tags": [
+      "Technology"
+    ],
+    "asset": "rss/defaults-v3/news-48.xml",
+    "preload": true,
+    "contentMode": "full-feed",
+    "policy": "https://www.xda-developers.com"
+  },
+  {
+    "kind": "News",
+    "title": "How-To Geek",
+    "url": "https://www.howtogeek.com/feed/",
+    "tags": [
+      "Technology"
+    ],
+    "asset": "rss/defaults-v3/news-49.xml",
+    "preload": true,
+    "contentMode": "full-feed",
+    "policy": "https://www.howtogeek.com"
   },
   {
     "kind": "Journals",
     "title": "PLOS Medicine",
     "url": "https://journals.plos.org/plosmedicine/feed/atom",
-    "asset": "rss/journals-6.xml",
-    "preload": true
+    "tags": [
+      "Medical"
+    ],
+    "asset": "rss/plosmedicine.xml",
+    "preload": true,
+    "contentMode": "open-access",
+    "policy": "https://journals.plos.org/plosmedicine/s/licenses-and-copyright"
   },
   {
     "kind": "Journals",
-    "title": "Journal of Clinical Investigation",
-    "url": "https://www.jci.org/rss",
-    "asset": "rss/journals-7.xml",
-    "preload": true
+    "title": "PLOS Global Public Health",
+    "url": "https://journals.plos.org/globalpublichealth/feed/atom",
+    "tags": [
+      "Medical",
+      "Social sciences"
+    ],
+    "asset": "rss/plosglobal.xml",
+    "preload": true,
+    "contentMode": "open-access",
+    "policy": "https://journals.plos.org/plosmedicine/s/licenses-and-copyright"
+  },
+  {
+    "kind": "Journals",
+    "title": "PLOS ONE",
+    "url": "https://journals.plos.org/plosone/feed/atom",
+    "tags": [
+      "Science",
+      "Biology"
+    ],
+    "asset": "rss/plosone.xml",
+    "preload": true,
+    "contentMode": "open-access",
+    "policy": "https://journals.plos.org/plosmedicine/s/licenses-and-copyright"
+  },
+  {
+    "kind": "Journals",
+    "title": "PLOS Pathogens",
+    "url": "https://journals.plos.org/plospathogens/feed/atom",
+    "tags": [
+      "Biology",
+      "Medical"
+    ],
+    "asset": "rss/plospathogens.xml",
+    "preload": true,
+    "contentMode": "open-access",
+    "policy": "https://journals.plos.org/plosmedicine/s/licenses-and-copyright"
+  },
+  {
+    "kind": "Journals",
+    "title": "PLOS Neglected Tropical Diseases",
+    "url": "https://journals.plos.org/plosntds/feed/atom",
+    "tags": [
+      "Medical"
+    ],
+    "asset": "rss/plosntd.xml",
+    "preload": true,
+    "contentMode": "open-access",
+    "policy": "https://journals.plos.org/plosmedicine/s/licenses-and-copyright"
+  },
+  {
+    "kind": "Journals",
+    "title": "PLOS Digital Health",
+    "url": "https://journals.plos.org/digitalhealth/feed/atom",
+    "tags": [
+      "Medical",
+      "Technology"
+    ],
+    "asset": "rss/plosdigital.xml",
+    "preload": true,
+    "contentMode": "open-access",
+    "policy": "https://journals.plos.org/plosmedicine/s/licenses-and-copyright"
+  },
+  {
+    "kind": "Journals",
+    "title": "PLOS Mental Health",
+    "url": "https://journals.plos.org/mentalhealth/feed/atom",
+    "tags": [
+      "Medical",
+      "Social sciences"
+    ],
+    "asset": "rss/plosmental.xml",
+    "preload": true,
+    "contentMode": "open-access",
+    "policy": "https://journals.plos.org/plosmedicine/s/licenses-and-copyright"
+  },
+  {
+    "kind": "Journals",
+    "title": "BMJ Open",
+    "url": "https://bmjopen.bmj.com/rss/current.xml",
+    "tags": [
+      "Medical"
+    ],
+    "asset": "rss/bmjopen.xml",
+    "preload": true,
+    "contentMode": "open-access",
+    "policy": "https://journals.bmj.com/open-access/"
+  },
+  {
+    "kind": "Journals",
+    "title": "BMJ Global Health",
+    "url": "https://gh.bmj.com/rss/current.xml",
+    "tags": [
+      "Medical",
+      "Social sciences"
+    ],
+    "asset": "rss/bmjglobal.xml",
+    "preload": true,
+    "contentMode": "open-access",
+    "policy": "https://journals.bmj.com/open-access/"
   },
   {
     "kind": "Journals",
     "title": "eLife",
     "url": "https://elifesciences.org/rss/recent.xml",
-    "asset": "rss/journals-8.xml",
-    "preload": true
+    "tags": [
+      "Biology",
+      "Medical"
+    ],
+    "asset": "rss/elife.xml",
+    "preload": true,
+    "contentMode": "open-access",
+    "policy": "https://elifesciences.org/about/policies"
   },
   {
     "kind": "Journals",
-    "title": "Nature Reviews Cardiology",
-    "url": "https://www.nature.com/nrcardio.rss",
-    "asset": "rss/journals-9.xml",
-    "preload": true
+    "title": "Economies",
+    "url": "https://www.mdpi.com/rss/journal/economies",
+    "tags": [
+      "Business",
+      "Social sciences"
+    ],
+    "asset": "rss/defaults-v3/journals-60.xml",
+    "preload": true,
+    "contentMode": "open-access",
+    "policy": "https://www.mdpi.com"
+  },
+  {
+    "kind": "Journals",
+    "title": "Laws",
+    "url": "https://www.mdpi.com/rss/journal/laws",
+    "tags": [
+      "Politics",
+      "Social sciences"
+    ],
+    "asset": "rss/defaults-v3/journals-61.xml",
+    "preload": true,
+    "contentMode": "open-access",
+    "policy": "https://www.mdpi.com"
+  },
+  {
+    "kind": "Journals",
+    "title": "Robotics",
+    "url": "https://www.mdpi.com/rss/journal/robotics",
+    "tags": [
+      "Engineering"
+    ],
+    "asset": "rss/defaults-v3/journals-62.xml",
+    "preload": true,
+    "contentMode": "open-access",
+    "policy": "https://www.mdpi.com"
+  },
+  {
+    "kind": "Journals",
+    "title": "Information",
+    "url": "https://www.mdpi.com/rss/journal/information",
+    "tags": [
+      "Technology"
+    ],
+    "asset": "rss/defaults-v3/journals-63.xml",
+    "preload": true,
+    "contentMode": "open-access",
+    "policy": "https://www.mdpi.com"
+  },
+  {
+    "kind": "Journals",
+    "title": "Journal of Open Source Software",
+    "url": "https://joss.theoj.org/papers.atom",
+    "tags": [
+      "Technology",
+      "Engineering"
+    ],
+    "asset": "rss/defaults-v3/journals-64.xml",
+    "preload": true,
+    "contentMode": "open-access",
+    "policy": "https://joss.theoj.org"
+  },
+  {
+    "kind": "Journals",
+    "title": "Journal of Open Source Education",
+    "url": "https://jose.theoj.org/papers.atom",
+    "tags": [
+      "Education",
+      "Technology"
+    ],
+    "asset": "rss/defaults-v3/journals-65.xml",
+    "preload": true,
+    "contentMode": "open-access",
+    "policy": "https://jose.theoj.org"
+  },
+  {
+    "kind": "Journals",
+    "title": "PLOS Climate",
+    "url": "https://journals.plos.org/climate/feed/atom",
+    "tags": [
+      "Environment",
+      "Science"
+    ],
+    "asset": "rss/defaults-v3/journals-66.xml",
+    "preload": true,
+    "contentMode": "open-access",
+    "policy": "https://journals.plos.org"
+  },
+  {
+    "kind": "Journals",
+    "title": "PLOS Water",
+    "url": "https://journals.plos.org/water/feed/atom",
+    "tags": [
+      "Environment",
+      "Engineering"
+    ],
+    "asset": "rss/defaults-v3/journals-67.xml",
+    "preload": true,
+    "contentMode": "open-access",
+    "policy": "https://journals.plos.org"
+  },
+  {
+    "kind": "Journals",
+    "title": "PLOS Biology",
+    "url": "https://journals.plos.org/plosbiology/feed/atom",
+    "tags": [
+      "Biology",
+      "Science"
+    ],
+    "asset": "rss/defaults-v3/journals-68.xml",
+    "preload": true,
+    "contentMode": "open-access",
+    "policy": "https://journals.plos.org"
+  },
+  {
+    "kind": "Journals",
+    "title": "PLOS Genetics",
+    "url": "https://journals.plos.org/plosgenetics/feed/atom",
+    "tags": [
+      "Biology",
+      "Medical"
+    ],
+    "asset": "rss/defaults-v3/journals-69.xml",
+    "preload": true,
+    "contentMode": "open-access",
+    "policy": "https://journals.plos.org"
+  },
+  {
+    "kind": "Journals",
+    "title": "PLOS Computational Biology",
+    "url": "https://journals.plos.org/ploscompbiol/feed/atom",
+    "tags": [
+      "Biology",
+      "Technology"
+    ],
+    "asset": "rss/defaults-v3/journals-70.xml",
+    "preload": true,
+    "contentMode": "open-access",
+    "policy": "https://journals.plos.org"
+  },
+  {
+    "kind": "Journals",
+    "title": "PLOS Sustainability and Transformation",
+    "url": "https://journals.plos.org/sustainabilitytransformation/feed/atom",
+    "tags": [
+      "Environment",
+      "Social sciences"
+    ],
+    "asset": "rss/defaults-v3/journals-71.xml",
+    "preload": true,
+    "contentMode": "open-access",
+    "policy": "https://journals.plos.org"
+  },
+  {
+    "kind": "Journals",
+    "title": "PLOS Complex Systems",
+    "url": "https://journals.plos.org/complexsystems/feed/atom",
+    "tags": [
+      "Mathematics",
+      "Technology"
+    ],
+    "asset": "rss/defaults-v3/journals-72.xml",
+    "preload": true,
+    "contentMode": "open-access",
+    "policy": "https://journals.plos.org"
+  },
+  {
+    "kind": "Journals",
+    "title": "Entropy",
+    "url": "https://www.mdpi.com/rss/journal/entropy",
+    "tags": [
+      "Physics",
+      "Mathematics"
+    ],
+    "asset": "rss/defaults-v3/journals-73.xml",
+    "preload": true,
+    "contentMode": "open-access",
+    "policy": "https://www.mdpi.com"
+  },
+  {
+    "kind": "Journals",
+    "title": "Mathematics",
+    "url": "https://www.mdpi.com/rss/journal/mathematics",
+    "tags": [
+      "Mathematics"
+    ],
+    "asset": "rss/defaults-v3/journals-74.xml",
+    "preload": true,
+    "contentMode": "open-access",
+    "policy": "https://www.mdpi.com"
+  },
+  {
+    "kind": "Journals",
+    "title": "Algorithms",
+    "url": "https://www.mdpi.com/rss/journal/algorithms",
+    "tags": [
+      "Technology",
+      "Mathematics"
+    ],
+    "asset": "rss/defaults-v3/journals-75.xml",
+    "preload": true,
+    "contentMode": "open-access",
+    "policy": "https://www.mdpi.com"
+  },
+  {
+    "kind": "Journals",
+    "title": "Applied Sciences",
+    "url": "https://www.mdpi.com/rss/journal/applsci",
+    "tags": [
+      "Engineering",
+      "Science"
+    ],
+    "asset": "rss/defaults-v3/journals-76.xml",
+    "preload": true,
+    "contentMode": "open-access",
+    "policy": "https://www.mdpi.com"
+  },
+  {
+    "kind": "Journals",
+    "title": "Sensors",
+    "url": "https://www.mdpi.com/rss/journal/sensors",
+    "tags": [
+      "Engineering",
+      "Technology"
+    ],
+    "asset": "rss/defaults-v3/journals-77.xml",
+    "preload": true,
+    "contentMode": "open-access",
+    "policy": "https://www.mdpi.com"
+  },
+  {
+    "kind": "Journals",
+    "title": "Remote Sensing",
+    "url": "https://www.mdpi.com/rss/journal/remotesensing",
+    "tags": [
+      "Environment",
+      "Engineering"
+    ],
+    "asset": "rss/defaults-v3/journals-78.xml",
+    "preload": true,
+    "contentMode": "open-access",
+    "policy": "https://www.mdpi.com"
+  },
+  {
+    "kind": "Journals",
+    "title": "Sustainability",
+    "url": "https://www.mdpi.com/rss/journal/sustainability",
+    "tags": [
+      "Environment",
+      "Social sciences"
+    ],
+    "asset": "rss/defaults-v3/journals-79.xml",
+    "preload": true,
+    "contentMode": "open-access",
+    "policy": "https://www.mdpi.com"
+  },
+  {
+    "kind": "Journals",
+    "title": "Education Sciences",
+    "url": "https://www.mdpi.com/rss/journal/education",
+    "tags": [
+      "Education"
+    ],
+    "asset": "rss/defaults-v3/journals-80.xml",
+    "preload": true,
+    "contentMode": "open-access",
+    "policy": "https://www.mdpi.com"
+  },
+  {
+    "kind": "Journals",
+    "title": "Social Sciences",
+    "url": "https://www.mdpi.com/rss/journal/socsci",
+    "tags": [
+      "Social sciences"
+    ],
+    "asset": "rss/defaults-v3/journals-81.xml",
+    "preload": true,
+    "contentMode": "open-access",
+    "policy": "https://www.mdpi.com"
+  },
+  {
+    "kind": "Journals",
+    "title": "Humanities",
+    "url": "https://www.mdpi.com/rss/journal/humanities",
+    "tags": [
+      "Culture",
+      "Social sciences"
+    ],
+    "asset": "rss/defaults-v3/journals-82.xml",
+    "preload": true,
+    "contentMode": "open-access",
+    "policy": "https://www.mdpi.com"
+  },
+  {
+    "kind": "Journals",
+    "title": "Arts",
+    "url": "https://www.mdpi.com/rss/journal/arts",
+    "tags": [
+      "Culture"
+    ],
+    "asset": "rss/defaults-v3/journals-83.xml",
+    "preload": true,
+    "contentMode": "open-access",
+    "policy": "https://www.mdpi.com"
+  },
+  {
+    "kind": "Journals",
+    "title": "Universe",
+    "url": "https://www.mdpi.com/rss/journal/universe",
+    "tags": [
+      "Physics",
+      "Space"
+    ],
+    "asset": "rss/defaults-v3/journals-84.xml",
+    "preload": true,
+    "contentMode": "open-access",
+    "policy": "https://www.mdpi.com"
+  },
+  {
+    "kind": "Journals",
+    "title": "Plants",
+    "url": "https://www.mdpi.com/rss/journal/plants",
+    "tags": [
+      "Biology"
+    ],
+    "asset": "rss/defaults-v3/journals-85.xml",
+    "preload": true,
+    "contentMode": "open-access",
+    "policy": "https://www.mdpi.com"
+  },
+  {
+    "kind": "Journals",
+    "title": "Water",
+    "url": "https://www.mdpi.com/rss/journal/water",
+    "tags": [
+      "Environment"
+    ],
+    "asset": "rss/defaults-v3/journals-86.xml",
+    "preload": true,
+    "contentMode": "open-access",
+    "policy": "https://www.mdpi.com"
+  },
+  {
+    "kind": "Journals",
+    "title": "Energies",
+    "url": "https://www.mdpi.com/rss/journal/energies",
+    "tags": [
+      "Engineering",
+      "Environment"
+    ],
+    "asset": "rss/defaults-v3/journals-87.xml",
+    "preload": true,
+    "contentMode": "open-access",
+    "policy": "https://www.mdpi.com"
+  },
+  {
+    "kind": "Journals",
+    "title": "Foods",
+    "url": "https://www.mdpi.com/rss/journal/foods",
+    "tags": [
+      "Biology",
+      "Medical"
+    ],
+    "asset": "rss/defaults-v3/journals-88.xml",
+    "preload": true,
+    "contentMode": "open-access",
+    "policy": "https://www.mdpi.com"
+  },
+  {
+    "kind": "Journals",
+    "title": "Frontiers in Psychology",
+    "url": "https://www.frontiersin.org/journals/psychology/rss",
+    "tags": [
+      "Social sciences"
+    ],
+    "asset": "rss/defaults-v3/journals-89.xml",
+    "preload": true,
+    "contentMode": "open-access",
+    "policy": "https://www.frontiersin.org"
+  },
+  {
+    "kind": "Journals",
+    "title": "Frontiers in Physics",
+    "url": "https://www.frontiersin.org/journals/physics/rss",
+    "tags": [
+      "Physics"
+    ],
+    "asset": "rss/defaults-v3/journals-90.xml",
+    "preload": true,
+    "contentMode": "open-access",
+    "policy": "https://www.frontiersin.org"
+  },
+  {
+    "kind": "Journals",
+    "title": "Frontiers in Earth Science",
+    "url": "https://www.frontiersin.org/journals/earth-science/rss",
+    "tags": [
+      "Environment"
+    ],
+    "asset": "rss/defaults-v3/journals-91.xml",
+    "preload": true,
+    "contentMode": "open-access",
+    "policy": "https://www.frontiersin.org"
+  },
+  {
+    "kind": "Journals",
+    "title": "Frontiers in Environmental Science",
+    "url": "https://www.frontiersin.org/journals/environmental-science/rss",
+    "tags": [
+      "Environment"
+    ],
+    "asset": "rss/defaults-v3/journals-92.xml",
+    "preload": true,
+    "contentMode": "open-access",
+    "policy": "https://www.frontiersin.org"
+  },
+  {
+    "kind": "Journals",
+    "title": "Frontiers in Education",
+    "url": "https://www.frontiersin.org/journals/education/rss",
+    "tags": [
+      "Education"
+    ],
+    "asset": "rss/defaults-v3/journals-93.xml",
+    "preload": true,
+    "contentMode": "open-access",
+    "policy": "https://www.frontiersin.org"
+  },
+  {
+    "kind": "Journals",
+    "title": "Frontiers in Neuroscience",
+    "url": "https://www.frontiersin.org/journals/neuroscience/rss",
+    "tags": [
+      "Medical",
+      "Biology"
+    ],
+    "asset": "rss/defaults-v3/journals-94.xml",
+    "preload": true,
+    "contentMode": "open-access",
+    "policy": "https://www.frontiersin.org"
+  },
+  {
+    "kind": "Journals",
+    "title": "Frontiers in Computer Science",
+    "url": "https://www.frontiersin.org/journals/computer-science/rss",
+    "tags": [
+      "Technology"
+    ],
+    "asset": "rss/defaults-v3/journals-95.xml",
+    "preload": true,
+    "contentMode": "open-access",
+    "policy": "https://www.frontiersin.org"
+  },
+  {
+    "kind": "Journals",
+    "title": "Frontiers in Artificial Intelligence",
+    "url": "https://www.frontiersin.org/journals/artificial-intelligence/rss",
+    "tags": [
+      "Technology"
+    ],
+    "asset": "rss/defaults-v3/journals-96.xml",
+    "preload": true,
+    "contentMode": "open-access",
+    "policy": "https://www.frontiersin.org"
+  },
+  {
+    "kind": "Journals",
+    "title": "Frontiers in Robotics and AI",
+    "url": "https://www.frontiersin.org/journals/robotics-and-ai/rss",
+    "tags": [
+      "Engineering",
+      "Technology"
+    ],
+    "asset": "rss/defaults-v3/journals-97.xml",
+    "preload": true,
+    "contentMode": "open-access",
+    "policy": "https://www.frontiersin.org"
+  },
+  {
+    "kind": "Journals",
+    "title": "Frontiers in Applied Mathematics and Statistics",
+    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/rss",
+    "tags": [
+      "Mathematics"
+    ],
+    "asset": "rss/defaults-v3/journals-98.xml",
+    "preload": true,
+    "contentMode": "open-access",
+    "policy": "https://www.frontiersin.org"
+  },
+  {
+    "kind": "Journals",
+    "title": "Frontiers in Marine Science",
+    "url": "https://www.frontiersin.org/journals/marine-science/rss",
+    "tags": [
+      "Environment",
+      "Biology"
+    ],
+    "asset": "rss/defaults-v3/journals-99.xml",
+    "preload": true,
+    "contentMode": "open-access",
+    "policy": "https://www.frontiersin.org"
   }
 ]

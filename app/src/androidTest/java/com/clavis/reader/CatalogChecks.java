@@ -28,6 +28,3 @@ final class CatalogChecks {
   return checks+" catalog, pagination, download, import and shelf checks passed";
  }
 }
-
-
-

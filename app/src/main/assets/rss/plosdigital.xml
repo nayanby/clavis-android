@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>PLOS Digital Health</title>
+  <link rel="alternate" href="https://journals.plos.org/digitalhealth/" />
+  <author>
+    <name>PLOS</name>
+    <uri>https://journals.plos.org/digitalhealth/</uri>
+    <email>customercare@plos.org</email>
+  </author>
+  <subtitle type="text">A Peer-Reviewed Open-Access Journal</subtitle>
+  <id>https://journals.plos.org/digitalhealth/feed/atom</id>
+  <rights>All PLOS articles are Open Access.</rights>
+  <icon>https://journals.plos.org/digitalhealth/resource/img/favicon.ico</icon>
+  <logo>https://journals.plos.org/digitalhealth/resource/img/favicon.ico</logo>
+  <updated>2026-10-26T22:05:11Z</updated>
+  <entry>
+    <title>Evaluating an LLM-assisted workflow for clinical documentation: A pilot randomized controlled trial on time and quality</title>
+    <link rel="alternate" href="https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0001799" title="Evaluating an LLM-assisted workflow for clinical documentation: A pilot randomized controlled trial on time and quality" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/digitalhealth/article/asset?id=10.1371/journal.pdig.0001799.PDF" title="(PDF) Evaluating an LLM-assisted workflow for clinical documentation: A pilot randomized controlled trial on time and quality" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/digitalhealth/article/asset?id=10.1371/journal.pdig.0001799.XML" title="(XML) Evaluating an LLM-assisted workflow for clinical documentation: A pilot randomized controlled trial on time and quality" />
+    <author>
+      <name>Tomohiro Takayama</name>
+    </author>
+    <author>
+      <name>Keina Sado</name>
+    </author>
+    <author>
+      <name>Kenji Suda</name>
+    </author>
+    <author>
+      <name>Hiroshi Tamura</name>
+    </author>
+    <author>
+      <name>Naoko Ueda-Arakawa</name>
+    </author>
+    <author>
+      <name>Kenji Ishihara</name>
+    </author>
+    <author>
+      <name>Yuta Ueda</name>
+    </author>
+    <author>
+      <name>Kazuya Okamoto</name>
+    </author>
+    <author>
+      <name>Luciano Henrique de Oliveira Santos</name>
+    </author>
+    <author>
+      <name>Tetsuro Oshika</name>
+    </author>
+    <author>
+      <name>Tomohiro Kuroda</name>
+    </author>
+    <author>
+      <name>Akitaka Tsujikawa</name>
+    </author>
+    <author>
+      <name>Masahiro Miyake</name>
+    </author>
+    <id>10.1371/journal.pdig.0001799</id>
+    <updated>2026-10-26T14:00:00Z</updated>
+    <published>2026-10-26T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Tomohiro Takayama, Keina Sado, Kenji Suda, Hiroshi Tamura, Naoko Ueda-Arakawa, Kenji Ishihara, Yuta Ueda, Kazuya Okamoto, Luciano Henrique de Oliveira Santos, Tetsuro Oshika, Tomohiro Kuroda, Akitaka Tsujikawa, Masahiro Miyake&lt;/p&gt;
+
+Large language models (LLMs) have been investigated for clinical documentation, with concerns about hallucinations and factual errors. Clinician review and revision of LLM-generated drafts are considered essential; however, the impact of such a workflow on both documentation time and quality remains unknown. This single-center, parallel-group, prospective, randomized, open-label, blinded-endpoint (PROBE) pilot trial evaluated whether a clinician-in-the-loop workflow improves clinical documentation time and quality compared with clinician-only drafting. From February 18 to March 14, 2025, at the Department of Ophthalmology, Kyoto University Hospital, 21 physicians were randomized, and 17 completed the intervention. Participants were randomized to either the Clinician-in-the-loop group or the Clinician-only group. Participants created discharge summaries and referrals for six simulated patient records. The Clinician-in-the-loop group reviewed and edited LLM-generated drafts, whereas the Clinician-only group drafted documents from scratch using matched templates. Unedited LLM drafts formed the LLM-only group. Seventeen physicians submitted 48 discharge summaries and 48 discharge referrals in the Clinician-in-the-loop group, 54 of each document type in the Clinician-only group, and 48 of each in the LLM-only group. Clinician-in-the-loop showed a shorter creation time for summaries (β = −59.4 seconds; 95% CI, −150.6 to 31.7; P = .18) and a longer creation time for referrals (β = 52.9 seconds; 95% CI, −7.0 to 112.9; P = .08) than Clinician-only, although neither difference was statistically significant. In most expert-rated quality domains, the clinician-in-the-loop workflow outperformed clinician-only drafting. LLM-only drafts were fastest but had the lowest quality. In conclusion, a clinician-in-the-loop approach generally improved document quality and, although the primary analysis showed no statistically significant difference in documentation time, suggested potential time savings for certain document types. These findings highlight the importance of active clinician supervision and support further evaluation of clinician-in-the-loop workflows in real-world clinical settings.
+Trial Registration
+ClinicalTrials.gov Identifier NCT07187050 (registered on September 18, 2025).</content>
+  </entry>
+  <entry>
+    <title>Decision-making pathways for adopting, implementing, and scaling gamified physical activity interventions in municipal policy and practice in the Netherlands</title>
+    <link rel="alternate" href="https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0001792" title="Decision-making pathways for adopting, implementing, and scaling gamified physical activity interventions in municipal policy and practice in the Netherlands" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/digitalhealth/article/asset?id=10.1371/journal.pdig.0001792.PDF" title="(PDF) Decision-making pathways for adopting, implementing, and scaling gamified physical activity interventions in municipal policy and practice in the Netherlands" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/digitalhealth/article/asset?id=10.1371/journal.pdig.0001792.XML" title="(XML) Decision-making pathways for adopting, implementing, and scaling gamified physical activity interventions in municipal policy and practice in the Netherlands" />
+    <author>
+      <name>Ayla Schwarz</name>
+    </author>
+    <author>
+      <name>Maarten van Bottenburg</name>
+    </author>
+    <author>
+      <name>Monique Simons</name>
+    </author>
+    <id>10.1371/journal.pdig.0001792</id>
+    <updated>2026-10-26T14:00:00Z</updated>
+    <published>2026-10-26T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Ayla Schwarz, Maarten van Bottenburg, Monique Simons&lt;/p&gt;
+
+Municipalities increasingly pilot gamified physical activity (PA) interventions, yet few progress beyond pilots. This qualitative study examined decision-making pathways through which Dutch municipalities adopt, implement, and scale digital gamified PA interventions, using the case of ‘Missie Master’. A two-phase design was applied, combining exploratory interviews with policymakers, health professionals, and a company (phase 1), followed by two multi-stakeholder workshops and follow-up interviews with municipalities new to gamification (phase 2). Thematic analysis showed that adoption was driven by informal processes, enthusiastic individuals, trust in product reliability, and peer recommendations, while generic company outreach was ignored. Implementation relied on early preparatory capacity, such as designated coordinators, marketing plans, and timely app updates. Scaling was rare and cyclical, dependent on political support, cross-domain alignment, and short communication lines. The study offers a practical decision guide and highlights monitoring needs. Policy implications include transparent evaluation pathways, structured early implementation, and strengthened public-private co-development.</content>
+  </entry>
+  <entry>
+    <title>Structural limits of single-barrier reform in algorithmic recourse: A formal series-system model with implications for digital health</title>
+    <link rel="alternate" href="https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0001784" title="Structural limits of single-barrier reform in algorithmic recourse: A formal series-system model with implications for digital health" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/digitalhealth/article/asset?id=10.1371/journal.pdig.0001784.PDF" title="(PDF) Structural limits of single-barrier reform in algorithmic recourse: A formal series-system model with implications for digital health" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/digitalhealth/article/asset?id=10.1371/journal.pdig.0001784.XML" title="(XML) Structural limits of single-barrier reform in algorithmic recourse: A formal series-system model with implications for digital health" />
+    <author>
+      <name>A. C. Demidont</name>
+    </author>
+    <id>10.1371/journal.pdig.0001784</id>
+    <updated>2026-10-26T14:00:00Z</updated>
+    <published>2026-10-26T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by A. C. Demidont&lt;/p&gt;
+
+Algorithmic decision systems mediate access to healthcare, credit, employment and housing, yet individuals who experience adverse decisions face multi-stage barriers when seeking recourse. We formalize these barriers as a series-structured system with 11 empirically parameterized stages across three layers (data integration, data accuracy and institutional access) and prove that single-barrier interventions are bounded by baseline system success. Under baseline parameterization derived from federal datasets and peer-reviewed algorithmic audit studies, end-to-end recourse probability is 0.0018%. Removing any single barrier yields negligible improvement (&lt;0.02%). Factorial decomposition reveals that the three-way cross-layer interaction accounts for 87.6% of achievable improvement, illustrated by Shapley attribution, Sobol sensitivity analysis and bootstrap resampling (n = 1,000) within prespecified perturbation ranges. Introducing dependence among the stage pass-events with a Gaussian-copula analysis (latent correlation up to ρ = 0.5), while preserving each marginal pass probability, leaves the comparative conclusion—single-layer reform yields far less than coordinated reform—intact, while a repeated-attempt topology attenuates it, delimiting the model’s domain of validity. These findings are properties of the modeled system rather than empirical measurements of real recourse pathways; they yield testable hypotheses for digital-health governance—chiefly that single-layer fairness interventions are structurally unlikely to produce large absolute gains—pending validation against observed recourse data.</content>
+  </entry>
+  <entry>
+    <title>Quantitative assessment of collagen architecture from routine histopathological images shows concordance with Second Harmonic Generation microscopy</title>
+    <link rel="alternate" href="https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0001364" title="Quantitative assessment of collagen architecture from routine histopathological images shows concordance with Second Harmonic Generation microscopy" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/digitalhealth/article/asset?id=10.1371/journal.pdig.0001364.PDF" title="(PDF) Quantitative assessment of collagen architecture from routine histopathological images shows concordance with Second Harmonic Generation microscopy" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/digitalhealth/article/asset?id=10.1371/journal.pdig.0001364.XML" title="(XML) Quantitative assessment of collagen architecture from routine histopathological images shows concordance with Second Harmonic Generation microscopy" />
+    <author>
+      <name>Vedant Ingawale</name>
+    </author>
+    <author>
+      <name>Krishnendu Dandapat</name>
+    </author>
+    <author>
+      <name>Jyothsna Konkada Manattayil</name>
+    </author>
+    <author>
+      <name>Shashank Gupta</name>
+    </author>
+    <author>
+      <name>L. S. Shashidhara</name>
+    </author>
+    <author>
+      <name>Chaitanyanand Koppiker</name>
+    </author>
+    <author>
+      <name>Nameeta Shah</name>
+    </author>
+    <author>
+      <name>Varun Raghunathan</name>
+    </author>
+    <author>
+      <name>Madhura Kulkarni</name>
+    </author>
+    <id>10.1371/journal.pdig.0001364</id>
+    <updated>2026-10-26T14:00:00Z</updated>
+    <published>2026-10-26T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Vedant Ingawale, Krishnendu Dandapat, Jyothsna Konkada Manattayil, Shashank Gupta, L. S. Shashidhara, Chaitanyanand Koppiker, Nameeta Shah, Varun Raghunathan, Madhura Kulkarni&lt;/p&gt;
+
+Collagen organization within the tumour microenvironment plays a critical role in tumour progression and has emerged as an important structural biomarker in cancer. Second Harmonic Generation (SHG) microscopy enables label-free visualization and quantitative assessment of fibrillar collagen architecture; however, its high cost, specialized instrumentation, and limited field-of-view restrict routine clinical application. In this study, we evaluated whether collagen features quantified from digitally scanned Masson–Goldner’s Trichrome-stained histopathological sections can approximate measurements obtained from SHG microscopy. Formalin-fixed paraffin-embedded breast tumour tissues, including benign and invasive ductal carcinoma (IDC) samples with varying collagen content, were analysed using SHG microscopy and whole-slide brightfield imaging. Matched regions of interest were analysed using two independent digital image analysis approaches: a conventional ImageJ-based workflow (TWOMBLI) and a machine learning–based computational pipeline. Collagen structural parameters including collagen deposition area, fibre number, and alignment metrics were quantified and compared across imaging modalities using correlation analysis. SHG signals were consistently detected from Trichrome-stained sections, confirming compatibility of SHG imaging. Quantitative comparison demonstrated significant concordance between SHG-derived collagen metrics and those obtained from digital image analysis pipelines, particularly for collagen area and fibre alignment. These findings demonstrate a proof-of-concept, that computational analysis of routine histopathological images can capture key spatial features of collagen organization comparable to SHG microscopy. Digital pathology–based collagen quantification therefore represents a potentially scalable and clinically accessible approach for assessing extracellular matrix architecture in tumour tissues.</content>
+  </entry>
+  <entry>
+    <title>Refocusing algorithmic fairness on feature-level bias: A diagnostic approach using dutch EHR data</title>
+    <link rel="alternate" href="https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0001105" title="Refocusing algorithmic fairness on feature-level bias: A diagnostic approach using dutch EHR data" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/digitalhealth/article/asset?id=10.1371/journal.pdig.0001105.PDF" title="(PDF) Refocusing algorithmic fairness on feature-level bias: A diagnostic approach using dutch EHR data" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/digitalhealth/article/asset?id=10.1371/journal.pdig.0001105.XML" title="(XML) Refocusing algorithmic fairness on feature-level bias: A diagnostic approach using dutch EHR data" />
+    <author>
+      <name>Cathleen S. Parsons</name>
+    </author>
+    <author>
+      <name>Shelley-Ann M. Girwar</name>
+    </author>
+    <author>
+      <name>Sepinoud Azimi</name>
+    </author>
+    <author>
+      <name>Marco R. Spruit</name>
+    </author>
+    <author>
+      <name>Marcel R. Haas</name>
+    </author>
+    <id>10.1371/journal.pdig.0001105</id>
+    <updated>2026-10-26T14:00:00Z</updated>
+    <published>2026-10-26T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Cathleen S. Parsons, Shelley-Ann M. Girwar, Sepinoud Azimi, Marco R. Spruit, Marcel R. Haas&lt;/p&gt;
+
+While algorithmic fairness research in healthcare has predominantly focused on disparities in model performance, less attention has been given to the underlying data structures that may drive such disparities. High-level fairness metrics often obscure the deeper feature-level dynamics necessary for a critical and context-aware assessment of fairness. To address this gap, we propose and apply a diagnostic framework termed Feature-Level Bias Identification And Sensemaking (FL-BIAS). As a case study, we conducted a secondary analysis of a retrospective cross-sectional cohort study using electronic health record data from Dutch general practitioners, linked with sociodemographic data from Statistics Netherlands. The dataset included 112,872 patients, of whom 16.2% had a non-Western migration background. Hospitalization in the following year was modeled using Johns Hopkins Aggregated Diagnosis Groups (ADGs). We trained logistic regression and XGBoost models on different subgroup datasets to evaluate performance disparities using fairness metrics. To analyze feature-level contributions to predictions and errors, we applied Kernel Shapley Values and Cohort Shapley methods. Exploratory analysis revealed significant differences in socioeconomic status (SES) and ADG distributions between Dutch and non-Western groups, though Multiple Correspondence Analysis showed minimal structural variation. Mediation analysis indicated that the effect of migration background on hospitalization was largely mediated by SES, with potential unobserved confounding. While standard fairness metrics indicated modest bias in favor of non-Western patients, deeper feature-level analyses revealed subgroup-specific patterns of variable importance that suggest potentially less favorable underlying conditions. For instance, malignancy (ADG 32) had a stronger predictive impact among non-Western patients but contributed less to false negatives compared to Dutch patients, possibly reflecting structural disparities in cancer diagnosis and care. These findings highlight the need for contextual, multi-level evaluations of algorithmic bias. Fairness in healthcare algorithms must be approached as a socio-technical challenge, requiring multidisciplinary collaboration to uncover root causes in the processes that generate the data.</content>
+  </entry>
+  <entry>
+    <title>External validation and adaptation of the Computational Barthel Index Tool in a large nursing home cohort</title>
+    <link rel="alternate" href="https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0001793" title="External validation and adaptation of the Computational Barthel Index Tool in a large nursing home cohort" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/digitalhealth/article/asset?id=10.1371/journal.pdig.0001793.PDF" title="(PDF) External validation and adaptation of the Computational Barthel Index Tool in a large nursing home cohort" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/digitalhealth/article/asset?id=10.1371/journal.pdig.0001793.XML" title="(XML) External validation and adaptation of the Computational Barthel Index Tool in a large nursing home cohort" />
+    <author>
+      <name>Lemba Priscille Ngana</name>
+    </author>
+    <author>
+      <name>Janusz Wojtusiak</name>
+    </author>
+    <author>
+      <name>Atefehsadat Haghighathoseini</name>
+    </author>
+    <author>
+      <name>Bhumi Patel</name>
+    </author>
+    <author>
+      <name>Dharmi Desai</name>
+    </author>
+    <id>10.1371/journal.pdig.0001793</id>
+    <updated>2026-10-23T14:00:00Z</updated>
+    <published>2026-10-23T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Lemba Priscille Ngana, Janusz Wojtusiak, Atefehsadat Haghighathoseini, Bhumi Patel, Dharmi Desai&lt;/p&gt;
+
+The Computational Barthel Index Tool (CBIT), originally developed using U.S. Department of Veterans Affairs (VA) data, predicts future dependency in activities of daily living up to one year in advance. This study externally validated CBIT in a large non-VA nursing home population and evaluated whether population-specific adaptation could recover performance following external transport. We analyzed SEER-Medicare linked data, including 843,836 patients and over 8 million Minimum Data Set (MDS) assessments. The predictor and outcome structures of the original CBIT models were reconstructed in the SEER-Medicare cohort. Pretrained models were evaluated without modification for discrimination and calibration at current, 3-, 6-, and 12-month prediction timeframes. Population-specific adaptation was evaluated using progressively larger subsets of SEER-Medicare training data and compared with model reconstruction in the SEER-Medicare. Under strict external validation, discrimination declined relative to the original VA models, particularly for longer-term predictions. For evaluation models, mean AUC decreased from 0.795 in the original models to 0.693 at current prediction, 0.595 at 3 months, 0.595 at 6 months, and 0.592 at 12 months. Re-evaluation models showed stronger but similarly declining external performance. Calibration error increased, particularly for evaluation models at longer timeframes. Subgroup analyses showed modest variation in discrimination across demographic and clinical groups. Population-specific adaptation substantially recovered discrimination, with performance improving as more SEER-Medicare training data were incorporated. Using the adaptation training set, adapted models achieved performance comparable to SEER-Medicare model reconstruction. External validation revealed substantial performance degradation when CBIT was transported to a non-VA population. Population-specific adaptation recovered much of this performance loss, supporting a structured approach to clinical ML transportability in which pretrained models are externally validated first, followed by adaptation when performance degradation is observed. Full model reconstruction remains an alternative when sufficient local data are available.</content>
+  </entry>
+  <entry>
+    <title>Changes in the acceptance of artificial intelligence in medicine among physicians and the general public in Japan: A repeated cross-sectional comparison of 2018 and 2025</title>
+    <link rel="alternate" href="https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0001769" title="Changes in the acceptance of artificial intelligence in medicine among physicians and the general public in Japan: A repeated cross-sectional comparison of 2018 and 2025" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/digitalhealth/article/asset?id=10.1371/journal.pdig.0001769.PDF" title="(PDF) Changes in the acceptance of artificial intelligence in medicine among physicians and the general public in Japan: A repeated cross-sectional comparison of 2018 and 2025" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/digitalhealth/article/asset?id=10.1371/journal.pdig.0001769.XML" title="(XML) Changes in the acceptance of artificial intelligence in medicine among physicians and the general public in Japan: A repeated cross-sectional comparison of 2018 and 2025" />
+    <author>
+      <name>Teppei Suzuki</name>
+    </author>
+    <author>
+      <name>Honoka Tamori</name>
+    </author>
+    <author>
+      <name>Kazuki Ohashi</name>
+    </author>
+    <author>
+      <name>Yasuhiro Morii</name>
+    </author>
+    <author>
+      <name>Kenji Hirata</name>
+    </author>
+    <author>
+      <name>Kohsuke Kudo</name>
+    </author>
+    <author>
+      <name>Katsuhiko Ogasawara</name>
+    </author>
+    <id>10.1371/journal.pdig.0001769</id>
+    <updated>2026-10-23T14:00:00Z</updated>
+    <published>2026-10-23T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Teppei Suzuki, Honoka Tamori, Kazuki Ohashi, Yasuhiro Morii, Kenji Hirata, Kohsuke Kudo, Katsuhiko Ogasawara&lt;/p&gt;
+
+Medical artificial intelligence (AI) has advanced rapidly, yet whether growing societal familiarity with AI is accompanied by greater willingness to receive relatively autonomous AI-led care remains unclear. We conducted repeated cross-sectional online surveys in Japan in 2018 and 2025 using the same questionnaire and compared self-identified physicians and members of the general public (2018: 399 physicians and 600 members of the public; 2025: 300 physicians and 300 members of the public). Mean responses to the item assessing intention to use medical AI did not differ significantly between survey years in either group, despite consistently favorable evaluations of its usefulness and future necessity. Among physicians, the unadjusted mean response regarding the potential of medical AI to improve clinical efficiency was higher in 2025, but this difference was not significant after adjustment for age and sex. Among members of the public, self-rated knowledge of medical AI was higher in 2025, while expectations that medical AI would increase healthcare costs were also greater. These findings suggest that increased self-rated knowledge may not necessarily be accompanied by greater intention to use relatively autonomous medical AI. Implementation strategies should therefore address concerns regarding responsibility, safety, data protection, and healthcare costs alongside efforts to improve public understanding.</content>
+  </entry>
+  <entry>
+    <title>An LLM-based decision aid for collaborative decision-making in juvenile idiopathic arthritis: A multimethod evaluation</title>
+    <link rel="alternate" href="https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0001655" title="An LLM-based decision aid for collaborative decision-making in juvenile idiopathic arthritis: A multimethod evaluation" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/digitalhealth/article/asset?id=10.1371/journal.pdig.0001655.PDF" title="(PDF) An LLM-based decision aid for collaborative decision-making in juvenile idiopathic arthritis: A multimethod evaluation" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/digitalhealth/article/asset?id=10.1371/journal.pdig.0001655.XML" title="(XML) An LLM-based decision aid for collaborative decision-making in juvenile idiopathic arthritis: A multimethod evaluation" />
+    <author>
+      <name>Antonia Barbaric</name>
+    </author>
+    <author>
+      <name>Susanne M. Benseler</name>
+    </author>
+    <author>
+      <name>Chitra Lalloo</name>
+    </author>
+    <author>
+      <name>Xinyi Celine Liu</name>
+    </author>
+    <author>
+      <name>Alex Mariakakis</name>
+    </author>
+    <author>
+      <name>Quynh Pham</name>
+    </author>
+    <author>
+      <name>Sebastiaan J. Vastert</name>
+    </author>
+    <author>
+      <name>Rae S. M. Yeung</name>
+    </author>
+    <author>
+      <name>Joseph A. Cafazzo</name>
+    </author>
+    <author>
+      <name>Joost F. Swart</name>
+    </author>
+    <id>10.1371/journal.pdig.0001655</id>
+    <updated>2026-10-22T14:00:00Z</updated>
+    <published>2026-10-22T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Antonia Barbaric, Susanne M. Benseler, Chitra Lalloo, Xinyi Celine Liu, Alex Mariakakis, Quynh Pham, Sebastiaan J. Vastert, Rae S. M. Yeung, Joseph A. Cafazzo, Joost F. Swart&lt;/p&gt;
+
+Juvenile idiopathic arthritis (JIA) is the most common pediatric chronic inflammatory rheumatic condition, with substantial quality-of-life impacts. Treatment selection is complex due to limited guideline evidence, and difficult trade-offs. Decisions are often solely physician driven. We evaluated the feasibility of Large Language Model-based Decision Aid (LLM-DA) designed to support collaborative rather than solely physician decision-making in JIA care. A multi-method feasibility study was conducted in accordance with the TRIPOD-LLM checklist. The aims were twofold: first, to assess the quality of the LLM-DA (OpenAI’s o3 model) based on evaluations from three pediatric rheumatologists and an exploratory assessment by an LLM-as-a-Judge (OpenAI’s GPT-5 model); and second, to characterize perceived value of the tool from the patient perspective through a mixed methods evaluation (n = 34). For 10 de-identified use cases, rheumatologists and LLM-Judge generated treatment recommendations and scored the LLM-DA outputs on safety, factual consistency, treatment appropriateness, and preference acknowledgment. Rheumatologists rated 97% of outputs as acceptable for safety and preference acknowledgment, 60% for factual consistency, 70% for appropriateness. Treatment recommendation agreement among all evaluators and real-world data was low at &lt;30%. Inter-rater agreement for scores among rheumatologists was &lt;i&gt;almost perfect&lt;/i&gt; for safety and preference acknowledgement, &lt;i&gt;moderate&lt;/i&gt; for treatment appropriateness, and &lt;i&gt;poor&lt;/i&gt; for factual consistency, and remained the same or improved with LLM-as-a-Judge. Variability in evaluator scoring and treatment recommendations may reflect the inherent heterogeneity in acceptable JIA treatment pathways and potential limitations in the LLM-DA’s decision-making logic. Five patient themes were identified: the tool complements rheumatologist expertise, prepares patients through reflection and actionable information, builds confidence for self-advocacy, has variable value depending on the patient-physician relationship, and has potential for broader JIA self-management. These exploratory findings provide a proof-of-concept for using AI to support collaborative decision-making, while highlighting the need for future studies to determine whether LLMs can reliably support clinical practice.</content>
+  </entry>
+  <entry>
+    <title>An artificial intelligence-based audio recognition system for dysarthria home-based rehabilitation: A proof-of-concept study</title>
+    <link rel="alternate" href="https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0001794" title="An artificial intelligence-based audio recognition system for dysarthria home-based rehabilitation: A proof-of-concept study" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/digitalhealth/article/asset?id=10.1371/journal.pdig.0001794.PDF" title="(PDF) An artificial intelligence-based audio recognition system for dysarthria home-based rehabilitation: A proof-of-concept study" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/digitalhealth/article/asset?id=10.1371/journal.pdig.0001794.XML" title="(XML) An artificial intelligence-based audio recognition system for dysarthria home-based rehabilitation: A proof-of-concept study" />
+    <author>
+      <name>Vicente Sancenon</name>
+    </author>
+    <author>
+      <name>Pamela Y. S. Oh</name>
+    </author>
+    <author>
+      <name>Elvina K. W. Tay</name>
+    </author>
+    <author>
+      <name>Jarrod Z. X. Lee</name>
+    </author>
+    <author>
+      <name>Megan L. E. Soon</name>
+    </author>
+    <author>
+      <name>Han Leong Goh</name>
+    </author>
+    <author>
+      <name>Nicodemus Oey</name>
+    </author>
+    <author>
+      <name>Andy W. A. Ta</name>
+    </author>
+    <id>10.1371/journal.pdig.0001794</id>
+    <updated>2026-10-21T14:00:00Z</updated>
+    <published>2026-10-21T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Vicente Sancenon, Pamela Y. S. Oh, Elvina K. W. Tay, Jarrod Z. X. Lee, Megan L. E. Soon, Han Leong Goh, Nicodemus Oey, Andy W. A. Ta&lt;/p&gt;
+
+Dysarthria is a common motor speech disorder affecting individuals with neurological conditions, with high prevalence among stroke survivors. Effective treatment of dysarthria requires accurate assessment of severity and the provision of speech exercises tailored to the degree of impairment. However, traditional speech intervention faces several limitations, including limited accessibility to therapists and low treatment adherence rates. AI-driven solutions have the potential to address these limitations by automating the detection of dysarthria severity and recommending personalized exercises. Although substantial progress has been made in the automated detection and classification of dysarthria severity, the performance of these approaches on less controlled, real-world speech remains insufficiently characterized. This proof-of-concept study describes the development and evaluation of Whisper-ST1, a novel framework for classifying dysarthric speech severity from audio files by fine-tuning a pretrained automatic speech recognition model. Our framework builds on previous studies by incorporating real-world data alongside traditional research datasets, adapting a model architecture pretrained on a large corpus of audio data, applying a progressive unfreezing strategy to prevent catastrophic forgetting of relevant speech features while promoting flexible adaptation to the new task, and implementing an ordinal regression loss to minimize the impact of misclassification errors. Ablation experiments demonstrate the performance contributions of individual pipeline components in isolation. Whisper-ST1 achieves 79% [67% – 100%] per-speaker F1 in the classification of dysarthria severity when tested on real-world samples, and shows strong agreement with two speech therapists’ ratings of dysarthria (Weighted Cohen’s kappa of 0.814 [0.400 – 1.000] and 0.878 [0.647 – 1.000]), comparable to inter-therapist agreement (0.851 [0.550 – 1.000]). Model errors are predominantly confined to adjacent severity levels, suggesting preservation of ordinal structure. These findings demonstrate the feasibility of leveraging pretrained speech models for dysarthria severity classification in heterogeneous audio conditions. and provide a foundational step toward AI-assisted tools for remote monitoring and support of dysarthria rehabilitation.</content>
+  </entry>
+  <entry>
+    <title>Impression-regularized finetuning enables small language models to extract cervical spine fractures from radiology reports</title>
+    <link rel="alternate" href="https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0001786" title="Impression-regularized finetuning enables small language models to extract cervical spine fractures from radiology reports" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/digitalhealth/article/asset?id=10.1371/journal.pdig.0001786.PDF" title="(PDF) Impression-regularized finetuning enables small language models to extract cervical spine fractures from radiology reports" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/digitalhealth/article/asset?id=10.1371/journal.pdig.0001786.XML" title="(XML) Impression-regularized finetuning enables small language models to extract cervical spine fractures from radiology reports" />
+    <author>
+      <name>Zixuan Hu</name>
+    </author>
+    <author>
+      <name>Hui Ming Lin</name>
+    </author>
+    <author>
+      <name>Yingming Amy Chen</name>
+    </author>
+    <author>
+      <name>Christopher S. Lozano</name>
+    </author>
+    <author>
+      <name>Markand Patel</name>
+    </author>
+    <author>
+      <name>Ali Emami</name>
+    </author>
+    <author>
+      <name>Ervin Sejdić</name>
+    </author>
+    <author>
+      <name>Errol Colak</name>
+    </author>
+    <id>10.1371/journal.pdig.0001786</id>
+    <updated>2026-10-21T14:00:00Z</updated>
+    <published>2026-10-21T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Zixuan Hu, Hui Ming Lin, Yingming Amy Chen, Christopher S. Lozano, Markand Patel, Ali Emami, Ervin Sejdić, Errol Colak&lt;/p&gt;
+
+We assessed whether small, open-weight large language models (LLMs) can accurately extract vertebral-level acute cervical spine fracture labels from CT radiology reports while supporting on-premises deployment, and whether impression-regularized finetuning improves accuracy, data efficiency, and temporal stability. In this single-center retrospective study, 8,567 adult cervical spine CT reports (2017–2022) were labeled for acute occipital condyle and C1–C7 fractures with neuroradiologist oversight. Reports from 2017 (n = 1,064) were used for finetuning and reports from 2018–2022 (n = 7,503) for temporal testing. We finetuned Gemma-3 (1B/4B/12B), Llama-3.2-3B, and Phi-3.5-Mini using standard low-rank adaptation (LoRA) and with an impression-regularized LoRA approach. During training, the model samples multiple synthetic targeted impressions focused on acute cervical spine fractures, selects the candidate most consistent with the reference standard labels, and applies an auxiliary impression loss as regularization. At inference, all models perform single-pass deterministic JSON extraction. Baselines included zero-shot prompting, two-pass impression-guided prompting, and standard LoRA. Impression-regularized LoRA improved Gemma-3-4B macro-F1 from 0.885 to 0.909 (macro-precision 0.929, macro-recall 0.893) while reducing variance across training runs. Improvements were largest for smaller models and in low-data settings; Gemma-3-1B macro-F1 increased from 0.646 to 0.782. For this vertebral-level acute cervical spine fracture extraction task, impression-regularized Gemma-3-4B approached the zero-shot performance of the Gemma-3-27B (macro-F1 0.909 vs. 0.913). Across the 2018–2022 temporal evaluation, mean F1 increased from 0.871 to 0.893 with similar or lower variability across time windows. Systematic error analysis showed that remaining errors were mainly associated with ambiguous report language and label-boundary cases. Overall, impression-regularized LoRA enables small open-weight LLMs to accurately extract acute cervical spine fracture labels while maintaining performance across a multi-year test period and preserving auditable single-pass inference suitable for privacy-preserving on-premises deployment.</content>
+  </entry>
+</feed>

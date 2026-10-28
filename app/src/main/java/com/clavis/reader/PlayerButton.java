@@ -14,4 +14,3 @@ final class PlayerButton extends TextView {
  else if(kind.equals("back")||kind.equals("forward")){boolean back=kind.equals("back");c.save();if(back)c.scale(-1,1);p.setStyle(Paint.Style.STROKE);p.setStrokeWidth(2.6f*d);p.setStrokeCap(Paint.Cap.ROUND);c.drawArc(-18*d,-18*d,18*d,18*d,-65,300,false,p);p.setStyle(Paint.Style.FILL);Path arrow=new Path();arrow.moveTo(7*d,-21*d);arrow.lineTo(17*d,-12*d);arrow.lineTo(4*d,-12*d);arrow.close();c.drawPath(arrow,p);c.restore();p.setTextSize(13*d);p.setTypeface(Typeface.create("sans-serif",Typeface.BOLD));p.setTextAlign(Paint.Align.CENTER);c.drawText(getText().toString(),0,5*d,p);}
  else{if(kind.equals("previous"))c.scale(-1,1);Path t=new Path();t.moveTo(-8*d,-8*d);t.lineTo(5*d,0);t.lineTo(-8*d,8*d);t.close();c.drawPath(t,p);c.drawRoundRect(7*d,-9*d,10*d,9*d,1*d,1*d,p);}c.restore();}
 }
-

@@ -18,9 +18,9 @@ final class ArticleRepository {
  // Start with the newest story from each source, then warm more in round-robin order.
  static void prefetch(Context c,String kind,java.util.List<FeedStore.Feed> feeds){
   if(kind.equals("Podcasts"))return;int count=0;java.util.HashSet<String> seen=new java.util.HashSet<>();
-  for(int n=0;n<5&&count<20;n++)for(FeedStore.Feed feed:feeds)if(feed.kind.equals(kind)&&n<feed.items.size()){
-   FeedStore.Item item=feed.items.get(n);if(item.link.isEmpty()||!seen.add(item.link))continue;
-   request(c,item.link,ArticleContent.extract(item.description,item.link,true));if(++count==20)break;
+  for(int n=0;n<5&&count<20;n++)for(FeedStore.Feed feed:feeds)if(feed.kind.equals(kind)&&!feed.fullText&&n<feed.items.size()){
+   FeedStore.Item item=feed.items.get(n);if(item.link.isEmpty()||!FeedTopics.item(c,feed,item)||!seen.add(item.link))continue;
+   request(c,item.link,ArticleContent.extract(item.description,item.link,true)).whenComplete((article,error)->{if(article!=null){String artwork=PostArtwork.choose(article,feed);FeedArtwork.main.post(()->FeedArtwork.prefetch(c,artwork));}});if(++count==20)break;
   }
  }
  static File cacheFile(Context c,String source)throws Exception{
@@ -45,12 +45,3 @@ final class ArticleRepository {
   }catch(Exception error){if(saved!=null)return saved;throw error;}
  }
 }
-
-
-
-
-
-
-
-
-

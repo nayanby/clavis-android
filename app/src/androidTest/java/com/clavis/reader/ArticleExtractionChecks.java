@@ -1,7 +1,7 @@
 package com.clavis.reader;
 import android.app.Instrumentation;
 final class ArticleExtractionChecks {
- static void run(Instrumentation test)throws Exception{
+ static void run(Instrumentation test)throws Exception{StarterFeedChecks.run(test);
   FeedPostChecks.check(java.time.Instant.parse("2026-10-25T04:30:00Z").equals(FeedDate.instant("Sun, 25 Oct 2026 10:00:00 +0530")),"RSS publication timezone parsed correctly");
   FeedPostChecks.check(java.time.Instant.parse("2026-10-25T04:30:00Z").equals(FeedDate.instant("2026-10-25T10:00:00+05:30")),"Atom publication timezone parsed correctly");
   FeedPostChecks.check(FeedDate.display("",java.util.Locale.US).isEmpty(),"Missing publication date is not fabricated");
@@ -57,10 +57,3 @@ final class ArticleExtractionChecks {
   FeedPostChecks.check(!text.contains("Monday 19 October 2026")&&!text.startsWith("Saturday"),"Sky Sports header metadata excluded from story body");FeedPostChecks.check(text.startsWith("Spain"),"Actual story opening retained");FeedPostChecks.check(text.contains("McIlroy")&&text.contains("Chacarra")&&text.length()>1000,"Sky Sports story remains after removing embedded-content notices");
  }
 }
-
-
-
-
-
-
-

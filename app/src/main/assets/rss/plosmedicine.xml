@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>PLOS Medicine</title>
+  <link rel="alternate" href="https://journals.plos.org/plosmedicine/" />
+  <author>
+    <name>PLOS</name>
+    <uri>https://journals.plos.org/plosmedicine/</uri>
+    <email>customercare@plos.org</email>
+  </author>
+  <subtitle type="text">A Peer-Reviewed Open-Access Journal</subtitle>
+  <id>https://journals.plos.org/plosmedicine/feed/atom</id>
+  <rights>All PLOS articles are Open Access.</rights>
+  <icon>https://journals.plos.org/plosmedicine/resource/img/favicon.ico</icon>
+  <logo>https://journals.plos.org/plosmedicine/resource/img/favicon.ico</logo>
+  <updated>2026-10-26T22:03:13Z</updated>
+  <entry>
+    <title>Breast cancer treatment: When less is more</title>
+    <link rel="alternate" href="https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005284" title="Breast cancer treatment: When less is more" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosmedicine/article/asset?id=10.1371/journal.pmed.1005284.PDF" title="(PDF) Breast cancer treatment: When less is more" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosmedicine/article/asset?id=10.1371/journal.pmed.1005284.XML" title="(XML) Breast cancer treatment: When less is more" />
+    <author>
+      <name>Katarzyna Starowicz</name>
+    </author>
+    <author>
+      <name>on behalf of the PLOS Medicine Staff Editors</name>
+    </author>
+    <id>10.1371/journal.pmed.1005284</id>
+    <updated>2026-10-26T14:00:00Z</updated>
+    <published>2026-10-26T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Katarzyna Starowicz, on behalf of the PLOS Medicine Staff Editors &lt;/p&gt;
+
+Breast cancer treatment using systemic therapies has often focussed on remission and survival, but can cause severe side effects that negatively impact patient quality of life and function, sometimes with limited clinical benefit. In the era of precision oncology, one of the greatest opportunities may not be in identifying more patients for treatment, but rather in identifying those who can safely receive less to avoid overtreatment.
+
+Breast cancer treatment using systemic therapies can cause severe side effects that negatively impact patient quality of life and function, sometimes with limited clinical benefit. In this Editorial, Katarzyna Starowicz discusses how precision oncology tools may help us identify those who can safely reduce therapy to avoid overtreatment.</content>
+  </entry>
+  <entry>
+    <title>Burden of bacterial antimicrobial resistance associated with modifiable human antibiotic consumption: An observational study</title>
+    <link rel="alternate" href="https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005140" title="Burden of bacterial antimicrobial resistance associated with modifiable human antibiotic consumption: An observational study" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosmedicine/article/asset?id=10.1371/journal.pmed.1005140.PDF" title="(PDF) Burden of bacterial antimicrobial resistance associated with modifiable human antibiotic consumption: An observational study" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosmedicine/article/asset?id=10.1371/journal.pmed.1005140.XML" title="(XML) Burden of bacterial antimicrobial resistance associated with modifiable human antibiotic consumption: An observational study" />
+    <author>
+      <name>Benjamin J. Singer</name>
+    </author>
+    <author>
+      <name>Alec Gleason</name>
+    </author>
+    <author>
+      <name>Isabella Impalli</name>
+    </author>
+    <author>
+      <name>Mikkel D. Nagorsen</name>
+    </author>
+    <author>
+      <name>Chungman Chae</name>
+    </author>
+    <author>
+      <name>Lauren C. Granskog</name>
+    </author>
+    <author>
+      <name>Philip C. Lee</name>
+    </author>
+    <author>
+      <name>Ramanan Laxminarayan</name>
+    </author>
+    <author>
+      <name>Joseph A. Lewnard</name>
+    </author>
+    <id>10.1371/journal.pmed.1005140</id>
+    <updated>2026-10-26T14:00:00Z</updated>
+    <published>2026-10-26T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Benjamin J. Singer, Alec Gleason, Isabella Impalli, Mikkel D. Nagorsen, Chungman Chae, Lauren C. Granskog, Philip C. Lee, Ramanan Laxminarayan, Joseph A. Lewnard&lt;/p&gt;
+Background &lt;p&gt;Human antibiotic use is widely believed to contribute to the evolution and maintenance of antimicrobial resistance (AMR) in bacterial pathogens. While antibiotic stewardship should thus discourage use in situations where AMR-related harms outweigh clinical benefit, evidence to inform this assessment of tradeoffs is lacking, most notably in low-resource settings where gaps in antibiotic access persist. Quantitative understanding of use-resistance relationships is thus necessary as countries navigate commitments from the 2024 UN General Assembly resolution to reduce AMR burden by 2030.&lt;/p&gt; Methods and findings &lt;p&gt;We used global surveillance data on AMR prevalence from 2000 to 2018 representing over 30 million bacterial isolates from 114 countries, along with antibiotic consumption estimates for each country and year, to estimate elasticity relationships between AMR and antibiotic exposure. Our analyses addressed 16 bacterial pathogens and antibiotic consumption across 7 drug classes, controlling for country-level health and development indicators via weighted regression models. Across pathogens, evidence that AMR is associated with population-level antibiotic exposure is strongest for &lt;i&gt;Acinetobacter&lt;/i&gt; spp., &lt;i&gt;Streptococcus pneumoniae&lt;/i&gt;, &lt;i&gt;Staphylococcus aureus&lt;/i&gt;, &lt;i&gt;Pseudomonas aeruginosa,&lt;/i&gt; and &lt;i&gt;Escherichia coli&lt;/i&gt;. In a modeled counterfactual scenario, we estimate that 10% lower levels of antibiotic use, in comparison to current levels, across classes, would be associated with 38,000 (95% confidence interval: 36,000–41,000) fewer annual deaths attributable to AMR globally. Although substantial, this total represents only 0.50% of estimated bacterial disease mortality. In sub-Saharan Africa, where risk of death due to bacterial disease is greatest, the modeled avertible burden of AMR-attributable deaths comprises only 0.34% of bacterial disease mortality. Key limitations of the study include reliance on ecological relationships to infer modifiable burden, and under-representation of low-resource settings in surveillance data on antibiotic consumption and AMR.&lt;/p&gt; Conclusions &lt;p&gt;Our findings suggest near-term achievable reductions in AMR-attributable deaths may be modest relative to the persisting burden of bacterial disease mortality. These estimates should inform assessments of the potential benefits and harms of restrictive versus permissive antibiotic use paradigms in epidemiologically distinct settings.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Outcomes of home-based versus facility-based care for mild diphtheria during a large epidemic in Kano State, Nigeria: A retrospective matched cohort study</title>
+    <link rel="alternate" href="https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005097" title="Outcomes of home-based versus facility-based care for mild diphtheria during a large epidemic in Kano State, Nigeria: A retrospective matched cohort study" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosmedicine/article/asset?id=10.1371/journal.pmed.1005097.PDF" title="(PDF) Outcomes of home-based versus facility-based care for mild diphtheria during a large epidemic in Kano State, Nigeria: A retrospective matched cohort study" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosmedicine/article/asset?id=10.1371/journal.pmed.1005097.XML" title="(XML) Outcomes of home-based versus facility-based care for mild diphtheria during a large epidemic in Kano State, Nigeria: A retrospective matched cohort study" />
+    <author>
+      <name>Jonathan Polonsky</name>
+    </author>
+    <author>
+      <name>Suleiman Hudu</name>
+    </author>
+    <author>
+      <name>Khadidja Uthman</name>
+    </author>
+    <author>
+      <name>Yves Katuala</name>
+    </author>
+    <author>
+      <name>Philip Eghosa Evbuomwan</name>
+    </author>
+    <author>
+      <name>Hashim Juma Omer Osman</name>
+    </author>
+    <author>
+      <name>Abdulwahab Kabir Sulaiman</name>
+    </author>
+    <author>
+      <name>Ichola Ismael Adjaho</name>
+    </author>
+    <author>
+      <name>Cheick Oumar Doumbia</name>
+    </author>
+    <author>
+      <name>Etienne Gignoux</name>
+    </author>
+    <author>
+      <name>Franck Ale</name>
+    </author>
+    <id>10.1371/journal.pmed.1005097</id>
+    <updated>2026-10-26T14:00:00Z</updated>
+    <published>2026-10-26T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Jonathan Polonsky, Suleiman Hudu, Khadidja Uthman, Yves Katuala, Philip Eghosa Evbuomwan, Hashim Juma Omer Osman, Abdulwahab Kabir Sulaiman, Ichola Ismael Adjaho, Cheick Oumar Doumbia, Etienne Gignoux, Franck Ale&lt;/p&gt;
+Background &lt;p&gt;During Nigeria’s largest recorded diphtheria epidemic (first notified on 1 December 2022; more than 40,000 confirmed cases by January 2026), hospital capacity in Kano State was overwhelmed. Médecins Sans Frontières (MSF) introduced home-based care (HBC) for patients with mild disease; we asked whether mortality, long-term sequelae, and household transmission differed between HBC and care in a diphtheria treatment centre (DTC).&lt;/p&gt; Methods and findings &lt;p&gt;We conducted a retrospective matched cohort study using MSF registry data and household interviews to compare mortality, long-term sequelae, and household transmission between patients with mild diphtheria treated under HBC or in a DTC. The primary outcomes were mortality, long-term sequelae, and household transmission. Mild diphtheria cases notified between January 2023 and January 2024 were exactly matched by treatment modality (HBC or DTC) on sex, age group, vaccination status, and ward of residence, and interviewed between September and October 2024, a median of 421 days after notification. Conditional logistic regression, adjusted for age, vaccination status, and treatment delay, was used to estimate the association between treatment modality and mortality, with robustness checked with propensity score weighting and sensitivity analyses. Of the 986 originally sampled patients, 491 (49.8%) were interviewed; with 178 replacements (substitute patients of similar age, sex, vaccination status, and area, interviewed when an originally selected patient could not be), 669 patients (362 HBC, 307 DTC) were analysed. After adjustment, mortality was lower with HBC than DTC care, but the interval included 1 (odds ratio [OR] 0.36, 95% confidence interval [CI] [0.12,1.07]; &lt;i&gt;p&lt;/i&gt; = 0.066); treatment delay was associated with increased mortality (OR 1.29 per day, 95% CI [1.00,1.67]; &lt;i&gt;p&lt;/i&gt; = 0.048). Adding calendar time gave a similar estimate (OR 0.35, 95% CI [0.08,1.57]; &lt;i&gt;p&lt;/i&gt; = 0.170). Vaccination was associated with lower odds of death (OR 0.32, 95% CI [0.10,0.98]; &lt;i&gt;p&lt;/i&gt; = 0.047). HBC was not associated with increased household transmission or long-term sequelae. Residual confounding by disease severity, the small number of deaths (24), and replacement patients limit these findings.&lt;/p&gt; Conclusions &lt;p&gt;Vaccination and early treatment were associated with survival; care setting was not clearly associated. When supported by clinical triage and structured follow-up, decentralised care may be an option to manage mild cases during diphtheria epidemics in settings with constrained hospital capacity.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Cardiac screening in the young for the detection of cardiovascular disease and prevention of sudden cardiac death</title>
+    <link rel="alternate" href="https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005278" title="Cardiac screening in the young for the detection of cardiovascular disease and prevention of sudden cardiac death" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosmedicine/article/asset?id=10.1371/journal.pmed.1005278.PDF" title="(PDF) Cardiac screening in the young for the detection of cardiovascular disease and prevention of sudden cardiac death" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosmedicine/article/asset?id=10.1371/journal.pmed.1005278.XML" title="(XML) Cardiac screening in the young for the detection of cardiovascular disease and prevention of sudden cardiac death" />
+    <author>
+      <name>Daniel T. Tardo</name>
+    </author>
+    <author>
+      <name>Sanjay Sharma</name>
+    </author>
+    <id>10.1371/journal.pmed.1005278</id>
+    <updated>2026-10-22T14:00:00Z</updated>
+    <published>2026-10-22T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Daniel T. Tardo, Sanjay Sharma&lt;/p&gt;
+
+Sudden cardiac death in the young is often due to silent inherited cardiac conditions. Although evidence increasingly supports cardiac screening as a preventative strategy, policies and frameworks differ globally. Structured screening frameworks that utilise AI-enabled technologies show great potential for enhancing disease detection and risk prediction.
+
+In this Perspective, Daniel Tardo and Sanjay Sharma discuss evidence that supports cardiac screening in the young as a preventative strategy for cardiovascular disease and sudden cardiac death. They highlight the need for structured screening frameworks, and discuss the potential of AI-enabled technologies for disease detection and risk prediction.</content>
+  </entry>
+  <entry>
+    <title>How do we monitor doxy-PEP impact and when should we consider revisiting guidelines?</title>
+    <link rel="alternate" href="https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005276" title="How do we monitor doxy-PEP impact and when should we consider revisiting guidelines?" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosmedicine/article/asset?id=10.1371/journal.pmed.1005276.PDF" title="(PDF) How do we monitor doxy-PEP impact and when should we consider revisiting guidelines?" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosmedicine/article/asset?id=10.1371/journal.pmed.1005276.XML" title="(XML) How do we monitor doxy-PEP impact and when should we consider revisiting guidelines?" />
+    <author>
+      <name>Yonatan H. Grad</name>
+    </author>
+    <author>
+      <name>Rachel Mittelstaedt</name>
+    </author>
+    <author>
+      <name>Remco P. H. Peters</name>
+    </author>
+    <id>10.1371/journal.pmed.1005276</id>
+    <updated>2026-10-21T14:00:00Z</updated>
+    <published>2026-10-21T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Yonatan H. Grad, Rachel Mittelstaedt, Remco P. H. Peters&lt;/p&gt;
+Summary points &lt;p&gt;The 2026 WHO guidelines recommending doxycycline post-exposure prophylaxis (doxy-PEP) represent the first global antibiotic prophylaxis recommendation for bacterial sexually transmitted infections (STIs), with provisions for antimicrobial resistance (AMR) monitoring.
+Doxy-PEP should be governed as an adaptive intervention subject to periodic, transparent review, but establishing decision rules faces challenges.
+Doxy-PEP is expected to select for resistance, including in &lt;i&gt;Neisseria gonorrhoeae&lt;/i&gt;, &lt;i&gt;Staphylococcus aureus,&lt;/i&gt; and the gut and skin microbiomes; the scope of clinical consequences is incompletely understood.
+As STI prevalence falls, the benefit per dose declines while the AMR externality per dose is expected to grow, shifting the cost-benefit balance in ways that vary across populations and settings.
+Attributing changes in disease prevalence or resistance patterns to doxy-PEP is methodologically difficult, given incompletely understood and complex drivers of pre-existing trends, surveillance limitations, and heterogeneous uptake, raising questions about study designs, data sources, eligibility criteria, and governance mechanisms.
+A full accounting of benefits and harms is broader than reduced bacterial STI incidence and AMR. Benefits include consideration of patient-centered outcomes such as reduced anxiety regarding STI acquisition, avoidance of repeated treatment visits, and fewer STI-related complications. Harms include drug side effects, such as gastrointestinal adverse effects and concerns about use in pregnancy.
+&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Guidance for defining outcomes in clinical trials</title>
+    <link rel="alternate" href="https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005275" title="Guidance for defining outcomes in clinical trials" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosmedicine/article/asset?id=10.1371/journal.pmed.1005275.PDF" title="(PDF) Guidance for defining outcomes in clinical trials" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosmedicine/article/asset?id=10.1371/journal.pmed.1005275.XML" title="(XML) Guidance for defining outcomes in clinical trials" />
+    <author>
+      <name>Xiangji Ying</name>
+    </author>
+    <author>
+      <name>Tianjing Li</name>
+    </author>
+    <author>
+      <name>Joanne E. McKenzie</name>
+    </author>
+    <author>
+      <name>Matthew J. Page</name>
+    </author>
+    <author>
+      <name>Kiran Ninan</name>
+    </author>
+    <author>
+      <name>Jean-Pierre Oberste</name>
+    </author>
+    <author>
+      <name>Colby J. Vorland</name>
+    </author>
+    <author>
+      <name>Andrew W. Brown</name>
+    </author>
+    <author>
+      <name>Riaz Qureshi</name>
+    </author>
+    <author>
+      <name>Nicholas J. DeVito</name>
+    </author>
+    <author>
+      <name>Ian J. Saldanha</name>
+    </author>
+    <author>
+      <name>Martin Offringa</name>
+    </author>
+    <author>
+      <name>Nancy J. Butcher</name>
+    </author>
+    <author>
+      <name>Sirui Zhang</name>
+    </author>
+    <author>
+      <name>Phi-Yen Nguyen</name>
+    </author>
+    <author>
+      <name>Joe Menke</name>
+    </author>
+    <author>
+      <name>Veronica Ka Wai Lai</name>
+    </author>
+    <author>
+      <name>Halil Kilicoglu</name>
+    </author>
+    <author>
+      <name>Evan Mayo-Wilson</name>
+    </author>
+    <id>10.1371/journal.pmed.1005275</id>
+    <updated>2026-10-21T14:00:00Z</updated>
+    <published>2026-10-21T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Xiangji Ying, Tianjing Li, Joanne E. McKenzie, Matthew J. Page, Kiran Ninan, Jean-Pierre Oberste, Colby J. Vorland, Andrew W. Brown, Riaz Qureshi, Nicholas J. DeVito, Ian J. Saldanha, Martin Offringa, Nancy J. Butcher, Sirui Zhang, Phi-Yen Nguyen, Joe Menke, Veronica Ka Wai Lai, Halil Kilicoglu, Evan Mayo-Wilson&lt;/p&gt;
+Background &lt;p&gt;Defining outcomes completely before conducting clinical trials helps to mitigate concerns about reporting biases; however, there is limited guidance to help investigators define outcomes completely.&lt;/p&gt; Methods &lt;p&gt;Building on a previous framework, we developed guidance for defining trial outcomes completely and consistently. We reviewed literature, developed preliminary guidance, and refined guidance iteratively through pilot testing. We randomly selected 225 randomized controlled trials (RCTs) from ClinicalTrials.gov, which evaluated 3,424 outcomes. Two raters followed a structured approach to define each outcome. When raters encountered outcomes they could not define, we refined our guidance. We continued this process until no further changes were needed. We finalized the guidance through multiple drafts and discussions among authors.&lt;/p&gt; Findings &lt;p&gt;In clinical trials, a completely defined outcome includes six elements: outcome domain, specific measurement, specific metric, cutoff (if applicable), variable type, and time point. We developed guidance for naming specific measurements for both subjective and objective outcomes. We expanded on prior work by describing more comprehensive categories for specific metrics. To be consistent with the estimand framework, we replaced “method of aggregation” with two distinct elements that describe values in individuals (rather than summary measures): “variable type” and “cutoff.” We further defined “cutoff” with three sub-elements, and we defined “variable type” as whether the value for each individual is continuous or categorical.&lt;/p&gt; Conclusions &lt;p&gt;Trialists and sponsors could use this framework and guidance to define outcomes in trial registrations, protocols, and results reports. When all six elements are specified, readers can better determine whether reported outcomes were prespecified and whether different trials assessed the same outcomes.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Seeing the invisible: Reorienting cardiovascular risk prediction across the disease trajectory</title>
+    <link rel="alternate" href="https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005263" title="Seeing the invisible: Reorienting cardiovascular risk prediction across the disease trajectory" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosmedicine/article/asset?id=10.1371/journal.pmed.1005263.PDF" title="(PDF) Seeing the invisible: Reorienting cardiovascular risk prediction across the disease trajectory" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosmedicine/article/asset?id=10.1371/journal.pmed.1005263.XML" title="(XML) Seeing the invisible: Reorienting cardiovascular risk prediction across the disease trajectory" />
+    <author>
+      <name>Xun Tang</name>
+    </author>
+    <author>
+      <name>Pei Gao</name>
+    </author>
+    <id>10.1371/journal.pmed.1005263</id>
+    <updated>2026-10-21T14:00:00Z</updated>
+    <published>2026-10-21T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Xun Tang, Pei Gao&lt;/p&gt;
+
+Current risk equations miss many cardiovascular events in people classified as low risk. Prediction is simultaneously advancing on two axes: broadening predictors toward molecular omics, and expanding outcomes toward earlier subclinical atherosclerosis and later heart failure.
+
+In this Perspective, Xun Tang and Pei Gao discuss how cardiovascular risk prediction is simultaneously advancing on two axes: broadening predictors toward molecular omics, and expanding outcomes toward earlier subclinical atherosclerosis and later heart failure.</content>
+  </entry>
+  <entry>
+    <title>Impact of violence on HIV outcomes among female sex workers: A global systematic review and meta-analysis</title>
+    <link rel="alternate" href="https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004977" title="Impact of violence on HIV outcomes among female sex workers: A global systematic review and meta-analysis" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosmedicine/article/asset?id=10.1371/journal.pmed.1004977.PDF" title="(PDF) Impact of violence on HIV outcomes among female sex workers: A global systematic review and meta-analysis" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosmedicine/article/asset?id=10.1371/journal.pmed.1004977.XML" title="(XML) Impact of violence on HIV outcomes among female sex workers: A global systematic review and meta-analysis" />
+    <author>
+      <name>Joshua Dawe</name>
+    </author>
+    <author>
+      <name>Khadimul Anam Mazhar</name>
+    </author>
+    <author>
+      <name>Saher Aijaz Khan</name>
+    </author>
+    <author>
+      <name>Belinda Jackson Njiro</name>
+    </author>
+    <author>
+      <name>Victoria Bendaud</name>
+    </author>
+    <author>
+      <name>Keith Sabin</name>
+    </author>
+    <author>
+      <name>Julie Ambia</name>
+    </author>
+    <author>
+      <name>Adam Trickey</name>
+    </author>
+    <author>
+      <name>Lucy Barrass</name>
+    </author>
+    <author>
+      <name>Asra Asgharzadeh</name>
+    </author>
+    <author>
+      <name>Jack Stone</name>
+    </author>
+    <author>
+      <name>Adelina Artenie</name>
+    </author>
+    <author>
+      <name>Peter Vickerman</name>
+    </author>
+    <id>10.1371/journal.pmed.1004977</id>
+    <updated>2026-10-21T14:00:00Z</updated>
+    <published>2026-10-21T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Joshua Dawe, Khadimul Anam Mazhar, Saher Aijaz Khan, Belinda Jackson Njiro, Victoria Bendaud, Keith Sabin, Julie Ambia, Adam Trickey, Lucy Barrass, Asra Asgharzadeh, Jack Stone, Adelina Artenie, Peter Vickerman&lt;/p&gt;
+Background &lt;p&gt;Female sex workers (FSW) are a key population for HIV prevention and care. Increasing evidence suggests that social and structural barriers are key drivers of HIV transmission. This global systematic review assesses whether experiencing violence is associated with worse HIV outcomes among FSW.&lt;/p&gt; Methods and findings &lt;p&gt;We searched MEDLINE, Embase, and PsycINFO databases for studies published from January 1st, 2010 to June 9th, 2026 assessing the impact of violence on HIV outcomes among FSW, without restriction to language and study design. Some studies had multiple estimates due to reporting on multiple outcomes or exposures of interest. We pooled data from eligible studies using multi-level random-effects meta-analyses to quantify associations between recent (past year) or lifetime exposure to violence (physical, sexual, emotional/psychological, and/or financial) and HIV outcomes (prevalent and incident HIV infection, HIV testing, ART use, ART adherence, and viral suppression) among FSW. We preferentially used adjusted estimates over unadjusted estimates if both were available.We included 94 studies with 226 estimates, comprising 186,613 FSWs in 39 countries. Half the included studies were in low- and middle-income countries (&lt;i&gt;n&lt;/i&gt; = 47, 50%), and one-fifth were in low-income countries (&lt;i&gt;n&lt;/i&gt; = 18; 19%). We found higher odds of prevalent HIV infection among FSWs with recent (pooled odds ratio (pOR):1.31; 95% CI [1.16,1.48]; I&lt;sup&gt;2&lt;/sup&gt;: 63%; &lt;i&gt;n&lt;/i&gt; = 75 estimates) and lifetime (pOR:1.35; 95% CI [1.23,1.48]; I&lt;sup&gt;2&lt;/sup&gt;: 39%; &lt;i&gt;n&lt;/i&gt; = 68) experiences of violence. When stratifying violence by type, we found the strongest pooled associations between recent (pOR:1.55; 95% CI [1.24,1.94]; I&lt;sup&gt;2&lt;/sup&gt;: 69%; &lt;i&gt;n&lt;/i&gt; = 28) and lifetime (pOR:1.40; 95% CI [1.21,1.63]; I&lt;sup&gt;2&lt;/sup&gt;: 47%; &lt;i&gt;n&lt;/i&gt; = 28) experiences of sexual violence and HIV prevalence. Recently experiencing violence was associated with reduced odds of ART use (pOR:0.78; 95% CI [0.64,0.94]; I&lt;sup&gt;2&lt;/sup&gt;: 8%; &lt;i&gt;n&lt;/i&gt; = 17). Lifetime exposure to violence was associated with reduced odds of viral suppression (pOR:0.88; 95% CI [0.79,0.98]; I&lt;sup&gt;2&lt;/sup&gt;: 20%; &lt;i&gt;n&lt;/i&gt; = 6). There was no evidence of associations between violence and HIV incidence, HIV testing, and ART adherence.Our study had limitations, notably the cross-sectional design of most included studies, the heterogeneity in pooled estimates, and the difficulties of measuring experiences of violence.&lt;/p&gt; Conclusions &lt;p&gt;Experiencing violence is associated with greater odds of prevalent HIV infections, and poorer HIV treatment outcomes among FSWs. HIV interventions for FSWs must address violence as a structural determinant of HIV.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Analysis of the impact of naturally-acquired immunity on &lt;i&gt;Shigella&lt;/i&gt; vaccine performance to inform clinical trials: A simulation-based modeling study</title>
+    <link rel="alternate" href="https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004878" title="Analysis of the impact of naturally-acquired immunity on &lt;i&gt;Shigella&lt;/i&gt; vaccine performance to inform clinical trials: A simulation-based modeling study" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosmedicine/article/asset?id=10.1371/journal.pmed.1004878.PDF" title="(PDF) Analysis of the impact of naturally-acquired immunity on &lt;i&gt;Shigella&lt;/i&gt; vaccine performance to inform clinical trials: A simulation-based modeling study" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosmedicine/article/asset?id=10.1371/journal.pmed.1004878.XML" title="(XML) Analysis of the impact of naturally-acquired immunity on &lt;i&gt;Shigella&lt;/i&gt; vaccine performance to inform clinical trials: A simulation-based modeling study" />
+    <author>
+      <name>Avnika B. Amin</name>
+    </author>
+    <author>
+      <name>Maria Garcia Quesada</name>
+    </author>
+    <author>
+      <name>Daniel Trudell</name>
+    </author>
+    <author>
+      <name>Natalie E. Dean</name>
+    </author>
+    <author>
+      <name>Benjamin A. Lopman</name>
+    </author>
+    <author>
+      <name>James A. Platts-Mills</name>
+    </author>
+    <author>
+      <name>Elizabeth T. Rogawski McQuade</name>
+    </author>
+    <id>10.1371/journal.pmed.1004878</id>
+    <updated>2026-10-21T14:00:00Z</updated>
+    <published>2026-10-21T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Avnika B. Amin, Maria Garcia Quesada, Daniel Trudell, Natalie E. Dean, Benjamin A. Lopman, James A. Platts-Mills, Elizabeth T. Rogawski McQuade&lt;/p&gt;
+Background &lt;p&gt;Effective vaccines against &lt;i&gt;Shigella&lt;/i&gt;, the leading bacterial cause of diarrheal disease globally, could prevent morbidity and mortality from shigellosis as well as limit antibiotic resistance. Several &lt;i&gt;Shigella&lt;/i&gt; vaccine candidates are in late stages of development, and the design of large Phase 3 trials in target populations is underway. In high incidence settings, children are expected to rapidly accrue natural immunity such that after repeated pathogen exposure, unvaccinated infants may have similar levels of immunity as vaccinated infants. For this reason, in these settings estimates of vaccine efficacy (VE) may underestimate expected efficacy in a fully naïve population. To set expectations and support optimal planning of future &lt;i&gt;Shigella&lt;/i&gt; vaccine trials, we aimed to quantify the potential impact of this phenomenon on VE estimates under different surveillance strategies and assumptions about &lt;i&gt;Shigella&lt;/i&gt; immunity.&lt;/p&gt; Methods and findings &lt;p&gt;We simulated &lt;i&gt;Shigella&lt;/i&gt; vaccine trials in low-, medium-, and high-burden settings under different assumptions about vaccine- and infection-conferred immunity. We estimated VE against severe, &lt;i&gt;Shigella&lt;/i&gt;-attributable disease and any &lt;i&gt;Shigella&lt;/i&gt;-attributable diarrhea under six trial designs: active surveillance for &lt;i&gt;Shigella&lt;/i&gt; infection or symptom-based reporting paired with single-outcome, stratified recurrent outcome, or crude recurrent-outcome Cox proportional hazards models. In each scenario, we evaluated bias, 95% confidence interval (CI) coverage, and the false negative rate. Only the trial design using active surveillance for infection and single outcome models was consistently unbiased across all examined scenarios. The other five designs underestimated VE by up to an absolute 20%, with a single outcome model paired with symptom-based reporting performing least poorly. Bias generally was worse at higher-burden sites. For realistically sized trials, the 95% CI coverage and false negative rate were also worse at higher-burden sites. The results were sensitive to input parameters which depended on assumptions about &lt;i&gt;Shigella&lt;/i&gt; natural history based on limited published data.&lt;/p&gt; Conclusions &lt;p&gt;The observed VE in &lt;i&gt;Shigella&lt;/i&gt; vaccine trials is likely to underestimate true VE, though the magnitude of underestimation described here is conditional on the simulation’s inputs and assumptions. Careful trial design is needed to minimize this underestimation.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Plasma proteomic signatures of subclinical atherosclerosis progression for cardiovascular risk stratification: A cohort study</title>
+    <link rel="alternate" href="https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005265" title="Plasma proteomic signatures of subclinical atherosclerosis progression for cardiovascular risk stratification: A cohort study" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosmedicine/article/asset?id=10.1371/journal.pmed.1005265.PDF" title="(PDF) Plasma proteomic signatures of subclinical atherosclerosis progression for cardiovascular risk stratification: A cohort study" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosmedicine/article/asset?id=10.1371/journal.pmed.1005265.XML" title="(XML) Plasma proteomic signatures of subclinical atherosclerosis progression for cardiovascular risk stratification: A cohort study" />
+    <author>
+      <name>Yani Huang</name>
+    </author>
+    <author>
+      <name>Ruixin Gao</name>
+    </author>
+    <author>
+      <name>Jianxin Li</name>
+    </author>
+    <author>
+      <name>Bin Yang</name>
+    </author>
+    <author>
+      <name>Keyong Huang</name>
+    </author>
+    <author>
+      <name>Shufeng Chen</name>
+    </author>
+    <author>
+      <name>Jie Cao</name>
+    </author>
+    <author>
+      <name>Xiaoqing Liu</name>
+    </author>
+    <author>
+      <name>Chong Shen</name>
+    </author>
+    <author>
+      <name>Ling Yu</name>
+    </author>
+    <author>
+      <name>Liancheng Zhao</name>
+    </author>
+    <author>
+      <name>Ying Li</name>
+    </author>
+    <author>
+      <name>Dongsheng Hu</name>
+    </author>
+    <author>
+      <name>Jianfeng Huang</name>
+    </author>
+    <author>
+      <name>Bin Lu</name>
+    </author>
+    <author>
+      <name>Dongfeng Gu</name>
+    </author>
+    <author>
+      <name>Fangchao Liu</name>
+    </author>
+    <author>
+      <name>Xiangfeng Lu</name>
+    </author>
+    <id>10.1371/journal.pmed.1005265</id>
+    <updated>2026-10-20T14:00:00Z</updated>
+    <published>2026-10-20T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Yani Huang, Ruixin Gao, Jianxin Li, Bin Yang, Keyong Huang, Shufeng Chen, Jie Cao, Xiaoqing Liu, Chong Shen, Ling Yu, Liancheng Zhao, Ying Li, Dongsheng Hu, Jianfeng Huang, Bin Lu, Dongfeng Gu, Fangchao Liu, Xiangfeng Lu&lt;/p&gt;
+Background &lt;p&gt;Existing risk stratification tools inadequately identify individuals with subclinical atherosclerosis (SA) who could benefit from early intervention. This study aimed to develop protein risk scores (ProtRSs) for SA progression and assess their incremental value for atherosclerotic cardiovascular disease (ASCVD) risk prediction.&lt;/p&gt; Methods and findings &lt;p&gt;In a community cohort consisting of 903 individuals undergoing repeated SA assessments (coronary artery calcium [CAC] or carotid plaque) over 6 years (2008–2009 to 2013–2014), protein biomarkers were selected from a panel of 117 proteins using least absolute shrinkage and selection operator (LASSO) regression to construct SA ProtRSs for CAC and plaque progression, respectively, and their predictive abilities for incident ASCVD risk were evaluated based on a guideline-recommended traditional risk score in a case-cohort of 1,835 individuals (2007–2008 to 2018–2021, median follow-up of 10.4 years). The ProtRSs each included 14 proteins for CAC and plaque progression, explaining 17.1% and 18.4% of respective variances. Effect sizes of these proteins on SA progression showed strong concordance with those on incident ASCVD (&lt;i&gt;r&lt;/i&gt;  &gt; 0.75). Each standard deviation increase in CAC and plaque ProtRSs was associated with hazard ratios of 1.36 (95% confidence interval [CI] [1.20,1.54]) and 1.38 (95% CI [1.23,1.54]) for ASCVD risk, respectively. Addition of the SA ProtRSs to the traditional risk score yielded a net reclassification improvement of 0.127 (&lt;i&gt;p&lt;/i&gt; &lt; 0.001). Importantly, 18.6% of traditional intermediate-risk individuals were reclassified into the high-risk category (10-year ASCVD event rate: 10.9%), indicating the need for preventive interventions, whereas 32.8% of traditional high-risk individuals were identified as having an even higher rate (13.7%), suggesting the requirement for intensified management. The main limitation is that the predictive value of ProtRSs warrants further large-scale external validation.&lt;/p&gt; Conclusions &lt;p&gt;SA ProtRSs of coronary calcification and carotid plaque progression may provide additional value over traditional risk assessment, highlighting their potential in refining risk stratification and guiding targeted intervention strategies.&lt;/p&gt;</content>
+  </entry>
+</feed>

@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns:prism="http://purl.org/rss/1.0/modules/prism/" xmlns:admin="http://webns.net/mvcb/">
+  <channel rdf:about="http://gh.bmj.com">
+    <title>BMJ Global Health current issue</title>
+    <link>http://gh.bmj.com</link>
+    <description>BMJ Global Health RSS feed -- current issue</description>
+    <prism:eIssn>2059-7908</prism:eIssn>
+    <prism:coverDisplayDate>October 2026</prism:coverDisplayDate>
+    <prism:publicationName>BMJ Global Health</prism:publicationName>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="http://gh.bmj.com/cgi/content/short/11/10/e018721?rss=1" />
+        <rdf:li rdf:resource="http://gh.bmj.com/cgi/content/short/11/10/e018780?rss=1" />
+        <rdf:li rdf:resource="http://gh.bmj.com/cgi/content/short/11/10/e019089?rss=1" />
+        <rdf:li rdf:resource="http://gh.bmj.com/cgi/content/short/11/10/e020405?rss=1" />
+        <rdf:li rdf:resource="http://gh.bmj.com/cgi/content/short/11/10/e021003?rss=1" />
+        <rdf:li rdf:resource="http://gh.bmj.com/cgi/content/short/11/10/e021625?rss=1" />
+        <rdf:li rdf:resource="http://gh.bmj.com/cgi/content/short/11/10/e022062?rss=1" />
+        <rdf:li rdf:resource="http://gh.bmj.com/cgi/content/short/11/10/e023058?rss=1" />
+        <rdf:li rdf:resource="http://gh.bmj.com/cgi/content/short/11/10/e023280?rss=1" />
+        <rdf:li rdf:resource="http://gh.bmj.com/cgi/content/short/11/10/e023580?rss=1" />
+        <rdf:li rdf:resource="http://gh.bmj.com/cgi/content/short/11/10/e023653?rss=1" />
+        <rdf:li rdf:resource="http://gh.bmj.com/cgi/content/short/11/10/e023665?rss=1" />
+        <rdf:li rdf:resource="http://gh.bmj.com/cgi/content/short/11/10/e023873?rss=1" />
+        <rdf:li rdf:resource="http://gh.bmj.com/cgi/content/short/11/10/e024235?rss=1" />
+        <rdf:li rdf:resource="http://gh.bmj.com/cgi/content/short/11/10/e024487?rss=1" />
+        <rdf:li rdf:resource="http://gh.bmj.com/cgi/content/short/11/10/e024675?rss=1" />
+        <rdf:li rdf:resource="http://gh.bmj.com/cgi/content/short/11/10/e024850?rss=1" />
+        <rdf:li rdf:resource="http://gh.bmj.com/cgi/content/short/11/10/e024863?rss=1" />
+        <rdf:li rdf:resource="http://gh.bmj.com/cgi/content/short/11/10/e025028?rss=1" />
+        <rdf:li rdf:resource="http://gh.bmj.com/cgi/content/short/11/10/e025040?rss=1" />
+        <rdf:li rdf:resource="http://gh.bmj.com/cgi/content/short/11/10/e025371?rss=1" />
+        <rdf:li rdf:resource="http://gh.bmj.com/cgi/content/short/11/10/e025536?rss=1" />
+        <rdf:li rdf:resource="http://gh.bmj.com/cgi/content/short/11/10/e025655?rss=1" />
+        <rdf:li rdf:resource="http://gh.bmj.com/cgi/content/short/11/10/e025838?rss=1" />
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="http://gh.bmj.com/cgi/content/short/11/10/e018721?rss=1">
+    <title><![CDATA[5-year survival rate and determinants of decreased survival among patients with breast cancer in Africa: a systematic review and meta-analysis]]></title>
+    <link>http://gh.bmj.com/cgi/content/short/11/10/e018721?rss=1</link>
+    <description><![CDATA[
+<sec><st>Introduction</st>
+<p>Breast cancer is the most commonly diagnosed cancer among women worldwide and a leading cause of cancer-related mortality. Survival varies across regions, with most deaths occurring in low- and middle-income countries due to limited early detection and treatment access. This study aimed to estimate the 5-year survival rate and identify determinants of decreased survival among patients with breast cancer in Africa.</p>
+</sec>
+<sec><st>Methods</st>
+<p>A systematic review of only retrospective cohort studies was conducted using PubMed, Hinari, EMBASE, Google Scholar, African Journals Online, African Index Medicus and Web of Science. The literature search was conducted for a 1-month duration (1&ndash;30 November 2024). We included all available articles without restriction on publication date to ensure a comprehensive review. Methodological quality was assessed using the Newcastle-Ottawa 2016 Critical Appraisal Checklist. Publication bias was evaluated using funnel plots and Egger&rsquo;s test, and heterogeneity was assessed with the I<sup>2</sup> test. Data were analysed with Stata V.17.</p>
+</sec>
+<sec><st>Results</st>
+<p>55 articles with 19 577 participants from 19 countries were included; 37 studies (4622 participants) were used to estimate pooled 5-year survival. The pooled 5-year survival rate of patients with breast cancer in Africa was 40.38% (95% CI 33.92 to 46.83%). Reduced survival was strongly associated with tumour characteristics, including tumour stage &gt;2 (HR 3.06, 95% CI 2.02 to 4.09), negative oestrogen receptor status (HR 2.52, 95% CI 1.89 to 3.15), tumour size &gt;5 cm (HR 1.62, 95% CI 1.48 to 1.76), positive nodal status (HR 1.64, 95% CI 1.58 to 1.70) and higher histological grade (HR 1.26, 95% CI 1.22 to 1.29). Treatment-related factors such as single-agent chemotherapy (HR 1.78, 95% CI 1.04 to 2.53) and patient-related factors, including comorbidities (HR 1.45, 95% CI 1.40 to 1.50) and illiteracy (HR 6.54, 95% CI 4.39 to 8.69), were also associated with reduced survival.</p>
+</sec>
+<sec><st>Conclusion</st>
+<p>This study reveals a critically low 5-year survival rate of 40.4% for breast cancer in Africa. Poor survival is linked to advanced tumour features, suboptimal treatment and patient-related factors, with comorbidities and illiteracy being the strongest patient-related factors. These results highlight the urgent need for integrated strategies focused on early diagnosis, public education, equitable access to multimodal therapies and systematic management of comorbidities across the continent.</p>
+</sec>
+<sec><st>PROSPERO registration number</st>
+<p>CRD420261387399.</p>
+</sec>
+]]></description>
+    <dc:creator><![CDATA[Mulugeta, C., Emagneneh, T., Kumie, G., Sisay, A., Mislu, E., Ayele, M., Yetwale, A., Alamrew, A.]]></dc:creator>
+    <dc:date>2026-10-06T05:03:24-07:00</dc:date>
+    <dc:identifier>info:doi/10.1136/bmjgh-2024-018721</dc:identifier>
+    <dc:identifier>hwp:master-id:bmjgh;bmjgh-2024-018721</dc:identifier>
+    <dc:publisher>BMJ Publishing Group Ltd</dc:publisher>
+    <dc:subject><![CDATA[Open access]]></dc:subject>
+    <dc:title><![CDATA[5-year survival rate and determinants of decreased survival among patients with breast cancer in Africa: a systematic review and meta-analysis]]></dc:title>
+    <prism:publicationDate>2026-10-06</prism:publicationDate>
+    <prism:section>Original research</prism:section>
+    <prism:volume>11</prism:volume>
+    <prism:number>10</prism:number>
+    <prism:startingPage>e018721</prism:startingPage>
+    <prism:endingPage>e018721</prism:endingPage>
+  </item>
+  <item rdf:about="http://gh.bmj.com/cgi/content/short/11/10/e018780?rss=1">
+    <title><![CDATA[Formalising remote consulting in primary care services for underserved populations with long-term conditions in sub-Saharan Africa: a process evaluation and stakeholder engagement]]></title>
+    <link>http://gh.bmj.com/cgi/content/short/11/10/e018780?rss=1</link>
+    <description><![CDATA[
+<sec><st>Introduction</st>
+<p>Remote consulting can improve healthcare access and equity. When delivered by trained health workers, it is safe, trustworthy and efficient. Alongside two independent clinical trials, we studied the implementation of a cascaded health worker training intervention (REaCH), plus airtime, on remote consulting in primary healthcare facilities in Nigeria (n=35) and Tanzania (n=21). Additionally, we assessed health service readiness for sustainable remote consulting in Ghana, Kenya, Nigeria, Malawi, Sierra Leone, Tanzania and Uganda.</p>
+</sec>
+<sec><st>Methods</st>
+<p>We explored what worked for whom, how, and why in both health worker training in Nigeria (n=115) and Tanzania (n=136), and the implementation of remote consulting for patients with long-term conditions. We assessed REaCH training for talent, resources, alignment, implementation and nurture. We analysed system readiness with WHO&rsquo;s Digital Investment Guide. We undertook 82 semi-structured interviews with health workers and patients (n=40: Nigeria, n=42: Tanzania), collected text produced, engaged with stakeholders and reviewed key policies/guidelines. Data were analysed thematically.</p>
+</sec>
+<sec><st>Results</st>
+<p>Health workers were already doing informal remote consulting. REaCH training helped facilities to plan and implement remote consulting. It addressed concerns about delivering a safe and ethical service. Provision of airtime was critical. Health workers used remote consulting for patient follow-up and patients sought advice, test results, prescriptions, referrals and emergency help. Patients and health workers trusted and appreciated remote consulting as it saved time. Patients felt cared for, but some received calls at inconvenient times. Health workers reported reduced stress but noted off-duty calls could be burdensome. Stakeholders were aware of informal remote consulting and were concerned about quality. None of the study countries provided airtime for remote consulting or had guidance or recording systems for remote consulting.</p>
+</sec>
+<sec><st>Conclusion</st>
+<p>There is an appetite for remote consulting in primary healthcare. However, health systems in seven countries of sub-Saharan Africa are not yet fully prepared for this.</p>
+</sec>
+]]></description>
+    <dc:creator><![CDATA[Fayehun, O., Harris, B., Mashanya, T., Nkhoma, K. B., Ayinmoro, A. D., Ibrahim, A., Alliu, A., Higman, W., Onuegbu, C., Omigbodun, A., Pemba, S., Sturt, J., Griffiths, F., the REaCH Trials Collaborative Group]]></dc:creator>
+    <dc:date>2026-10-06T05:03:24-07:00</dc:date>
+    <dc:identifier>info:doi/10.1136/bmjgh-2024-018780</dc:identifier>
+    <dc:identifier>hwp:master-id:bmjgh;bmjgh-2024-018780</dc:identifier>
+    <dc:publisher>BMJ Publishing Group Ltd</dc:publisher>
+    <dc:subject><![CDATA[Open access]]></dc:subject>
+    <dc:title><![CDATA[Formalising remote consulting in primary care services for underserved populations with long-term conditions in sub-Saharan Africa: a process evaluation and stakeholder engagement]]></dc:title>
+    <prism:publicationDate>2026-10-06</prism:publicationDate>
+    <prism:section>Original research</prism:section>
+    <prism:volume>11</prism:volume>
+    <prism:number>10</prism:number>
+    <prism:startingPage>e018780</prism:startingPage>
+    <prism:endingPage>e018780</prism:endingPage>
+  </item>
+  <item rdf:about="http://gh.bmj.com/cgi/content/short/11/10/e019089?rss=1">
+    <title><![CDATA[50 years of contraception: trends in contraception prevalence rate and unmet family planning needs in twenty Arab countries (1970-2020)]]></title>
+    <link>http://gh.bmj.com/cgi/content/short/11/10/e019089?rss=1</link>
+    <description><![CDATA[]]></description>
+    <dc:creator><![CDATA[Khalis, M., Bouaddi, O., Ramangason, B., Mohamed-Wassime, D., Assarag, B., de Brouwere, V., Boutayeb, S., Belyamani, L., Belouali, R., Haakenstad, A., Georgi, G.]]></dc:creator>
+    <dc:date>2026-10-08T04:46:45-07:00</dc:date>
+    <dc:identifier>info:doi/10.1136/bmjgh-2025-019089</dc:identifier>
+    <dc:identifier>hwp:master-id:bmjgh;bmjgh-2025-019089</dc:identifier>
+    <dc:publisher>BMJ Publishing Group Ltd</dc:publisher>
+    <dc:subject><![CDATA[Open access]]></dc:subject>
+    <dc:title><![CDATA[50 years of contraception: trends in contraception prevalence rate and unmet family planning needs in twenty Arab countries (1970-2020)]]></dc:title>
+    <prism:publicationDate>2026-10-08</prism:publicationDate>
+    <prism:section>Original research</prism:section>
+    <prism:volume>11</prism:volume>
+    <prism:number>10</prism:number>
+    <prism:startingPage>e019089</prism:startingPage>
+    <prism:endingPage>e019089</prism:endingPage>
+  </item>
+  <item rdf:about="http://gh.bmj.com/cgi/content/short/11/10/e020405?rss=1">
+    <title><![CDATA[ASHA workers at the crossroads: navigating volunteerism and formalisation in the changing public health landscape]]></title>
+    <link>http://gh.bmj.com/cgi/content/short/11/10/e020405?rss=1</link>
+    <description><![CDATA[]]></description>
+    <dc:creator><![CDATA[Choolayil, A. C., Sundararajan, T., Sreedhar Kuttiatt, V.]]></dc:creator>
+    <dc:date>2026-10-09T05:03:52-07:00</dc:date>
+    <dc:identifier>info:doi/10.1136/bmjgh-2025-020405</dc:identifier>
+    <dc:identifier>hwp:master-id:bmjgh;bmjgh-2025-020405</dc:identifier>
+    <dc:publisher>BMJ Publishing Group Ltd</dc:publisher>
+    <dc:subject><![CDATA[Open access]]></dc:subject>
+    <dc:title><![CDATA[ASHA workers at the crossroads: navigating volunteerism and formalisation in the changing public health landscape]]></dc:title>
+    <prism:publicationDate>2026-10-09</prism:publicationDate>
+    <prism:section>Essay</prism:section>
+    <prism:volume>11</prism:volume>
+    <prism:number>10</prism:number>
+    <prism:startingPage>e020405</prism:startingPage>
+    <prism:endingPage>e020405</prism:endingPage>
+  </item>
+  <item rdf:about="http://gh.bmj.com/cgi/content/short/11/10/e021003?rss=1">
+    <title><![CDATA[Global trends in the burden of malaria: mapping the prevalence, incidence and mortality of Plasmodium falciparum and Plasmodium vivax in the era of climate change and emerging drug resistance]]></title>
+    <link>http://gh.bmj.com/cgi/content/short/11/10/e021003?rss=1</link>
+    <description><![CDATA[]]></description>
+    <dc:creator><![CDATA[Abbasi, E.]]></dc:creator>
+    <dc:date>2026-10-14T04:13:48-07:00</dc:date>
+    <dc:identifier>info:doi/10.1136/bmjgh-2025-021003</dc:identifier>
+    <dc:identifier>hwp:master-id:bmjgh;bmjgh-2025-021003</dc:identifier>
+    <dc:publisher>BMJ Publishing Group Ltd</dc:publisher>
+    <dc:subject><![CDATA[Open access]]></dc:subject>
+    <dc:title><![CDATA[Global trends in the burden of malaria: mapping the prevalence, incidence and mortality of Plasmodium falciparum and Plasmodium vivax in the era of climate change and emerging drug resistance]]></dc:title>
+    <prism:publicationDate>2026-10-14</prism:publicationDate>
+    <prism:section>Original research</prism:section>
+    <prism:volume>11</prism:volume>
+    <prism:number>10</prism:number>
+    <prism:startingPage>e021003</prism:startingPage>
+    <prism:endingPage>e021003</prism:endingPage>
+  </item>
+  <item rdf:about="http://gh.bmj.com/cgi/content/short/11/10/e021625?rss=1">
+    <title><![CDATA[Estimating the potential health impact of taxing sugar-sweetened drinks in Thailand: a modelling study]]></title>
+    <link>http://gh.bmj.com/cgi/content/short/11/10/e021625?rss=1</link>
+    <description><![CDATA[]]></description>
+    <dc:creator><![CDATA[Ngam-a-roon, W., Hunchangsith, P., Veerman, L., Aminde, L. N., Aekplakorn, W.]]></dc:creator>
+    <dc:date>2026-10-14T04:13:48-07:00</dc:date>
+    <dc:identifier>info:doi/10.1136/bmjgh-2025-021625</dc:identifier>
+    <dc:identifier>hwp:master-id:bmjgh;bmjgh-2025-021625</dc:identifier>
+    <dc:publisher>BMJ Publishing Group Ltd</dc:publisher>
+    <dc:subject><![CDATA[Open access]]></dc:subject>
+    <dc:title><![CDATA[Estimating the potential health impact of taxing sugar-sweetened drinks in Thailand: a modelling study]]></dc:title>
+    <prism:publicationDate>2026-10-14</prism:publicationDate>
+    <prism:section>Original research</prism:section>
+    <prism:volume>11</prism:volume>
+    <prism:number>10</prism:number>
+    <prism:startingPage>e021625</prism:startingPage>
+    <prism:endingPage>e021625</prism:endingPage>
+  </item>
+  <item rdf:about="http://gh.bmj.com/cgi/content/short/11/10/e022062?rss=1">
+    <title><![CDATA[Patents versus patients: ethical dilemmas in accessing lifesaving medicine in low- and middle-income countries]]></title>
+    <link>http://gh.bmj.com/cgi/content/short/11/10/e022062?rss=1</link>
+    <description><![CDATA[]]></description>
+    <dc:creator><![CDATA[Odero, B. A., Mumbuluma, E., Essack, Z.]]></dc:creator>
+    <dc:date>2026-10-16T03:54:55-07:00</dc:date>
+    <dc:identifier>info:doi/10.1136/bmjgh-2025-022062</dc:identifier>
+    <dc:identifier>hwp:master-id:bmjgh;bmjgh-2025-022062</dc:identifier>
+    <dc:publisher>BMJ Publishing Group Ltd</dc:publisher>
+    <dc:subject><![CDATA[Open access]]></dc:subject>
+    <dc:title><![CDATA[Patents versus patients: ethical dilemmas in accessing lifesaving medicine in low- and middle-income countries]]></dc:title>
+    <prism:publicationDate>2026-10-16</prism:publicationDate>
+    <prism:section>Essay</prism:section>
+    <prism:volume>11</prism:volume>
+    <prism:number>10</prism:number>
+    <prism:startingPage>e022062</prism:startingPage>
+    <prism:endingPage>e022062</prism:endingPage>
+  </item>
+  <item rdf:about="http://gh.bmj.com/cgi/content/short/11/10/e023058?rss=1">
+    <title><![CDATA[Precision immunisation: reaching zero-dose children in underserved communities in Niger State, Nigeria]]></title>
+    <link>http://gh.bmj.com/cgi/content/short/11/10/e023058?rss=1</link>
+    <description><![CDATA[
+<p>Nigeria has one of the highest burdens of zero-dose children globally, particularly in underserved and hard-to-reach communities where routine immunisation systems face persistent barriers. In Niger state, these challenges are compounded by insecurity, seasonal flooding and dispersed populations, limiting the effectiveness of conventional facility-based approaches. We describe the implementation of the Strengthening Routine Immunization in Consequential Areas of Niger State (STRICAN) initiative, which applied a precision immunisation approach to identify and reach previously unreached children. The model combined household-level enumeration, geographical information system-enabled microplanning through a digital Micro Coverage Tracking Tool and community-based mobilisation using Community Health Influencers, Promoters, and Services agents and local leadership structures. Across 10 local government areas, the initiative generated granular data on settlements and under-five children, enabling targeted service delivery through a mix of outreach, mobile and facility-based strategies. Vaccination activities were adapted in real time to contextual challenges, including insecurity, poor network connectivity and population displacement. This implementation experience highlights the importance of integrating digital tools with trusted community systems to improve identification, tracking and service delivery for zero-dose populations. Key lessons include the value of data-driven microplanning, flexible delivery strategies in fragile settings and strong partnerships between government and implementing actors. The STRICAN model offers practical insights for policymakers and programme implementers seeking to strengthen routine immunisation systems and reach underserved populations in similar contexts.</p>
+]]></description>
+    <dc:creator><![CDATA[Jimoh, A., Asaolu, S. O., Jiya, D. T., Enwezor, O., Kpantu, A. U., Salisu, A., Odey, G., Okoye, O. I., Azuka, D., Alumonah, E., Kassim, T., Aliyu, Y., Sampson, S., Okagbue, H.]]></dc:creator>
+    <dc:date>2026-10-06T05:03:24-07:00</dc:date>
+    <dc:identifier>info:doi/10.1136/bmjgh-2025-023058</dc:identifier>
+    <dc:identifier>hwp:master-id:bmjgh;bmjgh-2025-023058</dc:identifier>
+    <dc:publisher>BMJ Publishing Group Ltd</dc:publisher>
+    <dc:subject><![CDATA[Open access]]></dc:subject>
+    <dc:title><![CDATA[Precision immunisation: reaching zero-dose children in underserved communities in Niger State, Nigeria]]></dc:title>
+    <prism:publicationDate>2026-10-06</prism:publicationDate>
+    <prism:section>Global health in practice</prism:section>
+    <prism:volume>11</prism:volume>
+    <prism:number>10</prism:number>
+    <prism:startingPage>e023058</prism:startingPage>
+    <prism:endingPage>e023058</prism:endingPage>
+  </item>
+  <item rdf:about="http://gh.bmj.com/cgi/content/short/11/10/e023280?rss=1">
+    <title><![CDATA[Patterns and determinants of antimalarial drug use and treatment adherence in Osun State, Southwestern Nigeria: a cross-sectional study]]></title>
+    <link>http://gh.bmj.com/cgi/content/short/11/10/e023280?rss=1</link>
+    <description><![CDATA[]]></description>
+    <dc:creator><![CDATA[Odediji, S. A., Busari, L. O., Amoo, K. O., Olawuyi, A. O., Amoo-Adeboye, B. O., Surakat, O. A., Adeleke, M. A.]]></dc:creator>
+    <dc:date>2026-10-20T04:49:25-07:00</dc:date>
+    <dc:identifier>info:doi/10.1136/bmjgh-2025-023280</dc:identifier>
+    <dc:identifier>hwp:master-id:bmjgh;bmjgh-2025-023280</dc:identifier>
+    <dc:publisher>BMJ Publishing Group Ltd</dc:publisher>
+    <dc:subject><![CDATA[Open access]]></dc:subject>
+    <dc:title><![CDATA[Patterns and determinants of antimalarial drug use and treatment adherence in Osun State, Southwestern Nigeria: a cross-sectional study]]></dc:title>
+    <prism:publicationDate>2026-10-20</prism:publicationDate>
+    <prism:section>Original research</prism:section>
+    <prism:volume>11</prism:volume>
+    <prism:number>10</prism:number>
+    <prism:startingPage>e023280</prism:startingPage>
+    <prism:endingPage>e023280</prism:endingPage>
+  </item>
+  <item rdf:about="http://gh.bmj.com/cgi/content/short/11/10/e023580?rss=1">
+    <title><![CDATA[Fragmented care pathways for non-communicable disease in Cambodia: implications for people-centred and integrated health systems]]></title>
+    <link>http://gh.bmj.com/cgi/content/short/11/10/e023580?rss=1</link>
+    <description><![CDATA[]]></description>
+    <dc:creator><![CDATA[Marcellaud, E., Martin, C., Sarsrey, T., Soy, P., Lach, S., Merabtine, T., Couturas, J., Satha, S., Vorn, M., Aon, C., Auditeau, E., Ros, S., Hun, C., Toniolo, J., Jost, J.]]></dc:creator>
+    <dc:date>2026-10-21T02:53:49-07:00</dc:date>
+    <dc:identifier>info:doi/10.1136/bmjgh-2026-023580</dc:identifier>
+    <dc:identifier>hwp:master-id:bmjgh;bmjgh-2026-023580</dc:identifier>
+    <dc:publisher>BMJ Publishing Group Ltd</dc:publisher>
+    <dc:subject><![CDATA[Open access]]></dc:subject>
+    <dc:title><![CDATA[Fragmented care pathways for non-communicable disease in Cambodia: implications for people-centred and integrated health systems]]></dc:title>
+    <prism:publicationDate>2026-10-21</prism:publicationDate>
+    <prism:section>Original research</prism:section>
+    <prism:volume>11</prism:volume>
+    <prism:number>10</prism:number>
+    <prism:startingPage>e023580</prism:startingPage>
+    <prism:endingPage>e023580</prism:endingPage>
+  </item>
+</rdf:RDF>

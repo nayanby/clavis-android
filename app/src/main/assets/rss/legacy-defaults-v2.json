@@ -1,0 +1,54 @@
+[
+  {
+    "kind": "News",
+    "url": "https://globalvoices.org/feed/"
+  },
+  {
+    "kind": "News",
+    "url": "https://theconversation.com/global/articles.atom"
+  },
+  {
+    "kind": "News",
+    "url": "https://www.nasa.gov/feed/"
+  },
+  {
+    "kind": "Journals",
+    "url": "https://journals.plos.org/plosmedicine/feed/atom"
+  },
+  {
+    "kind": "Journals",
+    "url": "https://journals.plos.org/globalpublichealth/feed/atom"
+  },
+  {
+    "kind": "Journals",
+    "url": "https://journals.plos.org/plosone/feed/atom"
+  },
+  {
+    "kind": "Journals",
+    "url": "https://journals.plos.org/plospathogens/feed/atom"
+  },
+  {
+    "kind": "Journals",
+    "url": "https://journals.plos.org/plosntds/feed/atom"
+  },
+  {
+    "kind": "Journals",
+    "url": "https://journals.plos.org/digitalhealth/feed/atom"
+  },
+  {
+    "kind": "Journals",
+    "url": "https://journals.plos.org/mentalhealth/feed/atom"
+  },
+  {
+    "kind": "Journals",
+    "url": "https://bmjopen.bmj.com/rss/current.xml"
+  },
+  {
+    "kind": "Journals",
+    "url": "https://gh.bmj.com/rss/current.xml"
+  },
+  {
+    "kind": "Journals",
+    "url": "https://elifesciences.org/rss/recent.xml"
+  }
+]

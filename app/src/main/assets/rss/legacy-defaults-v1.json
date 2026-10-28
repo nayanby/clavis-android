@@ -1,0 +1,82 @@
+[
+  {
+    "kind": "News",
+    "url": "https://feeds.bbci.co.uk/news/rss.xml"
+  },
+  {
+    "kind": "News",
+    "url": "https://www.theguardian.com/world/rss"
+  },
+  {
+    "kind": "News",
+    "url": "https://www.aljazeera.com/xml/rss/all.xml"
+  },
+  {
+    "kind": "News",
+    "url": "https://feeds.npr.org/1001/rss.xml"
+  },
+  {
+    "kind": "News",
+    "url": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"
+  },
+  {
+    "kind": "News",
+    "url": "https://www.thehindu.com/news/national/feeder/default.rss"
+  },
+  {
+    "kind": "News",
+    "url": "https://indianexpress.com/feed/"
+  },
+  {
+    "kind": "News",
+    "url": "https://www.hindustantimes.com/feeds/rss/india-news/rssfeed.xml"
+  },
+  {
+    "kind": "News",
+    "url": "https://rss.dw.com/rdf/rss-en-all"
+  },
+  {
+    "kind": "News",
+    "url": "https://feeds.skynews.com/feeds/rss/home.xml"
+  },
+  {
+    "kind": "Journals",
+    "url": "https://www.nejm.org/action/showFeed?jc=nejm&type=etoc&feed=rss"
+  },
+  {
+    "kind": "Journals",
+    "url": "https://jamanetwork.com/rss/site_3/67.xml"
+  },
+  {
+    "kind": "Journals",
+    "url": "https://www.thelancet.com/rssfeed/lancet_current.xml"
+  },
+  {
+    "kind": "Journals",
+    "url": "https://www.nature.com/nm.rss"
+  },
+  {
+    "kind": "Journals",
+    "url": "https://www.acpjournals.org/action/showFeed?jc=aim&type=etoc&feed=rss"
+  },
+  {
+    "kind": "Journals",
+    "url": "https://bmjopen.bmj.com/rss/current.xml"
+  },
+  {
+    "kind": "Journals",
+    "url": "https://journals.plos.org/plosmedicine/feed/atom"
+  },
+  {
+    "kind": "Journals",
+    "url": "https://www.jci.org/rss"
+  },
+  {
+    "kind": "Journals",
+    "url": "https://elifesciences.org/rss/recent.xml"
+  },
+  {
+    "kind": "Journals",
+    "url": "https://www.nature.com/nrcardio.rss"
+  }
+]

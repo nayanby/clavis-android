@@ -1,0 +1,643 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>PLOS Neglected Tropical Diseases</title>
+  <link rel="alternate" href="https://journals.plos.org/plosntds/" />
+  <author>
+    <name>PLOS</name>
+    <uri>https://journals.plos.org/plosntds/</uri>
+    <email>customercare@plos.org</email>
+  </author>
+  <subtitle type="text">A Peer-Reviewed Open-Access Journal</subtitle>
+  <id>https://journals.plos.org/plosntds/feed/atom</id>
+  <rights>All PLOS articles are Open Access.</rights>
+  <icon>https://journals.plos.org/plosntds/resource/img/favicon.ico</icon>
+  <logo>https://journals.plos.org/plosntds/resource/img/favicon.ico</logo>
+  <updated>2026-10-26T22:05:10Z</updated>
+  <entry>
+    <title>Hepatitis E in suspected acute hepatitis cases in Brazil: A comparison with hepatitis A</title>
+    <link rel="alternate" href="https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014834" title="Hepatitis E in suspected acute hepatitis cases in Brazil: A comparison with hepatitis A" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosntds/article/asset?id=10.1371/journal.pntd.0014834.PDF" title="(PDF) Hepatitis E in suspected acute hepatitis cases in Brazil: A comparison with hepatitis A" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosntds/article/asset?id=10.1371/journal.pntd.0014834.XML" title="(XML) Hepatitis E in suspected acute hepatitis cases in Brazil: A comparison with hepatitis A" />
+    <author>
+      <name>Ketti Gleyzer de Oliveira</name>
+    </author>
+    <author>
+      <name>Mariana Pinheiro Alves Vasconcelos</name>
+    </author>
+    <author>
+      <name>Julia Teixeira Ton</name>
+    </author>
+    <author>
+      <name>Silvia Naomi de Oliveira Uehara</name>
+    </author>
+    <author>
+      <name>Roberta Sitnik</name>
+    </author>
+    <author>
+      <name>Denize Ornelas Pereira Salvador de Oliveira</name>
+    </author>
+    <author>
+      <name>Layze Oliveira Castberg Sousa</name>
+    </author>
+    <author>
+      <name>Ricardo Andreotti Siqueira</name>
+    </author>
+    <author>
+      <name>Peter James Robinson</name>
+    </author>
+    <author>
+      <name>Thaís Senna de Paula Domingues</name>
+    </author>
+    <author>
+      <name>Caroline Thomas Panico</name>
+    </author>
+    <author>
+      <name>César Augusto Inoue</name>
+    </author>
+    <author>
+      <name>Maria Cecília Araripe Sucupira</name>
+    </author>
+    <author>
+      <name>Maira Marranghello Maluf</name>
+    </author>
+    <author>
+      <name>Fernanda de Mello Malta</name>
+    </author>
+    <author>
+      <name>Deyvid Amgarten</name>
+    </author>
+    <author>
+      <name>Erick Dorlass</name>
+    </author>
+    <author>
+      <name>Pedro Sebe</name>
+    </author>
+    <author>
+      <name>Arlene S. Pinto</name>
+    </author>
+    <author>
+      <name>Cirley M. D. O. Lobato</name>
+    </author>
+    <author>
+      <name>Adalgisa Ferreira</name>
+    </author>
+    <author>
+      <name>Elodie Hyppolito</name>
+    </author>
+    <author>
+      <name>Raymundo Paraná</name>
+    </author>
+    <author>
+      <name>Maria Isabel Schinoni</name>
+    </author>
+    <author>
+      <name>Edmundo Pessoa de Almeida Lopes</name>
+    </author>
+    <author>
+      <name>Magali C. Luiz</name>
+    </author>
+    <author>
+      <name>Raquel F. L. Garcia</name>
+    </author>
+    <author>
+      <name>Sabrina Sabino da Silva</name>
+    </author>
+    <author>
+      <name>Aline Satie Oba-Kuniyoshi</name>
+    </author>
+    <author>
+      <name>Dennis Armando Bertolini</name>
+    </author>
+    <author>
+      <name>Mário Reis Álvares-da-Silva</name>
+    </author>
+    <author>
+      <name>Raul Salinas Arrojo</name>
+    </author>
+    <author>
+      <name>Eduardo Emerim</name>
+    </author>
+    <author>
+      <name>Gabriela P. Coral</name>
+    </author>
+    <author>
+      <name>Paulo R. Acosta</name>
+    </author>
+    <author>
+      <name>Marcelle Lucena</name>
+    </author>
+    <author>
+      <name>Rosângela Rodrigues Teixeira</name>
+    </author>
+    <author>
+      <name>Mônica da Costa Guedes</name>
+    </author>
+    <author>
+      <name>Livia Melo Villar</name>
+    </author>
+    <author>
+      <name>Lia Lewis Ximenez</name>
+    </author>
+    <author>
+      <name>Clarice Gdalevici</name>
+    </author>
+    <author>
+      <name>Maria Cássia Jacintho Mendes-Correa</name>
+    </author>
+    <author>
+      <name>Michele Soares Gomes-Gouvea</name>
+    </author>
+    <author>
+      <name>Flair José Carrilho</name>
+    </author>
+    <author>
+      <name>Gerson Sobrinho Salvador de Oliveira</name>
+    </author>
+    <author>
+      <name>Paulo Roberto A. Ferreira</name>
+    </author>
+    <author>
+      <name>Pablo Andres Munoz Torres</name>
+    </author>
+    <author>
+      <name>Glória Selegatto</name>
+    </author>
+    <author>
+      <name>Luciana Vilas Boas Casadio</name>
+    </author>
+    <author>
+      <name>Simone Tenore</name>
+    </author>
+    <author>
+      <name>Olavo Henrique Munhoz Leite</name>
+    </author>
+    <author>
+      <name>Fernanda Fernandes Souza</name>
+    </author>
+    <author>
+      <name>Tânia Reuter</name>
+    </author>
+    <author>
+      <name>Francisco Souto</name>
+    </author>
+    <author>
+      <name>Michele Nascimento-Sales</name>
+    </author>
+    <author>
+      <name>Maria Lucia Gomes Ferraz</name>
+    </author>
+    <author>
+      <name>Ana Catharina de Seixas Santos Nastri</name>
+    </author>
+    <author>
+      <name>Ana Paula Maciel Gurski</name>
+    </author>
+    <author>
+      <name>Andréa Salomão</name>
+    </author>
+    <author>
+      <name>Bruna Emanuelle Alvarenga Fanis</name>
+    </author>
+    <author>
+      <name>Cristina Pimenta</name>
+    </author>
+    <author>
+      <name>Elton Carlos de Almeida</name>
+    </author>
+    <author>
+      <name>Flávia Moreno Alves de Souza</name>
+    </author>
+    <author>
+      <name>Gerson Fernando Mendes Pereira</name>
+    </author>
+    <author>
+      <name>Mario Peribañez Gonzalez</name>
+    </author>
+    <author>
+      <name>Raymundo Soares de Azevedo</name>
+    </author>
+    <author>
+      <name>João Renato Rebello Pinho</name>
+    </author>
+    <id>10.1371/journal.pntd.0014834</id>
+    <updated>2026-10-26T14:00:00Z</updated>
+    <published>2026-10-26T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Ketti Gleyzer de Oliveira, Mariana Pinheiro Alves Vasconcelos, Julia Teixeira Ton, Silvia Naomi de Oliveira Uehara, Roberta Sitnik, Denize Ornelas Pereira Salvador de Oliveira, Layze Oliveira Castberg Sousa, Ricardo Andreotti Siqueira, Peter James Robinson, Thaís Senna de Paula Domingues, Caroline Thomas Panico, César Augusto Inoue, Maria Cecília Araripe Sucupira, Maira Marranghello Maluf, Fernanda de Mello Malta, Deyvid Amgarten, Erick Dorlass, Pedro Sebe, Arlene S. Pinto, Cirley M. D. O. Lobato, Adalgisa Ferreira, Elodie Hyppolito, Raymundo Paraná, Maria Isabel Schinoni, Edmundo Pessoa de Almeida Lopes, Magali C. Luiz, Raquel F. L. Garcia, Sabrina Sabino da Silva, Aline Satie Oba-Kuniyoshi, Dennis Armando Bertolini, Mário Reis Álvares-da-Silva, Raul Salinas Arrojo, Eduardo Emerim, Gabriela P. Coral, Paulo R. Acosta, Marcelle Lucena, Rosângela Rodrigues Teixeira, Mônica da Costa Guedes, Livia Melo Villar, Lia Lewis Ximenez, Clarice Gdalevici, Maria Cássia Jacintho Mendes-Correa, Michele Soares Gomes-Gouvea, Flair José Carrilho, Gerson Sobrinho Salvador de Oliveira, Paulo Roberto A. Ferreira, Pablo Andres Munoz Torres, Glória Selegatto, Luciana Vilas Boas Casadio, Simone Tenore, Olavo Henrique Munhoz Leite, Fernanda Fernandes Souza, Tânia Reuter, Francisco Souto, Michele Nascimento-Sales, Maria Lucia Gomes Ferraz, Ana Catharina de Seixas Santos Nastri, Ana Paula Maciel Gurski, Andréa Salomão, Bruna Emanuelle Alvarenga Fanis, Cristina Pimenta, Elton Carlos de Almeida, Flávia Moreno Alves de Souza, Gerson Fernando Mendes Pereira, Mario Peribañez Gonzalez, Raymundo Soares de Azevedo, João Renato Rebello Pinho&lt;/p&gt;
+
+Hepatitis E virus (HEV) is an underrecognized cause of acute viral hepatitis worldwide, with growing public health relevance, particularly in settings where routine diagnostic testing is limited. Hepatitis A virus (HAV) is another epidemiologically related hepatitis virus, but few studies have directly compared these infections in Brazil. This study aimed to (1) determine the frequency of acute hepatitis E (AHE) and evaluate the contribution of HEV infection to the burden of hepatitis among patients with suspected acute disease attended in public healthcare institutions in Brazil; (2) assess the prevalence of acquired immunity to HEV and HAV; and (3) compare demographic characteristics, risk factors, and clinical-laboratory findings associated with HEV and HAV infections. We enrolled 1,721 adults (≥18 years) with suspected acute hepatitis from 16 Brazilian states between October 2019 and May 2023. Serum samples were tested for anti-HEV IgG/IgM and anti-HAV IgG/IgM by immunoassay and for HEV and HAV RNA by RT-PCR. Demographic, behavioral, clinical, and laboratory data were collected using a standardized questionnaire. Group comparisons were performed using univariate analyses and logistic regression, with statistical significance set at p &lt; 0.05. Anti-HEV IgG was detected in 89 individuals (5.2%), whereas anti-HAV IgG was detected in 1,352 (78.6%). Anti-HEV IgG seroprevalence was higher in the South, Southeast, and Central West regions and among heterosexuals, and it increased with age, reaching 13.0% among individuals aged ≥65 years. Seropositivity was associated with markers of previous exposure or immunity, including HAV, HBV, &lt;i&gt;Leptospira&lt;/i&gt;, and &lt;i&gt;Toxoplasma&lt;/i&gt;. A total of 124 acute hepatitis cases were identified: 16 (12.9%) AHE and 108 (87.1%) acute hepatitis A (AHA). Compared with AHA cases, AHE cases occurred in older individuals and were more frequent among women and heterosexual participants. All AHA cases occurred in urban areas, whereas AHE cases were observed in both urban and rural settings. AHA cases showed higher aminotransferase levels and more frequent jaundice than AHE cases. HEV accounts for a small but distinct proportion of suspected acute hepatitis cases in Brazil and shows epidemiological and clinical characteristics that differ from HAV. Incorporating HEV testing into routine diagnostic algorithms may improve etiological clarification and surveillance of acute hepatitis.</content>
+  </entry>
+  <entry>
+    <title>Integrating MaxEnt and copula models to assess plague-associated ecological suitability under climate change in Northern Tianshan, China</title>
+    <link rel="alternate" href="https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014818" title="Integrating MaxEnt and copula models to assess plague-associated ecological suitability under climate change in Northern Tianshan, China" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosntds/article/asset?id=10.1371/journal.pntd.0014818.PDF" title="(PDF) Integrating MaxEnt and copula models to assess plague-associated ecological suitability under climate change in Northern Tianshan, China" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosntds/article/asset?id=10.1371/journal.pntd.0014818.XML" title="(XML) Integrating MaxEnt and copula models to assess plague-associated ecological suitability under climate change in Northern Tianshan, China" />
+    <author>
+      <name>Fang Li</name>
+    </author>
+    <author>
+      <name>Guoyu Zhao</name>
+    </author>
+    <author>
+      <name>Abulimiti Moming</name>
+    </author>
+    <author>
+      <name>Xiaobo Liu</name>
+    </author>
+    <author>
+      <name>Ping Ma</name>
+    </author>
+    <author>
+      <name>Shang Zhan</name>
+    </author>
+    <author>
+      <name>Huiqian Wang</name>
+    </author>
+    <author>
+      <name>Jianhui Chen</name>
+    </author>
+    <author>
+      <name>Wuliken Tuerdali</name>
+    </author>
+    <author>
+      <name>Qiguo Wang</name>
+    </author>
+    <author>
+      <name>Tao Luo</name>
+    </author>
+    <author>
+      <name>Haiyan Wu</name>
+    </author>
+    <author>
+      <name>Yujiang Zhang</name>
+    </author>
+    <id>10.1371/journal.pntd.0014818</id>
+    <updated>2026-10-26T14:00:00Z</updated>
+    <published>2026-10-26T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Fang Li, Guoyu Zhao, Abulimiti Moming, Xiaobo Liu, Ping Ma, Shang Zhan, Huiqian Wang, Jianhui Chen, Wuliken Tuerdali, Qiguo Wang, Tao Luo, Haiyan Wu, Yujiang Zhang&lt;/p&gt;
+Background &lt;p&gt;Plague, a paradigmatic zoonotic disease, depends on the intricate interplay among ecological environments, climatic conditions, and host-vector-pathogen interactions for its transmission. Climate change is reshaping the ecological distribution and transmission risks of plague. However, a systematic understanding of the future epidemiological trends for the Northern Tianshan Natural Plague Focus in Xinjiang remains limited.&lt;/p&gt; Methods &lt;p&gt;By employing an optimized maximum entropy model (MaxEnt) integrated with joint distribution Copula functions, the spatiotemporal dynamics of &lt;i&gt;Marmota baibacina&lt;/i&gt;, &lt;i&gt;Yersinia pestis&lt;/i&gt;, and plague transmission risk under both current and future climate change scenarios were evaluated.&lt;/p&gt; Results &lt;p&gt;The results revealed that the high-suitability habitats for both &lt;i&gt;M. baibacina&lt;/i&gt; and &lt;i&gt;Y. pestis&lt;/i&gt; within the focus were projected to exhibit trends of contraction and expansion in the future. These patterns could be attributed to the distinct environmental factors shaping their distributions. Specifically, the distribution of &lt;i&gt;M. baibacina&lt;/i&gt; was primarily determined by temperature (Bio6 and Bio7) and precipitation (Bio15), whereas the distribution of &lt;i&gt;Y. pestis&lt;/i&gt; was predominantly influenced by Bio15 and elevation. The spatial distribution of high-risk areas for plague transmission was projected to undergo dynamic changes, characterized by phases of stability, contraction, and expansion. Furthermore, the centroid of these high-risk regions may shift from Wusu City to Nileke County.&lt;/p&gt; Conclusions &lt;p&gt;Under future climate scenarios, the distribution and transmission risk of plague in the focus may be influenced by environmental factors, resulting in scenario- and period-dependent spatial changes. The western region of the focus is anticipated to experience the most pronounced shifts and is projected to remain at elevated risk of epizootic plague.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Genomic microdiversity of &lt;i&gt;Mycobacterium africanum&lt;/i&gt; in Sénégal</title>
+    <link rel="alternate" href="https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014770" title="Genomic microdiversity of &lt;i&gt;Mycobacterium africanum&lt;/i&gt; in Sénégal" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosntds/article/asset?id=10.1371/journal.pntd.0014770.PDF" title="(PDF) Genomic microdiversity of &lt;i&gt;Mycobacterium africanum&lt;/i&gt; in Sénégal" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosntds/article/asset?id=10.1371/journal.pntd.0014770.XML" title="(XML) Genomic microdiversity of &lt;i&gt;Mycobacterium africanum&lt;/i&gt; in Sénégal" />
+    <author>
+      <name>A. Ba Diallo</name>
+    </author>
+    <author>
+      <name>J. Badiane</name>
+    </author>
+    <author>
+      <name>M. Beye</name>
+    </author>
+    <author>
+      <name>K. Gueye</name>
+    </author>
+    <author>
+      <name>S. Cortaredona</name>
+    </author>
+    <author>
+      <name>S. Lo</name>
+    </author>
+    <author>
+      <name>M. Drancourt</name>
+    </author>
+    <author>
+      <name>G. Grine</name>
+    </author>
+    <author>
+      <name>M. Camara</name>
+    </author>
+    <id>10.1371/journal.pntd.0014770</id>
+    <updated>2026-10-26T14:00:00Z</updated>
+    <published>2026-10-26T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by A. Ba Diallo, J. Badiane, M. Beye, K. Gueye, S. Cortaredona, S. Lo, M. Drancourt, G. Grine, M. Camara&lt;/p&gt;
+Introduction &lt;p&gt;&lt;i&gt;Mycobacterium africanum&lt;/i&gt; is responsible for up to half of tuberculosis cases in West Africa and comprises four sub lineages. Its genomic diversity remains undescribed in Sénégal where &lt;i&gt;M. africanum&lt;/i&gt; was first described and where the present study was conducted.&lt;/p&gt; Results &lt;p&gt;Whole Genome Sequencing (WGS) identified one &lt;i&gt;M. africanum&lt;/i&gt; lineage L5 isolate and 50 &lt;i&gt;M. africanum&lt;/i&gt; lineage L6 isolates, with a predominance of sub lineage L6.1.1 (24/50, 43.7%) across seven of eight regions of Sénégal. The Dakar region gathered all the sub lineages (L5.3, L6.1, L6.1.1, L6.1.3, L6.2.3, L6.3.1, L6.3.2, L6.3.3, unclassified L6), except for sub lineage L6.2. Further Single Nucleotide Polymorphisms (SNPs) analysis revealed substantial genetic diversity among the lineage L6 isolates with mean value of 668.54 (±239.61), while themedian was 465 SNPs (interquartile range = 400, median absolute deviation:163.09). According to the World health Organization Catalogue of mutations in the &lt;i&gt;Mycobacterium tuberculosis&lt;/i&gt; complex and their association with drug resistance, WGS predicted antibiotic resistance in 16 strains. Comparing Drug Susceptibility Testing (DST) and WGS results showed complete concordance across 19 DST tested strains.&lt;/p&gt; Conclusion &lt;p&gt;This study highlights the diversity of &lt;i&gt;M. africanum&lt;/i&gt; in Sénégal, with intra-lineage genomic variability and predicted antimicrobial resistance. The presence of synonymous mutations in the absence of resistance-associated variants suggests that WGS–based predictions of drug resistance should be interpreted with caution.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>A new semi-automated, motility-based screening assay for discovery of compounds with activity against the juvenile stage of &lt;i&gt;Fasciola hepatica&lt;/i&gt;</title>
+    <link rel="alternate" href="https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014491" title="A new semi-automated, motility-based screening assay for discovery of compounds with activity against the juvenile stage of &lt;i&gt;Fasciola hepatica&lt;/i&gt;" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosntds/article/asset?id=10.1371/journal.pntd.0014491.PDF" title="(PDF) A new semi-automated, motility-based screening assay for discovery of compounds with activity against the juvenile stage of &lt;i&gt;Fasciola hepatica&lt;/i&gt;" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosntds/article/asset?id=10.1371/journal.pntd.0014491.XML" title="(XML) A new semi-automated, motility-based screening assay for discovery of compounds with activity against the juvenile stage of &lt;i&gt;Fasciola hepatica&lt;/i&gt;" />
+    <author>
+      <name>Alice Bernal</name>
+    </author>
+    <author>
+      <name>Diana S. Gliga</name>
+    </author>
+    <author>
+      <name>Giulia Colangeli</name>
+    </author>
+    <author>
+      <name>Matías Preza</name>
+    </author>
+    <author>
+      <name>Rossitza N. Irobalieva</name>
+    </author>
+    <author>
+      <name>Caroline F. Frey</name>
+    </author>
+    <author>
+      <name>Andrew Hemphill</name>
+    </author>
+    <author>
+      <name>Britta Lundström-Stadelmann</name>
+    </author>
+    <author>
+      <name>Natalie Wiedemar</name>
+    </author>
+    <id>10.1371/journal.pntd.0014491</id>
+    <updated>2026-10-26T14:00:00Z</updated>
+    <published>2026-10-26T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Alice Bernal, Diana S. Gliga, Giulia Colangeli, Matías Preza, Rossitza N. Irobalieva, Caroline F. Frey, Andrew Hemphill, Britta Lundström-Stadelmann, Natalie Wiedemar&lt;/p&gt;
+
+&lt;i&gt;Fasciola hepatica&lt;/i&gt; is a trematode parasite responsible for fasciolosis, a liver disease that affects humans and livestock worldwide. Together with other food-borne trematode infections, fasciolosis is considered a neglected tropical disease. Further, it imposes substantial agricultural losses due to infections in ruminants. No vaccine is currently available, and control heavily relies on drug treatment, especially with triclabendazole (TCBZ). However, the intensive use of TCBZ over the past four decades has led to increasing rates of treatment failures and the emergence of drug-resistant parasites. Therefore, the identification of new treatment options is an urgent priority. The currently available toolset for drug screening, however, is limited. To address this need, we established a novel, semi-automated, standardized, and objective screening assay based on motility monitoring of newly excysted juveniles using microscopic live imaging. The assay was validated by testing a panel of ten compounds with known anthelmintic properties, amongst them TCBZ (IC&lt;sub&gt;50&lt;/sub&gt;: 1.5 µM) and the new activator of the &lt;i&gt;F. hepatica&lt;/i&gt; transient receptor potential melastatin (TRPM&lt;sub&gt;PZQ&lt;/sub&gt;) ion channel, benzamidoquinazolinone (IC&lt;sub&gt;50&lt;/sub&gt;: 1.05 µM). In addition to these two compounds with known activity against &lt;i&gt;F. hepatica&lt;/i&gt;, three compounds were identified as particularly promising with a fast onset of action and IC&lt;sub&gt;50&lt;/sub&gt; values in the nanomolar range: the salicylanilides MMV665807 (IC&lt;sub&gt;50&lt;/sub&gt;: 44 nM), niclosamide (IC&lt;sub&gt;50&lt;/sub&gt;: 32 nM), and its ethanolamine salt, niclosamide ethanolamine (IC&lt;sub&gt;50&lt;/sub&gt;: 9 nM). Complementary live/dead staining revealed that only TCBZ displayed parasiticidal activity, while the other compounds, although leading to parasite paralysis, did not lead to parasite death within 72 hours. Scanning electron microscopy of drug treated parasites did not reveal any significant damage at concentrations corresponding to the IC&lt;sub&gt;50&lt;/sub&gt;s, but strong phenotypes were visible at 20 µM. The presented motility assay provides a robust method for the discovery of novel anthelmintic compounds and facilitates the ongoing effort to combat fasciolosis.</content>
+  </entry>
+  <entry>
+    <title>Contact in context: How land use histories, sociocultural practices, and animal profiles shape human-animal contact and zoonotic pathogen exposure in a fragmented forest of the Democratic Republic of Congo</title>
+    <link rel="alternate" href="https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013823" title="Contact in context: How land use histories, sociocultural practices, and animal profiles shape human-animal contact and zoonotic pathogen exposure in a fragmented forest of the Democratic Republic of Congo" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosntds/article/asset?id=10.1371/journal.pntd.0013823.PDF" title="(PDF) Contact in context: How land use histories, sociocultural practices, and animal profiles shape human-animal contact and zoonotic pathogen exposure in a fragmented forest of the Democratic Republic of Congo" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosntds/article/asset?id=10.1371/journal.pntd.0013823.XML" title="(XML) Contact in context: How land use histories, sociocultural practices, and animal profiles shape human-animal contact and zoonotic pathogen exposure in a fragmented forest of the Democratic Republic of Congo" />
+    <author>
+      <name>Romain Duda</name>
+    </author>
+    <author>
+      <name>Victor Narat</name>
+    </author>
+    <author>
+      <name>Thibaut Langlois</name>
+    </author>
+    <author>
+      <name>Robert Monfura</name>
+    </author>
+    <author>
+      <name>Marc Allassonnière Tang</name>
+    </author>
+    <author>
+      <name>Placide Mbala</name>
+    </author>
+    <author>
+      <name>Claude Monghiemo</name>
+    </author>
+    <author>
+      <name>Tamara Giles-Vernick</name>
+    </author>
+    <id>10.1371/journal.pntd.0013823</id>
+    <updated>2026-10-26T14:00:00Z</updated>
+    <published>2026-10-26T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Romain Duda, Victor Narat, Thibaut Langlois, Robert Monfura, Marc Allassonnière Tang, Placide Mbala, Claude Monghiemo, Tamara Giles-Vernick&lt;/p&gt;
+
+Pathogenic spillovers from animals into humans have catalyzed epidemics throughout history. They result from multiple factors. One such factor, human-animal contact, remains poorly understood. Current studies often neglect variability in human-animal engagements across ecological zones and the broader processes bringing people, animals, and pathogens into engagement. We investigated factors and longer-term processes shaping human-animal contacts and indirectly, potential exposures to zoonotic pathogens in a fragmentated forest. We conducted our mixed-methods investigation in three villages along an ecological gradient of forest fragmentation in the Democratic Republic of Congo (DRC), a hotspot of biodiversity and disease emergence. Twenty-four village participants recorded their daily activities and contacts with animal species over five months. We developed a cluster analysis to categorize classes of animals according to type and frequency of contact and conducted transects to estimate animal species abundance according to village proximity. We then tested the influence of species abundance, human activities, gender, and village on contact frequency. We also undertook ethnographic and ethnohistorical interviews and observations to explore changing human-animal relations. Participants had physical and environmental contact with 61 animal species, which clustered into three classes according to their contact profiles. Relative abundance of animal species was associated with contact frequency, but its effects were weak. Our ethnohistorical and anthropological analyses, however, situated these contacts within their longer-term processes and sociocultural practices that our models could not capture. The animals with which participants had most frequent contact were those whose abundance and accessibility resulted from decades of land use change and hunting intensification. Several abundant species were rarely contacted because local categorizations of animals as &lt;i&gt;ngeyi&lt;/i&gt; (“disgusting”) suppressed contacts that proximity alone would have predicted. Human-animal contact profiles are thus historically produced and socioculturally mediated; they cannot be derived exclusively from species ecology, land cover, or demographic variables.</content>
+  </entry>
+  <entry>
+    <title>Massive envenomations by bees in French Guiana: A ten-year retrospective study (2014–2023)</title>
+    <link rel="alternate" href="https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014824" title="Massive envenomations by bees in French Guiana: A ten-year retrospective study (2014–2023)" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosntds/article/asset?id=10.1371/journal.pntd.0014824.PDF" title="(PDF) Massive envenomations by bees in French Guiana: A ten-year retrospective study (2014–2023)" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosntds/article/asset?id=10.1371/journal.pntd.0014824.XML" title="(XML) Massive envenomations by bees in French Guiana: A ten-year retrospective study (2014–2023)" />
+    <author>
+      <name>Rémy Blaud</name>
+    </author>
+    <author>
+      <name>Rémi Mutricy</name>
+    </author>
+    <author>
+      <name>Florian Negrello</name>
+    </author>
+    <author>
+      <name>Marie Eeckhout</name>
+    </author>
+    <author>
+      <name>Loïc Epelboin</name>
+    </author>
+    <author>
+      <name>Maylis Douine</name>
+    </author>
+    <author>
+      <name>Hatem Kallel</name>
+    </author>
+    <author>
+      <name>Alexis Fremery</name>
+    </author>
+    <id>10.1371/journal.pntd.0014824</id>
+    <updated>2026-10-23T14:00:00Z</updated>
+    <published>2026-10-23T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Rémy Blaud, Rémi Mutricy, Florian Negrello, Marie Eeckhout, Loïc Epelboin, Maylis Douine, Hatem Kallel, Alexis Fremery&lt;/p&gt;
+Background &lt;p&gt;Massive bee stings can cause systemic manifestations and life-threatening complications. In French Guiana, data on such envenomations are scarce. This study aimed to describe the epidemiology, clinical characteristics, and management of patients presenting to the emergency department.&lt;/p&gt; Methods &lt;p&gt;We retrospectively reviewed medical records of all patients admitted for bee stings over the period 2014–2023 at Cayenne Hospital. A composite variable of systemic involvement was created (neurological, respiratory, hemodynamic and digestive). All analyses were descriptive. An exploratory two-graph receiver operating characteristic (TG-ROC) analysis was used to describe the sensitivity and specificity of sting-count cut-offs for four binary indicators of systemic involvement.&lt;/p&gt; Results &lt;p&gt;Among 143 patients included, 40% (n = 57) presented at least one systemic manifestation. The median number of stings was 50 [20–150]. In the exploratory TG-ROC analysis, the cut-offs maximizing the Youden index were approximately 72 stings for digestive and hemodynamic manifestations and 99 stings for neurological and respiratory manifestations, with modest sensitivity (0.50–0.76) and specificity (0.68–0.76). Overall mortality was low (0.7%, n = 1/143).&lt;/p&gt; Conclusions &lt;p&gt;This study provides the first detailed epidemiological and clinical description of massive bee envenomations in French Guiana. Exploratory analyses suggested that systemic manifestations may occur at sting counts below the conventional 200-sting threshold. These findings should not be interpreted as a validated clinical cutoff and require confirmation in prospective multicenter studies.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Vector competence of &lt;i&gt;Aedes albopictus&lt;/i&gt; and &lt;i&gt;Culex quinquefasciatus&lt;/i&gt; for Oropouche virus</title>
+    <link rel="alternate" href="https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014656" title="Vector competence of &lt;i&gt;Aedes albopictus&lt;/i&gt; and &lt;i&gt;Culex quinquefasciatus&lt;/i&gt; for Oropouche virus" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosntds/article/asset?id=10.1371/journal.pntd.0014656.PDF" title="(PDF) Vector competence of &lt;i&gt;Aedes albopictus&lt;/i&gt; and &lt;i&gt;Culex quinquefasciatus&lt;/i&gt; for Oropouche virus" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosntds/article/asset?id=10.1371/journal.pntd.0014656.XML" title="(XML) Vector competence of &lt;i&gt;Aedes albopictus&lt;/i&gt; and &lt;i&gt;Culex quinquefasciatus&lt;/i&gt; for Oropouche virus" />
+    <author>
+      <name>Angel Elma I. Abu</name>
+    </author>
+    <author>
+      <name>Xinyi Hua</name>
+    </author>
+    <author>
+      <name>Rachel Sattler</name>
+    </author>
+    <author>
+      <name>Margaret V. Becker</name>
+    </author>
+    <author>
+      <name>Julia Forato</name>
+    </author>
+    <author>
+      <name>Shirlene T. S. de Lima</name>
+    </author>
+    <author>
+      <name>Ingra M. Claro</name>
+    </author>
+    <author>
+      <name>Gabriel C. Scachetti</name>
+    </author>
+    <author>
+      <name>Leda M. Simões Mello</name>
+    </author>
+    <author>
+      <name>Maria Anice M. Sallum</name>
+    </author>
+    <author>
+      <name>Kenneth S. Plante</name>
+    </author>
+    <author>
+      <name>Scott C. Weaver</name>
+    </author>
+    <author>
+      <name>José Luiz Proenca-Modena</name>
+    </author>
+    <author>
+      <name>William M. de Souza</name>
+    </author>
+    <author>
+      <name>Laura B. Dickson</name>
+    </author>
+    <id>10.1371/journal.pntd.0014656</id>
+    <updated>2026-10-23T14:00:00Z</updated>
+    <published>2026-10-23T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Angel Elma I. Abu, Xinyi Hua, Rachel Sattler, Margaret V. Becker, Julia Forato, Shirlene T. S. de Lima, Ingra M. Claro, Gabriel C. Scachetti, Leda M. Simões Mello, Maria Anice M. Sallum, Kenneth S. Plante, Scott C. Weaver, José Luiz Proenca-Modena, William M. de Souza, Laura B. Dickson&lt;/p&gt;
+
+Oropouche virus (OROV) is an arthropod-borne virus transmitted mainly by &lt;i&gt;Culicoides paraensis&lt;/i&gt; midges in Latin America and the Caribbean, though evidence suggests occasional transmission by mosquitoes. Oropouche fever has been reported primarily in the Amazon Basin since the 1950s. In 2024, the number of Oropouche fever cases rose sharply and spread beyond the Amazon region, which has been associated with the emergence of a new reassortant OROV strain. We assessed whether increased case numbers could be explained by enhanced replication or transmission of the reassortant strain in peri-urban &lt;i&gt;Culex quinquefasciatus&lt;/i&gt; and &lt;i&gt;Aedes albopictus&lt;/i&gt;. Laboratory colonies established from Salvador, Brazil were orally exposed to the ancestral OROV strain BeAn 19991 or the contemporary strain 240023 (10⁴–10⁶ PFU/mL), and viral replication was quantified in bodies, legs, and saliva. To evaluate the influence of mosquito genotype on infection outcomes, infection rates were compared between &lt;i&gt;Ae. albopictus&lt;/i&gt; from Salvador City (Brazil) and Houston (USA). In &lt;i&gt;Cx. quinquefasciatus&lt;/i&gt;, the outbreak strain replicated less efficiently than the historical strain at low viral doses but not at high infection doses. Regardless of strain or dose, vector competence was extremely low, with only 0–1% of mosquitoes exhibiting infectious OROV particles in their saliva after extrinsic incubation. Conversely, &lt;i&gt;Ae. albopictus&lt;/i&gt; showed consistently higher body infection rates for the 240023 strain than for BeAn 19991 at both low and high doses. However, overall transmission potential remained limited: only 0–6.4% of leg or saliva samples were positive across OROV strains and doses. The higher infection rates of the 240023 strain was consistent across both &lt;i&gt;Ae. albopictus&lt;/i&gt; genotypes, but infectious saliva was detected only in mosquitoes from the Salvador line (up to 20%) and not in the Houston line (0%). Taken together, this suggests that the recent geographic expansion of OROV is unlikely to be driven by a vector shift from midges to these mosquitoes. Importantly, our findings do indicate higher infectivity of the 240023 strain in &lt;i&gt;Ae. albopictus&lt;/i&gt; across different mosquito lines which may have future implications for further adaptation to OROV.</content>
+  </entry>
+  <entry>
+    <title>Epidemiological, clinical, and diagnostic characteristics of a large-scale upsurge of dengue in the rohingya refugee camps and host communities in Cox’s Bazar, Bangladesh, 2021 to 2024: A retrospective study</title>
+    <link rel="alternate" href="https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014198" title="Epidemiological, clinical, and diagnostic characteristics of a large-scale upsurge of dengue in the rohingya refugee camps and host communities in Cox’s Bazar, Bangladesh, 2021 to 2024: A retrospective study" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosntds/article/asset?id=10.1371/journal.pntd.0014198.PDF" title="(PDF) Epidemiological, clinical, and diagnostic characteristics of a large-scale upsurge of dengue in the rohingya refugee camps and host communities in Cox’s Bazar, Bangladesh, 2021 to 2024: A retrospective study" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosntds/article/asset?id=10.1371/journal.pntd.0014198.XML" title="(XML) Epidemiological, clinical, and diagnostic characteristics of a large-scale upsurge of dengue in the rohingya refugee camps and host communities in Cox’s Bazar, Bangladesh, 2021 to 2024: A retrospective study" />
+    <author>
+      <name>Charls Erik Halder</name>
+    </author>
+    <author>
+      <name>Md Abeed Hasan</name>
+    </author>
+    <author>
+      <name>Emmanuel Roba Soma</name>
+    </author>
+    <author>
+      <name>James Charles Okello</name>
+    </author>
+    <author>
+      <name>Md Mostafizur Rahman</name>
+    </author>
+    <author>
+      <name>Partha Pratim Das</name>
+    </author>
+    <author>
+      <name>U. Maung Prue</name>
+    </author>
+    <author>
+      <name>Dickson Wafula Barasa</name>
+    </author>
+    <author>
+      <name>Md Atiquzzaman</name>
+    </author>
+    <author>
+      <name>Md Sobuz Hosen</name>
+    </author>
+    <author>
+      <name>Saddam Hossain Shagar</name>
+    </author>
+    <author>
+      <name>Elizabeth Yie Chuen Chong</name>
+    </author>
+    <author>
+      <name>Debashish Paul</name>
+    </author>
+    <author>
+      <name>S. M. Niaz Mowla</name>
+    </author>
+    <author>
+      <name>Mohammadul Hoque</name>
+    </author>
+    <author>
+      <name>Abu Toha MHR Bhuiyan</name>
+    </author>
+    <author>
+      <name>Md Farhad Hussain</name>
+    </author>
+    <id>10.1371/journal.pntd.0014198</id>
+    <updated>2026-10-23T14:00:00Z</updated>
+    <published>2026-10-23T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Charls Erik Halder, Md Abeed Hasan, Emmanuel Roba Soma, James Charles Okello, Md Mostafizur Rahman, Partha Pratim Das, U. Maung Prue, Dickson Wafula Barasa, Md Atiquzzaman, Md Sobuz Hosen, Saddam Hossain Shagar, Elizabeth Yie Chuen Chong, Debashish Paul, S. M. Niaz Mowla, Mohammadul Hoque, Abu Toha MHR Bhuiyan, Md Farhad Hussain&lt;/p&gt;
+Background &lt;p&gt;Dengue emerged as a new public health threat in the Rohingya refugee camps in Cox’s Bazar, Bangladesh, in 2021 and expanded into large-scale upsurges in subsequent years. Evidence on dengue epidemiology and clinical presentation in protracted refugee settings remains limited, despite the need for stronger outbreak preparedness and case management in these contexts.&lt;/p&gt; Objectives &lt;p&gt;To describe the epidemiological, clinical, and diagnostic characteristics of the dengue upsurge among Rohingya refugees and surrounding host communities in Cox’s Bazar, Bangladesh, and to identify predictors of inpatient admission and diagnostic positivity patterns.&lt;/p&gt; Methods &lt;p&gt;This retrospective observational study used anonymized surveillance data from the International Organization for Migration (IOM) dengue patient database. Rapid diagnostic test (RDT)–confirmed dengue cases identified across 36 IOM-supported health facilities in Ukhiya and Teknaf between 1 October 2021 and 31 December 2024 were included. Demographic, epidemiological, clinical, and laboratory variables were summarized using descriptive statistics. Weekly case counts were aggregated by epidemiological week and calendar year, and epidemic growth and decay phases were modelled using phase-specific Poisson regression. Multivariable logistic regression was used to identify factors associated with inpatient admission, while separate models examined associations between delay in presentation and RDT positivity patterns, adjusting for age and sex.&lt;/p&gt; Results &lt;p&gt;A total of 35,581 RDT-confirmed dengue cases were reported, of which 90.2% occurred among Rohingya refugees. The median age was 17 years (IQR 7–30), and 46.0% of cases were among children aged 0–14 years. Annual caseload increased from 1,011 in 2021–11,752 in 2022, 10,669 in 2023 and 12,149 in 2024, with seasonal peaks during the monsoon period and progressively later peaks and longer epidemic tails over time. Poisson models showed decreasing growth rates across years (r = 0.449 in 2021 to r = 0.091 in 2024) with increasing doubling times, while decay rates remained broadly comparable (halving time ~4.4–6.0 weeks). Overall, 8.0% of cases required inpatient admission, 1.3% were referred, and four deaths were reported (case fatality &lt;0.1%). In multivariable analysis, inpatient admission was associated with older age (≥60 vs 0–14: aOR 2.48), delayed presentation (aOR 1.06 per day), refugee status (aOR 1.43), fever ≥38°C at presentation (aOR 1.13), presence of any WHO warning sign (aOR 28.87), and chronic co-morbidity (aOR 6.63). Males had lower odds of admission than females (aOR 0.87).&lt;/p&gt; Conclusion &lt;p&gt;Sustained dengue preparedness is required in Cox’s Bazar, including strengthened surveillance, community-based early referral, targeted monitoring of high-risk groups, environmental vector control, and phase-appropriate use of NS1 and IgM/IgG diagnostics to reduce missed diagnoses and prevent progression to severe disease. These findings highlight the need for a policy shift from episodic outbreak response toward sustained dengue preparedness in humanitarian settings, including strengthened surveillance systems, integrated diagnostic strategies, community-based early referral, and coordinated vector control interventions.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Efficacy and safety of fluoroquinolones in the treatment of human brucellosis: A systematic review and meta-analysis</title>
+    <link rel="alternate" href="https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013822" title="Efficacy and safety of fluoroquinolones in the treatment of human brucellosis: A systematic review and meta-analysis" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosntds/article/asset?id=10.1371/journal.pntd.0013822.PDF" title="(PDF) Efficacy and safety of fluoroquinolones in the treatment of human brucellosis: A systematic review and meta-analysis" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosntds/article/asset?id=10.1371/journal.pntd.0013822.XML" title="(XML) Efficacy and safety of fluoroquinolones in the treatment of human brucellosis: A systematic review and meta-analysis" />
+    <author>
+      <name>Mohsen Mohammadi-Sartang</name>
+    </author>
+    <author>
+      <name>Nastaran Rafieipour</name>
+    </author>
+    <author>
+      <name>Shahla Afrasiabian</name>
+    </author>
+    <author>
+      <name>Roya Mahmoudi</name>
+    </author>
+    <author>
+      <name>Yousef Moradi</name>
+    </author>
+    <author>
+      <name>Medi Karimi</name>
+    </author>
+    <author>
+      <name>Karo Servatyari</name>
+    </author>
+    <id>10.1371/journal.pntd.0013822</id>
+    <updated>2026-10-23T14:00:00Z</updated>
+    <published>2026-10-23T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Mohsen Mohammadi-Sartang, Nastaran Rafieipour, Shahla Afrasiabian, Roya Mahmoudi, Yousef Moradi, Medi Karimi, Karo Servatyari&lt;/p&gt;
+Introduction &lt;p&gt;Brucellosis is a major zoonotic infection worldwide, with the highest burden reported in the Mediterranean region. The therapeutic role of fluoroquinolones in this disease continues to be controversial. This systematic review and meta-analysis aimed to evaluate the efficacy and safety of fluoroquinolone-containing regimens compared with standard non-fluoroquinolone regimens for the treatment of human brucellosis.&lt;/p&gt; Methods &lt;p&gt;In accordance with PRISMA recommendations, this systematic review and meta-analysis assessed the efficacy and safety of fluoroquinolone-based regimens for treating brucellosis. It was prospectively registered in PROSPERO (CRD420251142019). A comprehensive search of PubMed, Scopus, Web of Science, and the Cochrane Library was carried out, including studies published through August 2025. Randomized controlled trials comparing fluoroquinolones with conventional therapies (such as doxycycline with streptomycin or rifampicin) were included. Therapeutic failure, relapse, adverse events, and time to defervescence were the main outcomes. To compute pooled risk ratios and mean differences with 95%CIs, data were analyzed using STATA v18. The GRADE method and the RoB 2 tool were used to evaluate the risk of bias and the certainty of the evidence.&lt;/p&gt; Results &lt;p&gt;The analysis comprised 9 clinical studies with 602 brucellosis patients. When compared to standard regimens, fluoroquinolone-based regimens were linked to a significantly higher risk of therapeutic failure (RR = 2.11, 95% CI: 1.26–3.51; P = 0.004) and a higher, though not statistically significant, risk of relapse (RR = 1.88, 95% CI: 0.94–3.74; P = 0.07). No statistically significant between-study heterogeneity was observed for either outcome (I² = 0%). Subgroup analyses showed a significantly increased risk of therapeutic failure in patients with uncomplicated brucellosis and in studies with treatment durations &gt;8 weeks, although between-subgroup differences were not statistically significant. On the other hand, no statistically significant difference in adverse events was observed between fluoroquinolone-based and standard regimens under the random-effects model (RR = 0.62, 95% CI: 0.29–1.33; P = 0.22). Although the point estimate favored fluoroquinolone-based regimens, the confidence interval included the null effect. Fluoroquinolone-based regimens were also associated with a significantly longer time to defervescence compared with standard regimens (MD = 1.20 days, 95% CI: 0.66–1.74; P &lt; 0.001). The certainty of evidence was moderate for therapeutic failure, and time to defervescence, and low for relapse and adverse events according to the GRADE evaluation.&lt;/p&gt; Conclusion &lt;p&gt;Compared with conventional doxycycline-based combinations, fluoroquinolone-based regimens were associated with a higher risk of therapeutic failure and longer time to defervescence, while the overall risk of relapse did not differ significantly. No significant difference in adverse events was observed with the random-effects model, although the point estimate favored fluoroquinolone-based regimens. Overall, these findings do not support the routine use of fluoroquinolones as first-line therapy for adult brucellosis. Further well-designed randomized controlled trials are needed.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Schistosomiasis as an urban disease: 13 years of studies in the neighborhoods of Salvador, BA, Brazil</title>
+    <link rel="alternate" href="https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013418" title="Schistosomiasis as an urban disease: 13 years of studies in the neighborhoods of Salvador, BA, Brazil" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosntds/article/asset?id=10.1371/journal.pntd.0013418.PDF" title="(PDF) Schistosomiasis as an urban disease: 13 years of studies in the neighborhoods of Salvador, BA, Brazil" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosntds/article/asset?id=10.1371/journal.pntd.0013418.XML" title="(XML) Schistosomiasis as an urban disease: 13 years of studies in the neighborhoods of Salvador, BA, Brazil" />
+    <author>
+      <name>Pedro Santos-Muccillo</name>
+    </author>
+    <author>
+      <name>Fernanda Mac-Allister Cedraz</name>
+    </author>
+    <author>
+      <name>Luciano K. Silva</name>
+    </author>
+    <author>
+      <name>Lúcio M. Barbosa</name>
+    </author>
+    <author>
+      <name>Vanessa T. Moretto</name>
+    </author>
+    <author>
+      <name>Vanessa S. Zanardi</name>
+    </author>
+    <author>
+      <name>Camila F. Chaves</name>
+    </author>
+    <author>
+      <name>João R. P. Cruz-Filho</name>
+    </author>
+    <author>
+      <name>Lee S. A. Andrade</name>
+    </author>
+    <author>
+      <name>Cláudio R. A. Santos</name>
+    </author>
+    <author>
+      <name>Eliana A. G. Reis</name>
+    </author>
+    <author>
+      <name>Cristiane W. Cardoso</name>
+    </author>
+    <author>
+      <name>Rogerio S. Teixeira</name>
+    </author>
+    <author>
+      <name>Fabiano M. Simões</name>
+    </author>
+    <author>
+      <name>Roberto J. M. Nascimento</name>
+    </author>
+    <author>
+      <name>Jackson M. L. Costa</name>
+    </author>
+    <author>
+      <name>Mitermayer G. Reis</name>
+    </author>
+    <author>
+      <name>Ronald E. Blanton</name>
+    </author>
+    <id>10.1371/journal.pntd.0013418</id>
+    <updated>2026-10-23T14:00:00Z</updated>
+    <published>2026-10-23T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Pedro Santos-Muccillo, Fernanda Mac-Allister Cedraz, Luciano K. Silva, Lúcio M. Barbosa, Vanessa T. Moretto, Vanessa S. Zanardi, Camila F. Chaves, João R. P. Cruz-Filho, Lee S. A. Andrade, Cláudio R. A. Santos, Eliana A. G. Reis, Cristiane W. Cardoso, Rogerio S. Teixeira, Fabiano M. Simões, Roberto J. M. Nascimento, Jackson M. L. Costa, Mitermayer G. Reis, Ronald E. Blanton&lt;/p&gt;
+Background &lt;p&gt;Rapid urbanization in Brazil has shifted the epidemiological landscape of parasitic diseases, such as schistosomiasis and malaria. Although typically considered a rural infection, &lt;i&gt;Schistosoma mansoni&lt;/i&gt; transmission persists in urban settings where sanitation and water access remain uneven. This study investigates the persistence and dynamics of urban schistosomiasis across neighborhoods of Salvador, Bahia, Brazil.&lt;/p&gt; Methods &lt;p&gt;Between 2011 and 2024 cross-sectional surveys were conducted to identify neighborhoods with the highest prevalence in the major metropolitan area of Salvador, Bahia. A total of 6,863 residents provided demographic information and Kato-Katz examination of at least one stool sample. We conducted demographic surveys and stool examination on 3,964 individuals who were re-examined on up to three occasions at intervals ranging from 1-5 years.&lt;/p&gt; Findings &lt;p&gt;The overall prevalence of initial examination was 7%. Regardless of treatment intervals, the community-wide prevalence declined by more than half and did not rebound. Apparent Incidence decreased to &lt;0.5%/year following a second period of treatment. In nearly all communities, most infections occurred among individuals born in Salvador with no travel history outside the city.&lt;/p&gt; Interpretation &lt;p&gt;Overall, the study provides one of the first individual-level longitudinal assessments of schistosomiasis persistence in an urban Brazilian setting, combining repeated parasitological surveys with demographic and environmental data across multiple neighborhoods. These findings indicate that schistosomiasis transmission in Salvador is largely local rather than imported. The decline in prevalence coincides with observed community-level improvements in sanitation and reduced contact with surface water. f prevalence rates were applied across the population of Salvador, this city could be considered one of the state’s most important endemic areas.&lt;/p&gt;</content>
+  </entry>
+</feed>

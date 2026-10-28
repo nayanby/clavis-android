@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns:prism="http://purl.org/rss/1.0/modules/prism/" xmlns:admin="http://webns.net/mvcb/">
+  <channel rdf:about="http://bmjopen.bmj.com">
+    <title>BMJ Open Current Issue</title>
+    <link>http://bmjopen.bmj.com</link>
+    <description>BMJ Open RSS feed -- current issue</description>
+    <prism:coverDisplayDate>October 2026</prism:coverDisplayDate>
+    <prism:publicationName>BMJ Open</prism:publicationName>
+    <prism:issn>2044-6055</prism:issn>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e108350?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e117088?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e119579?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e119720?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e120128?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e120864?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e121198?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e121368?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e121950?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e122025?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e122069?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e122953?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e124412?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e125288?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e125364?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e126407?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e121855?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e122011?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e122257?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e122541?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e123745?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e124215?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e124582?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e125086?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e125612?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e125787?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e125860?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e125880?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e126587?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e127972?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e114099?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e115807?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e117713?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e118584?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e118871?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e120532?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e120777?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e120858?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e120970?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e121058?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e121098?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e121783?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e108201?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e111050?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e115566?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e115738?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e115739?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e117955?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e119723?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e120244?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e120305?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e121681?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e122055?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e122064?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e122255?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e122936?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e123020?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e124245?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e124434?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e125034?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e125090?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e111942?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e114501?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e118036?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e118495?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e118574?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e119395?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e119421?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e119633?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e121489?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e121506?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e122021?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e122186?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e122356?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e122404?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e122557?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e123319?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e123542?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e123573?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e124299?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e125059?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e125828?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e126657?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e127811?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e114625?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e117039?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e117566?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e118484?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e118506?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e118831?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e118908?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e119053?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e119169?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e119305?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e119366?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e120045?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e120419?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e120460?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e120476?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e120571?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e120917?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e121028?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e121361?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e121428?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e121512?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e121892?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e121913?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e121944?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e122048?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e122182?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e122207?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e122361?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e122513?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e122821?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e123087?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e123414?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e123840?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e123913?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e124115?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e124253?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e124359?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e124609?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e124625?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e124745?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e124865?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e124989?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e125031?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e125077?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e125631?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e126037?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e126752?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e127546?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e127810?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e127985?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e128210?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e114239corr1?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e116242?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e125302?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e126249?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e126300?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e115677?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e115706?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e116039?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e116419?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e117563?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e118486?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e119475?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e119597?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e120190?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e121660?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e122907?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e123003?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e123559?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e123607?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e123975?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e124543?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e109127?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e110901?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e114379?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e116279?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e117576?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e119026?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e119702?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e120519?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e121108?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e121518?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e121942?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e123303?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e123592?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e123693?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e125795?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e126924?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e114754?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e116033?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e116503?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e118828?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e119871?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e120993?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e122193?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e122232?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e123025?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e123196?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e123927?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e124379?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e124531?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e124852?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e125229?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e125280?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e125507?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e126415?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e124947?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e124995?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e125558?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e125586?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e125834?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e114814?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e117143?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e118256?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e118632?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e119606?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e119791?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e119962?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e122336?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e122442?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e122691?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e122701?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e122867?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e122906?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e123684?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e123804?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e123877?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e124163?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e124929?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e113002?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e117895?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e118134?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e118258?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e118334?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e118768?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e118844?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e119355?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e120070?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e120211?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e120316?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e120763?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e120792?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e121183?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e121251?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e121392?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e122216?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e122747?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e123343?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e123930?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e124661?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e124788?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e126880?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e102146?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e109964?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e112023?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e115108?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e115420?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e115528?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e116527?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e116726?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e118938?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e119908?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e121354?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e121882?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e122080?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e122263?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e122274?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e122378?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e123437?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e126650?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e127044?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e127270?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e107159?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e110180?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e110528?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e112780?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e114746?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e118211?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e118516?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e118578?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e119261?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e119605?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e120181?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e120245?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e120511?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e120742?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e121471?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e121899?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e122246?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e122521?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e123062?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e123419?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e123629?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e123698?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e123802?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e123988?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e124197?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e124622?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e125736?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e126143?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e116331?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e117789?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e118147?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e119072?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e119495?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e120252?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e120615?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e120830?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e121117?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e121190?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e121377?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e121585?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e122444?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e122832?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e123547?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e123926?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e125163?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e125419?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e118301?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e120036?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e120874?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e120909?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e120948?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e120953?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e121061?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e121139?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e121606?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e122205?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e122446?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e122819?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e123955?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e124637?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e124662?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e125092?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e099069?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e110099?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e110307?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e110925?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e114263?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e115052?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e115160?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e119707?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e120507?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e120892?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e122154?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e122224?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e123528?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e124182?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e124868?rss=1" />
+        <rdf:li rdf:resource="http://bmjopen.bmj.com/cgi/content/short/16/10/e111751?rss=1" />
+      </rdf:Seq>
+    </items>
+    <image rdf:resource="http://bmjopen.bmj.com/site/homepage/BMJOPEN_95x60.gif" />
+  </channel>
+  <image rdf:about="http://bmjopen.bmj.com/site/homepage/BMJOPEN_95x60.gif">
+    <title>BMJ Open</title>
+    <url>http://bmjopen.bmj.com/site/homepage/BMJOPEN_95x60.gif</url>
+    <link>http://bmjopen.bmj.com</link>
+  </image>
+  <item rdf:about="http://bmjopen.bmj.com/cgi/content/short/16/10/e108350?rss=1">
+    <title><![CDATA[What are the contraception access experiences of newcomer youth in Canada? Results of a qualitative investigation]]></title>
+    <link>http://bmjopen.bmj.com/cgi/content/short/16/10/e108350?rss=1</link>
+    <description><![CDATA[ <p><textbox id="BX1"><caption><p>STRENGTHS AND LIMITATIONS OF THIS STUDY</p> </caption> <p><l type="unord"><li><p>Our integrated Knowledge Translation approach engaged youth throughout the research project. Youth research assistants led participant recruitment, data collection and analysis.</p> </li><li> <p>We invited participants to conduct interviews in a language of their choice, including English, French, Punjabi, Traditional Chinese, Simplified Chinese, Arabic or Spanish. However, all participants requested to be interviewed in either English or French.</p> </li><li> <p>Stigma may limit participants&rsquo; willingness to discuss contraception. We fostered comfort by introducing ourselves, stressing voluntary participation, safeguarding confidentiality and explaining the study&rsquo;s purpose.</p> </li></l></p></textbox></p> <sec id="s1"><st>Introduction</st> <p>The United Nations recognises family planning, a person&rsquo;s ability to decide on the number and spacing of their children, as a basic human right.<cross-ref type="bib" refid="R1">1</cross-ref> The availability of and education about a range of contraceptive options is an integral part of reproductive autonomy.<cross-ref type="bib" refid="R2">2</cross-ref></p> <p>Globally, the use of contraceptives has increased steadily since...]]></description>
+    <dc:creator><![CDATA[Khan, Z., Seiyad, H., Jacob, K., Arhinson, A., Olure, B., Paller, V., Williams, A., Meherali, S., Ennis, M., Munro, S.]]></dc:creator>
+    <dc:date>2026-10-26T08:53:56-07:00</dc:date>
+    <dc:identifier>info:doi/10.1136/bmjopen-2025-108350</dc:identifier>
+    <dc:identifier>hwp:master-id:bmjopen;bmjopen-2025-108350</dc:identifier>
+    <dc:publisher>British Medical Journal Publishing Group</dc:publisher>
+    <dc:subject><![CDATA[Open access, Sexual health]]></dc:subject>
+    <dc:title><![CDATA[What are the contraception access experiences of newcomer youth in Canada? Results of a qualitative investigation]]></dc:title>
+    <prism:publicationDate>2026-10-26</prism:publicationDate>
+    <prism:section>Sexual health</prism:section>
+    <prism:volume>16</prism:volume>
+    <prism:number>10</prism:number>
+    <prism:startingPage>e108350</prism:startingPage>
+    <prism:endingPage>e108350</prism:endingPage>
+  </item>
+  <item rdf:about="http://bmjopen.bmj.com/cgi/content/short/16/10/e117088?rss=1">
+    <title><![CDATA[Exploring the nature, development and effects of complex emotions in Sheffield and Plymouth, UK: a longitudinal mixed methods study protocol]]></title>
+    <link>http://bmjopen.bmj.com/cgi/content/short/16/10/e117088?rss=1</link>
+    <description><![CDATA[ <p><textbox id="BX1"><caption><p>STRENGTHS AND LIMITATIONS OF THIS STUDY</p> </caption> <p><l type="unord"><li><p>Strong lived experience involvement across study design, delivery, analysis and dissemination.</p> </li><li> <p>Transdiagnostic approach with inclusive recruitment across healthcare and community settings.</p> </li><li> <p>Mixed methods, longitudinal design combining evidence synthesis, cohort, qualitative and ecological momentary assessment data.</p> </li><li> <p>Discovery-focused, iterative approach to data collection and analysis.</p> </li><li> <p>Recruitment limited to two geographical sites for pragmatic reasons.</p> </li></l></p></textbox></p> <sec id="s1"><st>Introduction</st> <p>Complex emotions include difficulty with emotional regulation, impulsivity, identity disturbance, unstable relationships, self-harm, dissociation, brief psychotic episodes and suicidality.<cross-ref type="bib" refid="R1">1</cross-ref> They cause distress and impaired functioning and are associated with poor physical health, including obesity, cardiovascular disease and epilepsy.<cross-ref type="bib" refid="R2">2&ndash;4</cross-ref><cross-ref type="bib" refid="R3"></cross-ref><cross-ref type="bib" refid="R4"></cross-ref> People presenting with these difficulties are most often diagnosed with borderline personality disorder (BPD),<cross-ref type="bib" refid="R5">5&ndash;7</cross-ref><cross-ref type="bib" refid="R6"></cross-ref><cross-ref type="bib" refid="R7"></cross-ref> but the validity of which has been questioned<cross-ref type="bib" refid="R5">5 7 8</cross-ref><cross-ref type="bib" refid="R7"></cross-ref><cross-ref type="bib"...]]></description>
+    <dc:creator><![CDATA[Ohlsen, S., Anderson, D., Bastounis, A., Bhui, K., Booth, A., Burton, C. D., Byng, R., Chico, T. J., Couperthwaite, L., Crimlisk, H., Dalgleish, T., Doyle, M., Gravestock, S., Hardwick, R., Horspool, M., Hullock, K., Kendall, T., Leaviss, J., Markwick, T., Osmani, V., Pinfold, V., Robinson, M., Sullivan, G. J., Sutton, A., Thomas, F., Thompson, E. R., Wilson, E., Weich, S.]]></dc:creator>
+    <dc:date>2026-10-26T08:53:56-07:00</dc:date>
+    <dc:identifier>info:doi/10.1136/bmjopen-2026-117088</dc:identifier>
+    <dc:identifier>hwp:master-id:bmjopen;bmjopen-2026-117088</dc:identifier>
+    <dc:publisher>British Medical Journal Publishing Group</dc:publisher>
+    <dc:subject><![CDATA[Open access, Mental health]]></dc:subject>
+    <dc:title><![CDATA[Exploring the nature, development and effects of complex emotions in Sheffield and Plymouth, UK: a longitudinal mixed methods study protocol]]></dc:title>
+    <prism:publicationDate>2026-10-26</prism:publicationDate>
+    <prism:section>Mental health</prism:section>
+    <prism:volume>16</prism:volume>
+    <prism:number>10</prism:number>
+    <prism:startingPage>e117088</prism:startingPage>
+    <prism:endingPage>e117088</prism:endingPage>
+  </item>
+  <item rdf:about="http://bmjopen.bmj.com/cgi/content/short/16/10/e119579?rss=1">
+    <title><![CDATA[Effect of yoga on blood pressure in hypertensive older adults: a randomised multicentre study with control group - study protocol]]></title>
+    <link>http://bmjopen.bmj.com/cgi/content/short/16/10/e119579?rss=1</link>
+    <description><![CDATA[ <p><textbox id="BX1"><caption><p>STRENGTHS AND LIMITATIONS OF THIS STUDY</p> </caption> <p><l type="unord"><li><p>Randomised, controlled, multicentre trial specifically designed for community-dwelling hypertensive older adults aged 65 years or older.</p> </li><li> <p>Comprehensive assessment including brachial and central blood pressure, arterial stiffness, endothelial function, functional capacity, sleep and quality of life.</p> </li><li> <p>Pragmatic, senior-adapted yoga intervention with a structured, reproducible protocol, including detailed session structure, progression phases and monitored home practice.</p> </li><li> <p>Blinding of participants and instructors was not possible due to the nature of the intervention; however, outcome assessors and data analysts remain blinded throughout the study.</p> </li><li> <p>Secondary outcomes are exploratory and the study is powered only for the primary endpoint; findings from secondary analyses should be interpreted accordingly.</p> </li></l></p></textbox></p> <sec id="s1"><st>Introduction</st><sec id="s1-1"><st>Background and rationale</st> <p>Population ageing is a defining demographic trend of the 21st century and is strongly associated with a rising burden of chronic non-communicable diseases, particularly hypertension.<cross-ref type="bib" refid="R1">1 2</cross-ref><cross-ref...]]></description>
+    <dc:creator><![CDATA[Machado, A. D. T., Rojo, M., Ochiai, M. E., De Serro-Azul, J. B. C. C., Jacob Filho, W., Guimaraes, G. V.]]></dc:creator>
+    <dc:date>2026-10-26T08:53:56-07:00</dc:date>
+    <dc:identifier>info:doi/10.1136/bmjopen-2026-119579</dc:identifier>
+    <dc:identifier>hwp:master-id:bmjopen;bmjopen-2026-119579</dc:identifier>
+    <dc:publisher>British Medical Journal Publishing Group</dc:publisher>
+    <dc:subject><![CDATA[Open access, Geriatric medicine]]></dc:subject>
+    <dc:title><![CDATA[Effect of yoga on blood pressure in hypertensive older adults: a randomised multicentre study with control group - study protocol]]></dc:title>
+    <prism:publicationDate>2026-10-26</prism:publicationDate>
+    <prism:section>Geriatric medicine</prism:section>
+    <prism:volume>16</prism:volume>
+    <prism:number>10</prism:number>
+    <prism:startingPage>e119579</prism:startingPage>
+    <prism:endingPage>e119579</prism:endingPage>
+  </item>
+  <item rdf:about="http://bmjopen.bmj.com/cgi/content/short/16/10/e119720?rss=1">
+    <title><![CDATA[Prognostic value of the C-reactive protein-triglyceride-glucose index (CTI) for major adverse cardiovascular events in patients with coronary artery disease: a retrospective cohort study]]></title>
+    <link>http://bmjopen.bmj.com/cgi/content/short/16/10/e119720?rss=1</link>
+    <description><![CDATA[ <p><textbox id="BX1"><caption><p>STRENGTHS AND LIMITATIONS OF THIS STUDY</p> </caption> <p><l type="unord"><li><p>This single-centre retrospective cohort study included a relatively large sample of 1533 patients with newly diagnosed coronary artery disease and used standardised diagnostic criteria for outcome ascertainment.</p> </li><li> <p>The C-reactive protein-triglyceride-glucose index integrates two well-established biomarkers (triglyceride-glucose index and C-reactive protein) into a single composite measure, providing a practical approach to assessing combined metabolic-inflammatory risk.</p> </li><li> <p>All patients were followed up systematically through multiple sources (outpatient visits, rehospitalisation records and telephone interviews), minimising loss to follow-up.</p> </li><li> <p>The single-centre design and specific exclusion criteria may limit the generalisability of the findings.</p> </li><li> <p>Residual confounding from unmeasured factors cannot be excluded, and the observational design precludes causal inferences.</p> </li></l></p></textbox></p> <sec id="s1"><st>Introduction</st> <p>Coronary artery disease (CAD) affects approximately 126 million individuals globally, accounting for about 1.72% of the world&rsquo;s population, and causes approximately 9 million deaths annually.<cross-ref type="bib" refid="R1">1</cross-ref> Projections indicate that its prevalence...]]></description>
+    <dc:creator><![CDATA[Zhou, L., Yang, Q., Zhu, B., Zhang, X., Ma, Y., Wu, P., Yan, R., Yang, L., Ye, S., Cong, G., Zhang, Y., Jia, S.]]></dc:creator>
+    <dc:date>2026-10-26T08:53:56-07:00</dc:date>
+    <dc:identifier>info:doi/10.1136/bmjopen-2026-119720</dc:identifier>
+    <dc:identifier>hwp:master-id:bmjopen;bmjopen-2026-119720</dc:identifier>
+    <dc:publisher>British Medical Journal Publishing Group</dc:publisher>
+    <dc:subject><![CDATA[Open access, Cardiovascular medicine]]></dc:subject>
+    <dc:title><![CDATA[Prognostic value of the C-reactive protein-triglyceride-glucose index (CTI) for major adverse cardiovascular events in patients with coronary artery disease: a retrospective cohort study]]></dc:title>
+    <prism:publicationDate>2026-10-26</prism:publicationDate>
+    <prism:section>Cardiovascular medicine</prism:section>
+    <prism:volume>16</prism:volume>
+    <prism:number>10</prism:number>
+    <prism:startingPage>e119720</prism:startingPage>
+    <prism:endingPage>e119720</prism:endingPage>
+  </item>
+  <item rdf:about="http://bmjopen.bmj.com/cgi/content/short/16/10/e120128?rss=1">
+    <title><![CDATA[Cancer incidence following platelet count and C-reactive protein testing across ethnic groups in English primary care: a cohort study of 5 million patients]]></title>
+    <link>http://bmjopen.bmj.com/cgi/content/short/16/10/e120128?rss=1</link>
+    <description><![CDATA[ <p><textbox id="BX1"><caption><p>STRENGTHS AND LIMITATIONS OF THIS STUDY</p> </caption> <p><l type="unord"><li><p>A key strength of this study was that it addressed an important and unanswered clinical issue and provides general practitioners with more information about the significance of abnormal platelet and C-reactive protein (CRP) test results.</p> </li><li> <p>This study included a large cohort: just under five million patients who underwent a full blood count in primary care and over 800 000 with a CRP record. Such scale provided substantial statistical power to detect differences between groups and, importantly, provided reassurance where no evidence of a difference was observed.</p> </li><li> <p>The use of large, routinely collected primary care data linked to the national cancer registry provided nationally representative evidence of blood test results and subsequent cancer incidence across ethnic groups.</p> </li><li> <p>This study did not account for differences in access to primary care between different ethnic groups, which may contribute to differences in...]]></description>
+    <dc:creator><![CDATA[Barlow, M., Down, L., Mounce, L. T. A., Merriel, S. W. D., Watson, J., Martins, T., Bailey, S. E. R.]]></dc:creator>
+    <dc:date>2026-10-26T08:53:56-07:00</dc:date>
+    <dc:identifier>info:doi/10.1136/bmjopen-2026-120128</dc:identifier>
+    <dc:identifier>hwp:master-id:bmjopen;bmjopen-2026-120128</dc:identifier>
+    <dc:publisher>British Medical Journal Publishing Group</dc:publisher>
+    <dc:subject><![CDATA[Open access, General practice / Family practice]]></dc:subject>
+    <dc:title><![CDATA[Cancer incidence following platelet count and C-reactive protein testing across ethnic groups in English primary care: a cohort study of 5 million patients]]></dc:title>
+    <prism:publicationDate>2026-10-26</prism:publicationDate>
+    <prism:section>General practice / Family practice</prism:section>
+    <prism:volume>16</prism:volume>
+    <prism:number>10</prism:number>
+    <prism:startingPage>e120128</prism:startingPage>
+    <prism:endingPage>e120128</prism:endingPage>
+  </item>
+  <item rdf:about="http://bmjopen.bmj.com/cgi/content/short/16/10/e120864?rss=1">
+    <title><![CDATA[Influence of bed occupancy and patient characteristics on bedspacing practices: a multicentre retrospective cohort study]]></title>
+    <link>http://bmjopen.bmj.com/cgi/content/short/16/10/e120864?rss=1</link>
+    <description><![CDATA[ <p><textbox id="BX2"><caption><p>STRENGTHS AND LIMITATIONS OF THIS STUDY</p> </caption> <p><l type="unord"><li><p>This study uses a comprehensive dataset from a regional healthcare system in Sweden including hospitals of different sizes and degree of clinical specialisation.</p> </li><li> <p>The study incorporates two different operationalisations of bedspacing with implications for healthcare practice</p> </li><li> <p>A limitation is that the routinely collected register-data does not contain information about disease severity, thus limiting disease severity adjustments.</p> </li></l></p></textbox></p> <sec id="s1"><st>Introduction</st> <p>The number of available hospital beds per capita has been decreasing in most Organisation for Economic Co-operation and Development (OECD)-countries during the last decades.<cross-ref type="bib" refid="R1">1</cross-ref> One major reason for the reduction in available hospital beds is the advancement of medical and surgical treatment to the extent where treatments that previously required inpatient care are now being performed in outpatient settings or in the patient&rsquo;s own home.<cross-ref type="bib" refid="R2">2</cross-ref> In addition, focus on productivity has shortened length of stay...]]></description>
+    <dc:creator><![CDATA[Linder, W., Winblad, U., Isaksson, D.]]></dc:creator>
+    <dc:date>2026-10-26T08:53:56-07:00</dc:date>
+    <dc:identifier>info:doi/10.1136/bmjopen-2026-120864</dc:identifier>
+    <dc:identifier>hwp:master-id:bmjopen;bmjopen-2026-120864</dc:identifier>
+    <dc:publisher>British Medical Journal Publishing Group</dc:publisher>
+    <dc:subject><![CDATA[Open access, Health services research]]></dc:subject>
+    <dc:title><![CDATA[Influence of bed occupancy and patient characteristics on bedspacing practices: a multicentre retrospective cohort study]]></dc:title>
+    <prism:publicationDate>2026-10-26</prism:publicationDate>
+    <prism:section>Health services research</prism:section>
+    <prism:volume>16</prism:volume>
+    <prism:number>10</prism:number>
+    <prism:startingPage>e120864</prism:startingPage>
+    <prism:endingPage>e120864</prism:endingPage>
+  </item>
+  <item rdf:about="http://bmjopen.bmj.com/cgi/content/short/16/10/e121198?rss=1">
+    <title><![CDATA[Patient perception of dry eye disease and treatment: a multinational, cross-sectional, digital survey]]></title>
+    <link>http://bmjopen.bmj.com/cgi/content/short/16/10/e121198?rss=1</link>
+    <description><![CDATA[ <p><textbox id="BX1"><caption><p>STRENGTHS AND LIMITATIONS OF THIS STUDY</p> </caption> <p><l type="unord"><li><p>Two large cohorts of participants from five countries were included in the survey, providing a wide breadth of responses.</p> </li><li> <p>The questionnaire was comprehensive and collected multiple perceptions of dry eye, with central coding of qualitative responses ensuring that consistency was maintained across countries.</p> </li><li> <p>Surveys have inherent weaknesses, such as recall bias or idealised answers. In addition, survey participants were self-selected, with the potential for selection bias and unrepresentative populations.</p> </li><li> <p>Statistical analyses of responses were not performed, preventing inter-country comparison or formal assessment of the significance of results.</p> </li><li> <p>The protocol intentionally allowed participants to self-define dry eye to capture broad, real-world perceptions of symptoms and treatment; however, the reduced diagnostic specificity introduces the potential for misclassification of dry eye or inclusion of participants who would not be considered to have clinical dry eye disease.</p> </li></l></p></textbox></p> <sec id="s1"><st>Introduction</st>...]]></description>
+    <dc:creator><![CDATA[Wozniak, P. A., Messmer, E. M., Farrant, S., Ahad, M., Ryan, R., Akbas, E., Joachim, S. C., Labetoulle, M.]]></dc:creator>
+    <dc:date>2026-10-26T08:53:56-07:00</dc:date>
+    <dc:identifier>info:doi/10.1136/bmjopen-2026-121198</dc:identifier>
+    <dc:identifier>hwp:master-id:bmjopen;bmjopen-2026-121198</dc:identifier>
+    <dc:publisher>British Medical Journal Publishing Group</dc:publisher>
+    <dc:subject><![CDATA[Open access, Ophthalmology]]></dc:subject>
+    <dc:title><![CDATA[Patient perception of dry eye disease and treatment: a multinational, cross-sectional, digital survey]]></dc:title>
+    <prism:publicationDate>2026-10-26</prism:publicationDate>
+    <prism:section>Ophthalmology</prism:section>
+    <prism:volume>16</prism:volume>
+    <prism:number>10</prism:number>
+    <prism:startingPage>e121198</prism:startingPage>
+    <prism:endingPage>e121198</prism:endingPage>
+  </item>
+  <item rdf:about="http://bmjopen.bmj.com/cgi/content/short/16/10/e121368?rss=1">
+    <title><![CDATA[Admission to the kangaroo mother care ward and maternal postpartum depression in Lusaka, Zambia: a randomised controlled trial study protocol]]></title>
+    <link>http://bmjopen.bmj.com/cgi/content/short/16/10/e121368?rss=1</link>
+    <description><![CDATA[ <p><textbox id="BX1"><caption><p>STRENGTHS AND LIMITATIONS OF THIS STUDY</p> </caption> <p><l type="unord"><li><p>The study is embedded within routine clinical care, enhancing generalisability to similar settings.</p> </li><li> <p>Longitudinal screening of study participants using validated screening tools allows standardised assessment and long-term impact of the intervention on health outcomes.</p> </li><li> <p>In-depth interviews with parents and family members will provide in-depth understanding of the intervention&rsquo;s feasibility and challenges after hospital discharge.</p> </li><li> <p>The lack of blinding of study participants and healthcare providers is a limitation that may introduce bias.</p> </li><li> <p>Loss to follow-up after hospital discharge and a high rate of infant mortality may affect the completeness of outcome data.</p> </li></l></p></textbox></p> <sec id="s1"><st>Introduction</st> <p>Postpartum depression (PPD) is a depressive disorder that commences after childbirth and up to the first year of an infant&rsquo;s life and is characterised by feelings of worthlessness, fatigue, insomnia, decreased functioning, low mood and suicidal thoughts.<cross-ref type="bib" refid="R1">1</cross-ref> The global prevalence...]]></description>
+    <dc:creator><![CDATA[Manasyan, A., Lakhwani, J., Kapesa, H., Menon, J. A., Sharma, A., Pry, J. M., Brown, C., Tembo, T., Carlo, W. A.]]></dc:creator>
+    <dc:date>2026-10-26T08:53:56-07:00</dc:date>
+    <dc:identifier>info:doi/10.1136/bmjopen-2026-121368</dc:identifier>
+    <dc:identifier>hwp:master-id:bmjopen;bmjopen-2026-121368</dc:identifier>
+    <dc:publisher>British Medical Journal Publishing Group</dc:publisher>
+    <dc:subject><![CDATA[Open access, Mental health]]></dc:subject>
+    <dc:title><![CDATA[Admission to the kangaroo mother care ward and maternal postpartum depression in Lusaka, Zambia: a randomised controlled trial study protocol]]></dc:title>
+    <prism:publicationDate>2026-10-26</prism:publicationDate>
+    <prism:section>Mental health</prism:section>
+    <prism:volume>16</prism:volume>
+    <prism:number>10</prism:number>
+    <prism:startingPage>e121368</prism:startingPage>
+    <prism:endingPage>e121368</prism:endingPage>
+  </item>
+  <item rdf:about="http://bmjopen.bmj.com/cgi/content/short/16/10/e121950?rss=1">
+    <title><![CDATA[Information gaps across care interfaces in home care and patient safety incidents: a cross-sectional survey of home care professionals in Finland]]></title>
+    <link>http://bmjopen.bmj.com/cgi/content/short/16/10/e121950?rss=1</link>
+    <description><![CDATA[ <p><textbox id="BX1"><caption><p>STRENGTHS AND LIMITATIONS OF THIS STUDY</p> </caption> <p><l type="unord"><li><p>This study examined information gaps across 11 care interfaces simultaneously in organisations covering over one-fifth of Finnish home care clients, enabling a network-level perspective on information continuity rather than focusing on transitions.</p> </li><li> <p>The use of healthcare professionals&rsquo; self-reported experiences enables identification of information gaps not visible in administrative or incident-reporting data, but may introduce recall and perception bias, and findings reflect professional perceptions rather than objectively verified incidents.</p> </li><li> <p>The self-selection sampling approach, low response rate and heterogeneity of included interfaces may limit generalisability and obscure finer-grained differences between interfaces, while their potential influence on comparisons between interfaces remains uncertain.</p> </li></l></p></textbox></p> <sec id="s1"><st>Background</st> <p>The growing number of older adults living with multimorbidity and cognitive decline has intensified the demand for care systems capable of addressing complex and multidimensional needs.<cross-ref type="bib" refid="R1">1&ndash;4</cross-ref><cross-ref type="bib" refid="R2"></cross-ref><cross-ref type="bib" refid="R3"></cross-ref><cross-ref type="bib" refid="R4"></cross-ref> Rather than...]]></description>
+    <dc:creator><![CDATA[Sylgren, I., Ja&#x0308;msen, E., Torkki, P.]]></dc:creator>
+    <dc:date>2026-10-26T08:53:56-07:00</dc:date>
+    <dc:identifier>info:doi/10.1136/bmjopen-2026-121950</dc:identifier>
+    <dc:identifier>hwp:master-id:bmjopen;bmjopen-2026-121950</dc:identifier>
+    <dc:publisher>British Medical Journal Publishing Group</dc:publisher>
+    <dc:subject><![CDATA[Open access, Health services research]]></dc:subject>
+    <dc:title><![CDATA[Information gaps across care interfaces in home care and patient safety incidents: a cross-sectional survey of home care professionals in Finland]]></dc:title>
+    <prism:publicationDate>2026-10-26</prism:publicationDate>
+    <prism:section>Health services research</prism:section>
+    <prism:volume>16</prism:volume>
+    <prism:number>10</prism:number>
+    <prism:startingPage>e121950</prism:startingPage>
+    <prism:endingPage>e121950</prism:endingPage>
+  </item>
+  <item rdf:about="http://bmjopen.bmj.com/cgi/content/short/16/10/e122025?rss=1">
+    <title><![CDATA[Four decades of under-representation: a qualitative study to gain young adult insights to transform inclusive recruitment in clinical research]]></title>
+    <link>http://bmjopen.bmj.com/cgi/content/short/16/10/e122025?rss=1</link>
+    <description><![CDATA[ <p><textbox id="BX1"><caption><p>STRENGTHS AND LIMITATIONS OF THIS STUDY</p> </caption> <p><l type="unord"><li><p>The interview guide was constructed with direct input from patient and public involvement and refined through public partners of South Asian and Black heritage.</p> </li><li> <p>Our findings build on existing literature through the inclusion of young adults that are often overlooked in health-related research.</p> </li><li> <p>Despite our efforts, Black adults were under-represented, likely reflecting the demographics of our existing recruitment networks, which limited the diversity of perspectives and comparative insights across ethnic groups.</p> </li></l></p></textbox></p> <sec id="s1"><st>Introduction</st> <p>Health research shapes clinical practice, guides public health action and drives improvements in care.<cross-ref type="bib" refid="R1">1</cross-ref> Yet for more than 30 years, researchers have consistently documented the under-representation of South Asian and Black communities in UK health studies, including clinical trials, observational cohorts and interventional research.<cross-ref type="bib" refid="R2">2 3</cross-ref><cross-ref type="bib" refid="R3"></cross-ref> These communities are ever-expanding within the UK and currently comprise approximately 13% of...]]></description>
+    <dc:creator><![CDATA[Kumar, K., Agarwal, V., Trivedi, P. J., Greenfield, S., Leung, E. Y., Jacques, L., Quinlan, J. I.]]></dc:creator>
+    <dc:date>2026-10-26T08:53:56-07:00</dc:date>
+    <dc:identifier>info:doi/10.1136/bmjopen-2026-122025</dc:identifier>
+    <dc:identifier>hwp:master-id:bmjopen;bmjopen-2026-122025</dc:identifier>
+    <dc:publisher>British Medical Journal Publishing Group</dc:publisher>
+    <dc:subject><![CDATA[Open access, Qualitative research]]></dc:subject>
+    <dc:title><![CDATA[Four decades of under-representation: a qualitative study to gain young adult insights to transform inclusive recruitment in clinical research]]></dc:title>
+    <prism:publicationDate>2026-10-26</prism:publicationDate>
+    <prism:section>Qualitative research</prism:section>
+    <prism:volume>16</prism:volume>
+    <prism:number>10</prism:number>
+    <prism:startingPage>e122025</prism:startingPage>
+    <prism:endingPage>e122025</prism:endingPage>
+  </item>
+</rdf:RDF>
