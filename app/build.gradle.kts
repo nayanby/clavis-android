@@ -20,7 +20,7 @@ android {
     namespace = "com.clavis.reader"
     compileSdk = 36
     kotlinOptions { jvmTarget = "17" }
-    defaultConfig { applicationId = "com.clavis.reader"; testInstrumentationRunner = providers.gradleProperty("clavisTestRunner").getOrElse("com.clavis.reader.ReaderChecks"); minSdk = 26; targetSdk = 36; versionCode = 90; versionName = "0.10.12" }
+    defaultConfig { applicationId = "com.clavis.reader"; testInstrumentationRunner = providers.gradleProperty("clavisTestRunner").getOrElse("com.clavis.reader.ReaderChecks"); minSdk = 26; targetSdk = 36; versionCode = 91; versionName = "0.10.13" }
     compileOptions { sourceCompatibility = JavaVersion.VERSION_17; targetCompatibility = JavaVersion.VERSION_17 }
 }
 dependencies {
