@@ -1,0 +1,36 @@
+Last updated: 31 October 2026
+Developer: Nayan Yadav (CORTEX ONE)
+Contact: nayanby@gmail.com
+Android package: com.clavis.reader
+
+Clavis is a book reader, audiobook player, podcast and feed reader with optional magnet-link torrent transfers. This policy describes the Android app. Google Sites hosts this page under Google's own privacy practices.
+
+1. Local information
+Your library index, file locations, reading and listening progress, bookmarks, annotations, settings, feed subscriptions, cached articles and artwork, and transfer records are stored on your device. Files remain in locations you select or app-specific storage. Android's document picker controls access to selected files and folders. Clavis requires no Clavis account and includes no developer-operated advertising, analytics or account backend. Your documents and listening history are not sent to an app-operated collection service.
+
+2. Feeds, podcasts and search
+Feed refreshes, articles, artwork and podcast playback/downloads connect directly to publishers and hosting services. These third parties receive your IP address and ordinary connection/request information, including requested URLs, timing and network headers. They may infer which content you access and keep logs under their own privacy policies. Online podcast search sends search terms to Apple's iTunes Search service. Finding additional RSS sources online opens a search in your browser; the browser and search provider's policies apply. External websites and media hosts are independent third parties.
+
+3. Torrent transfers
+Torrent use is optional and begins from magnet links you paste, share or open. BitTorrent is peer-to-peer: your public IP address, port, torrent identifier (info hash) and participation may be visible to peers, trackers, distributed hash table (DHT) participants and others on the network. Transfers can exchange file pieces with other peers while active. Torrent connections are not private or anonymous. Clavis cannot control other participants' recording or use of this information. Transfer status and resume records are stored locally. Transfers may continue in the background with a notification until completed, paused, removed or stopped, and may use mobile data. Only access or distribute content you are entitled to use. The built-in ebook and audiobook websites are Project Gutenberg and LibriVox, which publish public-domain titles; you can set different sites in Settings, and Clavis does not guarantee third-party content's legality or availability.
+
+4. Offline narration
+Bundled text-to-speech software reads book and article text on your device using the bundled Kitten TTS models, the sherpa-onnx runtime and eSpeak NG phonemisation. No text, generated audio or reading position is uploaded, and no account, API key or recording permission is needed. Network access is used only to fetch the books, feeds and artwork you choose.
+
+5. Permissions
+Network access supports feeds, artwork, podcast search/playback and torrents. Notification and foreground-service permissions support playback and downloads. Network-state access manages connectivity; wake locks may keep the device active during transfers. Document-picker permissions cover the files and folders you choose.
+
+6. Sharing and contact
+Using Android sharing sends the content you choose to your selected app or service, whose privacy practices then apply. Emailing the developer shares your email address and message or attachments so the developer can respond.
+
+7. Retention and deletion
+Local app data remains until removed through available app controls, Android's Clear storage function or uninstallation. Removing a library entry or transfer record does not necessarily delete original or downloaded files. Files in shared storage, exports and files held by other apps can remain after clearing app data or uninstalling; delete them separately using your file manager. Stop transfers before deleting their data. Publishers, peers, search services and other third parties retain their own data under their policies.
+
+8. Security
+Clavis relies on Android's application sandbox and access controls. Feed and search requests use HTTPS where supported by the app's network implementation. Torrent connectivity is not confidential or anonymous. No storage or transmission method provides absolute security.
+
+9. Children
+Clavis serves a general audience and is not specifically directed to children under 13. The developer does not knowingly collect children's information through an app-operated account or analytics service. External feeds, podcasts, websites and torrent content may be unsuitable for children. Parents or guardians can contact the developer about privacy concerns.
+
+10. Changes and contact
+This policy may change when app features or data practices change. The revision date appears above. For privacy questions or requests about correspondence you sent to the developer, contact Nayan Yadav at nayanby@gmail.com.

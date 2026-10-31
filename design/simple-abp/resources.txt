@@ -1,0 +1,928 @@
+Binary APK
+Package name=mdmt.sabp.free id=7f
+  type drawable id=02 entryCount=10
+    resource 0x7f020000 drawable/al1
+      (nodpi-v4) (file) res/drawable-nodpi-v4/al1.xml type=XML
+    resource 0x7f020001 drawable/al2
+      (nodpi-v4) (file) res/drawable-nodpi-v4/al2.xml type=XML
+    resource 0x7f020002 drawable/ar1
+      (nodpi-v4) (file) res/drawable-nodpi-v4/ar1.xml type=XML
+    resource 0x7f020003 drawable/ar2
+      (nodpi-v4) (file) res/drawable-nodpi-v4/ar2.xml type=XML
+    resource 0x7f020004 drawable/b
+      (nodpi-v4) (file) res/drawable-nodpi-v4/b.xml type=XML
+    resource 0x7f020005 drawable/blank
+      (nodpi-v4) (file) res/drawable-nodpi-v4/blank.png type=PNG
+    resource 0x7f020006 drawable/c
+      (nodpi-v4) (file) res/drawable-nodpi-v4/c.xml type=XML
+    resource 0x7f020007 drawable/p
+      (nodpi-v4) (file) res/drawable-nodpi-v4/p.png type=PNG
+    resource 0x7f020008 drawable/s
+      (nodpi-v4) (file) res/drawable-nodpi-v4/s.png type=PNG
+    resource 0x7f020009 drawable/sp
+      (nodpi-v4) (file) res/drawable-nodpi-v4/sp.xml type=XML
+  type mipmap id=03 entryCount=2
+    resource 0x7f030000 mipmap/ic
+      (mdpi-v4) (file) res/mipmap-mdpi-v4/ic.png type=PNG
+      (hdpi-v4) (file) res/mipmap-hdpi-v4/ic.png type=PNG
+      (xhdpi-v4) (file) res/mipmap-xhdpi-v4/ic.png type=PNG
+      (xxhdpi-v4) (file) res/mipmap-xxhdpi-v4/ic.png type=PNG
+      (xxxhdpi-v4) (file) res/mipmap-xxxhdpi-v4/ic.png type=PNG
+      (anydpi-v26) (file) res/mipmap-anydpi-v26/ic.xml type=XML
+    resource 0x7f030001 mipmap/ic_fg
+      (mdpi-v4) (file) res/mipmap-mdpi-v4/ic_fg.png type=PNG
+      (hdpi-v4) (file) res/mipmap-hdpi-v4/ic_fg.png type=PNG
+      (xhdpi-v4) (file) res/mipmap-xhdpi-v4/ic_fg.png type=PNG
+      (xxhdpi-v4) (file) res/mipmap-xxhdpi-v4/ic_fg.png type=PNG
+      (xxxhdpi-v4) (file) res/mipmap-xxxhdpi-v4/ic_fg.png type=PNG
+  type layout id=04 entryCount=6
+    resource 0x7f040000 layout/notif_big
+      () (file) res/layout/notif_big.xml type=XML
+    resource 0x7f040001 layout/notif_big_no_cover
+      () (file) res/layout/notif_big_no_cover.xml type=XML
+    resource 0x7f040002 layout/notif_small
+      () (file) res/layout/notif_small.xml type=XML
+    resource 0x7f040003 layout/widget_4_1
+      () (file) res/layout/widget_4_1.xml type=XML
+    resource 0x7f040004 layout/widget_4_2
+      () (file) res/layout/widget_4_2.xml type=XML
+    resource 0x7f040005 layout/widget_empty
+      () (file) res/layout/widget_empty.xml type=XML
+  type xml id=05 entryCount=3
+    resource 0x7f050000 xml/automotive_app_desc
+      () (file) res/xml/automotive_app_desc.xml type=XML
+    resource 0x7f050001 xml/awp_4_1
+      () (file) res/xml/awp_4_1.xml type=XML
+    resource 0x7f050002 xml/awp_4_2
+      () (file) res/xml/awp_4_2.xml type=XML
+  type raw id=06 entryCount=1
+    resource 0x7f060000 raw/aasig
+      () (file) res/raw/aasig
+  type array id=07 entryCount=4
+    resource 0x7f070000 array/colors
+      () (array) size=17
+        [0xff4caf50, 0xffd6d6d6, 0xffb6b6b6, 0xff333333, 
+         0xffffffff, 0xffffffff, 0xff000000, 0xffaaaaaa, 
+         0xff777777, 0xffbbbbbb, 0xffc0c0c0, 0xfff5f5f5, 
+         0xffd0d0d0, 0xff000000, 0xffffffff, 0xff333333, 
+         0xff0e9c57]
+    resource 0x7f070001 array/colors_night
+      () (array) size=17
+        [0xff8bc34a, 0xff1e2327, 0xff545454, 0xff707070, 
+         0xff000000, 0xff000000, 0xffdddddd, 0xff333333, 
+         0xff555555, 0xff222222, 0xff3a3a3a, 0xff202020, 
+         0xff303030, 0xffffffff, 0xff101010, 0xffdddddd, 
+         0xff0e9c57]
+    resource 0x7f070002 array/txt_colors
+      () (array) size=6
+        [0xff000000, 0xff2196f3, 0xff323232, 0xffb2b2b2, 
+         0xff000000, 0xff4caf50]
+    resource 0x7f070003 array/txt_colors_night
+      () (array) size=6
+        [0xfff3f3f3, 0xff03a9f4, 0xffbebebe, 0xff4c4c4c, 
+         0xffdddddd, 0xff8bc34a]
+  type id id=08 entryCount=16
+    resource 0x7f080000 id/root_view
+      () (id)
+    resource 0x7f080001 id/cover
+      () (id)
+    resource 0x7f080002 id/ac_name
+      () (id)
+    resource 0x7f080003 id/aci_name
+      () (id)
+    resource 0x7f080004 id/btn_close
+      () (id)
+    resource 0x7f080005 id/btn_seek_1
+      () (id)
+    resource 0x7f080006 id/btn_seek_2
+      () (id)
+    resource 0x7f080007 id/btn_start_pause
+      () (id)
+    resource 0x7f080008 id/btn_seek_3
+      () (id)
+    resource 0x7f080009 id/btn_seek_4
+      () (id)
+    resource 0x7f08000a id/separator_1
+      () (id)
+    resource 0x7f08000b id/separator_2
+      () (id)
+    resource 0x7f08000c id/separator_3
+      () (id)
+    resource 0x7f08000d id/separator_4
+      () (id)
+    resource 0x7f08000e id/chronometer
+      () (id)
+    resource 0x7f08000f id/btn_dp_end
+      () (id)
+  type string id=09 entryCount=180
+    resource 0x7f090000 string/yes
+      () "Yes"
+      (uk) "Так"
+      (ru) "Да"
+    resource 0x7f090001 string/no
+      () "No"
+      (uk) "Ні"
+      (ru) "Нет"
+    resource 0x7f090002 string/confirm
+      () "Confirm"
+      (uk) "Підтвердити"
+      (ru) "Подтвердить"
+    resource 0x7f090003 string/mi_delete
+      () "Delete"
+      (uk) "Видалити"
+      (ru) "Удалить"
+    resource 0x7f090004 string/offset
+      () "Offset"
+      (uk) "Зміщення"
+      (ru) "Смещение"
+    resource 0x7f090005 string/enabled
+      () "Enabled"
+      (uk) "Ввімкнено"
+      (ru) "Включен"
+    resource 0x7f090006 string/title
+      () "Title"
+      (uk) "Назва"
+      (ru) "Название"
+    resource 0x7f090007 string/sb_len_modifiers
+      () "BiKMGsmh"
+      (uk) "БіКМГсхг"
+      (ru) "БиКМГсмч"
+    resource 0x7f090008 string/db
+      () "dB"
+      (uk) "дБ"
+      (ru) "дБ"
+    resource 0x7f090009 string/toast_inaccessible_dir
+      () "Inaccessible folder."
+      (uk) "Немає доступу до цієї папки."
+      (ru) "Нет доступа к этой папке."
+    resource 0x7f09000a string/toast_inaccessible_book
+      () "Inaccessible book."
+      (uk) "Немає доступу до цієї книги."
+      (ru) "Нет доступа к этой книге."
+    resource 0x7f09000b string/toast_empty_dir
+      () "Empty folder."
+      (uk) "Порожня папка."
+      (ru) "Пустая папка."
+    resource 0x7f09000c string/msg_first_run_prefix
+      () "plays audiobooks from device storage."
+      (uk) "відтворює аудіокниги з пам’яті пристрою."
+      (ru) "воспроизводит аудиокниги с хранилища устройства."
+    resource 0x7f09000d string/msg_first_run_w_perms_suffix
+      () "Use file picker on the next screen to start playback."
+      (uk) "Використайте інтерфейс вибору файлу на наступному екрані для початку відтворення."
+      (ru) "Воспользуйтесь интерфейсом выбора файла на следующем экране для начала воспроизведения."
+    resource 0x7f09000e string/msg_first_run_wo_perms_suffix
+      () "Grant storage access permission and use file picker on the next screen to start playback."
+      (uk) "Надайте дозвіл на доступ до пам’яті та використайте інтерфейс вибору файлу на наступному екрані для початку відтворення."
+      (ru) "Предоставьте разрешение на доступ к хранилищу и воспользуйтесь интерфейсом выбора файла на следующем экране для начала воспроизведения."
+    resource 0x7f09000f string/msg_first_run_wo_perms_w_ps_suffix
+      () "needs storage access permission to run."
+      (uk) "для запуску потрібен дозвіл на доступу до пам’яті пристрою."
+      (ru) "требуется разрешение на доступ к хранилищу для запуска."
+    resource 0x7f090010 string/grant_permission
+      () "Grant permission"
+      (uk) "Надати дозвіл"
+      (ru) "Предоставить разрешение"
+    resource 0x7f090011 string/grant_permission_in_settings
+      () "Grant permission in settings"
+      (uk) "Надати дозвіл у налаштуваннях"
+      (ru) "Предоставить разрешение в настройках"
+    resource 0x7f090012 string/open_settings
+      () "Open settings"
+      (uk) "Відкрити налаштування"
+      (ru) "Открыть настройки"
+    resource 0x7f090013 string/equalizer
+      () "Equalizer"
+      (uk) "Еквалайзер"
+      (ru) "Эквалайзер"
+    resource 0x7f090014 string/hz
+      () "Hz"
+      (uk) "Гц"
+      (ru) "Гц"
+    resource 0x7f090015 string/speed
+      () "Speed"
+      (uk) "Швидкість"
+      (ru) "Скорость"
+    resource 0x7f090016 string/d_speed_scale_time
+      () "Divide time by speed"
+      (uk) "Ділити час на швидкість"
+      (ru) "Делить время на скорость"
+    resource 0x7f090017 string/mi_rename
+      () "Rename"
+      (uk) "Перейменувати"
+      (ru) "Переименовать"
+    resource 0x7f090018 string/mi_delete_bookmarks
+      () "Delete bookmarks"
+      (uk) "Видалити закладки"
+      (ru) "Удалить закладки"
+    resource 0x7f090019 string/mi_reset_position
+      () "Reset position"
+      (uk) "Скинути позицію"
+      (ru) "Cбросить позицию"
+    resource 0x7f09001a string/mi_open_with
+      () "Open with…"
+      (uk) "Відкрити в…"
+      (ru) "Открыть в…"
+    resource 0x7f09001b string/d_delete_file_msg
+      () "Delete file
+      "%s" ?"
+      (uk) "Видалити файл "%s" ?"
+      (ru) "Удалить файл "%s" ?"
+    resource 0x7f09001c string/toast_deletion_failed
+      () "Deletion failed."
+      (uk) "Видалення не вдалося."
+      (ru) "Удаление не удалось."
+    resource 0x7f09001d string/d_delete_dir_msg
+      () "Delete folder
+      "%s" ?"
+      (uk) "Видалити папку "%s" ?"
+      (ru) "Удалить папку "%s" ?"
+    resource 0x7f09001e string/d_saved_pos_title
+      () "Bookmark"
+      (uk) "Закладка"
+      (ru) "Закладка"
+    resource 0x7f09001f string/d_saved_pos_msg
+      () "Position: %1$s / %2$s
+
+      Chapter:
+      "%3$s""
+      (uk) "Позиція: %1$s / %2$s
+
+      Розділ: "%3$s""
+      (ru) "Позиция: %1$s / %2$s
+
+      Глава: "%3$s""
+    resource 0x7f090020 string/warning
+      () "WARNING"
+      (uk) "ПОПЕРЕДЖЕННЯ"
+      (ru) "ПРЕДУПРЕЖДЕНИЕ"
+    resource 0x7f090021 string/d_delete_dir_warning
+      () "
+      %1$s files will be deleted.
+
+      Sum size: %2$s.
+      "
+      (uk) "Буде видалено файлів: %1$s.
+
+      Загальний розмір: %2$s.
+      "
+      (ru) "Будет удалено файлов: %1$s.
+
+      Общий размер: %2$s.
+      "
+    resource 0x7f090022 string/d_delete_dir_some_items_not_deleted
+      () "Some items weren't deleted."
+      (uk) "Деякі об'єкти не були видалені."
+      (ru) "Некоторые объекты не были удалены."
+    resource 0x7f090023 string/cover_not_found
+      () "Cover not found."
+      (uk) "Обкладинку не знайдено."
+      (ru) "Обложка не найдена."
+    resource 0x7f090024 string/mi_add_bookmark
+      () "Add bookmark"
+      (uk) "Додати закладку"
+      (ru) "Добавить закладку"
+    resource 0x7f090025 string/add
+      () "Add"
+      (uk) "Додати"
+      (ru) "Добавить"
+    resource 0x7f090026 string/mi_forget
+      () "Forget"
+      (uk) "Забути"
+      (ru) "Забыть"
+    resource 0x7f090027 string/bookmarks
+      () "Bookmarks"
+      (uk) "Закладки"
+      (ru) "Закладки"
+    resource 0x7f090028 string/mi_next_book
+      () "Next book"
+      (uk) "Наступна книга"
+      (ru) "След. книга"
+    resource 0x7f090029 string/toast_next_book_not_found
+      () "Next book not found."
+      (uk) "Наступну книгу не знайдено."
+      (ru) "Следующая книга не найдена."
+    resource 0x7f09002a string/mi_conf
+      () "Settings"
+      (uk) "Налаштування"
+      (ru) "Настройки"
+    resource 0x7f09002b string/mi_recent
+      () "Recent books"
+      (uk) "Недавні книги"
+      (ru) "Недавние книги"
+    resource 0x7f09002c string/mi_toggle_theme
+      () "Toggle theme"
+      (uk) "Змінити тему"
+      (ru) "Сменить тему"
+    resource 0x7f09002d string/mi_show_covers
+      () "Show covers"
+      (uk) "Показувати обкладинки"
+      (ru) "Показывать обложки"
+    resource 0x7f09002e string/mi_hide_covers
+      () "Hide covers"
+      (uk) "Сховати обкладинки"
+      (ru) "Спрятать обложки"
+    resource 0x7f09002f string/toast_first_chapter
+      () "First chapter."
+      (uk) "Перший розділ."
+      (ru) "Первая глава."
+    resource 0x7f090030 string/toast_last_chapter
+      () "Last chapter."
+      (uk) "Останній розділ."
+      (ru) "Последняя глава."
+    resource 0x7f090031 string/toast_playback_error
+      () "Error playing back "%s"."
+      (uk) "Помилка при відтворенні "%s"."
+      (ru) "Ошибка при воспроизведении "%s"."
+    resource 0x7f090032 string/toast_bookmark_added
+      () "Bookmark added."
+      (uk) "Додано закладку."
+      (ru) "Добавлена закладка."
+    resource 0x7f090033 string/toast_too_many_bookmarks
+      () "Bookmark not added: too many bookmarks."
+      (uk) "Закладку не додано: занадто багато закладок."
+      (ru) "Закладка не добавлена: слишком много закладок."
+    resource 0x7f090034 string/btn_recent_books
+      () "RB"
+      (uk) "НК"
+      (ru) "НК"
+    resource 0x7f090035 string/do_nothing
+      () "Do nothing"
+      (uk) "Нічого не робити"
+      (ru) "Ничего не делать"
+    resource 0x7f090036 string/start_pause
+      () "Play / Pause"
+      (uk) "Старт / Пауза"
+      (ru) "Старт / Пауза"
+    resource 0x7f090037 string/seek
+      () "Seek"
+      (uk) "Перемотка"
+      (ru) "Перемотка"
+    resource 0x7f090038 string/dp_timer_start
+      () "Start"
+      (uk) "Запустити"
+      (ru) "Запустить"
+    resource 0x7f090039 string/undo_seek
+      () "Undo seek"
+      (uk) "Відміна перемотки"
+      (ru) "Отмена перемотки"
+    resource 0x7f09003a string/mi_exit
+      () "Exit"
+      (uk) "Вихід"
+      (ru) "Выход"
+    resource 0x7f09003b string/conf_auto_advance_to_next_dir
+      () "Start next book automatically"
+      (uk) "Починати наступну книгу автоматично"
+      (ru) "Начинать следующую книгу автоматически"
+    resource 0x7f09003c string/conf_auto_advance_to_next_dir_desc
+      () "When current book is finished."
+      (uk) "Коли поточну книгу закінчено."
+      (ru) "Когда текущая книга закончена."
+    resource 0x7f09003d string/conf_cat_theme
+      () "THEME"
+      (uk) "ТЕМА"
+      (ru) "ТЕМА"
+    resource 0x7f09003e string/conf_light_theme_short
+      () "Light"
+      (uk) "Світла"
+      (ru) "Светлая"
+    resource 0x7f09003f string/conf_auto_theme_title
+      () "Switch automatically"
+      (uk) "Переключати автоматично"
+      (ru) "Переключать автоматически"
+    resource 0x7f090040 string/conf_day_start
+      () "Switch to light at"
+      (uk) "Переключати на світлу в"
+      (ru) "Переключать на светлую в"
+    resource 0x7f090041 string/conf_night_start
+      () "Switch to dark at"
+      (uk) "Переключати на темну в"
+      (ru) "Переключать на темную в"
+    resource 0x7f090042 string/conf_cat_buttons
+      () "BUTTONS"
+      (uk) "КНОПКИ"
+      (ru) "КНОПКИ"
+    resource 0x7f090043 string/conf_scr_seek_btns
+      () "Seek buttons"
+      (uk) "Кнопки перемотки"
+      (ru) "Кнопки перемотки"
+    resource 0x7f090044 string/conf_scr_remote_btns
+      () "Remote buttons"
+      (uk) "Дистанційні кнопки"
+      (ru) "Дистанционные кнопки"
+    resource 0x7f090045 string/conf_cat_seek_btns_in_app
+      () "IN APP"
+      (uk) "У ДОДАТКУ"
+      (ru) "В ПРИЛОЖЕНИИ"
+    resource 0x7f090046 string/conf_button_1
+      () "Button 1"
+      (uk) "Кнопка 1"
+      (ru) "Кнопка 1"
+    resource 0x7f090047 string/conf_button_2
+      () "Button 2"
+      (uk) "Кнопка 2"
+      (ru) "Кнопка 2"
+    resource 0x7f090048 string/conf_button_3
+      () "Button 3"
+      (uk) "Кнопка 3"
+      (ru) "Кнопка 3"
+    resource 0x7f090049 string/conf_button_4
+      () "Button 4"
+      (uk) "Кнопка 4"
+      (ru) "Кнопка 4"
+    resource 0x7f09004a string/conf_cat_seek_btns_in_notif
+      () "IN NOTIFICATION"
+      (uk) "У СПОВІЩЕННІ"
+      (ru) "В УВЕДОМЛЕНИИ"
+    resource 0x7f09004b string/conf_cat_seek_btns_in_widgets
+      () "IN WIDGETS"
+      (uk) "У ВІДЖЕТАХ"
+      (ru) "В ВИДЖЕТАХ"
+    resource 0x7f09004c string/conf_seek_widget_4_1
+      () "Small"
+      (uk) "Маленький"
+      (ru) "Маленький"
+    resource 0x7f09004d string/conf_seek_widget_4_2_1
+      () "Big left"
+      (uk) "Великий зліва"
+      (ru) "Большой слева"
+    resource 0x7f09004e string/conf_seek_widget_4_2_2
+      () "Big right"
+      (uk) "Великий справа"
+      (ru) "Большой справа"
+    resource 0x7f09004f string/conf_remote_key_headsethook_1
+      () "Headset x1"
+      (uk) "Навушники x1"
+      (ru) "Наушники x1"
+    resource 0x7f090050 string/conf_remote_key_headsethook_2
+      () "Headset x2"
+      (uk) "Навушники x2"
+      (ru) "Наушники x2"
+    resource 0x7f090051 string/conf_remote_key_headsethook_3
+      () "Headset x3"
+      (uk) "Навушники x3"
+      (ru) "Наушники x3"
+    resource 0x7f090052 string/conf_remote_key_play
+      () "Play"
+      (uk) "Старт"
+      (ru) "Старт"
+    resource 0x7f090053 string/conf_remote_key_pause
+      () "Pause"
+      (uk) "Пауза"
+      (ru) "Пауза"
+    resource 0x7f090054 string/conf_remote_key_stop
+      () "Stop"
+      (uk) "Стоп"
+      (ru) "Стоп"
+    resource 0x7f090055 string/conf_remote_key_prev
+      () "Previous"
+      (uk) "Попередня доріжка"
+      (ru) "Предыдущая дорожка"
+    resource 0x7f090056 string/conf_remote_key_next
+      () "Next"
+      (uk) "Наступна доріжка"
+      (ru) "Следующая дорожка"
+    resource 0x7f090057 string/conf_remote_key_rewind
+      () "Rewind"
+      (uk) "Перемотка назад"
+      (ru) "Перемотка назад"
+    resource 0x7f090058 string/conf_remote_key_fast_forward
+      () "Fast forward"
+      (uk) "Перемотка вперед"
+      (ru) "Перемотка вперед"
+    resource 0x7f090059 string/hours
+      () "Hours"
+      (uk) "Години"
+      (ru) "Часы"
+    resource 0x7f09005a string/minutes
+      () "Minutes"
+      (uk) "Хвилини"
+      (ru) "Минуты"
+    resource 0x7f09005b string/apply
+      () "Apply"
+      (uk) "Застосувати"
+      (ru) "Применить"
+    resource 0x7f09005c string/cancel
+      () "Cancel"
+      (uk) "Скасувати"
+      (ru) "Отменить"
+    resource 0x7f09005d string/minute_short
+      () "min"
+      (uk) "хв"
+      (ru) "мин"
+    resource 0x7f09005e string/conf_cat_headset
+      () "HEADSET"
+      (uk) "НАВУШНИКИ"
+      (ru) "НАУШНИКИ"
+    resource 0x7f09005f string/conf_hs_pause_on_unplug
+      () "Pause on unplug"
+      (uk) "Пауза при від'єднанні"
+      (ru) "Пауза при отключении"
+    resource 0x7f090060 string/conf_hs_start_on_replug_title
+      () "Resume on replug"
+      (uk) "Старт при переприєднанні"
+      (ru) "Старт при переподключении"
+    resource 0x7f090061 string/conf_hs_start_on_replug_summary
+      () "Resume playback, if headset is plugged back within 10 seconds after unplug."
+      (uk) "Поновити відтворення, якщо навушники приєдані протягом 10 секунд після від'єднання."
+      (ru) "Возобновить воспроизведение, если наушники подключены в течение 10 секунд после отключения."
+    resource 0x7f090062 string/c_time_hint
+      () "In 24-hour HH:MM format."
+      (uk) "У 24-годинному ГГ:ХХ форматі."
+      (ru) "В 24-часовом ЧЧ:ММ формате."
+    resource 0x7f090063 string/invalid_value
+      () "Invalid value."
+      (uk) "Невірне значення."
+      (ru) "Неверное значение."
+    resource 0x7f090064 string/saved_pos_name_too_long
+      () "Bookmark title is too long."
+      (uk) "Занадто довга назва закладки."
+      (ru) "Слишком длинное название закладки."
+    resource 0x7f090065 string/conf_default_book_speed
+      () "Speed of new books"
+      (uk) "Швидкість нових книг"
+      (ru) "Скорость новых книг"
+    resource 0x7f090066 string/mi_full_version
+      () "Switch to
+      full version"
+      (uk) "Перейти на
+      повну версію"
+      (ru) "Перейти на
+      полную версию"
+    resource 0x7f090067 string/d_full_version
+      () "Full version features:
+
+       • Variable playback speed
+       • m4b and mp3 chapter support
+       • Equalizer
+       • Time-based theme change
+
+      All book positions, bookmarks, settings will be automatically transferred."
+      (uk) "Функції повної версії:
+
+       • Змінення швидкості відтворення
+       • Підтримка розділів у m4b та mp3 файлах
+       • Еквалайзер
+       • Змінення теми в залежності від часу
+
+      Усі позиції в книгах, закладки та налаштування буде автоматично перенесено."
+      (ru) "Функции полной версии:
+
+       • Изменение скорости воспроизведения
+       • Поддержка глав в m4b и mp3 файлах
+       • Эквалайзер
+       • Изменение темы по времени суток
+
+      Все позиции в книгах, закладки и настройки будут автоматически перенесены."
+    resource 0x7f090068 string/open_in_store
+      () "Open in store"
+      (uk) "Відкрити у магазині"
+      (ru) "Открыть в магазине"
+    resource 0x7f090069 string/d_full_version_store_not_found
+      () "Store not found."
+      (uk) "Магазин не знайдено."
+      (ru) "Магазин не найден."
+    resource 0x7f09006a string/full_version_detected
+      () "Full version detected."
+      (uk) "Повна версія виявлена."
+      (ru) "Обнаружена полная версия."
+    resource 0x7f09006b string/uninstall_free_version
+      () "Uninstall free version"
+      (uk) "Видалити безкоштовну версію"
+      (ru) "Удалить бесплатную версию"
+    resource 0x7f09006c string/toast_img_viewer_error
+      () "Image viewer error."
+      (uk) "Помилка у переглядачі зображень."
+      (ru) "Ошибка в просмотрщике изображений."
+    resource 0x7f09006d string/about
+      () "About"
+      (uk) "Про програму"
+      (ru) "О приложении"
+    resource 0x7f09006e string/write_a_review
+      () "Write a review"
+      (uk) "Написати відгук"
+      (ru) "Написать отзыв"
+    resource 0x7f09006f string/app_not_found
+      () "App not found."
+      (uk) "Додаток не знайдено."
+      (ru) "Приложение не найдено."
+    resource 0x7f090070 string/incompatible_apk
+      () "APK variant (%1$s) does not match device variant (%2$s)."
+      (uk) "Варіант APK (%1$s) не збігається з варіантом пристрою (%2$s)."
+      (ru) "Вариант APK (%1$s) не совпадает с вариантом устройства (%2$s)."
+    resource 0x7f090071 string/ffmpeg_msg
+      () "This software uses libraries from the FFmpeg project under the LGPLv2.1."
+      (uk) "Ця програма використовує бібліотеки з проекту FFmpeg по LGPLv2.1."
+      (ru) "Эта программа использует библиотеки из проекта FFmpeg по LGPLv2.1."
+    resource 0x7f090072 string/ffmpeg_version
+      () "FFmpeg version"
+      (uk) "Версія FFmpeg"
+      (ru) "Версия FFmpeg"
+    resource 0x7f090073 string/notif_channel_playback_control
+      () "Playback control"
+      (uk) "Керування відтворенням"
+      (ru) "Управление воспроизведением"
+    resource 0x7f090074 string/conf_cat_misc
+      () "OTHER"
+      (uk) "ІНШІ"
+      (ru) "ДРУГИЕ"
+    resource 0x7f090075 string/conf_enable_remote_btns_when_inactive_l1
+      () "React when app is closed"
+      (uk) "Реагувати коли програма закрита"
+      (ru) "Реагировать когда приложение закрыто"
+    resource 0x7f090076 string/conf_expose_cover_to_os
+      () "Display cover outside the app (e.g. on the lock screen)"
+      (uk) "Показувати обкладинку за межами програми (наприклад, на заблокованому екрані)"
+      (ru) "Показывать обложку вне приложения (например, на заблокированном экране)"
+    resource 0x7f090077 string/delayed_pause
+      () "Delayed pause"
+      (uk) "Відкладена пауза"
+      (ru) "Отложенная пауза"
+    resource 0x7f090078 string/delayed_pause_short
+      () "DP"
+      (uk) "ВП"
+      (ru) "ОП"
+    resource 0x7f090079 string/dp_cur_aci_end
+      () "When current chapter ends"
+      (uk) "Коли закінчиться поточний розділ"
+      (ru) "Когда закончится текущая глава"
+    resource 0x7f09007a string/dp_timer
+      () "When timer ends"
+      (uk) "Коли закінчиться таймер"
+      (ru) "Когда закончится таймер"
+    resource 0x7f09007b string/dp_auto_timer_l1
+      () "When automatic timer ends"
+      (uk) "Коли закінчиться автоматичний таймер"
+      (ru) "Когда закончится автоматический таймер"
+    resource 0x7f09007c string/dp_auto_timer_l2
+      () "Counts the duration of continuous playback.
+      Restarts when playback is interrupted (except for notification interruptions)."
+      (uk) "Підраховує тривалість безперервного відтворення.
+      Починає рахувати заново, коли відтворення переривається (за винятком переривань через сповіщення)."
+      (ru) "Считает продолжительность непрерывного воспроизведения.
+      Начинает считать заново, когда воспроизведение прерывается (за исключением прерываний из-за уведомлений)."
+    resource 0x7f09007d string/duration
+      () "Duration"
+      (uk) "Тривалість"
+      (ru) "Продолжительность"
+    resource 0x7f09007e string/dp_auto_timer_enabled
+      () "Enabled"
+      (uk) "Увімкнено"
+      (ru) "Включен"
+    resource 0x7f09007f string/dp_auto_timer_starts_at
+      () "Starts at"
+      (uk) "Починається в"
+      (ru) "Запускается в"
+    resource 0x7f090080 string/dp_auto_timer_stops_at
+      () "Stops at"
+      (uk) "Зупиняється в"
+      (ru) "Останавливается в"
+    resource 0x7f090081 string/dp_auto_timer_motion_resume
+      () "Resume playback, if device motion is detected within 20 seconds after pause"
+      (uk) "Поновити відтворення, якщо протягом 20 секунд після паузи виявлено рух пристрою"
+      (ru) "Возобновить воспроизведение, если в течение 20 секунд после паузы обнаружено движение устройства"
+    resource 0x7f090082 string/volume
+      () "Volume"
+      (uk) "Гучність"
+      (ru) "Громкость"
+    resource 0x7f090083 string/preamplification
+      () "Preamplification"
+      (uk) "Передпідсилення"
+      (ru) "Предусиление"
+    resource 0x7f090084 string/audio_track_failed
+      () "No access to audio output device. Close other audio playback apps or reboot your device."
+      (uk) "Відсутній доступ до пристрою виводу звуку. Закрийте інші програми відтворення аудіо або перезавантажте пристрій."
+      (ru) "Нет доступа к устройству вывода звука. Закройте другие приложения воспроизведения аудио или перезагрузите устройство."
+    resource 0x7f090085 string/cover
+      () "Cover"
+      (uk) "Обкладинка"
+      (ru) "Обложка"
+    resource 0x7f090086 string/export_bookmarks
+      () "Export bookmarks"
+      (uk) "Експортувати закладки"
+      (ru) "Экспорт закладок"
+    resource 0x7f090087 string/export
+      () "Export"
+      (uk) "Експорт"
+      (ru) "Экспорт"
+    resource 0x7f090088 string/copy_to_clipboard
+      () "Copy to clipboard"
+      (uk) "Копіювати в буфер обміну"
+      (ru) "Скопировать в буфер обмена"
+    resource 0x7f090089 string/export_bookmarks_to_prefix
+      () "To"
+      (uk) "В"
+      (ru) "В"
+    resource 0x7f09008a string/export_bookmarks_current_folder_suffix
+      () "current folder"
+      (uk) "поточну папку"
+      (ru) "текущую папку"
+    resource 0x7f09008b string/export_bookmarks_app_folder_suffix
+      () "app folder"
+      (uk) "папку програми"
+      (ru) "папку приложения"
+    resource 0x7f09008c string/export_bookmarks_other_location_suffix
+      () "other location"
+      (uk) "інше місце"
+      (ru) "другое место"
+    resource 0x7f09008d string/export_bookmarks_intent_send
+      () "To other app"
+      (uk) "До іншої програми"
+      (ru) "В другое приложение"
+    resource 0x7f09008e string/copied_to_the_clipboard
+      () "Copied to the clipboard."
+      (uk) "Скопіювано в буфер обміну."
+      (ru) "Скопировано в буфер обмена."
+    resource 0x7f09008f string/file_written
+      () "File written."
+      (uk) "Файл записано."
+      (ru) "Файл записан."
+    resource 0x7f090090 string/file_write_failed
+      () "File write failed."
+      (uk) "Не вдалося записати файл."
+      (ru) "Ошибка при записи в файл."
+    resource 0x7f090091 string/main_storage
+      () "Main storage"
+      (uk) "Головний накопичувач"
+      (ru) "Главный накопитель"
+    resource 0x7f090092 string/external_storage
+      () "External storage"
+      (uk) "Зовнішній накопичувач"
+      (ru) "Внешний накопитель"
+    resource 0x7f090093 string/d_msg_saf_sdcard_write_access_prefix
+      () "No permission to delete files on volume"
+      (uk) "Немає дозволу на видалення файлів з розділу"
+      (ru) "Нет разрешения на удаление файлов с раздела"
+    resource 0x7f090094 string/d_msg_saf_sdcard_write_access_suffix_21
+      () "To grant permission, select this volume on the next screen."
+      (uk) "Щоб надати дозвіл, виберіть цей розділ на наступному екрані."
+      (ru) "Чтобы дать разрешение, выберите этот раздел на следующем экране."
+    resource 0x7f090095 string/d_msg_saf_sdcard_write_access_suffix_24
+      () "To grant permission, select "Allow" on the next screen."
+      (uk) "Щоб надати дозвіл, виберіть "Дозволити" на наступному екрані."
+      (ru) "Чтобы дать разрешение, выберите "Разрешить" на следующем экране."
+    resource 0x7f090096 string/next_screen
+      () "Next screen"
+      (uk) "Наступний екран"
+      (ru) "Следующий экран"
+    resource 0x7f090097 string/t_permission_granted
+      () "Permission granted."
+      (uk) "Дозвіл отримано."
+      (ru) "Разрешение получено."
+    resource 0x7f090098 string/t_permission_denied
+      () "Permission denied."
+      (uk) "Дозвіл заборонено."
+      (ru) "Доступ запрещен."
+    resource 0x7f090099 string/t_saf_wrong_dir_selected_21_23_or_29_plus
+      () "Wrong selection."
+      (uk) "Неправильний вибір."
+      (ru) "Неправильный выбор."
+    resource 0x7f09009a string/toast_dp_motion_detected_suffix
+      () "device motion detected"
+      (uk) "виявлено рух пристрою"
+      (ru) "обнаружено движение устройства"
+    resource 0x7f09009b string/list
+      () "List"
+      (uk) "Список"
+      (ru) "Список"
+    resource 0x7f09009c string/menu
+      () "Menu"
+      (uk) "Меню"
+      (ru) "Меню"
+    resource 0x7f09009d string/intent_view_unsupported_file_type
+      () "Unsupported file type."
+      (uk) "Непідтримуваний тип файлу."
+      (ru) "Неподдерживаемый тип файла."
+    resource 0x7f09009e string/intent_view_no_access_to_a_file_prefix
+      () "No access to the file"
+      (uk) "Немає доступу до файлу"
+      (ru) "Нет доступа к файлу"
+    resource 0x7f09009f string/downloading
+      () "Download of"
+      (uk) "Завантаження"
+      (ru) "Загрузка"
+    resource 0x7f0900a0 string/progress
+      () "Progress"
+      (uk) "Прогрес"
+      (ru) "Прогресс"
+    resource 0x7f0900a1 string/remaining
+      () "Remaining"
+      (uk) "Залишилося"
+      (ru) "Осталось"
+    resource 0x7f0900a2 string/downloaded
+      () "Downloaded"
+      (uk) "Завантажено"
+      (ru) "Загружено"
+    resource 0x7f0900a3 string/download_file
+      () "Download file"
+      (uk) "Завантажити файл"
+      (ru) "Загрузить файл"
+    resource 0x7f0900a4 string/name
+      () "Name"
+      (uk) "Ім'я"
+      (ru) "Имя"
+    resource 0x7f0900a5 string/file_len
+      () "Size"
+      (uk) "Розмір"
+      (ru) "Размер"
+    resource 0x7f0900a6 string/toast_download_failed
+      () "Download failed."
+      (uk) "Помилка при завантаженні."
+      (ru) "Ошибка при загрузке."
+    resource 0x7f0900a7 string/reduce_seek_back_after_pause
+      () "Reduce the length of time that is repeated after pause"
+      (uk) "Зменшити час, який повторюється після паузи"
+      (ru) "Сократить время, которое повторяется после паузы"
+    resource 0x7f0900a8 string/d_unexpected_process_death
+      () "Simple ABP was unexpectedly closed after screen was turned off.
+
+      Open settings and allow Simple ABP to remain running when screen is off."
+      (uk) "Simple ABP був несподівано закритий після вимкнення екрану.
+
+      Відкрийте налаштування і дозвольте Simple ABP залишатися запущеним коли екран вимкнений."
+      (ru) "Simple ABP был неожиданно закрыт после выключения экрана.
+
+      Откройте настройки и разрешите Simple ABP оставаться запущенным когда экран отключен."
+    resource 0x7f0900a9 string/dont_show_this_msg_again
+      () "Don't show this message again"
+      (uk) "Не показувати більше це повідомлення"
+      (ru) "Не показывать больше это сообщение"
+    resource 0x7f0900aa string/always_enabled
+      () "Always enabled"
+      (uk) "Завжди увімкнено"
+      (ru) "Всегда включен"
+    resource 0x7f0900ab string/extend_to_chapter_end
+      () "Extend to the end of the chapter"
+      (uk) "Продовжити до кінця розділу"
+      (ru) "Продлить до конца главы"
+    resource 0x7f0900ac string/delayed_response_to_back_button
+      () "Delay response to the "Back" button"
+      (uk) "Затримка реакції на кнопку "Назад""
+      (ru) "Задержка реакции на кнопку "Назад""
+    resource 0x7f0900ad string/start_playback_on_app_launch
+      () "Start playback on app launch"
+      (uk) "Починати відтворення при запуску додатку"
+      (ru) "Начинать воспроизведение при запуске приложения"
+    resource 0x7f0900ae string/standard_notification_style
+      () "Standard style of media notification"
+      (uk) "Стандартний стиль медіa сповіщення"
+      (ru) "Стандартный стиль медиа уведомления"
+    resource 0x7f0900af string/conf_remote_keys_tip
+      () "Tip: press remote button to highlight it in the list."
+      (uk) "Підказка: натисніть дистанційну кнопку, щоб виділити її в списку."
+      (ru) "Подсказка: нажмите дистанционную кнопку, чтобы выделить ее в списке."
+    resource 0x7f0900b0 string/auto_saved_pos
+      () "Previous mark"
+      (uk) "Попередня мітка"
+      (ru) "Предыдущая метка"
+    resource 0x7f0900b1 string/conf_wait_for_motion_ev_up_for_bottom_buttons
+      () "Delay response to the bottom buttons"
+      (uk) "Затримка реакції на нижні кнопки"
+      (ru) "Задержка реакции на нижние кнопки"
+    resource 0x7f0900b2 string/conf_allow_next_file_to_start_from_nonzero_position
+      () "Allow next file to start from non-zero position"
+      (uk) "Дозволити наступному файлу початися з ненулевої позиції"
+      (ru) "Разрешить следующему файлу начаться с ненулевой позиции"
+    resource 0x7f0900b3 string/d_update_free_version_to_copy_db
+      () "To copy data from the free version, it needs to be updated."
+      (uk) "Щоб скопіювати данні з безплатної версії, її треба оновити."
+      (ru) "Чтобы скопировать данные с бесплатной версии, её нужно обновить."
+  type style id=0a entryCount=5
+    resource 0x7f0a0000 style/disable_preview
+      () (style) size=1
+        0x01010222=true
+      (v22) (style) size=2
+        0x01010222=true
+        0x0101058c=false
+    resource 0x7f0a0001 style/theme
+      () (style) size=1 parent=0x010300f0
+        0x01010054=@null
+      (v22) (style) size=2 parent=0x010300f0
+        0x01010054=@null
+        0x0101058c=false
+    resource 0x7f0a0002 style/theme_night
+      () (style) size=1 parent=0x0103006c
+        0x01010054=@null
+      (v22) (style) size=2 parent=0x0103006c
+        0x01010054=@null
+        0x0101058c=false
+    resource 0x7f0a0003 style/btn_seek
+      () (style) size=9
+        0x01010095=20.000000dp
+        0x01010097=0x00000001
+        0x010100af=0x00000011
+        0x010100d4=@drawable/b
+        0x010100f4=0.000000dp
+        0x010100f5=-1
+        0x01010126=false
+        0x01010181=1
+        0x0101038c=true
+    resource 0x7f0a0004 style/notif_spr
+      () (style) size=4
+        0x010100f4=1.000000dp
+        0x010100f5=-1
+        0x010100f8=8.000000dp
+        0x010100fa=8.000000dp
+  type color id=0b entryCount=1
+    resource 0x7f0b0000 color/ic_bg
+      () #ff151515

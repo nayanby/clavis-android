@@ -1,0 +1,5 @@
+package com.clavis.reader;
+public final class DownloadEstimateChecks {
+ static int count;static void check(boolean ok){count++;if(!ok)throw new AssertionError("ETA check "+count);}
+ public static void main(String[] args){DownloadEstimate eta=new DownloadEstimate();check(eta.remainingSeconds(0,0,10000,true)==-1);check(eta.remainingSeconds(2000,2000,10000,true)==-1);check(eta.remainingSeconds(4000,4000,10000,true)==6);check(eta.remainingSeconds(6000,6000,10000,true)==4);check(eta.remainingSeconds(8000,6000,10000,false)==-1);check(eta.remainingSeconds(10000,6000,10000,true)==-1);check(eta.remainingSeconds(14000,10000,10000,true)==0);DownloadEstimate stalled=new DownloadEstimate();stalled.remainingSeconds(0,0,100000,true);stalled.remainingSeconds(4000,4000,100000,true);stalled.remainingSeconds(8000,4000,100000,true);check(stalled.remainingSeconds(12000,4000,100000,true)==-1);check(eta.remainingSeconds(16000,0,10000,true)==-1);check(eta.remainingSeconds(18000,0,0,true)==-1);check(DownloadEstimate.label(61).equals("About 2 min remaining"));check(DownloadEstimate.label(3600).equals("About 1h 0m remaining"));System.out.println(count+" ETA checks passed");}
+}

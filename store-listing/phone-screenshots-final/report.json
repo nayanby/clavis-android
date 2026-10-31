@@ -1,0 +1,75 @@
+{
+  "version": 1,
+  "project": "Clavis - Google Play Screenshots",
+  "profile": "play-phone-portrait",
+  "width": 1080,
+  "height": 1920,
+  "languages": [
+    "en"
+  ],
+  "files": [
+    {
+      "name": "en/01.png",
+      "bytes": 231762,
+      "width": 1080,
+      "height": 1920,
+      "format": "png",
+      "overLimit": false,
+      "large": false
+    },
+    {
+      "name": "en/02.png",
+      "bytes": 312055,
+      "width": 1080,
+      "height": 1920,
+      "format": "png",
+      "overLimit": false,
+      "large": false
+    },
+    {
+      "name": "en/03.png",
+      "bytes": 293494,
+      "width": 1080,
+      "height": 1920,
+      "format": "png",
+      "overLimit": false,
+      "large": false
+    },
+    {
+      "name": "en/04.png",
+      "bytes": 274219,
+      "width": 1080,
+      "height": 1920,
+      "format": "png",
+      "overLimit": false,
+      "large": false
+    }
+  ],
+  "warnings": [
+    "Review Google Play content guidance: avoid rankings, testimonials, awards, prices, and promotional claims. Tablet and Chromebook captures should show the app interface without extra promotional text."
+  ],
+  "preview": "preview.png",
+  "editableProject": "project.henscreenshots",
+  "archive": "screenshots.zip",
+  "captionReview": "Review every language and the preview before publishing.",
+  "supportedLanguages": [
+    "en",
+    "es",
+    "fr",
+    "de",
+    "pt",
+    "pt-BR",
+    "it",
+    "nl",
+    "da",
+    "sv",
+    "no",
+    "fi",
+    "pl",
+    "cs",
+    "ro",
+    "hu",
+    "tr",
+    "id"
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "device": "android",
+  "name": "Clavis - Google Play Screenshots",
+  "slides": [
+    {
+      "image": "phone-captures/home.png",
+      "style": {
+        "background": "#EAF3ED",
+        "fit": "cover",
+        "bodyFont": "Manrope",
+        "texture": "none",
+        "camera": false,
+        "frame": true,
+        "bodyWeight": "400",
+        "backgroundMode": "solid",
+        "titleSize": 70,
+        "align": "center",
+        "textColor": "#343C4A",
+        "subtitleSize": 30,
+        "accentColor": "#8D9ED2",
+        "titleFont": "Fraunces",
+        "titleWeight": "600"
+      },
+      "placement": {
+        "y": 440,
+        "width": 600,
+        "x": 240,
+        "rotation": 0
+      },
+      "title": "Read. Listen. Discover.",
+      "subtitle": "Your books, audio and feeds together.",
+      "textOffsets": {
+        "subtitle": {
+          "y": -200,
+          "x": 0
+        }
+      }
+    },
+    {
+      "image": "phone-captures/podcasts.png",
+      "style": {
+        "background": "#F6D9D2",
+        "fit": "cover",
+        "bodyFont": "Manrope",
+        "texture": "none",
+        "camera": false,
+        "frame": true,
+        "bodyWeight": "400",
+        "backgroundMode": "solid",
+        "titleSize": 70,
+        "align": "center",
+        "textColor": "#343C4A",
+        "subtitleSize": 30,
+        "accentColor": "#8D9ED2",
+        "titleFont": "Fraunces",
+        "titleWeight": "600"
+      },
+      "placement": {
+        "y": 440,
+        "width": 600,
+        "x": 240,
+        "rotation": 0
+      },
+      "title": "Make room for listening.",
+      "subtitle": "Follow podcasts and explore episodes.",
+      "textOffsets": {
+        "subtitle": {
+          "y": -200,
+          "x": 0
+        }
+      }
+    },
+    {
+      "image": "phone-captures/news.png",
+      "style": {
+        "background": "#FFF3CF",
+        "fit": "cover",
+        "bodyFont": "Manrope",
+        "texture": "none",
+        "camera": false,
+        "frame": true,
+        "bodyWeight": "400",
+        "backgroundMode": "solid",
+        "titleSize": 70,
+        "align": "center",
+        "textColor": "#343C4A",
+        "subtitleSize": 30,
+        "accentColor": "#8D9ED2",
+        "titleFont": "Fraunces",
+        "titleWeight": "600"
+      },
+      "placement": {
+        "y": 440,
+        "width": 600,
+        "x": 240,
+        "rotation": 0
+      },
+      "title": "Keep your sources close.",
+      "subtitle": "Follow your news with RSS feeds.",
+      "textOffsets": {
+        "subtitle": {
+          "y": -200,
+          "x": 0
+        }
+      }
+    },
+    {
+      "image": "phone-captures/journals.png",
+      "style": {
+        "background": "#DCE3F5",
+        "fit": "cover",
+        "bodyFont": "Manrope",
+        "texture": "none",
+        "camera": false,
+        "frame": true,
+        "bodyWeight": "400",
+        "backgroundMode": "solid",
+        "titleSize": 70,
+        "align": "center",
+        "textColor": "#343C4A",
+        "subtitleSize": 30,
+        "accentColor": "#8D9ED2",
+        "titleFont": "Fraunces",
+        "titleWeight": "600"
+      },
+      "placement": {
+        "y": 440,
+        "width": 600,
+        "x": 240,
+        "rotation": 0
+      },
+      "title": "Follow what matters.",
+      "subtitle": "Keep up with journal publications.",
+      "textOffsets": {
+        "subtitle": {
+          "y": -200,
+          "x": 0
+        }
+      }
+    }
+  ],
+  "profile": "play-phone-portrait",
+  "sourceLanguage": "en",
+  "version": 1,
+  "template": "studio"
+}

@@ -1,0 +1,1 @@
+package com.clavis.reader;import java.nio.file.*;import java.nio.channels.*;public class InspectChapters{public static void main(String[] args)throws Exception{try(FileChannel c=FileChannel.open(Path.of(args[0]))){var m=EmbeddedChapters.read(c);System.out.println("Detected "+m.size());for(var x:m)System.out.println(x.time+" "+x.title);}}}
