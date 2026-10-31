@@ -15,7 +15,7 @@ final class UiStyle {
  }
  static void shell(MainActivity a,String title){
   View previous=a.mainFrame;
-  if(a.tick!=null)a.handler.removeCallbacks(a.tick);if(a.liveText!=null){a.liveText.close();a.liveText=null;}
+  if(a.tick!=null)a.handler.removeCallbacks(a.tick);
   if(Build.VERSION.SDK_INT>=30)a.getWindow().setDecorFitsSystemWindows(false);else a.getWindow().getDecorView().setSystemUiVisibility(View.SYSTEM_UI_FLAG_LAYOUT_STABLE|View.SYSTEM_UI_FLAG_LAYOUT_FULLSCREEN|View.SYSTEM_UI_FLAG_LAYOUT_HIDE_NAVIGATION|View.SYSTEM_UI_FLAG_LIGHT_STATUS_BAR);
   a.getWindow().setStatusBarColor(Color.TRANSPARENT);a.getWindow().setNavigationBarColor(AppTheme.background);
   FrameLayout frame=new FrameLayout(a);a.mainFrame=frame;frame.setBackgroundColor(AppTheme.background);

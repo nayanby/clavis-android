@@ -20,7 +20,7 @@ android {
     namespace = "com.clavis.reader"
     compileSdk = 36
     kotlinOptions { jvmTarget = "17" }
-    defaultConfig { applicationId = "com.clavis.reader"; testInstrumentationRunner = providers.gradleProperty("clavisTestRunner").getOrElse("com.clavis.reader.ReaderChecks"); minSdk = 26; targetSdk = 36; versionCode = 91; versionName = "0.10.13" }
+    defaultConfig { applicationId = "com.clavis.reader"; testInstrumentationRunner = providers.gradleProperty("clavisTestRunner").getOrElse("com.clavis.reader.ReaderChecks"); minSdk = 26; targetSdk = 36; versionCode = 92; versionName = "0.10.13" }
     compileOptions { sourceCompatibility = JavaVersion.VERSION_17; targetCompatibility = JavaVersion.VERSION_17 }
 }
 dependencies {
@@ -42,5 +42,4 @@ dependencies {
     implementation("org.jetbrains.kotlin:kotlin-stdlib:2.0.21")
     implementation("org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.9.20")
     implementation(files("libs/libtorrent4j-2.1.0-39.jar"))
-    implementation(files("libs/vosk-android-0.3.75.aar", "libs/jna-5.18.1.aar"))
 }

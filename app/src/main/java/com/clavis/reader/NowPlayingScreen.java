@@ -30,7 +30,7 @@ final class NowPlayingScreen {
 
   a.chapter=a.text(podcast?b.title:"Chapter "+(b.chapterIndex+1)+" of "+b.chapterCount(),13,MainActivity.MUTED,true);a.chapter.setGravity(Gravity.CENTER);a.chapter.setMaxLines(2);a.chapter.setEllipsize(android.text.TextUtils.TruncateAt.END);a.chapter.setOnClickListener(v->{if(podcast)a.library("Podcasts");else PlayerDialogs.chapters(a,b);});
 
-  media.addView(a.chapter);a.space(media,8);CoverArtView cover=new CoverArtView(a);a.body.setClipChildren(false);a.body.setClipToPadding(false);TextView placeholder=a.text("♫",42,MainActivity.INK,true);placeholder.setGravity(Gravity.CENTER);placeholder.setPadding(a.dp(16),a.dp(16),a.dp(16),a.dp(16));placeholder.setContentDescription(b.title+". No cover artwork");cover.setBackground(a.bg(AppTheme.surface,16));cover.addView(placeholder,new FrameLayout.LayoutParams(-1,-1));int side=Math.min(coverHeight,(int)(a.getResources().getDisplayMetrics().widthPixels/a.getResources().getDisplayMetrics().density)-80);SwipeCoverFrame artSlot=new SwipeCoverFrame(a);artSlot.addView(cover,new FrameLayout.LayoutParams(a.dp(side),a.dp(side),Gravity.CENTER));if(!podcast)artSlot.setToggle(()->toggleText(a,b,artSlot,cover));artSlot.setContentDescription("Artwork and live text. Swipe left or right to switch.");media.addView(artSlot,new LinearLayout.LayoutParams(-1,a.dp(coverHeight)));
+  media.addView(a.chapter);a.space(media,8);CoverArtView cover=new CoverArtView(a);a.body.setClipChildren(false);a.body.setClipToPadding(false);TextView placeholder=a.text("♫",42,MainActivity.INK,true);placeholder.setGravity(Gravity.CENTER);placeholder.setPadding(a.dp(16),a.dp(16),a.dp(16),a.dp(16));placeholder.setContentDescription(b.title+". No cover artwork");cover.setBackground(a.bg(AppTheme.surface,16));cover.addView(placeholder,new FrameLayout.LayoutParams(-1,-1));int side=Math.min(coverHeight,(int)(a.getResources().getDisplayMetrics().widthPixels/a.getResources().getDisplayMetrics().density)-80);FrameLayout artSlot=new FrameLayout(a);artSlot.addView(cover,new FrameLayout.LayoutParams(a.dp(side),a.dp(side),Gravity.CENTER));artSlot.setContentDescription("Artwork");media.addView(artSlot,new LinearLayout.LayoutParams(-1,a.dp(coverHeight)));
 
   a.io.execute(()->{Bitmap bitmap=Artwork.load(a,b);if(bitmap!=null)a.runOnUiThread(()->{if(a.isDestroyed()||!(a.screen.equals("Player")||a.screen.equals("PodcastPlayer"))||a.selected!=b){bitmap.recycle();return;}cover.setArtwork(bitmap,side,coverHeight);});});
 
@@ -57,4 +57,4 @@ final class NowPlayingScreen {
 
  }
 
- static void toggleText(MainActivity a,Book book,FrameLayout slot,CoverArtView cover){Object current=slot.getTag();if(current instanceof View){slot.removeView((View)current);slot.setTag(null);a.liveText=null;cover.setVisibility(View.VISIBLE);}else{cover.setVisibility(View.GONE);BookTextPanel panel=new BookTextPanel(a,book);slot.setTag(panel);slot.addView(panel,new FrameLayout.LayoutParams(-1,-1));}}}
+}

@@ -4,8 +4,8 @@ import android.content.*;
 import android.widget.*;
 import java.net.URI;
 final class BrowserSettings {
- static final String DEFAULT="https://audiobookbay.lu/";
- static final String EBOOK_DEFAULT="https://z-library.bz/";
+ static final String DEFAULT="https://librivox.org/";
+ static final String EBOOK_DEFAULT="https://www.gutenberg.org/";
  static String home(Context c,boolean ebook){String value=c.getSharedPreferences("browser",0).getString(ebook?"ebookWebsite":"website",ebook?EBOOK_DEFAULT:DEFAULT);return value;}
  static String home(Context c){return home(c,false);}
  static String validate(String input){String value=input.trim();if(!value.contains("://"))value="https://"+value;URI uri=URI.create(value);if(!"https".equalsIgnoreCase(uri.getScheme())||uri.getHost()==null||uri.getUserInfo()!=null||uri.getFragment()!=null)throw new IllegalArgumentException("Enter an HTTPS website address, for example https://librivox.org/");return uri.toASCIIString();}
