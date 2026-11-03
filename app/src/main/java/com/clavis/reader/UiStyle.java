@@ -14,7 +14,7 @@ final class UiStyle {
   ImageButton view=new ImageButton(a);view.setImageResource(resource);view.setImageTintList(android.content.res.ColorStateList.valueOf(MainActivity.INK));if(resource==R.drawable.home_articles||resource==R.drawable.home_journals)view.setImageTintList(null);view.setBackgroundColor(Color.TRANSPARENT);view.setPadding(a.dp(6),a.dp(6),a.dp(6),a.dp(6));view.setContentDescription(description);view.setOnClickListener(v->action.run());view.setLayoutParams(new LinearLayout.LayoutParams(a.dp(size),a.dp(size)));return view;
  }
  static void shell(MainActivity a,String title){
-  if(a.tick!=null){a.handler.removeCallbacks(a.tick);a.tick=null;}if(a.liveText!=null){if(a.navigation==null||!a.navigation.retains(a.mainFrame))a.liveText.close();else a.navigation.saveLiveText(a.liveText);a.liveText=null;}
+  if(a.tick!=null){a.handler.removeCallbacks(a.tick);a.tick=null;}
   if(Build.VERSION.SDK_INT>=30)a.getWindow().setDecorFitsSystemWindows(false);else a.getWindow().getDecorView().setSystemUiVisibility(View.SYSTEM_UI_FLAG_LAYOUT_STABLE|View.SYSTEM_UI_FLAG_LAYOUT_FULLSCREEN|View.SYSTEM_UI_FLAG_LAYOUT_HIDE_NAVIGATION|View.SYSTEM_UI_FLAG_LIGHT_STATUS_BAR);
   a.getWindow().setStatusBarColor(Color.TRANSPARENT);a.getWindow().setNavigationBarColor(AppTheme.background);
   FrameLayout frame=new FrameLayout(a);a.mainFrame=frame;frame.setBackgroundColor(AppTheme.background);

@@ -7,7 +7,7 @@ Clavis is an Android app for ebooks, PDFs, audiobooks, podcasts, news, articles 
 - EPUB reading with typography controls, bookmarks and reading progress.
 - PDF reading and annotation.
 - Audiobook and podcast playback with chapters, bookmarks and sleep controls.
-- Local neural narration, voice selection and listening within the native ebook reader.
+- Local neural narration, voice selection and listening within the native ebook reader. Audio-to-text transcription is intentionally excluded.
 - Project Gutenberg ebook and LibriVox audiobook catalog browsing and downloads.
 - RSS/Atom source discovery, topic filters, Hindi typography, background refresh and paged article reading.
 - Typed journal entries and handwritten notebooks.

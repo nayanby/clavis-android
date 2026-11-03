@@ -39,7 +39,7 @@ public class MainActivity extends Activity {
 
  static int INK=0xff292664,MUTED=0xff667395,PAPER=0xffFAF9FD,LINE=0xffDDE1EF;
 
- NavigationHost navigation; InlineTranscriptView liveText; FrameLayout mainFrame; LinearLayout root,body,bar;String screen="Home",importKind="Audio",query="";Book selected;ArrayList<Book> books;Typeface serif;Handler handler=new Handler(Looper.getMainLooper());ExecutorService io=Executors.newSingleThreadExecutor();TextView playButton,remaining,chapter,time,speedButton;SeekBar seek;boolean dragging,bookBrowse,feedSources;Runnable tick;
+ NavigationHost navigation; FrameLayout mainFrame; LinearLayout root,body,bar;String screen="Home",importKind="Audio",query="";Book selected;ArrayList<Book> books;Typeface serif;Handler handler=new Handler(Looper.getMainLooper());ExecutorService io=Executors.newSingleThreadExecutor();TextView playButton,remaining,chapter,time,speedButton;SeekBar seek;boolean dragging,bookBrowse,feedSources;Runnable tick;
 
  int dp(float n){return Math.round(n*getResources().getDisplayMetrics().density);}
 
@@ -102,7 +102,7 @@ public class MainActivity extends Activity {
 
  @Override public void onBackPressed(){if(FeedPosts.closeStory(this))return;if(SideDrawer.close(this))return;if(screen.equals("Home"))super.onBackPressed();else if(screen.equals("Player"))library("Audio");else if(screen.equals("PodcastPlayer"))library("Podcasts");else if(screen.equals("Podcasts browse"))FeedScreens.show(this,"Podcasts",true);else if(screen.endsWith(" feed"))library(screen.substring(0,screen.length()-5));else if(screen.endsWith(" article"))library(screen.substring(0,screen.length()-8));else home();}
 
- @Override protected void onDestroy(){if(navigation!=null)navigation.close();if(liveText!=null)liveText.close();if(tick!=null)handler.removeCallbacks(tick);io.shutdown();super.onDestroy();}
+ @Override protected void onDestroy(){if(navigation!=null)navigation.close();if(tick!=null)handler.removeCallbacks(tick);io.shutdown();super.onDestroy();}
 
 
 

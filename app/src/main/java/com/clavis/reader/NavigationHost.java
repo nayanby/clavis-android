@@ -38,19 +38,19 @@ final class NavigationHost {
  }
  void bottom(){if(!bottomReady){bottomReady=true;UiStyle.bottom(a,window);}selection();}
  void selection(){String route=key(a.screen,a.bookBrowse);for(String tab:new String[]{"Home","Audio","Podcasts","News","Journals"}){View view=window.findViewWithTag("bottom:"+tab);if(view instanceof ImageButton){boolean on=tab.equals(route);android.graphics.drawable.GradientDrawable bg=new android.graphics.drawable.GradientDrawable();bg.setColor(on?AppTheme.text:AppTheme.surface);bg.setCornerRadius(a.dp(20));view.setBackground(bg);((ImageButton)view).setImageTintList(null);view.setSelected(on);}}}
- boolean show(String route){Page page=saved.get(route);if(page==null)return false;if(active==page.frame)return true;settle();FrameLayout from=active;int motion=route.equals(activeRoute)&&page.sources!=a.feedSources?(page.sources?1:-1):direction(route);if(a.tick!=null)a.handler.removeCallbacks(a.tick);for(Page stored:saved.values())if(stored.frame==from)stored.liveText=a.liveText;page.restore(a);active=page.frame;activeRoute=route;Runnable render=deferred.remove(active);if(render!=null)render.run();slide(from,active,motion);selection();if(a.tick!=null)a.handler.post(a.tick);a.miniPlayer();return true;}
+ boolean show(String route){Page page=saved.get(route);if(page==null)return false;if(active==page.frame)return true;settle();FrameLayout from=active;int motion=route.equals(activeRoute)&&page.sources!=a.feedSources?(page.sources?1:-1):direction(route);if(a.tick!=null)a.handler.removeCallbacks(a.tick);page.restore(a);active=page.frame;activeRoute=route;Runnable render=deferred.remove(active);if(render!=null)render.run();slide(from,active,motion);selection();if(a.tick!=null)a.handler.post(a.tick);a.miniPlayer();return true;}
  void rememberFeed(String kind,boolean sources){feedPages.put(kind+":"+sources,new Page(a));}
  void invalidateFeed(String kind){feedPages.remove(kind+":false");feedPages.remove(kind+":true");}
  boolean showFeed(String kind,boolean sources){Page target=feedPages.get(kind+":"+sources);if(target==null)return false;saved.put(kind,target);return show(kind);}
  boolean retains(View view){for(Page page:feedPages.values())if(page.body==view||page.frame==view)return true;for(Page page:saved.values())if(page.body==view||page.frame==view)return true;return false;}
- void saveLiveText(InlineTranscriptView text){for(Page page:saved.values())if(page.frame==active)page.liveText=text;}
+
  void defer(View frame,Runnable render){if(retains(frame))deferred.put(frame,render);}
  void invalidateBooks(){for(String key:new String[]{"Home","Audio","Browser"}){Page page=saved.remove(key);if(page!=null&&page.frame!=active)pages.removeView(page.frame);}}
- void close(){for(Page page:saved.values())if(page.liveText!=null)page.liveText.close();saved.clear();feedPages.clear();deferred.clear();}
+ void close(){saved.clear();feedPages.clear();deferred.clear();}
  static final class Page {
   final FrameLayout frame;final LinearLayout root,body,bar;final String screen,query;final boolean browse,sources;final Book selected;final ArrayList<Book> books;final FeedStore.Feed feed;
-  final TextView play,remaining,chapter,time,speed;final SeekBar seek;final Runnable tick;InlineTranscriptView liveText;
-  Page(MainActivity a){frame=a.mainFrame;root=a.root;body=a.body;bar=a.bar;screen=a.screen;query=a.query;browse=a.bookBrowse;sources=a.feedSources;selected=a.selected;books=a.books;feed=a.openFeed;play=a.playButton;remaining=a.remaining;chapter=a.chapter;time=a.time;speed=a.speedButton;seek=a.seek;tick=a.tick;liveText=a.liveText;}
-  void restore(MainActivity a){a.mainFrame=frame;a.root=root;a.body=body;a.bar=bar;a.screen=screen;a.query=query;a.bookBrowse=browse;a.feedSources=sources;a.selected=selected;a.books=books;a.openFeed=feed;a.playButton=play;a.remaining=remaining;a.chapter=chapter;a.time=time;a.speedButton=speed;a.seek=seek;a.tick=tick;a.liveText=liveText;a.dragging=false;}
+  final TextView play,remaining,chapter,time,speed;final SeekBar seek;final Runnable tick;
+  Page(MainActivity a){frame=a.mainFrame;root=a.root;body=a.body;bar=a.bar;screen=a.screen;query=a.query;browse=a.bookBrowse;sources=a.feedSources;selected=a.selected;books=a.books;feed=a.openFeed;play=a.playButton;remaining=a.remaining;chapter=a.chapter;time=a.time;speed=a.speedButton;seek=a.seek;tick=a.tick;}
+  void restore(MainActivity a){a.mainFrame=frame;a.root=root;a.body=body;a.bar=bar;a.screen=screen;a.query=query;a.bookBrowse=browse;a.feedSources=sources;a.selected=selected;a.books=books;a.openFeed=feed;a.playButton=play;a.remaining=remaining;a.chapter=chapter;a.time=time;a.speedButton=speed;a.seek=seek;a.tick=tick;a.dragging=false;}
  }
 }
