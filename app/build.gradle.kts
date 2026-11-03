@@ -2,10 +2,11 @@ import java.util.Properties
 plugins { id("com.android.application"); id("org.jetbrains.kotlin.android") }
 providers.gradleProperty("resonBuildDir").orNull?.let { layout.buildDirectory.set(file(it)) }
 val uploadSigningFile = rootProject.file("upload-signing.properties")
-val uploadSigning = Properties().apply { if (uploadSigningFile.exists()) uploadSigningFile.inputStream().use { load(it) } }
+val useUploadSigning = uploadSigningFile.exists() && !providers.gradleProperty("clavisSkipUploadSigning").getOrElse("false").toBoolean()
+val uploadSigning = Properties().apply { if (useUploadSigning) uploadSigningFile.inputStream().use { load(it) } }
 android {
     signingConfigs {
-        if (uploadSigningFile.exists()) create("upload") {
+        if (useUploadSigning) create("upload") {
             storeFile = rootProject.file(uploadSigning.getProperty("storeFile"))
             storePassword = uploadSigning.getProperty("storePassword")
             keyAlias = uploadSigning.getProperty("keyAlias")
@@ -14,7 +15,7 @@ android {
     }
     buildTypes {
         getByName("release") {
-            if (uploadSigningFile.exists()) signingConfig = signingConfigs.getByName("upload")
+            if (useUploadSigning) signingConfig = signingConfigs.getByName("upload")
         }
     }
     namespace = "com.clavis.reader"
@@ -42,4 +43,5 @@ dependencies {
     implementation("org.jetbrains.kotlin:kotlin-stdlib:2.0.21")
     implementation("org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.9.20")
     implementation(files("libs/libtorrent4j-2.1.0-39.jar"))
+    implementation(files("libs/vosk-android-0.3.75.aar", "libs/jna-5.18.1.aar"))
 }

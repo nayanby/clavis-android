@@ -10,7 +10,8 @@ final class FeedHighlights {
   for(FeedStore.Feed feed:feeds)if(feed.kind.equals(kind)){int position=0;for(FeedStore.Item item:feed.items){if(kind.equals("Podcasts")&&item.audio.isEmpty())continue;if(!FeedTopics.item(topics,feed,item))continue;String key=key(item);if(key.isEmpty())key=feed.url+item.title;if(!seen.add(key))continue;result.add(new Entry(feed,item,position++,activity.getInt(key,0)));}}
   // Feeds usually publish newest first; interleave their positions instead of flooding
   // the first screen with a single source when there is no local activity yet.
-  if(FeedTopics.latest(c,kind)&&!kind.equals("Podcasts"))result.sort(Comparator.comparingLong((Entry e)->e.published).reversed().thenComparingInt(e->e.position));else result.sort(Comparator.comparingInt((Entry e)->e.opens).reversed().thenComparingInt(e->e.position));return result;
+  if(FeedTopics.latest(c,kind))result.sort(Comparator.comparingLong((Entry e)->e.published).reversed().thenComparingInt(e->e.position));else result.sort(Comparator.comparingInt((Entry e)->e.opens).reversed().thenComparingInt(e->e.position));return result;
  }
+ static void sortSources(Context c,String kind,ArrayList<FeedStore.Feed> feeds){if(FeedTopics.prefs(c).getInt("source_sort_"+kind,0)==1)feeds.sort(Comparator.comparingLong((FeedStore.Feed feed)->feed.added).reversed());else feeds.sort(Comparator.comparing((FeedStore.Feed feed)->FeedScreens.plain(feed.title),String.CASE_INSENSITIVE_ORDER));}
  static FeedStore.Feed combined(Context c,String kind,List<FeedStore.Feed> feeds){FeedStore.Feed combined=new FeedStore.Feed();combined.kind=kind;combined.title=kind.equals("Journals")?"Articles":kind;for(Entry e:ranked(c,kind,feeds)){combined.items.add(e.item);combined.origins.put(e.item,e.feed);if(combined.items.size()==150)break;}return combined;}
 }

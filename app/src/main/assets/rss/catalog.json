@@ -1,87 +1,919 @@
 [
   {
-    "kind": "Podcasts",
+    "id": "1200361736",
     "title": "The Daily",
-    "url": "https://feeds.simplecast.com/54nAGcIl",
-    "asset": "rss/podcasts-0.xml",
+    "chart": "us",
+    "chartRank": 1,
+    "kind": "Podcasts",
+    "url": "https://feeds.simplecast.com/Sl5CSM3S",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ab/64/66/ab6466a9-9a7d-e20e-7a3d-bc5be37d29ce/mza_15084852813176276273.jpg/600x600bb.jpg",
+    "artist": "The New York Times",
+    "tags": [
+      "Daily News",
+      "Podcasts",
+      "News"
+    ],
+    "website": "https://podcasts.apple.com/us/podcast/the-daily/id1200361736?uo=4",
+    "asset": "rss/podcasts-v4/1.xml",
     "preload": true
   },
   {
+    "id": "888135469",
+    "title": "The Stories of Mahabharata",
+    "chart": "in",
+    "chartRank": 1,
     "kind": "Podcasts",
-    "title": "This American Life",
-    "url": "https://www.thisamericanlife.org/podcast/rss.xml",
-    "asset": "rss/podcasts-1.xml",
+    "url": "https://feeds.acast.com/public/shows/61a5495fd20fb600197c82fd",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/eb/ed/a1/ebeda18e-f563-5daa-3729-51e9b025dec9/mza_10738928483101209698.jpeg/600x600bb.jpg",
+    "artist": "Sudipta Bhawmik",
+    "tags": [
+      "Performing Arts",
+      "Podcasts",
+      "Arts",
+      "Fiction",
+      "Drama"
+    ],
+    "website": "https://podcasts.apple.com/us/podcast/the-stories-of-mahabharata/id888135469?uo=4",
+    "asset": "rss/podcasts-v4/2.xml",
     "preload": true
   },
   {
+    "id": "1611374685",
+    "title": "The Rest Is Politics",
+    "chart": "gb",
+    "chartRank": 1,
     "kind": "Podcasts",
-    "title": "Radiolab",
-    "url": "https://feeds.simplecast.com/EmVW7VGp",
-    "asset": "rss/podcasts-2.xml",
+    "url": "https://feeds.megaphone.fm/GLT9190936013",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d0/a7/d6/d0a7d6a3-e1d3-52ba-60fd-d788ceb7d559/mza_17193364103373697567.jpg/600x600bb.jpg",
+    "artist": "Goalhanger",
+    "tags": [
+      "Politics",
+      "Podcasts",
+      "News",
+      "Government"
+    ],
+    "website": "https://podcasts.apple.com/us/podcast/the-rest-is-politics/id1611374685?uo=4",
+    "asset": "rss/podcasts-v4/3.xml",
     "preload": true
   },
   {
+    "id": "1322200189",
+    "title": "Crime Junkie",
+    "chart": "us",
+    "chartRank": 2,
     "kind": "Podcasts",
-    "title": "Stuff You Should Know",
-    "url": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/44710ecc-10bb-48d1-93c7-ae270180c33e/podcast.rss",
-    "asset": "rss/podcasts-3.xml",
+    "url": "https://feeds.simplecast.com/qm_9xx0g",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/8c/35/04/8c350430-2fbf-98d0-0a25-00b76550ffeb/mza_13445204151221888086.jpg/600x600bb.jpg",
+    "artist": "Audiochuck",
+    "tags": [
+      "True Crime",
+      "Podcasts"
+    ],
+    "website": "https://podcasts.apple.com/us/podcast/crime-junkie/id1322200189?uo=4",
+    "asset": "rss/podcasts-v4/4.xml",
     "preload": true
   },
   {
+    "id": "1501941375",
+    "title": "Figuring Out with Raj Shamani",
+    "chart": "in",
+    "chartRank": 2,
     "kind": "Podcasts",
+    "url": "https://anchor.fm/s/f5347ab0/podcast/rss",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d7/f7/79/d7f77902-2cae-cdce-f752-a4c23c09554d/mza_3616614916805177466.jpg/600x600bb.jpg",
+    "artist": "Raj Shamani",
+    "tags": [
+      "Business",
+      "Podcasts"
+    ],
+    "website": "https://podcasts.apple.com/us/podcast/figuring-out-with-raj-shamani/id1501941375?uo=4",
+    "asset": "rss/podcasts-v4/5.xml",
+    "preload": true
+  },
+  {
+    "id": "1537788786",
+    "title": "The Rest Is History",
+    "chart": "gb",
+    "chartRank": 2,
+    "kind": "Podcasts",
+    "url": "https://feeds.megaphone.fm/GLT4787413333",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/12/e4/4e/12e44e6e-f250-0621-75c4-668fda6c48a3/mza_9347628783012573828.jpg/600x600bb.jpg",
+    "artist": "Goalhanger",
+    "tags": [
+      "History",
+      "Podcasts"
+    ],
+    "website": "https://podcasts.apple.com/us/podcast/the-rest-is-history/id1537788786?uo=4",
+    "asset": "rss/podcasts-v4/6.xml",
+    "preload": true
+  },
+  {
+    "id": "1464919521",
+    "title": "Dateline NBC",
+    "chart": "us",
+    "chartRank": 3,
+    "kind": "Podcasts",
+    "url": "https://podcastfeeds.nbcnews.com/HL4TzgYC",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/8c/00/7a/8c007a42-e550-0214-d4cb-b59cd7edf194/mza_5305664083935674472.jpeg/600x600bb.jpg",
+    "artist": "NBC News",
+    "tags": [
+      "True Crime",
+      "Podcasts",
+      "News"
+    ],
+    "website": "https://podcasts.apple.com/us/podcast/dateline-nbc/id1464919521?uo=4",
+    "asset": "rss/podcasts-v4/7.xml",
+    "preload": true
+  },
+  {
+    "id": "1754694834",
+    "title": "The Daily Brief",
+    "chart": "in",
+    "chartRank": 3,
+    "kind": "Podcasts",
+    "url": "https://feeds.simplecast.com/1H1JSMd0",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/2a/00/10/2a001007-fb3e-95a1-d902-a02da41c1766/mza_14800515352391780617.jpg/600x600bb.jpg",
+    "artist": "Zerodha",
+    "tags": [
+      "Investing",
+      "Podcasts",
+      "Business",
+      "News",
+      "Business News"
+    ],
+    "website": "https://podcasts.apple.com/us/podcast/the-daily-brief/id1754694834?uo=4",
+    "asset": "rss/podcasts-v4/8.xml",
+    "preload": true
+  },
+  {
+    "id": "1718287198",
+    "title": "The Rest Is Entertainment",
+    "chart": "gb",
+    "chartRank": 3,
+    "kind": "Podcasts",
+    "url": "https://feeds.megaphone.fm/GLT2052042801",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/bc/26/ff/bc26ff82-e67c-cb0a-203b-654a9c72d19d/mza_3952332343334175509.jpg/600x600bb.jpg",
+    "artist": "Goalhanger",
+    "tags": [
+      "TV & Film",
+      "Podcasts",
+      "News",
+      "Entertainment News"
+    ],
+    "website": "https://podcasts.apple.com/us/podcast/the-rest-is-entertainment/id1718287198?uo=4",
+    "asset": "rss/podcasts-v4/9.xml",
+    "preload": true
+  },
+  {
+    "id": "1795483480",
+    "title": "Good Hang with Amy Poehler",
+    "chart": "us",
+    "chartRank": 4,
+    "kind": "Podcasts",
+    "url": "https://feeds.megaphone.fm/good-hang-with-amy-poehler",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/2b/94/bb/2b94bb6e-44f1-9d57-7748-b7456072806d/mza_1064202164981856225.jpg/600x600bb.jpg",
+    "artist": "The Ringer",
+    "tags": [
+      "Comedy",
+      "Podcasts"
+    ],
+    "website": "https://podcasts.apple.com/us/podcast/good-hang-with-amy-poehler/id1795483480?uo=4",
+    "asset": "rss/podcasts-v4/10.xml",
+    "preload": true
+  },
+  {
+    "id": "135067274",
+    "title": "Global News Podcast",
+    "chart": "in",
+    "chartRank": 4,
+    "kind": "Podcasts",
+    "url": "https://podcasts.files.bbci.co.uk/p02nq0gn.rss",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f1/4f/d1/f14fd1cf-7b5c-0bb7-683d-325c83bb089e/mza_17540730169954302156.jpg/600x600bb.jpg",
+    "artist": "BBC World Service",
+    "tags": [
+      "Daily News",
+      "Podcasts",
+      "News"
+    ],
+    "website": "https://podcasts.apple.com/us/podcast/global-news-podcast/id135067274?uo=4",
+    "asset": "rss/podcasts-v4/11.xml",
+    "preload": true
+  },
+  {
+    "id": "1640878689",
+    "title": "The News Agents",
+    "chart": "gb",
+    "chartRank": 4,
+    "kind": "Podcasts",
+    "url": "https://feeds.captivate.fm/the-news-agents/",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/15/c9/9a/15c99a23-093f-ec33-11c7-1d0868ba0d2f/mza_11260062413365049894.jpg/600x600bb.jpg",
+    "artist": "Global",
+    "tags": [
+      "Daily News",
+      "Podcasts",
+      "News",
+      "Politics"
+    ],
+    "website": "https://podcasts.apple.com/us/podcast/the-news-agents/id1640878689?uo=4",
+    "asset": "rss/podcasts-v4/12.xml",
+    "preload": true
+  },
+  {
+    "id": "1222114325",
+    "title": "Up First from NPR",
+    "chart": "us",
+    "chartRank": 5,
+    "kind": "Podcasts",
+    "url": "https://feeds.npr.org/510318/podcast.xml",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/0e/35/25/0e352569-e694-81d9-ea55-5f935981c15a/mza_1788275989855583986.png/600x600bb.jpg",
+    "artist": "NPR",
+    "tags": [
+      "Daily News",
+      "Podcasts",
+      "News"
+    ],
+    "website": "https://podcasts.apple.com/us/podcast/up-first-from-npr/id1222114325?uo=4",
+    "asset": "rss/podcasts-v4/13.xml",
+    "preload": true
+  },
+  {
+    "id": "1532901566",
+    "title": "Finshots Daily",
+    "chart": "in",
+    "chartRank": 5,
+    "kind": "Podcasts",
+    "url": "https://anchor.fm/s/37a76020/podcast/rss",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts114/v4/b5/e4/39/b5e4395d-3334-30aa-dc4a-afa27464c041/mza_4139100016695234083.jpg/600x600bb.jpg",
+    "artist": "Finshots",
+    "tags": [
+      "Business",
+      "Podcasts"
+    ],
+    "website": "https://podcasts.apple.com/us/podcast/finshots-daily/id1532901566?uo=4",
+    "asset": "rss/podcasts-v4/14.xml",
+    "preload": true
+  },
+  {
+    "id": "1743030473",
+    "title": "The Rest Is Politics: US",
+    "chart": "gb",
+    "chartRank": 5,
+    "kind": "Podcasts",
+    "url": "https://feeds.megaphone.fm/GLT5336643697",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/42/d8/be/42d8be3a-34d0-3888-301e-b8ff7aafe1f2/mza_15214757562517445787.jpg/600x600bb.jpg",
+    "artist": "Goalhanger",
+    "tags": [
+      "Politics",
+      "Podcasts",
+      "News",
+      "Government"
+    ],
+    "website": "https://podcasts.apple.com/us/podcast/the-rest-is-politics-us/id1743030473?uo=4",
+    "asset": "rss/podcasts-v4/15.xml",
+    "preload": true
+  },
+  {
+    "id": "360084272",
+    "title": "The Joe Rogan Experience",
+    "chart": "us",
+    "chartRank": 6,
+    "kind": "Podcasts",
+    "url": "https://feeds.megaphone.fm/GLT1412515089",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/99/3c/55/993c558f-e880-6420-58ca-bd7a98b68322/mza_13198802302810718434.jpg/600x600bb.jpg",
+    "artist": "Joe Rogan",
+    "tags": [
+      "Comedy",
+      "Podcasts"
+    ],
+    "website": "https://podcasts.apple.com/us/podcast/the-joe-rogan-experience/id360084272?uo=4",
+    "asset": "rss/podcasts-v4/16.xml",
+    "preload": true
+  },
+  {
+    "id": "1518305061",
+    "title": "The Desi Crime Podcast",
+    "chart": "in",
+    "chartRank": 6,
+    "kind": "Podcasts",
+    "url": "https://feeds.acast.com/public/shows/6a55242c7987e974eaf4ba29",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/ec/03/9d/ec039d63-cd4c-cd64-c383-4fc5f2d52ba2/mza_9043652444527747789.png/600x600bb.jpg",
+    "artist": "Desi Studios",
+    "tags": [
+      "True Crime",
+      "Podcasts"
+    ],
+    "website": "https://podcasts.apple.com/us/podcast/the-desi-crime-podcast/id1518305061?uo=4",
+    "asset": "rss/podcasts-v4/17.xml",
+    "preload": true
+  },
+  {
+    "id": "1838594107",
+    "title": "The Romesh Ranganathan Show",
+    "chart": "gb",
+    "chartRank": 6,
+    "kind": "Podcasts",
+    "url": "https://feeds.megaphone.fm/romesh",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/cf/34/af/cf34afc1-3b2b-bbdd-3192-4c03b01cc6dc/mza_15559108033933444873.jpeg/600x600bb.jpg",
+    "artist": "Ranga Bee",
+    "tags": [
+      "Comedy",
+      "Podcasts",
+      "Society & Culture"
+    ],
+    "website": "https://podcasts.apple.com/us/podcast/the-romesh-ranganathan-show/id1838594107?uo=4",
+    "asset": "rss/podcasts-v4/18.xml",
+    "preload": true
+  },
+  {
+    "id": "6820674378",
+    "title": "The Builders",
+    "chart": "us",
+    "chartRank": 7,
+    "kind": "Podcasts",
+    "url": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/8adeeef5-b6c0-4cfa-b6cc-b4c0011490b1/51d9281c-e886-4139-b940-b4c0011494bc/podcast.rss",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/1a/2e/de/1a2ede66-1775-0875-c938-7f77c0e2ea85/mza_10281795707287482764.jpg/600x600bb.jpg",
+    "artist": "iHeartPodcasts and Kaleidoscope",
+    "tags": [
+      "Society & Culture",
+      "Podcasts",
+      "Technology"
+    ],
+    "website": "https://podcasts.apple.com/us/podcast/the-builders/id6820674378?uo=4",
+    "asset": "rss/podcasts-v4/19.xml",
+    "preload": true
+  },
+  {
+    "id": "1406730235",
+    "title": "3 Things",
+    "chart": "in",
+    "chartRank": 7,
+    "kind": "Podcasts",
+    "url": "https://www.spreaker.com/show/5008053/episodes/feed",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ca/0c/20/ca0c2079-8651-9258-182a-245581dbe9af/mza_17495253897027952666.jpg/600x600bb.jpg",
+    "artist": "Express Audio",
+    "tags": [
+      "Daily News",
+      "Podcasts",
+      "News",
+      "News Commentary"
+    ],
+    "website": "https://podcasts.apple.com/us/podcast/3-things/id1406730235?uo=4",
+    "asset": "rss/podcasts-v4/20.xml",
+    "preload": true
+  },
+  {
+    "id": "1725833532",
+    "title": "The Louis Theroux Podcast",
+    "chart": "gb",
+    "chartRank": 7,
+    "kind": "Podcasts",
+    "url": "https://feeds.megaphone.fm/GLT1948741183",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/1e/20/d1/1e20d177-1e41-10cf-1e2d-3b895ad3df8e/mza_10878364100163359946.jpeg/600x600bb.jpg",
+    "artist": "Spotify Studios",
+    "tags": [
+      "Society & Culture",
+      "Podcasts",
+      "Arts"
+    ],
+    "website": "https://podcasts.apple.com/us/podcast/the-louis-theroux-podcast/id1725833532?uo=4",
+    "asset": "rss/podcasts-v4/21.xml",
+    "preload": true
+  },
+  {
+    "id": "1731755953",
+    "title": "Mick Unplugged",
+    "chart": "us",
+    "chartRank": 8,
+    "kind": "Podcasts",
+    "url": "https://feeds.megaphone.fm/YAP1844984381",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f8/75/0c/f8750cf1-ca31-5d55-00a1-ce86329309d5/mza_11785095184998327365.jpeg/600x600bb.jpg",
+    "artist": "Mick Hunt",
+    "tags": [
+      "Self-Improvement",
+      "Podcasts",
+      "Education",
+      "Business",
+      "Entrepreneurship"
+    ],
+    "website": "https://podcasts.apple.com/us/podcast/mick-unplugged/id1731755953?uo=4",
+    "asset": "rss/podcasts-v4/22.xml",
+    "preload": true
+  },
+  {
+    "id": "1539921547",
+    "title": "Teen Taal",
+    "chart": "in",
+    "chartRank": 8,
+    "kind": "Podcasts",
+    "url": "https://www.spreaker.com/show/4688572/episodes/feed",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c5/da/19/c5da19ea-5e7e-6c5c-f78f-1bb5707571a3/mza_3071739031635970280.jpg/600x600bb.jpg",
+    "artist": "Aaj Tak Radio",
+    "tags": [
+      "Comedy Interviews",
+      "Podcasts",
+      "Comedy"
+    ],
+    "website": "https://podcasts.apple.com/us/podcast/teen-taal/id1539921547?uo=4",
+    "asset": "rss/podcasts-v4/23.xml",
+    "preload": true
+  },
+  {
+    "id": "6806979595",
+    "title": "Bear Hunt",
+    "chart": "gb",
+    "chartRank": 8,
+    "kind": "Podcasts",
+    "url": "https://feeds.megaphone.fm/GLT6357967095",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/67/95/4d/67954d98-1c5a-9cc7-8d45-1f187dfae081/mza_12095609638612126719.jpg/600x600bb.jpg",
+    "artist": "Goalhanger",
+    "tags": [
+      "Drama",
+      "Podcasts",
+      "Fiction",
+      "Arts",
+      "Performing Arts"
+    ],
+    "website": "https://podcasts.apple.com/us/podcast/bear-hunt/id6806979595?uo=4",
+    "asset": "rss/podcasts-v4/24.xml",
+    "preload": true
+  },
+  {
+    "id": "1012570406",
+    "title": "REAL AF with Andy Frisella",
+    "chart": "us",
+    "chartRank": 9,
+    "kind": "Podcasts",
+    "url": "https://rss.libsyn.com/shows/67940/destinations/278377.xml",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/55/21/67/55216775-731a-1a0b-6c2a-81923902f058/mza_11706571282358600140.jpeg/600x600bb.jpg",
+    "artist": "Andy Frisella",
+    "tags": [
+      "Entrepreneurship",
+      "Podcasts",
+      "Business"
+    ],
+    "website": "https://podcasts.apple.com/us/podcast/real-af-with-andy-frisella/id1012570406?uo=4",
+    "asset": "rss/podcasts-v4/25.xml",
+    "preload": true
+  },
+  {
+    "id": "1639561921",
+    "title": "Empire: World History",
+    "chart": "in",
+    "chartRank": 9,
+    "kind": "Podcasts",
+    "url": "https://feeds.megaphone.fm/empirepodcast",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/85/7f/c6/857fc6aa-f9d1-cede-26f3-54ef6e2d5548/mza_6849731598237480079.jpg/600x600bb.jpg",
+    "artist": "Goalhanger",
+    "tags": [
+      "History",
+      "Podcasts"
+    ],
+    "website": "https://podcasts.apple.com/us/podcast/empire-world-history/id1639561921?uo=4",
+    "asset": "rss/podcasts-v4/26.xml",
+    "preload": true
+  },
+  {
+    "id": "1510251497",
+    "title": "Parenting Hell with Rob Beckett and Josh Widdicombe",
+    "chart": "gb",
+    "chartRank": 9,
+    "kind": "Podcasts",
+    "url": "https://feeds.megaphone.fm/GLT9881106244",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0b/f4/1a/0bf41a6f-fba6-99a1-361d-96b14402532d/mza_6626432355968217253.jpg/600x600bb.jpg",
+    "artist": "Keep It Light Media / Spotify Studios",
+    "tags": [
+      "Comedy",
+      "Podcasts",
+      "Kids & Family",
+      "Parenting"
+    ],
+    "website": "https://podcasts.apple.com/us/podcast/parenting-hell-with-rob-beckett-and-josh-widdicombe/id1510251497?uo=4",
+    "asset": "rss/podcasts-v4/27.xml",
+    "preload": true
+  },
+  {
+    "id": "985396258",
+    "title": "The Learning Leader Show With Ryan Hawk",
+    "chart": "us",
+    "chartRank": 10,
+    "kind": "Podcasts",
+    "url": "https://rss.libsyn.com/shows/65162/destinations/259291.xml",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/fb/3c/0e/fb3c0e91-f0a8-44ef-403f-1ec20bece9e0/mza_454404552678702443.png/600x600bb.jpg",
+    "artist": "Ryan Hawk",
+    "tags": [
+      "Management",
+      "Podcasts",
+      "Business",
+      "Careers"
+    ],
+    "website": "https://podcasts.apple.com/us/podcast/the-learning-leader-show-with-ryan-hawk/id985396258?uo=4",
+    "asset": "rss/podcasts-v4/28.xml",
+    "preload": true
+  },
+  {
+    "id": "1692160971",
+    "title": "Chanakya Neeti (Sutra Sahit)",
+    "chart": "in",
+    "chartRank": 10,
+    "kind": "Podcasts",
+    "url": "https://feeds.megaphone.fm/CPP2332226300",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b8/8f/3a/b88f3a3f-a8cb-ea72-2c7a-a88398390170/mza_11215781036856515135.jpg/600x600bb.jpg",
+    "artist": "Audio Pitara by Channel176 Productions",
+    "tags": [
+      "Books",
+      "Podcasts",
+      "Arts",
+      "Society & Culture",
+      "Philosophy"
+    ],
+    "website": "https://podcasts.apple.com/us/podcast/chanakya-neeti-sutra-sahit/id1692160971?uo=4",
+    "asset": "rss/podcasts-v4/29.xml",
+    "preload": true
+  },
+  {
+    "id": "1630722986",
+    "title": "The Trial of Russell Brand",
+    "chart": "gb",
+    "chartRank": 10,
+    "kind": "Podcasts",
+    "url": "https://feeds.acast.com/public/shows/62a879162610040012f1c7a3",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/fe/0a/f7/fe0af767-38f7-8461-29c8-993cc1e6a5db/mza_14300966085053284214.jpeg/600x600bb.jpg",
+    "artist": "The Times",
+    "tags": [
+      "News",
+      "Podcasts",
+      "True Crime"
+    ],
+    "website": "https://podcasts.apple.com/us/podcast/the-trial-of-russell-brand/id1630722986?uo=4",
+    "asset": "rss/podcasts-v4/30.xml",
+    "preload": true
+  },
+  {
+    "id": "1780873400",
+    "title": "The Dylan Gemelli Podcast",
+    "chart": "us",
+    "chartRank": 11,
+    "kind": "Podcasts",
+    "url": "https://feed.podbean.com/dylangemelli/feed.xml",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/65/4a/f4/654af4a7-d5cd-2317-91a1-b5913de83e6f/mza_12950421134232165951.jpeg/600x600bb.jpg",
+    "artist": "Dylan Gemelli",
+    "tags": [
+      "Alternative Health",
+      "Podcasts",
+      "Health & Fitness"
+    ],
+    "website": "https://podcasts.apple.com/us/podcast/the-dylan-gemelli-podcast/id1780873400?uo=4",
+    "asset": "rss/podcasts-v4/31.xml",
+    "preload": true
+  },
+  {
+    "id": "1568661777",
+    "title": "The Morning Brief",
+    "chart": "in",
+    "chartRank": 11,
+    "kind": "Podcasts",
+    "url": "https://www.omnycontent.com/d/playlist/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/8ae54763-9925-40ca-8c3d-aef901167ffb/podcast.rss",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/4d/48/d2/4d48d262-7fdf-4681-9352-ca34b3f9d9a7/mza_13713355823324564409.jpg/600x600bb.jpg",
+    "artist": "The Economic Times",
+    "tags": [
+      "Business News",
+      "Podcasts",
+      "News"
+    ],
+    "website": "https://podcasts.apple.com/us/podcast/the-morning-brief/id1568661777?uo=4",
+    "asset": "rss/podcasts-v4/32.xml",
+    "preload": true
+  },
+  {
+    "id": "1442950743",
+    "title": "Off Menu with Ed Gamble and James Acaster",
+    "chart": "gb",
+    "chartRank": 11,
+    "kind": "Podcasts",
+    "url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/c4/dc/de/c4dcdec7-fbea-749e-7a03-bbe27db17137/mza_4311127974403693339.jpeg/600x600bb.jpg",
+    "artist": "Plosive",
+    "tags": [
+      "Comedy Interviews",
+      "Podcasts",
+      "Comedy"
+    ],
+    "website": "https://podcasts.apple.com/us/podcast/off-menu-with-ed-gamble-and-james-acaster/id1442950743?uo=4",
+    "asset": "rss/podcasts-v4/33.xml",
+    "preload": true
+  },
+  {
+    "id": "1844970260",
+    "title": "Unblinded with Sean Callagy",
+    "chart": "us",
+    "chartRank": 12,
+    "kind": "Podcasts",
+    "url": "https://anchor.fm/s/10a340624/podcast/rss",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/fe/73/39/fe733903-aac9-857a-7e0d-97da75f26739/mza_7400622169884755798.jpg/600x600bb.jpg",
+    "artist": "Sean Callagy",
+    "tags": [
+      "Business",
+      "Podcasts"
+    ],
+    "website": "https://podcasts.apple.com/us/podcast/unblinded-with-sean-callagy/id1844970260?uo=4",
+    "asset": "rss/podcasts-v4/34.xml",
+    "preload": true
+  },
+  {
+    "id": "1545953110",
     "title": "Huberman Lab",
+    "chart": "in",
+    "chartRank": 12,
+    "kind": "Podcasts",
     "url": "https://feeds.megaphone.fm/hubermanlab",
-    "asset": "rss/podcasts-4.xml",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/9a/d3/19/9ad31912-0b5a-a16e-2d7c-9fd074698b9c/mza_8994222203629500925.jpg/600x600bb.jpg",
+    "artist": "Scicomm Media",
+    "tags": [
+      "Health & Fitness",
+      "Podcasts",
+      "Science",
+      "Life Sciences"
+    ],
+    "website": "https://podcasts.apple.com/us/podcast/huberman-lab/id1545953110?uo=4",
+    "asset": "rss/podcasts-v4/35.xml",
     "preload": true
   },
   {
+    "id": "1709142395",
+    "title": "Stick to Football",
+    "chart": "gb",
+    "chartRank": 12,
     "kind": "Podcasts",
-    "title": "Lex Fridman Podcast",
-    "url": "https://lexfridman.com/feed/podcast/",
-    "asset": "rss/podcasts-5.xml",
+    "url": "https://feeds.acast.com/public/shows/65118b05e7b19e00113ac2c0",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/af/ad/8e/afad8eae-8ffc-d6cc-4c72-57d6f903e962/mza_2603006646942982791.jpeg/600x600bb.jpg",
+    "artist": "The Overlap",
+    "tags": [
+      "Soccer",
+      "Podcasts",
+      "Sports",
+      "News",
+      "Sports News"
+    ],
+    "website": "https://podcasts.apple.com/us/podcast/stick-to-football/id1709142395?uo=4",
+    "asset": "rss/podcasts-v4/36.xml",
     "preload": true
   },
   {
+    "id": "1368888880",
+    "title": "Young and Profiting (YAP) with Hala Taha: Entrepreneurship and Self-Improvement Podcast",
+    "chart": "us",
+    "chartRank": 13,
     "kind": "Podcasts",
-    "title": "99% Invisible",
-    "url": "https://feeds.simplecast.com/BqbsxVfO",
-    "asset": "rss/podcasts-6.xml",
+    "url": "https://feeds.megaphone.fm/yap",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/80/c1/bd/80c1bd2c-eac4-bdb6-f8cb-ac980b4ad473/mza_16051863235006465622.jpeg/600x600bb.jpg",
+    "artist": "Hala Taha | Entrepreneurship, Sales, Marketing | YAP Media Network",
+    "tags": [
+      "Entrepreneurship",
+      "Podcasts",
+      "Business",
+      "Marketing"
+    ],
+    "website": "https://podcasts.apple.com/us/podcast/young-and-profiting-yap-with-hala-taha/id1368888880?uo=4",
+    "asset": "rss/podcasts-v4/37.xml",
     "preload": true
   },
   {
+    "id": "1658118308",
+    "title": "Daybreak",
+    "chart": "in",
+    "chartRank": 13,
     "kind": "Podcasts",
-    "title": "Hidden Brain",
-    "url": "https://feeds.npr.org/510308/podcast.xml",
-    "asset": "rss/podcasts-7.xml",
+    "url": "https://feeds.transistor.fm/daybreak-3e66db67-ddb3-4cd3-9ba9-460bd586dcbb",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/24/c9/d1/24c9d1a2-6550-bcec-34da-84e88211545d/mza_6986233146466118255.jpg/600x600bb.jpg",
+    "artist": "The Ken",
+    "tags": [
+      "Business News",
+      "Podcasts",
+      "News",
+      "Business"
+    ],
+    "website": "https://podcasts.apple.com/us/podcast/daybreak/id1658118308?uo=4",
+    "asset": "rss/podcasts-v4/38.xml",
     "preload": true
   },
   {
+    "id": "1540826523",
+    "title": "Wolf & Owl with Romesh Ranganathan and Tom Davis",
+    "chart": "gb",
+    "chartRank": 13,
     "kind": "Podcasts",
-    "title": "TED Talks Daily",
-    "url": "https://feeds.feedburner.com/TEDTalks_audio",
-    "asset": "rss/podcasts-8.xml",
+    "url": "https://feeds.megaphone.fm/GLT9487939818",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d6/61/05/d66105ec-27da-f023-684b-585c462bf938/mza_13555541829995193084.jpg/600x600bb.jpg",
+    "artist": "Ranga Bee & Platform Media",
+    "tags": [
+      "Comedy",
+      "Podcasts"
+    ],
+    "website": "https://podcasts.apple.com/us/podcast/wolf-owl-with-romesh-ranganathan-and-tom-davis/id1540826523?uo=4",
+    "asset": "rss/podcasts-v4/39.xml",
     "preload": true
   },
   {
+    "id": "1744386875",
+    "title": "Proven Podcast",
+    "chart": "us",
+    "chartRank": 14,
     "kind": "Podcasts",
-    "title": "Planet Money",
-    "url": "https://feeds.npr.org/510289/podcast.xml",
-    "asset": "rss/podcasts-9.xml",
+    "url": "https://rss.libsyn.com/shows/526583/destinations/4528548.xml",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/79/33/d2/7933d22b-9392-7d2c-714f-9a4c624003e5/mza_1012289391812617337.png/600x600bb.jpg",
+    "artist": "Charles Schwartz",
+    "tags": [
+      "Entrepreneurship",
+      "Podcasts",
+      "Business"
+    ],
+    "website": "https://podcasts.apple.com/us/podcast/proven-podcast/id1744386875?uo=4",
+    "asset": "rss/podcasts-v4/40.xml",
     "preload": true
   },
   {
+    "id": "1050462261",
+    "title": "Acquired",
+    "chart": "in",
+    "chartRank": 14,
     "kind": "Podcasts",
-    "title": "TED Radio Hour",
-    "url": "https://feeds.npr.org/510298/podcast.xml",
-    "asset": "rss/podcasts-10.xml",
-    "preload": false
+    "url": "https://feeds.transistor.fm/acquired",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a8/e1/de/a8e1deff-9f88-4e55-a541-b0dc793c0cdc/mza_11539673419613154037.jpg/600x600bb.jpg",
+    "artist": "Ben Gilbert and David Rosenthal",
+    "tags": [
+      "Technology",
+      "Podcasts",
+      "Business",
+      "Investing"
+    ],
+    "website": "https://podcasts.apple.com/us/podcast/acquired/id1050462261?uo=4",
+    "asset": "rss/podcasts-v4/41.xml",
+    "preload": true
   },
   {
+    "id": "1500444735",
+    "title": "The High Performance Podcast",
+    "chart": "gb",
+    "chartRank": 14,
     "kind": "Podcasts",
-    "title": "Science Friday",
-    "url": "https://feeds.simplecast.com/y1LF_sn2",
-    "asset": "rss/podcasts-11.xml",
-    "preload": false
+    "url": "https://access.acast.com/rss/3d30295e-f7fb-5af1-b618-30a8763cc75a",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/cf/1a/5a/cf1a5a8c-688e-690b-138d-04517a560b54/mza_11984786542722281203.jpeg/600x600bb.jpg",
+    "artist": "High Performance",
+    "tags": [
+      "Sports",
+      "Podcasts",
+      "Health & Fitness"
+    ],
+    "website": "https://podcasts.apple.com/us/podcast/the-high-performance-podcast/id1500444735?uo=4",
+    "asset": "rss/podcasts-v4/42.xml",
+    "preload": true
+  },
+  {
+    "id": "1451897026",
+    "title": "Habits and Hustle",
+    "chart": "us",
+    "chartRank": 15,
+    "kind": "Podcasts",
+    "url": "https://rss.libsyn.com/shows/624375/destinations/5495160.xml",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ba/d2/09/bad209e9-7b0d-66b8-14fe-207a69d9397b/mza_12651442554869510823.jpeg/600x600bb.jpg",
+    "artist": "Jen Cohen",
+    "tags": [
+      "Entrepreneurship",
+      "Podcasts",
+      "Business"
+    ],
+    "website": "https://podcasts.apple.com/us/podcast/habits-and-hustle/id1451897026?uo=4",
+    "asset": "rss/podcasts-v4/43.xml",
+    "preload": true
+  },
+  {
+    "id": "1741264803",
+    "title": "Osho Hindi Podcast",
+    "chart": "in",
+    "chartRank": 15,
+    "kind": "Podcasts",
+    "url": "https://www.spreaker.com/show/6141318/episodes/feed",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f4/36/dc/f436dcae-fcb4-7e53-a10c-fabb1521ec92/mza_4736980566663690394.jpg/600x600bb.jpg",
+    "artist": "Govind Das Swami",
+    "tags": [
+      "Spirituality",
+      "Podcasts",
+      "Religion & Spirituality",
+      "Education",
+      "Self-Improvement"
+    ],
+    "website": "https://podcasts.apple.com/us/podcast/osho-hindi-podcast/id1741264803?uo=4",
+    "asset": "rss/podcasts-v4/44.xml",
+    "preload": true
+  },
+  {
+    "id": "1853007888",
+    "title": "The Rest Is Science",
+    "chart": "gb",
+    "chartRank": 15,
+    "kind": "Podcasts",
+    "url": "https://feeds.megaphone.fm/GLT6907573392",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b5/7d/0c/b57d0c08-17e6-0ec9-484a-491f759d48b7/mza_3391787018699283273.jpeg/600x600bb.jpg",
+    "artist": "Goalhanger",
+    "tags": [
+      "Physics",
+      "Podcasts",
+      "Science",
+      "Mathematics"
+    ],
+    "website": "https://podcasts.apple.com/us/podcast/the-rest-is-science/id1853007888?uo=4",
+    "asset": "rss/podcasts-v4/45.xml",
+    "preload": true
+  },
+  {
+    "id": "1646101002",
+    "title": "The Mel Robbins Podcast",
+    "chart": "us",
+    "chartRank": 16,
+    "kind": "Podcasts",
+    "url": "https://feeds.simplecast.com/UCwaTX1J",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ab/66/a5/ab66a5f5-b52b-c70a-227b-0721bd9dc660/mza_13546984924981879479.jpg/600x600bb.jpg",
+    "artist": "Mel Robbins",
+    "tags": [
+      "Self-Improvement",
+      "Podcasts",
+      "Education",
+      "Health & Fitness",
+      "Mental Health"
+    ],
+    "website": "https://podcasts.apple.com/us/podcast/the-mel-robbins-podcast/id1646101002?uo=4",
+    "asset": "rss/podcasts-v4/46.xml",
+    "preload": true
+  },
+  {
+    "id": "1291423644",
+    "title": "The Diary Of A CEO with Steven Bartlett",
+    "chart": "in",
+    "chartRank": 16,
+    "kind": "Podcasts",
+    "url": "https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/69/af/0d/69af0ddd-1e0f-7ae3-c84b-88f18e31ad0c/mza_14445920128472365296.png/600x600bb.jpg",
+    "artist": "DOAC",
+    "tags": [
+      "Business",
+      "Podcasts",
+      "Society & Culture"
+    ],
+    "website": "https://podcasts.apple.com/us/podcast/the-diary-of-a-ceo-with-steven-bartlett/id1291423644?uo=4",
+    "asset": "rss/podcasts-v4/47.xml",
+    "preload": true
+  },
+  {
+    "id": "1423306695",
+    "title": "Bear Brook",
+    "chart": "us",
+    "chartRank": 17,
+    "kind": "Podcasts",
+    "url": "https://feeds.megaphone.fm/TPG7540613670",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/4a/bf/05/4abf053e-c55c-cca9-af59-5672ef215a06/mza_11437099833053467445.jpg/600x600bb.jpg",
+    "artist": "NHPR",
+    "tags": [
+      "True Crime",
+      "Podcasts"
+    ],
+    "website": "https://podcasts.apple.com/us/podcast/bear-brook/id1423306695?uo=4",
+    "asset": "rss/podcasts-v4/48.xml",
+    "preload": true
+  },
+  {
+    "id": "1819235047",
+    "title": "The Stories of the Ramayana",
+    "chart": "in",
+    "chartRank": 17,
+    "kind": "Podcasts",
+    "url": "https://feeds.acast.com/public/shows/683c836f62f4742d48413b92",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b7/6e/d0/b76ed070-5ee0-aaf8-bbb4-122df03c07a1/mza_5290848620511448006.jpeg/600x600bb.jpg",
+    "artist": "Sudipta Bhawmik",
+    "tags": [
+      "Religion & Spirituality",
+      "Podcasts"
+    ],
+    "website": "https://podcasts.apple.com/us/podcast/the-stories-of-the-ramayana/id1819235047?uo=4",
+    "asset": "rss/podcasts-v4/49.xml",
+    "preload": true
+  },
+  {
+    "id": "1560176558",
+    "title": "My Therapist Ghosted Me",
+    "chart": "gb",
+    "chartRank": 17,
+    "kind": "Podcasts",
+    "url": "https://feeds.captivate.fm/my-therapist-ghosted-me/",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0a/1e/bf/0a1ebffd-4c87-09f6-0bf5-d76b0753348e/mza_16449583591087722250.jpg/600x600bb.jpg",
+    "artist": "Global",
+    "tags": [
+      "Comedy",
+      "Podcasts",
+      "Society & Culture"
+    ],
+    "website": "https://podcasts.apple.com/us/podcast/my-therapist-ghosted-me/id1560176558?uo=4",
+    "asset": "rss/podcasts-v4/50.xml",
+    "preload": true
   },
   {
     "kind": "News",
@@ -729,117 +1561,141 @@
   },
   {
     "kind": "Journals",
-    "title": "PLOS Medicine",
-    "url": "https://journals.plos.org/plosmedicine/feed/atom",
+    "title": "New England Journal of Medicine",
+    "url": "https://www.nejm.org/action/showFeed?type=etoc&feed=rss&jc=nejm",
     "tags": [
       "Medical"
     ],
-    "asset": "rss/plosmedicine.xml",
+    "asset": "rss/defaults-v3/journals-www-nejm-org-action-showfeed-type-etoc-feed-rss-jc-nejm.xml",
     "preload": true,
-    "contentMode": "open-access",
-    "policy": "https://journals.plos.org/plosmedicine/s/licenses-and-copyright"
+    "contentMode": "abstracts",
+    "policy": "https://www.nejm.org"
   },
   {
     "kind": "Journals",
-    "title": "PLOS Global Public Health",
-    "url": "https://journals.plos.org/globalpublichealth/feed/atom",
+    "title": "The Lancet",
+    "url": "https://www.thelancet.com/action/showFeed?type=etoc&feed=rss&jc=lancet",
     "tags": [
       "Medical",
-      "Social sciences"
+      "World"
     ],
-    "asset": "rss/plosglobal.xml",
+    "asset": "rss/defaults-v3/journals-www-thelancet-com-action-showfeed-type-etoc-feed-rss-jc-lancet.xml",
     "preload": true,
-    "contentMode": "open-access",
-    "policy": "https://journals.plos.org/plosmedicine/s/licenses-and-copyright"
+    "contentMode": "abstracts",
+    "policy": "https://www.thelancet.com"
   },
   {
     "kind": "Journals",
-    "title": "PLOS ONE",
-    "url": "https://journals.plos.org/plosone/feed/atom",
+    "title": "JAMA",
+    "url": "https://jamanetwork.com/rss/site_3/67.xml",
+    "tags": [
+      "Medical"
+    ],
+    "asset": "rss/defaults-v3/journals-jamanetwork-com-rss-site-3-67-xml.xml",
+    "preload": true,
+    "contentMode": "abstracts",
+    "policy": "https://jamanetwork.com"
+  },
+  {
+    "kind": "Journals",
+    "title": "The BMJ",
+    "url": "https://www.bmj.com/rss.xml",
+    "tags": [
+      "Medical",
+      "World"
+    ],
+    "asset": "rss/defaults-v3/journals-www-bmj-com-rss-xml.xml",
+    "preload": true,
+    "contentMode": "abstracts",
+    "policy": "https://www.bmj.com"
+  },
+  {
+    "kind": "Journals",
+    "title": "Nature",
+    "url": "https://www.nature.com/nature.rss",
+    "tags": [
+      "Science",
+      "Physics"
+    ],
+    "asset": "rss/defaults-v3/journals-www-nature-com-nature-rss.xml",
+    "preload": true,
+    "contentMode": "abstracts",
+    "policy": "https://www.nature.com"
+  },
+  {
+    "kind": "Journals",
+    "title": "Science",
+    "url": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science",
+    "tags": [
+      "Science"
+    ],
+    "asset": "rss/defaults-v3/journals-www-science-org-action-showfeed-type-etoc-feed-rss-jc-science.xml",
+    "preload": true,
+    "contentMode": "abstracts",
+    "policy": "https://www.science.org"
+  },
+  {
+    "kind": "Journals",
+    "title": "Nature Medicine",
+    "url": "https://www.nature.com/nm.rss",
+    "tags": [
+      "Medical"
+    ],
+    "asset": "rss/defaults-v3/journals-www-nature-com-nm-rss.xml",
+    "preload": true,
+    "contentMode": "abstracts",
+    "policy": "https://www.nature.com"
+  },
+  {
+    "kind": "Journals",
+    "title": "Cell",
+    "url": "https://www.cell.com/cell/current.rss",
+    "tags": [
+      "Biology",
+      "Science"
+    ],
+    "asset": "rss/defaults-v3/journals-www-cell-com-cell-current-rss.xml",
+    "preload": true,
+    "contentMode": "abstracts",
+    "policy": "https://www.cell.com"
+  },
+  {
+    "kind": "Journals",
+    "title": "Annals of Internal Medicine",
+    "url": "https://www.acpjournals.org/action/showFeed?type=etoc&feed=rss&jc=aim",
+    "tags": [
+      "Medical"
+    ],
+    "asset": "rss/defaults-v3/journals-www-acpjournals-org-action-showfeed-type-etoc-feed-rss-jc-aim.xml",
+    "preload": true,
+    "contentMode": "abstracts",
+    "policy": "https://www.acpjournals.org"
+  },
+  {
+    "kind": "Journals",
+    "title": "Nature Communications",
+    "url": "https://www.nature.com/ncomms.rss",
     "tags": [
       "Science",
       "Biology"
     ],
-    "asset": "rss/plosone.xml",
+    "asset": "rss/defaults-v3/journals-www-nature-com-ncomms-rss.xml",
     "preload": true,
     "contentMode": "open-access",
-    "policy": "https://journals.plos.org/plosmedicine/s/licenses-and-copyright"
+    "policy": "https://www.nature.com"
   },
   {
     "kind": "Journals",
-    "title": "PLOS Pathogens",
-    "url": "https://journals.plos.org/plospathogens/feed/atom",
+    "title": "Science Advances",
+    "url": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
     "tags": [
-      "Biology",
-      "Medical"
+      "Science",
+      "Physics"
     ],
-    "asset": "rss/plospathogens.xml",
+    "asset": "rss/defaults-v3/journals-www-science-org-action-showfeed-type-etoc-feed-rss-jc-sciadv.xml",
     "preload": true,
     "contentMode": "open-access",
-    "policy": "https://journals.plos.org/plosmedicine/s/licenses-and-copyright"
-  },
-  {
-    "kind": "Journals",
-    "title": "PLOS Neglected Tropical Diseases",
-    "url": "https://journals.plos.org/plosntds/feed/atom",
-    "tags": [
-      "Medical"
-    ],
-    "asset": "rss/plosntd.xml",
-    "preload": true,
-    "contentMode": "open-access",
-    "policy": "https://journals.plos.org/plosmedicine/s/licenses-and-copyright"
-  },
-  {
-    "kind": "Journals",
-    "title": "PLOS Digital Health",
-    "url": "https://journals.plos.org/digitalhealth/feed/atom",
-    "tags": [
-      "Medical",
-      "Technology"
-    ],
-    "asset": "rss/plosdigital.xml",
-    "preload": true,
-    "contentMode": "open-access",
-    "policy": "https://journals.plos.org/plosmedicine/s/licenses-and-copyright"
-  },
-  {
-    "kind": "Journals",
-    "title": "PLOS Mental Health",
-    "url": "https://journals.plos.org/mentalhealth/feed/atom",
-    "tags": [
-      "Medical",
-      "Social sciences"
-    ],
-    "asset": "rss/plosmental.xml",
-    "preload": true,
-    "contentMode": "open-access",
-    "policy": "https://journals.plos.org/plosmedicine/s/licenses-and-copyright"
-  },
-  {
-    "kind": "Journals",
-    "title": "BMJ Open",
-    "url": "https://bmjopen.bmj.com/rss/current.xml",
-    "tags": [
-      "Medical"
-    ],
-    "asset": "rss/bmjopen.xml",
-    "preload": true,
-    "contentMode": "open-access",
-    "policy": "https://journals.bmj.com/open-access/"
-  },
-  {
-    "kind": "Journals",
-    "title": "BMJ Global Health",
-    "url": "https://gh.bmj.com/rss/current.xml",
-    "tags": [
-      "Medical",
-      "Social sciences"
-    ],
-    "asset": "rss/bmjglobal.xml",
-    "preload": true,
-    "contentMode": "open-access",
-    "policy": "https://journals.bmj.com/open-access/"
+    "policy": "https://www.science.org"
   },
   {
     "kind": "Journals",
@@ -856,105 +1712,320 @@
   },
   {
     "kind": "Journals",
-    "title": "Economies",
-    "url": "https://www.mdpi.com/rss/journal/economies",
+    "title": "The Lancet Oncology",
+    "url": "https://www.thelancet.com/action/showFeed?type=etoc&feed=rss&jc=lanonc",
     "tags": [
-      "Business",
-      "Social sciences"
+      "Medical"
     ],
-    "asset": "rss/defaults-v3/journals-60.xml",
+    "asset": "rss/defaults-v3/journals-www-thelancet-com-action-showfeed-type-etoc-feed-rss-jc-lanonc.xml",
     "preload": true,
-    "contentMode": "open-access",
-    "policy": "https://www.mdpi.com"
+    "contentMode": "abstracts",
+    "policy": "https://www.thelancet.com"
   },
   {
     "kind": "Journals",
-    "title": "Laws",
-    "url": "https://www.mdpi.com/rss/journal/laws",
+    "title": "Cancer Cell",
+    "url": "https://www.cell.com/cancer-cell/current.rss",
     "tags": [
-      "Politics",
-      "Social sciences"
+      "Medical",
+      "Biology"
     ],
-    "asset": "rss/defaults-v3/journals-61.xml",
+    "asset": "rss/defaults-v3/journals-www-cell-com-cancer-cell-current-rss.xml",
     "preload": true,
-    "contentMode": "open-access",
-    "policy": "https://www.mdpi.com"
+    "contentMode": "abstracts",
+    "policy": "https://www.cell.com"
   },
   {
     "kind": "Journals",
-    "title": "Robotics",
-    "url": "https://www.mdpi.com/rss/journal/robotics",
+    "title": "Journal for ImmunoTherapy of Cancer",
+    "url": "https://jitc.bmj.com/rss/current.xml",
     "tags": [
-      "Engineering"
+      "Medical",
+      "Biology"
     ],
-    "asset": "rss/defaults-v3/journals-62.xml",
+    "asset": "rss/defaults-v3/journals-jitc-bmj-com-rss-current-xml.xml",
     "preload": true,
     "contentMode": "open-access",
-    "policy": "https://www.mdpi.com"
+    "policy": "https://jitc.bmj.com"
   },
   {
     "kind": "Journals",
-    "title": "Information",
-    "url": "https://www.mdpi.com/rss/journal/information",
+    "title": "Circulation Research",
+    "url": "https://www.ahajournals.org/action/showFeed?type=etoc&feed=rss&jc=res",
     "tags": [
+      "Medical",
+      "Biology"
+    ],
+    "asset": "rss/defaults-v3/journals-www-ahajournals-org-action-showfeed-type-etoc-feed-rss-jc-res.xml",
+    "preload": true,
+    "contentMode": "abstracts",
+    "policy": "https://www.ahajournals.org"
+  },
+  {
+    "kind": "Journals",
+    "title": "Heart",
+    "url": "https://heart.bmj.com/rss/current.xml",
+    "tags": [
+      "Medical"
+    ],
+    "asset": "rss/defaults-v3/journals-heart-bmj-com-rss-current-xml.xml",
+    "preload": true,
+    "contentMode": "abstracts",
+    "policy": "https://heart.bmj.com"
+  },
+  {
+    "kind": "Journals",
+    "title": "Stroke",
+    "url": "https://www.ahajournals.org/action/showFeed?type=etoc&feed=rss&jc=str",
+    "tags": [
+      "Medical"
+    ],
+    "asset": "rss/defaults-v3/journals-www-ahajournals-org-action-showfeed-type-etoc-feed-rss-jc-str.xml",
+    "preload": true,
+    "contentMode": "abstracts",
+    "policy": "https://www.ahajournals.org"
+  },
+  {
+    "kind": "Journals",
+    "title": "Gut",
+    "url": "https://gut.bmj.com/rss/current.xml",
+    "tags": [
+      "Medical"
+    ],
+    "asset": "rss/defaults-v3/journals-gut-bmj-com-rss-current-xml.xml",
+    "preload": true,
+    "contentMode": "abstracts",
+    "policy": "https://gut.bmj.com"
+  },
+  {
+    "kind": "Journals",
+    "title": "CHEST",
+    "url": "https://journal.chestnet.org/action/showFeed?type=etoc&feed=rss&jc=chest",
+    "tags": [
+      "Medical"
+    ],
+    "asset": "rss/defaults-v3/journals-journal-chestnet-org-action-showfeed-type-etoc-feed-rss-jc-chest.xml",
+    "preload": true,
+    "contentMode": "abstracts",
+    "policy": "https://journal.chestnet.org"
+  },
+  {
+    "kind": "Journals",
+    "title": "Diabetes Care",
+    "url": "https://care.diabetesjournals.org/rss/current.xml",
+    "tags": [
+      "Medical"
+    ],
+    "asset": "rss/defaults-v3/journals-care-diabetesjournals-org-rss-current-xml.xml",
+    "preload": true,
+    "contentMode": "abstracts",
+    "policy": "https://care.diabetesjournals.org"
+  },
+  {
+    "kind": "Journals",
+    "title": "Journal of Nuclear Medicine",
+    "url": "https://jnm.snmjournals.org/rss/current.xml",
+    "tags": [
+      "Medical",
       "Technology"
     ],
-    "asset": "rss/defaults-v3/journals-63.xml",
+    "asset": "rss/defaults-v3/journals-jnm-snmjournals-org-rss-current-xml.xml",
     "preload": true,
-    "contentMode": "open-access",
-    "policy": "https://www.mdpi.com"
+    "contentMode": "abstracts",
+    "policy": "https://jnm.snmjournals.org"
   },
   {
     "kind": "Journals",
-    "title": "Journal of Open Source Software",
-    "url": "https://joss.theoj.org/papers.atom",
+    "title": "European Urology",
+    "url": "https://www.europeanurology.com/action/showFeed?type=etoc&feed=rss&jc=eururo",
     "tags": [
-      "Technology",
-      "Engineering"
+      "Medical"
     ],
-    "asset": "rss/defaults-v3/journals-64.xml",
+    "asset": "rss/defaults-v3/journals-www-europeanurology-com-action-showfeed-type-etoc-feed-rss-jc-eururo.xml",
     "preload": true,
-    "contentMode": "open-access",
-    "policy": "https://joss.theoj.org"
+    "contentMode": "abstracts",
+    "policy": "https://www.europeanurology.com"
   },
   {
     "kind": "Journals",
-    "title": "Journal of Open Source Education",
-    "url": "https://jose.theoj.org/papers.atom",
+    "title": "Annals of the Rheumatic Diseases",
+    "url": "https://ard.bmj.com/rss/current.xml",
     "tags": [
-      "Education",
-      "Technology"
+      "Medical"
     ],
-    "asset": "rss/defaults-v3/journals-65.xml",
+    "asset": "rss/defaults-v3/journals-ard-bmj-com-rss-current-xml.xml",
     "preload": true,
-    "contentMode": "open-access",
-    "policy": "https://jose.theoj.org"
+    "contentMode": "abstracts",
+    "policy": "https://ard.bmj.com"
   },
   {
     "kind": "Journals",
-    "title": "PLOS Climate",
-    "url": "https://journals.plos.org/climate/feed/atom",
+    "title": "The Lancet Global Health",
+    "url": "https://www.thelancet.com/action/showFeed?type=etoc&feed=rss&jc=langlo",
     "tags": [
-      "Environment",
+      "Medical",
+      "World"
+    ],
+    "asset": "rss/defaults-v3/journals-www-thelancet-com-action-showfeed-type-etoc-feed-rss-jc-langlo.xml",
+    "preload": true,
+    "contentMode": "open-access",
+    "policy": "https://www.thelancet.com"
+  },
+  {
+    "kind": "Journals",
+    "title": "Immunity",
+    "url": "https://www.cell.com/immunity/current.rss",
+    "tags": [
+      "Medical",
+      "Biology"
+    ],
+    "asset": "rss/defaults-v3/journals-www-cell-com-immunity-current-rss.xml",
+    "preload": true,
+    "contentMode": "abstracts",
+    "policy": "https://www.cell.com"
+  },
+  {
+    "kind": "Journals",
+    "title": "Nature Immunology",
+    "url": "https://www.nature.com/ni.rss",
+    "tags": [
+      "Medical",
+      "Biology"
+    ],
+    "asset": "rss/defaults-v3/journals-www-nature-com-ni-rss.xml",
+    "preload": true,
+    "contentMode": "abstracts",
+    "policy": "https://www.nature.com"
+  },
+  {
+    "kind": "Journals",
+    "title": "Cell Host & Microbe",
+    "url": "https://www.cell.com/cell-host-microbe/current.rss",
+    "tags": [
+      "Biology",
+      "Medical"
+    ],
+    "asset": "rss/defaults-v3/journals-www-cell-com-cell-host-microbe-current-rss.xml",
+    "preload": true,
+    "contentMode": "abstracts",
+    "policy": "https://www.cell.com"
+  },
+  {
+    "kind": "Journals",
+    "title": "The ISME Journal",
+    "url": "https://www.nature.com/ismej.rss",
+    "tags": [
+      "Biology",
+      "Environment"
+    ],
+    "asset": "rss/defaults-v3/journals-www-nature-com-ismej-rss.xml",
+    "preload": true,
+    "contentMode": "abstracts",
+    "policy": "https://www.nature.com"
+  },
+  {
+    "kind": "Journals",
+    "title": "Neuron",
+    "url": "https://www.cell.com/neuron/current.rss",
+    "tags": [
+      "Medical",
       "Science"
     ],
-    "asset": "rss/defaults-v3/journals-66.xml",
+    "asset": "rss/defaults-v3/journals-www-cell-com-neuron-current-rss.xml",
     "preload": true,
-    "contentMode": "open-access",
-    "policy": "https://journals.plos.org"
+    "contentMode": "abstracts",
+    "policy": "https://www.cell.com"
   },
   {
     "kind": "Journals",
-    "title": "PLOS Water",
-    "url": "https://journals.plos.org/water/feed/atom",
+    "title": "Trends in Neurosciences",
+    "url": "https://www.cell.com/trends/neurosciences/current.rss",
     "tags": [
-      "Environment",
-      "Engineering"
+      "Medical",
+      "Science"
     ],
-    "asset": "rss/defaults-v3/journals-67.xml",
+    "asset": "rss/defaults-v3/journals-www-cell-com-trends-neurosciences-current-rss.xml",
+    "preload": true,
+    "contentMode": "abstracts",
+    "policy": "https://www.cell.com"
+  },
+  {
+    "kind": "Journals",
+    "title": "Molecular Psychiatry",
+    "url": "https://www.nature.com/mp.rss",
+    "tags": [
+      "Medical",
+      "Social sciences"
+    ],
+    "asset": "rss/defaults-v3/journals-www-nature-com-mp-rss.xml",
+    "preload": true,
+    "contentMode": "abstracts",
+    "policy": "https://www.nature.com"
+  },
+  {
+    "kind": "Journals",
+    "title": "Molecular Cell",
+    "url": "https://www.cell.com/molecular-cell/current.rss",
+    "tags": [
+      "Biology",
+      "Chemistry"
+    ],
+    "asset": "rss/defaults-v3/journals-www-cell-com-molecular-cell-current-rss.xml",
+    "preload": true,
+    "contentMode": "abstracts",
+    "policy": "https://www.cell.com"
+  },
+  {
+    "kind": "Journals",
+    "title": "Nature Genetics",
+    "url": "https://www.nature.com/ng.rss",
+    "tags": [
+      "Biology",
+      "Medical"
+    ],
+    "asset": "rss/defaults-v3/journals-www-nature-com-ng-rss.xml",
+    "preload": true,
+    "contentMode": "abstracts",
+    "policy": "https://www.nature.com"
+  },
+  {
+    "kind": "Journals",
+    "title": "American Journal of Human Genetics",
+    "url": "https://www.cell.com/ajhg/current.rss",
+    "tags": [
+      "Biology",
+      "Medical"
+    ],
+    "asset": "rss/defaults-v3/journals-www-cell-com-ajhg-current-rss.xml",
+    "preload": true,
+    "contentMode": "abstracts",
+    "policy": "https://www.cell.com"
+  },
+  {
+    "kind": "Journals",
+    "title": "Journal of Biological Chemistry",
+    "url": "https://www.jbc.org/action/showFeed?type=etoc&feed=rss&jc=jbc",
+    "tags": [
+      "Biology",
+      "Chemistry"
+    ],
+    "asset": "rss/defaults-v3/journals-www-jbc-org-action-showfeed-type-etoc-feed-rss-jc-jbc.xml",
     "preload": true,
     "contentMode": "open-access",
-    "policy": "https://journals.plos.org"
+    "policy": "https://www.jbc.org"
+  },
+  {
+    "kind": "Journals",
+    "title": "Current Biology",
+    "url": "https://www.cell.com/current-biology/current.rss",
+    "tags": [
+      "Biology",
+      "Science"
+    ],
+    "asset": "rss/defaults-v3/journals-www-cell-com-current-biology-current-rss.xml",
+    "preload": true,
+    "contentMode": "abstracts",
+    "policy": "https://www.cell.com"
   },
   {
     "kind": "Journals",
@@ -971,391 +2042,156 @@
   },
   {
     "kind": "Journals",
-    "title": "PLOS Genetics",
-    "url": "https://journals.plos.org/plosgenetics/feed/atom",
-    "tags": [
-      "Biology",
-      "Medical"
-    ],
-    "asset": "rss/defaults-v3/journals-69.xml",
-    "preload": true,
-    "contentMode": "open-access",
-    "policy": "https://journals.plos.org"
-  },
-  {
-    "kind": "Journals",
-    "title": "PLOS Computational Biology",
-    "url": "https://journals.plos.org/ploscompbiol/feed/atom",
-    "tags": [
-      "Biology",
-      "Technology"
-    ],
-    "asset": "rss/defaults-v3/journals-70.xml",
-    "preload": true,
-    "contentMode": "open-access",
-    "policy": "https://journals.plos.org"
-  },
-  {
-    "kind": "Journals",
-    "title": "PLOS Sustainability and Transformation",
-    "url": "https://journals.plos.org/sustainabilitytransformation/feed/atom",
+    "title": "Trends in Ecology & Evolution",
+    "url": "https://www.cell.com/trends/ecology-evolution/current.rss",
     "tags": [
       "Environment",
-      "Social sciences"
+      "Biology"
     ],
-    "asset": "rss/defaults-v3/journals-71.xml",
+    "asset": "rss/defaults-v3/journals-www-cell-com-trends-ecology-evolution-current-rss.xml",
     "preload": true,
-    "contentMode": "open-access",
-    "policy": "https://journals.plos.org"
+    "contentMode": "abstracts",
+    "policy": "https://www.cell.com"
   },
   {
     "kind": "Journals",
-    "title": "PLOS Complex Systems",
-    "url": "https://journals.plos.org/complexsystems/feed/atom",
+    "title": "Trends in Cognitive Sciences",
+    "url": "https://www.cell.com/trends/cognitive-sciences/current.rss",
     "tags": [
-      "Mathematics",
+      "Social sciences",
+      "Medical"
+    ],
+    "asset": "rss/defaults-v3/journals-www-cell-com-trends-cognitive-sciences-current-rss.xml",
+    "preload": true,
+    "contentMode": "abstracts",
+    "policy": "https://www.cell.com"
+  },
+  {
+    "kind": "Journals",
+    "title": "Nature Reviews Drug Discovery",
+    "url": "https://www.nature.com/nrd.rss",
+    "tags": [
+      "Medical",
       "Technology"
     ],
-    "asset": "rss/defaults-v3/journals-72.xml",
+    "asset": "rss/defaults-v3/journals-www-nature-com-nrd-rss.xml",
     "preload": true,
-    "contentMode": "open-access",
-    "policy": "https://journals.plos.org"
+    "contentMode": "abstracts",
+    "policy": "https://www.nature.com"
   },
   {
     "kind": "Journals",
-    "title": "Entropy",
-    "url": "https://www.mdpi.com/rss/journal/entropy",
+    "title": "Nature Climate Change",
+    "url": "https://www.nature.com/nclimate.rss",
     "tags": [
-      "Physics",
-      "Mathematics"
-    ],
-    "asset": "rss/defaults-v3/journals-73.xml",
-    "preload": true,
-    "contentMode": "open-access",
-    "policy": "https://www.mdpi.com"
-  },
-  {
-    "kind": "Journals",
-    "title": "Mathematics",
-    "url": "https://www.mdpi.com/rss/journal/mathematics",
-    "tags": [
-      "Mathematics"
-    ],
-    "asset": "rss/defaults-v3/journals-74.xml",
-    "preload": true,
-    "contentMode": "open-access",
-    "policy": "https://www.mdpi.com"
-  },
-  {
-    "kind": "Journals",
-    "title": "Algorithms",
-    "url": "https://www.mdpi.com/rss/journal/algorithms",
-    "tags": [
-      "Technology",
-      "Mathematics"
-    ],
-    "asset": "rss/defaults-v3/journals-75.xml",
-    "preload": true,
-    "contentMode": "open-access",
-    "policy": "https://www.mdpi.com"
-  },
-  {
-    "kind": "Journals",
-    "title": "Applied Sciences",
-    "url": "https://www.mdpi.com/rss/journal/applsci",
-    "tags": [
-      "Engineering",
+      "Environment",
       "Science"
     ],
-    "asset": "rss/defaults-v3/journals-76.xml",
+    "asset": "rss/defaults-v3/journals-www-nature-com-nclimate-rss.xml",
     "preload": true,
-    "contentMode": "open-access",
-    "policy": "https://www.mdpi.com"
+    "contentMode": "abstracts",
+    "policy": "https://www.nature.com"
   },
   {
     "kind": "Journals",
-    "title": "Sensors",
-    "url": "https://www.mdpi.com/rss/journal/sensors",
-    "tags": [
-      "Engineering",
-      "Technology"
-    ],
-    "asset": "rss/defaults-v3/journals-77.xml",
-    "preload": true,
-    "contentMode": "open-access",
-    "policy": "https://www.mdpi.com"
-  },
-  {
-    "kind": "Journals",
-    "title": "Remote Sensing",
-    "url": "https://www.mdpi.com/rss/journal/remotesensing",
+    "title": "Nature Energy",
+    "url": "https://www.nature.com/nenergy.rss",
     "tags": [
       "Environment",
       "Engineering"
     ],
-    "asset": "rss/defaults-v3/journals-78.xml",
+    "asset": "rss/defaults-v3/journals-www-nature-com-nenergy-rss.xml",
     "preload": true,
-    "contentMode": "open-access",
-    "policy": "https://www.mdpi.com"
+    "contentMode": "abstracts",
+    "policy": "https://www.nature.com"
   },
   {
     "kind": "Journals",
-    "title": "Sustainability",
-    "url": "https://www.mdpi.com/rss/journal/sustainability",
-    "tags": [
-      "Environment",
-      "Social sciences"
-    ],
-    "asset": "rss/defaults-v3/journals-79.xml",
-    "preload": true,
-    "contentMode": "open-access",
-    "policy": "https://www.mdpi.com"
-  },
-  {
-    "kind": "Journals",
-    "title": "Education Sciences",
-    "url": "https://www.mdpi.com/rss/journal/education",
-    "tags": [
-      "Education"
-    ],
-    "asset": "rss/defaults-v3/journals-80.xml",
-    "preload": true,
-    "contentMode": "open-access",
-    "policy": "https://www.mdpi.com"
-  },
-  {
-    "kind": "Journals",
-    "title": "Social Sciences",
-    "url": "https://www.mdpi.com/rss/journal/socsci",
-    "tags": [
-      "Social sciences"
-    ],
-    "asset": "rss/defaults-v3/journals-81.xml",
-    "preload": true,
-    "contentMode": "open-access",
-    "policy": "https://www.mdpi.com"
-  },
-  {
-    "kind": "Journals",
-    "title": "Humanities",
-    "url": "https://www.mdpi.com/rss/journal/humanities",
-    "tags": [
-      "Culture",
-      "Social sciences"
-    ],
-    "asset": "rss/defaults-v3/journals-82.xml",
-    "preload": true,
-    "contentMode": "open-access",
-    "policy": "https://www.mdpi.com"
-  },
-  {
-    "kind": "Journals",
-    "title": "Arts",
-    "url": "https://www.mdpi.com/rss/journal/arts",
-    "tags": [
-      "Culture"
-    ],
-    "asset": "rss/defaults-v3/journals-83.xml",
-    "preload": true,
-    "contentMode": "open-access",
-    "policy": "https://www.mdpi.com"
-  },
-  {
-    "kind": "Journals",
-    "title": "Universe",
-    "url": "https://www.mdpi.com/rss/journal/universe",
-    "tags": [
-      "Physics",
-      "Space"
-    ],
-    "asset": "rss/defaults-v3/journals-84.xml",
-    "preload": true,
-    "contentMode": "open-access",
-    "policy": "https://www.mdpi.com"
-  },
-  {
-    "kind": "Journals",
-    "title": "Plants",
-    "url": "https://www.mdpi.com/rss/journal/plants",
-    "tags": [
-      "Biology"
-    ],
-    "asset": "rss/defaults-v3/journals-85.xml",
-    "preload": true,
-    "contentMode": "open-access",
-    "policy": "https://www.mdpi.com"
-  },
-  {
-    "kind": "Journals",
-    "title": "Water",
-    "url": "https://www.mdpi.com/rss/journal/water",
-    "tags": [
-      "Environment"
-    ],
-    "asset": "rss/defaults-v3/journals-86.xml",
-    "preload": true,
-    "contentMode": "open-access",
-    "policy": "https://www.mdpi.com"
-  },
-  {
-    "kind": "Journals",
-    "title": "Energies",
-    "url": "https://www.mdpi.com/rss/journal/energies",
+    "title": "Nature Materials",
+    "url": "https://www.nature.com/nmat.rss",
     "tags": [
       "Engineering",
-      "Environment"
+      "Physics"
     ],
-    "asset": "rss/defaults-v3/journals-87.xml",
+    "asset": "rss/defaults-v3/journals-www-nature-com-nmat-rss.xml",
     "preload": true,
-    "contentMode": "open-access",
-    "policy": "https://www.mdpi.com"
+    "contentMode": "abstracts",
+    "policy": "https://www.nature.com"
   },
   {
     "kind": "Journals",
-    "title": "Foods",
-    "url": "https://www.mdpi.com/rss/journal/foods",
+    "title": "Chem",
+    "url": "https://www.cell.com/chem/current.rss",
     "tags": [
-      "Biology",
-      "Medical"
+      "Chemistry",
+      "Engineering"
     ],
-    "asset": "rss/defaults-v3/journals-88.xml",
+    "asset": "rss/defaults-v3/journals-www-cell-com-chem-current-rss.xml",
     "preload": true,
-    "contentMode": "open-access",
-    "policy": "https://www.mdpi.com"
+    "contentMode": "abstracts",
+    "policy": "https://www.cell.com"
   },
   {
     "kind": "Journals",
-    "title": "Frontiers in Psychology",
-    "url": "https://www.frontiersin.org/journals/psychology/rss",
-    "tags": [
-      "Social sciences"
-    ],
-    "asset": "rss/defaults-v3/journals-89.xml",
-    "preload": true,
-    "contentMode": "open-access",
-    "policy": "https://www.frontiersin.org"
-  },
-  {
-    "kind": "Journals",
-    "title": "Frontiers in Physics",
-    "url": "https://www.frontiersin.org/journals/physics/rss",
+    "title": "Physical Review Letters",
+    "url": "https://feeds.aps.org/rss/recent/prl.xml",
     "tags": [
       "Physics"
     ],
-    "asset": "rss/defaults-v3/journals-90.xml",
+    "asset": "rss/defaults-v3/journals-feeds-aps-org-rss-recent-prl-xml.xml",
     "preload": true,
-    "contentMode": "open-access",
-    "policy": "https://www.frontiersin.org"
+    "contentMode": "abstracts",
+    "policy": "https://feeds.aps.org"
   },
   {
     "kind": "Journals",
-    "title": "Frontiers in Earth Science",
-    "url": "https://www.frontiersin.org/journals/earth-science/rss",
+    "title": "Reviews of Modern Physics",
+    "url": "https://feeds.aps.org/rss/recent/rmp.xml",
     "tags": [
-      "Environment"
+      "Physics"
     ],
-    "asset": "rss/defaults-v3/journals-91.xml",
+    "asset": "rss/defaults-v3/journals-feeds-aps-org-rss-recent-rmp-xml.xml",
     "preload": true,
-    "contentMode": "open-access",
-    "policy": "https://www.frontiersin.org"
+    "contentMode": "abstracts",
+    "policy": "https://feeds.aps.org"
   },
   {
     "kind": "Journals",
-    "title": "Frontiers in Environmental Science",
-    "url": "https://www.frontiersin.org/journals/environmental-science/rss",
+    "title": "The Astrophysical Journal",
+    "url": "https://iopscience.iop.org/journal/rss/0004-637X",
     "tags": [
-      "Environment"
+      "Space",
+      "Physics"
     ],
-    "asset": "rss/defaults-v3/journals-92.xml",
+    "asset": "rss/defaults-v3/journals-iopscience-iop-org-journal-rss-0004-637x.xml",
     "preload": true,
-    "contentMode": "open-access",
-    "policy": "https://www.frontiersin.org"
+    "contentMode": "abstracts",
+    "policy": "https://iopscience.iop.org"
   },
   {
     "kind": "Journals",
-    "title": "Frontiers in Education",
-    "url": "https://www.frontiersin.org/journals/education/rss",
+    "title": "Nature Physics",
+    "url": "https://www.nature.com/nphys.rss",
     "tags": [
-      "Education"
+      "Physics",
+      "Science"
     ],
-    "asset": "rss/defaults-v3/journals-93.xml",
+    "asset": "rss/defaults-v3/journals-www-nature-com-nphys-rss.xml",
     "preload": true,
-    "contentMode": "open-access",
-    "policy": "https://www.frontiersin.org"
+    "contentMode": "abstracts",
+    "policy": "https://www.nature.com"
   },
   {
     "kind": "Journals",
-    "title": "Frontiers in Neuroscience",
-    "url": "https://www.frontiersin.org/journals/neuroscience/rss",
+    "title": "Psychological Science",
+    "url": "https://journals.sagepub.com/action/showFeed?type=etoc&feed=rss&jc=pss",
     "tags": [
-      "Medical",
-      "Biology"
+      "Social sciences",
+      "Medical"
     ],
-    "asset": "rss/defaults-v3/journals-94.xml",
+    "asset": "rss/defaults-v3/journals-journals-sagepub-com-action-showfeed-type-etoc-feed-rss-jc-pss.xml",
     "preload": true,
-    "contentMode": "open-access",
-    "policy": "https://www.frontiersin.org"
-  },
-  {
-    "kind": "Journals",
-    "title": "Frontiers in Computer Science",
-    "url": "https://www.frontiersin.org/journals/computer-science/rss",
-    "tags": [
-      "Technology"
-    ],
-    "asset": "rss/defaults-v3/journals-95.xml",
-    "preload": true,
-    "contentMode": "open-access",
-    "policy": "https://www.frontiersin.org"
-  },
-  {
-    "kind": "Journals",
-    "title": "Frontiers in Artificial Intelligence",
-    "url": "https://www.frontiersin.org/journals/artificial-intelligence/rss",
-    "tags": [
-      "Technology"
-    ],
-    "asset": "rss/defaults-v3/journals-96.xml",
-    "preload": true,
-    "contentMode": "open-access",
-    "policy": "https://www.frontiersin.org"
-  },
-  {
-    "kind": "Journals",
-    "title": "Frontiers in Robotics and AI",
-    "url": "https://www.frontiersin.org/journals/robotics-and-ai/rss",
-    "tags": [
-      "Engineering",
-      "Technology"
-    ],
-    "asset": "rss/defaults-v3/journals-97.xml",
-    "preload": true,
-    "contentMode": "open-access",
-    "policy": "https://www.frontiersin.org"
-  },
-  {
-    "kind": "Journals",
-    "title": "Frontiers in Applied Mathematics and Statistics",
-    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/rss",
-    "tags": [
-      "Mathematics"
-    ],
-    "asset": "rss/defaults-v3/journals-98.xml",
-    "preload": true,
-    "contentMode": "open-access",
-    "policy": "https://www.frontiersin.org"
-  },
-  {
-    "kind": "Journals",
-    "title": "Frontiers in Marine Science",
-    "url": "https://www.frontiersin.org/journals/marine-science/rss",
-    "tags": [
-      "Environment",
-      "Biology"
-    ],
-    "asset": "rss/defaults-v3/journals-99.xml",
-    "preload": true,
-    "contentMode": "open-access",
-    "policy": "https://www.frontiersin.org"
+    "contentMode": "abstracts",
+    "policy": "https://journals.sagepub.com"
   }
 ]

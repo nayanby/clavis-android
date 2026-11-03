@@ -11,7 +11,7 @@ final class ListenMiniPlayerView extends LinearLayout {
   addView(UiStyle.icon(a,R.drawable.cortex_ic_close,"Close narration",()->{ListenService s=ListenService.live;if(s!=null)s.stop();setVisibility(GONE);},40));
   setOnClickListener(v->{ListenService s=ListenService.live;if(s!=null&&s.file!=null)Listen.open(a,s.file);});update();
  }
- void update(){ListenService s=ListenService.live;if(s==null||s.story==null){setVisibility(GONE);return;}title.setText(s.story.title);subtitle.setText(s.story.label()+" · "+s.speed+"×");play.setPlaying(s.playing);play.setContentDescription(s.playing?"Pause narration":"Play narration");}
+ void update(){ListenService s=ListenService.live;if(s==null||s.story==null){setVisibility(GONE);return;}setVisibility(s.playing?VISIBLE:GONE);title.setText(s.story.title);subtitle.setText(s.story.label()+" · "+s.speed+"×");play.setPlaying(s.playing);play.setContentDescription(s.playing?"Pause narration":"Play narration");}
  @Override protected void onAttachedToWindow(){super.onAttachedToWindow();post(refresh);}
  @Override protected void onDetachedFromWindow(){removeCallbacks(refresh);super.onDetachedFromWindow();}
 }

@@ -1,0 +1,202 @@
+[
+  {
+    "kind": "Journals",
+    "url": "https://journals.plos.org/plosmedicine/feed/atom"
+  },
+  {
+    "kind": "Journals",
+    "url": "https://journals.plos.org/globalpublichealth/feed/atom"
+  },
+  {
+    "kind": "Journals",
+    "url": "https://journals.plos.org/plosone/feed/atom"
+  },
+  {
+    "kind": "Journals",
+    "url": "https://journals.plos.org/plospathogens/feed/atom"
+  },
+  {
+    "kind": "Journals",
+    "url": "https://journals.plos.org/plosntds/feed/atom"
+  },
+  {
+    "kind": "Journals",
+    "url": "https://journals.plos.org/digitalhealth/feed/atom"
+  },
+  {
+    "kind": "Journals",
+    "url": "https://journals.plos.org/mentalhealth/feed/atom"
+  },
+  {
+    "kind": "Journals",
+    "url": "https://bmjopen.bmj.com/rss/current.xml"
+  },
+  {
+    "kind": "Journals",
+    "url": "https://gh.bmj.com/rss/current.xml"
+  },
+  {
+    "kind": "Journals",
+    "url": "https://elifesciences.org/rss/recent.xml"
+  },
+  {
+    "kind": "Journals",
+    "url": "https://www.mdpi.com/rss/journal/economies"
+  },
+  {
+    "kind": "Journals",
+    "url": "https://www.mdpi.com/rss/journal/laws"
+  },
+  {
+    "kind": "Journals",
+    "url": "https://www.mdpi.com/rss/journal/robotics"
+  },
+  {
+    "kind": "Journals",
+    "url": "https://www.mdpi.com/rss/journal/information"
+  },
+  {
+    "kind": "Journals",
+    "url": "https://joss.theoj.org/papers.atom"
+  },
+  {
+    "kind": "Journals",
+    "url": "https://jose.theoj.org/papers.atom"
+  },
+  {
+    "kind": "Journals",
+    "url": "https://journals.plos.org/climate/feed/atom"
+  },
+  {
+    "kind": "Journals",
+    "url": "https://journals.plos.org/water/feed/atom"
+  },
+  {
+    "kind": "Journals",
+    "url": "https://journals.plos.org/plosbiology/feed/atom"
+  },
+  {
+    "kind": "Journals",
+    "url": "https://journals.plos.org/plosgenetics/feed/atom"
+  },
+  {
+    "kind": "Journals",
+    "url": "https://journals.plos.org/ploscompbiol/feed/atom"
+  },
+  {
+    "kind": "Journals",
+    "url": "https://journals.plos.org/sustainabilitytransformation/feed/atom"
+  },
+  {
+    "kind": "Journals",
+    "url": "https://journals.plos.org/complexsystems/feed/atom"
+  },
+  {
+    "kind": "Journals",
+    "url": "https://www.mdpi.com/rss/journal/entropy"
+  },
+  {
+    "kind": "Journals",
+    "url": "https://www.mdpi.com/rss/journal/mathematics"
+  },
+  {
+    "kind": "Journals",
+    "url": "https://www.mdpi.com/rss/journal/algorithms"
+  },
+  {
+    "kind": "Journals",
+    "url": "https://www.mdpi.com/rss/journal/applsci"
+  },
+  {
+    "kind": "Journals",
+    "url": "https://www.mdpi.com/rss/journal/sensors"
+  },
+  {
+    "kind": "Journals",
+    "url": "https://www.mdpi.com/rss/journal/remotesensing"
+  },
+  {
+    "kind": "Journals",
+    "url": "https://www.mdpi.com/rss/journal/sustainability"
+  },
+  {
+    "kind": "Journals",
+    "url": "https://www.mdpi.com/rss/journal/education"
+  },
+  {
+    "kind": "Journals",
+    "url": "https://www.mdpi.com/rss/journal/socsci"
+  },
+  {
+    "kind": "Journals",
+    "url": "https://www.mdpi.com/rss/journal/humanities"
+  },
+  {
+    "kind": "Journals",
+    "url": "https://www.mdpi.com/rss/journal/arts"
+  },
+  {
+    "kind": "Journals",
+    "url": "https://www.mdpi.com/rss/journal/universe"
+  },
+  {
+    "kind": "Journals",
+    "url": "https://www.mdpi.com/rss/journal/plants"
+  },
+  {
+    "kind": "Journals",
+    "url": "https://www.mdpi.com/rss/journal/water"
+  },
+  {
+    "kind": "Journals",
+    "url": "https://www.mdpi.com/rss/journal/energies"
+  },
+  {
+    "kind": "Journals",
+    "url": "https://www.mdpi.com/rss/journal/foods"
+  },
+  {
+    "kind": "Journals",
+    "url": "https://www.frontiersin.org/journals/psychology/rss"
+  },
+  {
+    "kind": "Journals",
+    "url": "https://www.frontiersin.org/journals/physics/rss"
+  },
+  {
+    "kind": "Journals",
+    "url": "https://www.frontiersin.org/journals/earth-science/rss"
+  },
+  {
+    "kind": "Journals",
+    "url": "https://www.frontiersin.org/journals/environmental-science/rss"
+  },
+  {
+    "kind": "Journals",
+    "url": "https://www.frontiersin.org/journals/education/rss"
+  },
+  {
+    "kind": "Journals",
+    "url": "https://www.frontiersin.org/journals/neuroscience/rss"
+  },
+  {
+    "kind": "Journals",
+    "url": "https://www.frontiersin.org/journals/computer-science/rss"
+  },
+  {
+    "kind": "Journals",
+    "url": "https://www.frontiersin.org/journals/artificial-intelligence/rss"
+  },
+  {
+    "kind": "Journals",
+    "url": "https://www.frontiersin.org/journals/robotics-and-ai/rss"
+  },
+  {
+    "kind": "Journals",
+    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/rss"
+  },
+  {
+    "kind": "Journals",
+    "url": "https://www.frontiersin.org/journals/marine-science/rss"
+  }
+]

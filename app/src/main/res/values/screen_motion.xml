@@ -1,1 +1,12 @@
-<resources><style name="ClavisScreenMotion"><item name="android:activityOpenEnterAnimation">@anim/screen_fade_in</item><item name="android:activityOpenExitAnimation">@anim/screen_fade_out</item><item name="android:activityCloseEnterAnimation">@anim/screen_fade_in</item><item name="android:activityCloseExitAnimation">@anim/screen_fade_out</item></style></resources>
+<resources>
+ <style name="ClavisScreenMotion">
+  <item name="android:activityOpenEnterAnimation">@anim/screen_slide_in_right</item>
+  <item name="android:activityOpenExitAnimation">@anim/screen_slide_out_left</item>
+  <item name="android:activityCloseEnterAnimation">@anim/screen_slide_in_left</item>
+  <item name="android:activityCloseExitAnimation">@anim/screen_slide_out_right</item>
+ </style>
+ <style name="ClavisDialogMotion">
+  <item name="android:windowEnterAnimation">@anim/dialog_slide_in</item>
+  <item name="android:windowExitAnimation">@anim/dialog_slide_out</item>
+ </style>
+</resources>

@@ -1,0 +1,212 @@
+[
+  {
+    "title": "Nature",
+    "url": "https://www.nature.com/nature.rss",
+    "issn": "0028-0836"
+  },
+  {
+    "title": "Science",
+    "url": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science",
+    "issn": "0036-8075"
+  },
+  {
+    "title": "Nature Communications",
+    "url": "https://www.nature.com/ncomms.rss",
+    "issn": "2041-1723"
+  },
+  {
+    "title": "Science Advances",
+    "url": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+    "issn": "2375-2548"
+  },
+  {
+    "title": "eLife",
+    "url": "https://elifesciences.org/rss/recent.xml",
+    "issn": "2050-084X"
+  },
+  {
+    "title": "New England Journal of Medicine",
+    "url": "https://www.nejm.org/action/showFeed?type=etoc&feed=rss&jc=nejm",
+    "issn": "0028-4793"
+  },
+  {
+    "title": "The Lancet",
+    "url": "https://www.thelancet.com/action/showFeed?type=etoc&feed=rss&jc=lancet",
+    "issn": "0140-6736"
+  },
+  {
+    "title": "The BMJ",
+    "url": "https://www.bmj.com/rss.xml",
+    "issn": "1756-1833"
+  },
+  {
+    "title": "JAMA",
+    "url": "https://jamanetwork.com/rss/site_3/67.xml",
+    "issn": "0098-7484"
+  },
+  {
+    "title": "Nature Medicine",
+    "url": "https://www.nature.com/nm.rss",
+    "issn": "1078-8956"
+  },
+  {
+    "title": "Annals of Internal Medicine",
+    "url": "https://www.acpjournals.org/action/showFeed?type=etoc&feed=rss&jc=aim",
+    "issn": "0003-4819"
+  },
+  {
+    "title": "The Lancet Oncology",
+    "url": "https://www.thelancet.com/action/showFeed?type=etoc&feed=rss&jc=lanonc",
+    "issn": "1470-2045"
+  },
+  {
+    "title": "Cancer Cell",
+    "url": "https://www.cell.com/cancer-cell/current.rss",
+    "issn": "1535-6108"
+  },
+  {
+    "title": "Journal for ImmunoTherapy of Cancer",
+    "url": "https://jitc.bmj.com/rss/current.xml",
+    "issn": "2051-1426"
+  },
+  {
+    "title": "Circulation Research",
+    "url": "https://www.ahajournals.org/action/showFeed?type=etoc&feed=rss&jc=res",
+    "issn": "0009-7330"
+  },
+  {
+    "title": "Heart",
+    "url": "https://heart.bmj.com/rss/current.xml",
+    "issn": "1355-6037"
+  },
+  {
+    "title": "Stroke",
+    "url": "https://www.ahajournals.org/action/showFeed?type=etoc&feed=rss&jc=str",
+    "issn": "0039-2499"
+  },
+  {
+    "title": "Gut",
+    "url": "https://gut.bmj.com/rss/current.xml",
+    "issn": "0017-5749"
+  },
+  {
+    "title": "CHEST",
+    "url": "https://journal.chestnet.org/action/showFeed?type=etoc&feed=rss&jc=chest",
+    "issn": "0012-3692"
+  },
+  {
+    "title": "Diabetes Care",
+    "url": "https://care.diabetesjournals.org/rss/current.xml",
+    "issn": "0149-5992"
+  },
+  {
+    "title": "Journal of Nuclear Medicine",
+    "url": "https://jnm.snmjournals.org/rss/current.xml",
+    "issn": "0161-5505"
+  },
+  {
+    "title": "European Urology",
+    "url": "https://www.europeanurology.com/action/showFeed?type=etoc&feed=rss&jc=eururo",
+    "issn": "0302-2838"
+  },
+  {
+    "title": "Annals of the Rheumatic Diseases",
+    "url": "https://ard.bmj.com/rss/current.xml",
+    "issn": "0003-4967"
+  },
+  {
+    "title": "The Lancet Global Health",
+    "url": "https://www.thelancet.com/action/showFeed?type=etoc&feed=rss&jc=langlo",
+    "issn": "2214-109X"
+  },
+  {
+    "title": "Immunity",
+    "url": "https://www.cell.com/immunity/current.rss",
+    "issn": "1074-7613"
+  },
+  {
+    "title": "Nature Immunology",
+    "url": "https://www.nature.com/ni.rss",
+    "issn": "1529-2908"
+  },
+  {
+    "title": "Cell Host & Microbe",
+    "url": "https://www.cell.com/cell-host-microbe/current.rss",
+    "issn": "1931-3128"
+  },
+  {
+    "title": "The ISME Journal",
+    "url": "https://www.nature.com/ismej.rss",
+    "issn": "1751-7362"
+  },
+  {
+    "title": "Neuron",
+    "url": "https://www.cell.com/neuron/current.rss",
+    "issn": "0896-6273"
+  },
+  {
+    "title": "Trends in Neurosciences",
+    "url": "https://www.cell.com/trends/neurosciences/current.rss",
+    "issn": "0166-2236"
+  },
+  {
+    "title": "Molecular Psychiatry",
+    "url": "https://www.nature.com/mp.rss",
+    "issn": "1359-4184"
+  },
+  {
+    "title": "Cell",
+    "url": "https://www.cell.com/cell/current.rss",
+    "issn": "0092-8674"
+  },
+  {
+    "title": "Molecular Cell",
+    "url": "https://www.cell.com/molecular-cell/current.rss",
+    "issn": "1097-2765"
+  },
+  {
+    "title": "Nature Genetics",
+    "url": "https://www.nature.com/ng.rss",
+    "issn": "1061-4036"
+  },
+  {
+    "title": "American Journal of Human Genetics",
+    "url": "https://www.cell.com/ajhg/current.rss",
+    "issn": "0002-9297"
+  },
+  {
+    "title": "Journal of Biological Chemistry",
+    "url": "https://www.jbc.org/action/showFeed?type=etoc&feed=rss&jc=jbc",
+    "issn": "0021-9258"
+  },
+  {
+    "title": "Current Biology",
+    "url": "https://www.cell.com/current-biology/current.rss",
+    "issn": "0960-9822"
+  },
+  {
+    "title": "PLOS Biology",
+    "url": "https://journals.plos.org/plosbiology/feed/atom",
+    "issn": "1544-9173"
+  },
+  {
+    "title": "Trends in Ecology & Evolution",
+    "url": "https://www.cell.com/trends/ecology-evolution/current.rss",
+    "issn": "0169-5347"
+  },
+  {
+    "title": "Trends in Cognitive Sciences",
+    "url": "https://www.cell.com/trends/cognitive-sciences/current.rss",
+    "issn": "1364-6613"
+  },
+  {
+    "title": "Nature Reviews Drug Discovery",
+    "url": "https://www.nature.com/nrd.rss",
+    "issn": "1474-1776"
+  },
+  {
+    "title": "Psychological Science",
+    "url": "https://journals.sagepub.com/action/showFeed?type=etoc&feed=rss&jc=pss",
+    "issn": "0956-7976"
+  }
+]
